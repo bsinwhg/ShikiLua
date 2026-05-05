@@ -2,9 +2,11 @@
 -- update time: 2025-12-25
 -- app_name: 29岁的人妻想成为职业coser是否搞错了什么？
 
-addappid(3571750)
+addappid(3571750,0,"bcc2ee9e5d31806ff6545d7b206839e2f266f9bea88d9ffbce1b082de0bc14bc")
 
 addappid(3571751,0,"34dc0b12abdba0b0455f07c35c2b1a43972bc7dc09a00175b314881cc0b46637")
+addappid(4194201,0,"4bc4471ce4b33efa8809998ba1cde1b26e6e2be519b3ee1eeb6f47a86425df08")
 
--- DLC: 0/1
--- missing DLC: 4194200
+-- DLC: 1/1
+
+addappid(4194200)

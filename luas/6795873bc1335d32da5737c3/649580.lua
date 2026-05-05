@@ -2,6 +2,6 @@
 -- update time: 2017-08-03
 -- app_name: Twins of the Pasture
 
-addappid(649580)
+addappid(649580,0,"b33faa876dc8beed810cf3b72aa498653293f5fce7b9d211ca27941e2cd2ddf6")
 
 addappid(649581,0,"0151218f5b595d806083a8411d6075647d2baeb8e430557d71882d51903b5f0b")

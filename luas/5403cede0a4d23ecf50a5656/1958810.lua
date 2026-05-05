@@ -2,7 +2,7 @@
 -- update time: 2022-08-07
 -- app_name: My Bunny Girl
 
-addappid(1958810)
+addappid(1958810,0,"4804eac1bf7833ba2c7c8dc2647f85cfced6954a655fb63fc2c61d54953c7aee")
 
 addappid(1958811,0,"44c06ae5c18b3c34384e45cf2fecfc73cd5347f0c7355bb960ee122e4fa29d71")
 addappid(2105720,0,"374e5e067ad387a0d1f7fc4314143fe70682aa17dd144d2dfa5c6beec8c84604")

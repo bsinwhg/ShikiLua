@@ -2,7 +2,7 @@
 -- update time: 2024-01-28
 -- app_name: KNIGHT SLAVE ～堕落的暗黑女战士～
 
-addappid(1500110)
+addappid(1500110,0,"88e6cca6d23e123b0543fd3a913c1439f3bc6636608dde86e279b458acb0dbc7")
 
 addappid(1500111,0,"3554219f1be3f853dfb8dd35abb3bdccada5c1f1e9e198fd25c5aa51b4eb6e96")
 addappid(2374050,0,"7a84b636c3d2e3e2eae96dd43c45a8d4f81bcbde6df11f4dcd4263e411cfb7e3")

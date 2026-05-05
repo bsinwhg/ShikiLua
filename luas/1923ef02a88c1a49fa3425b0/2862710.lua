@@ -2,7 +2,7 @@
 -- update time: 2024-10-24
 -- app_name: 纯纯公主的唇唇 ~无瑕王女的快乐课程~
 
-addappid(2862710)
+addappid(2862710,0,"b2aa283fb8b6db93c31d9ea0f66701a52f19685c7893b2faa4832b77809f4be4")
 
 addappid(2862711,0,"18a7d8d5778635e905c2807b23555ca50bd0950d5ed67ef9a9c2fd14abcc0fe2")
 addappid(2862712,0,"b517e1314723ba1073c13cf99e125caa7bad5a75418131ec7062f8f2fd8e940a")

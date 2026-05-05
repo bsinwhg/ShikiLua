@@ -2,6 +2,6 @@
 -- update time: 2017-11-08
 -- app_name: Princess Serena ~Raid of Demon Legion~
 
-addappid(702210)
+addappid(702210,0,"d3a12b2bd20a583dfd1f141a515ed3e88cf6293233244045ea4b03330528eccc")
 
 addappid(702211,0,"2384297d5ed401493796816dac90f296997995cb68be016575029fd3288ae5c4")

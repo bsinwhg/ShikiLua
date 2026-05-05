@@ -2,7 +2,7 @@
 -- update time: 2023-06-22
 -- app_name: Adorable Witch5 : lingering
 
-addappid(2271980)
+addappid(2271980,0,"eae14a66f41a547c2ab01b5b9ba71c2da9859b2b21730e3284b82f52ff7e39ae")
 
 addtoken(2271980,"8333188460037508187")
 

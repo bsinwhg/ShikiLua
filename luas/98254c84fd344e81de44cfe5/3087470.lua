@@ -2,6 +2,6 @@
 -- update time: 2025-10-30
 -- app_name: EmyLiveShow: Demons & Mistresses Tale
 
-addappid(3087470)
+addappid(3087470,0,"7bb7a9e9208988ac5c87c688fadb20c93caf04e5718787ee730d88a9dd35607c")
 
 addappid(3087471,0,"972c2beef08124f36514338a32faf32124cf478ba635c1f44ac851b334ca1156")

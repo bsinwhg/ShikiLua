@@ -2,7 +2,7 @@
 -- update time: 2026-02-13
 -- app_name: Loop Queen-地牢脱出3 轮回女王
 
-addappid(1950450)
+addappid(1950450,0,"e826c660d53e139b85c2715ccfd5b562cce06476b20de29db0fc3437a0ac4fc2")
 
 addappid(1950451,0,"1ffccddc2535c02d22b5227b4c7297e8eafeae544af23ba786b112d8de379811")
 

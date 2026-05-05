@@ -2,6 +2,6 @@
 -- update time: 2024-02-01
 -- app_name: Prepare Uranus: Exploring Black Holes for Adults
 
-addappid(1976390)
+addappid(1976390,0,"b9656b9be6e3d834b67501770e5bd90010612b9b931b5e611214357389923099")
 
 addappid(1976391,0,"7c52be3bbae1190f882e7c355079cb77880b802e0e21c1313338ba96e2089df6")

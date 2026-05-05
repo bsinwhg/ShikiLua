@@ -2,7 +2,7 @@
 -- update time: 2019-12-08
 -- app_name: 追忆夏色年华
 
-addappid(1161190)
+addappid(1161190,0,"42993aeb6b07ee6227cf555b34d34f41697bba3ad90fc508edd04be6b967f5c1")
 
 addappid(1161191,0,"e0f52c7c737088b7794e320cc7e5bb6034e8b931e434d469781532cbcadaccd5")
 addappid(1161192,0,"f7df927854d07658d7a8ad3c62fa3eb132e9dc5c7a1b62bc3abd807d1f98f170")

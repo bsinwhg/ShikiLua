@@ -2,6 +2,6 @@
 -- update time: 2020-05-02
 -- app_name: Aster
 
-addappid(1070940)
+addappid(1070940,0,"dd5bbcd9cc8faf653b2f7a78e202681f26a7fd787cf338973d8fc7359046c0de")
 
 addappid(1070941,0,"a868a2689aae54274ce3324fa7af154e3deba81fd684409442ceae2626fe0675")

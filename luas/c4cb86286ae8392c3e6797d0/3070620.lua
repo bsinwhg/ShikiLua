@@ -2,7 +2,7 @@
 -- update time: 2024-12-19
 -- app_name: 忍者枫叶丸的秘章
 
-addappid(3070620)
+addappid(3070620,0,"1784fda11930ff2df72827af0a9514a4207fbde47464b0121ea3347bfab2cb1c")
 
 addappid(3070621,0,"b133df2252ff2fa7efb5ff4a495ff33f37deb1d387db53eb3e060aa96da4b6e2")
 addappid(3070622,0,"253f2963a096d44ba84fe047def4bc6a99ba5cbdc7dec697c46cbc55340c38f0")

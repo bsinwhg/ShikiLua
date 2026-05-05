@@ -2,7 +2,7 @@
 -- update time: 2025-10-31
 -- app_name: 黑山羊之夜 ~与你共度的克苏鲁神话世界~
 
-addappid(3141890)
+addappid(3141890,0,"6b4b43ed0133a44810ad048b5ec9c018e5b73975dd595c864dec6f65dcb121d6")
 
 addappid(3141891,0,"56e3478d490b318eb59bb4e6fa7b4bbc797d77223bac34482f00bf3dc4f8f419")
 addappid(3141892,0,"30956106a730200480d1bdbaccc2ea8717e2dd12b640f292cffdd86c666de83e")

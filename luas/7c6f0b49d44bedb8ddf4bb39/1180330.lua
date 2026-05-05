@@ -2,6 +2,6 @@
 -- update time: 2025-11-15
 -- app_name: 欢迎来到♥妖魔娼馆
 
-addappid(1180330)
+addappid(1180330,0,"c971d946ed477fd16feaac530a743d719116632b664a75cf2434212d501fb698")
 
 addappid(1180331,0,"4b4ccd7d3c8150d14a44baa300b4d2ed9d5694c393a52655fdb6a89b835754bf")

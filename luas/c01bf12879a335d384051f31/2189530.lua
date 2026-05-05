@@ -2,7 +2,7 @@
 -- update time: 2023-11-12
 -- app_name: 倾国九尾・白银泡妖狐的快乐堕落恋爱RPG
 
-addappid(2189530)
+addappid(2189530,0,"91c048e2dd47d50c791074908af9d1b8f2fe3d47b7ade79aefab2d6d17fa41a7")
 
 addappid(2189531,0,"19257325bb29ec82cbf028a0451a442fd631d3abbf7cd515b79270796d28641b")
 addappid(2189532,0,"95abda0753bb20d86b92ea30d44f77cf54479352c4676e416b86bd05ef99b20d")

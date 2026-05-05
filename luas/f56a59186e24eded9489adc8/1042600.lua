@@ -2,7 +2,7 @@
 -- update time: 2023-01-27
 -- app_name: 女魔王梅丽莎的冒险
 
-addappid(1042600)
+addappid(1042600,0,"7e871c24b8239dffce3f8cebfc61601d485334f82aba74028f789b07b2828c3d")
 
 addappid(1042601,0,"2ff0e0fb8e45e048be38ae9c7299e05fd0ed207e212cb20c28c74e6bcb4cb158")
 addappid(1042602,0,"710e55d39c2ce830de3b1fba4d715a70c3b624cbd02ece8146098cab80687ea9")

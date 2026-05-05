@@ -2,7 +2,7 @@
 -- update time: 2022-08-27
 -- app_name: 美好国度的建设方略
 
-addappid(1198850)
+addappid(1198850,0,"8a7c31d7158b879d9b0f0b8a2d56f6aa33f468e172d7f8e929c8bacd567ea3a9")
 
 addappid(1198851,0,"9fe940eb285d2d57383c4a5ed0fce947ecd10f6bc43af44abede4ecb78637930")
 addappid(1198852,0,"0a220e518335047c74c9be74833fd3d6221e0923d7d4e2aeebec5322269367fc")

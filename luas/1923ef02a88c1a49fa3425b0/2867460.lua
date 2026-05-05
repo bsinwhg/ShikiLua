@@ -2,6 +2,6 @@
 -- update time: 2025-05-29
 -- app_name: NTR办公室
 
-addappid(2867460)
+addappid(2867460,0,"eda945c69fc2910e4cdaf36d9885a7395b4aa44a18643f7d52d30219d5e652ac")
 
 addappid(2867461,0,"3ba7fbd2034a8a11bc6e363a35b7170963943c3804bf743bf06eb5360d19c2ac")

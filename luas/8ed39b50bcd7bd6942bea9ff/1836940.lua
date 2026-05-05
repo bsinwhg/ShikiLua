@@ -2,7 +2,7 @@
 -- update time: 2022-05-16
 -- app_name: 阿莉雅与迷宫的秘密
 
-addappid(1836940)
+addappid(1836940,0,"dc0875965a31cfc80675dc0fa5ce3736f750dbc219d77c47b888ac0bfc02cdb8")
 
 addappid(1836941,0,"599e96193e79eda44a4ae28234d8f8dd0467e9195f0d047dec3f2a41cbea23a0")
 addappid(1836942,0,"a1e34addcdcae51ca9fb0bedc80608d0e00b73432ad2663d9d118aed151c1416")

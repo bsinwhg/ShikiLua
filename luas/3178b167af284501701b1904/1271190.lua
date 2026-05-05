@@ -2,6 +2,6 @@
 -- update time: 2021-04-08
 -- app_name: 女王的荣耀  / Queen's Glory
 
-addappid(1271190)
+addappid(1271190,0,"e48f8401e185eb54ea0c661784b2ca3136d5ac8b809b3490d5fda070c1d87a8e")
 
 addappid(1271191,0,"651a1e175c103b555cde86c89a835d61a56819bced9033f6dec8121ba7b4630f")

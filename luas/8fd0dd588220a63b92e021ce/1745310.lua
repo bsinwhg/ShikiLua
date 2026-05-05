@@ -2,6 +2,6 @@
 -- update time: 2022-04-20
 -- app_name:  与经纪人恋爱是绝对禁止！
 
-addappid(1745310)
+addappid(1745310,0,"b2cd7e022420a8711a41e38ecf0e772a170a8a2804e1a6f3339ecc8e8029d098")
 
 addappid(1745311,0,"5cc84c8ab2e0e10deb49332289a8f535f0b5acb2f9ea24fcfb8d585329f02200")

@@ -2,7 +2,7 @@
 -- update time: 2019-05-16
 -- app_name: Metro 2033 Redux
 
-addappid(286690)
+addappid(286690,0,"6f038386ec5c74a1c6c8e9fe40568204538aab16af17645634ce55dacbc2c7fe")
 
 addappid(286691,0,"9f2bfaf0ab2396150e63cd8b6b38d236d0920a9f71c1a985229eaa30e1cd8236")
 addappid(286692,0,"fcc52f00eb59255ae34e6033cab93c08fd90afa73ca1e540aa945f7d80c5cda9")

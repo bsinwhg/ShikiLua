@@ -2,7 +2,7 @@
 -- update time: 2025-01-23
 -- app_name: 魔王之女与封印之塔
 
-addappid(3226870)
+addappid(3226870,0,"f09b71ed547f88ac0ae799982f82a52af1deea040acfe0ed6e5106cb6fbfe1aa")
 
 addappid(3226871,0,"1e0b81513a63b8a694f1087a3c80d14e2b34de83b2f8538037dc1b74a1e21852")
 addappid(3226872,0,"16c9a3fe2ebc13e40973e25703e2f7fda40487d29e7e95f892be0a5690df049f")

@@ -2,6 +2,6 @@
 -- update time: 2025-01-21
 -- app_name: 除灵阴阳师
 
-addappid(2949720)
+addappid(2949720,0,"812557778955301b1360d4e448a910c3396569958d5fcdaa920c933233944ef3")
 
 addappid(2949721,0,"9f15a50eb6a0b570ae0d7d0a9a69af24a9f9f230febabdec088fd5a3a7dd64dd")

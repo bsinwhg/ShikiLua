@@ -2,6 +2,6 @@
 -- update time: 2023-02-21
 -- app_name: 性瘾辣妹COS诱惑
 
-addappid(2255420)
+addappid(2255420,0,"ff845119edfa6743a8cae691ad505864d13f46be83b2a9c820cda62439b5826a")
 
 addappid(2255421,0,"a1cddeb28da4ca38dfe049758f25cfef01535b333e68e146167dbf9db74e20c4")

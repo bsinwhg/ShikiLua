@@ -2,7 +2,7 @@
 -- update time: 2023-04-07
 -- app_name: Neko Office: Nightlife Adventures
 
-addappid(2350390)
+addappid(2350390,0,"c66b7860982b22c180c5a51b3fdb0019e61ced7afbb09d986a8b91651981d586")
 
 addappid(2350391,0,"38a31525eb46fd4bc39911bcfe69279eec1dab7b7181d8b5acab527da8628454")
 addappid(2370820,0,"1a9d640504276b3f4296b492690d26ccd2ffe4fae49753710ac4cd3217b48c1c")

@@ -2,7 +2,7 @@
 -- update time: 2026-04-05
 -- app_name: 重返蓝鲸岛 -Return to Shironagasu Island-
 
-addappid(1156990)
+addappid(1156990,0,"671f688138e21a3a7bae88eb9e969c9a9344d333da3aa73f91677f1c7201f186")
 
 addappid(1156991,0,"89fd90c4f74cd8f71bbba523b3e692d05c8ae648ccd55698885915797db9615d")
 addappid(1156992,0,"ad6f5be9a26ebbfbd56f15ac2b783cbbf63f80aed844e383307b7519b1c26857")

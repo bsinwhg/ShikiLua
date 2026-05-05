@@ -2,7 +2,7 @@
 -- update time: 2023-10-17
 -- app_name: 关于我转生变成魅魔这档事
 
-addappid(2215650)
+addappid(2215650,0,"18bb5fc1bef7e2450bc78e9eeb43447957a4b4e01af5de47afe7d8ad56010d37")
 
 addappid(2215651,0,"b7395fdcdf58728607188491a1adbabdeacf65a697a02ad26763656a1af9ed3d")
 addappid(2215652,0,"ec4d19b3991d4488a98bd94e73da8a9a17c5beaf2312c33b7398fd310fbe8549")

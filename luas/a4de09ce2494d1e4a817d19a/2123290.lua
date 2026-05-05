@@ -2,6 +2,6 @@
 -- update time: 2023-02-01
 -- app_name: Wheel Of Naughtiness
 
-addappid(2123290)
+addappid(2123290,0,"6e99be82af6ee430730fe7c1b82633d24cab2217c2ff6451bc2b932758d843cc")
 
 addappid(2123291,0,"45a0bf55f3b4275bb0b2ec28b2d89e65d75c14d35e2dbb08ede6b789f4d7b606")

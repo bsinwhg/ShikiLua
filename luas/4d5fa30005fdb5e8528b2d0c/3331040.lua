@@ -2,7 +2,7 @@
 -- update time: 2025-01-12
 -- app_name: 片桐同学想依靠我
 
-addappid(3331040)
+addappid(3331040,0,"ca2c225f641d2c2011bd443d2cc0e7f5e71e33e0ef785590d7b3d95bb18c0692")
 
 addappid(3331041,0,"6c55a53f769cdb93c72006e5d444df9204bf5d1decb8460da52caa8a85236cae")
 addappid(3331042,0,"e23e6ef3524aa4a2ac0a552e555a3da88fad026ffb1d651dcc4df390e21b39e5")

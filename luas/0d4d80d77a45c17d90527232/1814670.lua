@@ -2,6 +2,6 @@
 -- update time: 2022-01-05
 -- app_name: 暗黑的克罗薇
 
-addappid(1814670)
+addappid(1814670,0,"217a11f69a7cedd6840d88e245eb0647645e1c20ea47599f50d6380d81afffa6")
 
 addappid(1814672,0,"6e1101c18fac51d58a7edb95ecd55c9c21cdd4d32466f2ef19a0bd8a197e839d")

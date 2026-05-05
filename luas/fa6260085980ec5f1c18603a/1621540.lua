@@ -2,6 +2,6 @@
 -- update time: 2025-10-29
 -- app_name: SpookyMilkLife
 
-addappid(1621540)
+addappid(1621540,0,"1a33f8cb4ec4a66cde39e52244cd19bf7ea7acf5df047cc89e23404c4e14f09d")
 
 addappid(1621541,0,"da248b681f7058df83a67345a8b402b8cfd5bdcfa64a115ae25dfc53352973f7")

@@ -2,6 +2,6 @@
 -- update time: 2022-01-31
 -- app_name: 雪境迷途遇仙踪
 
-addappid(1854980)
+addappid(1854980,0,"2a603dd9429c3db870d09f496e7a1400224e4fd824e45a51d9b874d4f29168e9")
 
 addappid(1854981,0,"6c1e6d77cfa85bca9a4e9f504a31a4189d50e1eb9f14b3f94d2494d4b1284301")

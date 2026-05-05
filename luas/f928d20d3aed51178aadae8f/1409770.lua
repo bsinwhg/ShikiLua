@@ -2,7 +2,7 @@
 -- update time: 2024-11-28
 -- app_name: Cat's Kiss 猫研社
 
-addappid(1409770)
+addappid(1409770,0,"933c2eb6f28d308c8e1d63ecb92cab9f2418d9af54a8469e050367e537a7bfcb")
 
 addappid(1409771,0,"7789220da295002120b28bdcca81d32299c37b8378b1ef02412a082dcf27db4b")
 addappid(3001080,0,"7df367d17bdc49e855f3e87857a323fe74bdd009da4085a3cff74aac3f7a6423")

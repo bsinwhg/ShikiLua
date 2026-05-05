@@ -2,6 +2,6 @@
 -- update time: 2020-02-12
 -- app_name: Juice Girl
 
-addappid(775760)
+addappid(775760,0,"11a99b6d0afc8a94ac4163ee57804ba61ad06880304e446011dfab9e2073b185")
 
 addappid(775761,0,"f63df48ad6ed92e3d2901f659093fa390e219dff94d7d69e86bdf325a4e0e2bd")

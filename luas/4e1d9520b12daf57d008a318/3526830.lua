@@ -2,6 +2,6 @@
 -- update time: 2025-08-25
 -- app_name: Demon Goblin and Mr. Knight 
 
-addappid(3526830)
+addappid(3526830,0,"d037ee661b6882bc43642d294c53a4b56cd5af61ce6a5c3d1e216957e7b31508")
 
 addappid(3526831,0,"da83e205998bdd3eaa8fedf5747a7f8c5dfe2730427d5c6e8be1eb4cde9af906")

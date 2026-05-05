@@ -2,7 +2,7 @@
 -- update time: 2020-11-07
 -- app_name: 魔导士蒂亚与不可思议的大图书馆
 
-addappid(1378040)
+addappid(1378040,0,"cb91632ac134f63554e5a190e74569de7c26bead54f37fdcbb20a5ab3388c099")
 
 addappid(1378041,0,"59109559ea80b4c4ebc3a18ce85496f995fe21a5b5aae371ce9cf5dcdb0b5991")
 addappid(1378042,0,"dc946f90e99e206d8817bead45b19287026a2e4b6e5a26921e09bf4f94fe51dc")

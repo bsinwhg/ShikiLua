@@ -2,6 +2,6 @@
 -- update time: 2025-05-20
 -- app_name: 我的妈妈是魅魔
 
-addappid(3499330)
+addappid(3499330,0,"2c062ee7d842e238689f14b386b6fe427c6887ea822ca4df001ec984a6d49d71")
 
 addappid(3499331,0,"9cb90c9b1f8fd3afcefdbdce4afd2c66215df564468e388f4158632fdba7d17a")

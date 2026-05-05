@@ -2,6 +2,6 @@
 -- update time: 2026-03-23
 -- app_name: 龙骑天下-御龙者觉醒
 
-addappid(3218160)
+addappid(3218160,0,"12be259dfbfb05ee42a616319e3abf54aab6f5a5736902fdbbdb4d927eb44651")
 
 addappid(3218161,0,"17511cfe974ebc3150d4d2caf7cfccd3c497bfdc04b824160b3df97bd6ff931e")

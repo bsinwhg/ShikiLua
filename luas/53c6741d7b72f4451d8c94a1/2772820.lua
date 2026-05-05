@@ -2,6 +2,6 @@
 -- update time: 2025-06-21
 -- app_name: ButtKnight
 
-addappid(2772820)
+addappid(2772820,0,"e9e5cbc3fedcb09410dd3a308d183cf0ddb5e07e318294db8979ac8dec533b9a")
 
 addappid(2772821,0,"d9cb8cd6f940a0c4f850fd34e68dfe7ff611d4882b9b00dc6815275894e476e2")

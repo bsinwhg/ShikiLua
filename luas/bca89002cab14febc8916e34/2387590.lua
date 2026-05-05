@@ -2,7 +2,7 @@
 -- update time: 2023-06-22
 -- app_name: Fairy Biography4 : Affair
 
-addappid(2387590)
+addappid(2387590,0,"c1184564044f9682bd258242e8e491fff06a83ac708fe64256dc08a2c4acd868")
 
 addtoken(2387590,"16756408194216128564")
 

@@ -2,6 +2,6 @@
 -- update time: 2022-11-08
 -- app_name: I got a millenary cat
 
-addappid(1894080)
+addappid(1894080,0,"b8caad32b2d34c18a74746560a74308fce20174447b88080497052e92e3bed71")
 
 addappid(1894081,0,"b37e464df0ada9bef2bd148f92db5eec6c1cdabc06c410091ba2b5ebf76f8125")

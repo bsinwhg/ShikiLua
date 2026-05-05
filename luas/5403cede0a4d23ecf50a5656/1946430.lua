@@ -2,6 +2,6 @@
 -- update time: 2025-10-31
 -- app_name: GARAGE 工房库：噩梦历险记
 
-addappid(1946430)
+addappid(1946430,0,"6531c91d2afe5646247f7f395715a94b1e561df8fcef25d27bcb85824b2c4130")
 
 addappid(1946431,0,"5eb2e167f1e52f04244bec5e716e583fa135b311b3cc312bd31e0f27637f1144")

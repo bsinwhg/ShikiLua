@@ -2,6 +2,6 @@
 -- update time: 2026-03-20
 -- app_name:  淫秽卷轴
 
-addappid(885510)
+addappid(885510,0,"4c343ac486e2f15910792749888ac4fa3be03ddd9b3368fbec59222566f5f875")
 
 addappid(885511,0,"4e7da215512ddf537cc43bdc42f5db2ae14cb6b71728d67f90be293395d7e74c")

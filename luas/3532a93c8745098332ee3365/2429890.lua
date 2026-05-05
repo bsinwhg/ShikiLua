@@ -2,7 +2,7 @@
 -- update time: 2024-01-11
 -- app_name: 落败男妖的白给之旅
 
-addappid(2429890)
+addappid(2429890,0,"a73c64f70c856b974bf900752b3a77300411c8fd5f2558ec28f08d6f12cbf659")
 
 addappid(2429891,0,"76dd8db80eba3bc525ff44ab1462dec969b01a37b9b9961b7ac9422ada77b952")
 addappid(2429892,0,"43bace3eb3e558886863ea0decf1f07a00dfdecaf0928e5430173b21e4b39b80")

@@ -2,6 +2,6 @@
 -- update time: 2023-01-11
 -- app_name: Oedo Trigger!!
 
-addappid(2236900)
+addappid(2236900,0,"d3aba74c6afceaab68cb46a64e507f9cf3b9cb2ba1da0ddc3cdeb4347f2d8a42")
 
 addappid(2236901,0,"aebbc49d9d84f8bdfd68ba53182273a24afd8270839207c4007735adaf24cb32")

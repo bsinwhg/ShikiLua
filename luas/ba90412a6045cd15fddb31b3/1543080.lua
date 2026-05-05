@@ -2,7 +2,7 @@
 -- update time: 2021-04-02
 -- app_name: Cute Honey 3
 
-addappid(1543080)
+addappid(1543080,0,"f177fa32fe46688fa0c0e9ba6d94c7af8d2a46aa1d7c9ff29adad39381aeb84f")
 
 addtoken(1543080,"5620998653111603297")
 

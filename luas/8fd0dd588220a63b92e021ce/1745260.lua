@@ -2,7 +2,7 @@
 -- update time: 2023-06-14
 -- app_name: Lady and the Papyrus
 
-addappid(1745260)
+addappid(1745260,0,"204fa3621cc37166dae1a4fd78972e9ba2ee02a89e30b89ba64ef7262ab4fec5")
 
 addappid(1745261,0,"09e2d126586c98c6b88cd840bd5eee31b226caa983c11ccd875d70199a5b2664")
 addappid(1745262,0,"c49809f9b674ac02067815c739251ed25c26a3bc622ba7f8b9f94763487fd64c")

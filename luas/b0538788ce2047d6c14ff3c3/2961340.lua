@@ -2,6 +2,6 @@
 -- update time: 2024-06-26
 -- app_name: Secret Psychology
 
-addappid(2961340)
+addappid(2961340,0,"5d761c2da3e9d12b0b268d7b9530ceb61793bb9ac85b46566ff89813e1d754d7")
 
 addappid(2961341,0,"caa70ee1cd316f73f80e4d03e6ceecb036d764dc1d3988daeacb3d1026e02855")

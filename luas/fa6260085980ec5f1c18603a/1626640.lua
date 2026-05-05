@@ -2,7 +2,7 @@
 -- update time: 2021-08-07
 -- app_name: Gamer Girls [18+]: eSports SEX
 
-addappid(1626640)
+addappid(1626640,0,"f4f09a344da3f005f2f45fc8bb188b6a821f7a3cb771e7fe214c1e2cd130059c")
 
 addappid(1626641,0,"9f88a2613b6224bd4f1afe81e6a533f43da3e3da23fb1e74cccfaac40a4d7f39")
 addappid(1715610,0,"b4c7e011fe618943d34523c2019339f02ec7de67f5589e8fe0dc84898d8a7539")

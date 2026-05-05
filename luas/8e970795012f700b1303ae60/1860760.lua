@@ -2,6 +2,6 @@
 -- update time: 2023-09-02
 -- app_name: SUKEBE BLOCKS
 
-addappid(1860760)
+addappid(1860760,0,"dc21fdbd12e2ddfea42e39ee0e4392f1952a1ca042bfa979d0a1ef88613a9fcc")
 
 addappid(1860761,0,"2e505f831c02c10fd1589439d1ee151cae51c345742e0e9dadeb59865ae494a4")

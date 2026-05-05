@@ -2,6 +2,6 @@
 -- update time: 2023-11-22
 -- app_name: Project: Sword Art
 
-addappid(2304490)
+addappid(2304490,0,"e4f8e2e5dd3369d77521e7acc5715f2aadfc0a1693160c706f09272815e0443f")
 
 addappid(2304491,0,"c0854b5db167fafc12c98f0ae9353fb7071ee46a984a6c6efe7bdb833e6972b0")

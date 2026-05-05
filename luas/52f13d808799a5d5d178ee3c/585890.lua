@@ -2,6 +2,6 @@
 -- update time: 2023-10-07
 -- app_name: Sweetest Monster
 
-addappid(585890)
+addappid(585890,0,"a07b815c27828f01e270b6365a48927cd8672cf0f1b0c0afdfb61bfff9bbe570")
 
 addappid(585891,0,"0e30c24e4f9cc0eeeba00a38fecd661da256d2ccd9aa97d68ef91f042862e5a4")

@@ -2,7 +2,7 @@
 -- update time: 2023-11-08
 -- app_name: Gears of Dragoon 龙之齿轮-黎明的碎片-
 
-addappid(1999870)
+addappid(1999870,0,"76d71eec3c366154efc459d309918f9aabdeeb0461e194a1a18434ab52d0977d")
 
 addappid(1999871,0,"39e0feb9058fee16b2b8029a5ea5285d79f829712d1af0db90d57840a001e05e")
 addappid(1999872,0,"375f23172e8b2a51b8d611d8d6c52ee2a678b6755213159035d9fdec32b697c4")

@@ -2,7 +2,7 @@
 -- update time: 2020-07-25
 -- app_name: 列维坦
 
-addappid(897440)
+addappid(897440,0,"0deed88ddfcb60f047da42fd1f27bca2ae9877f70edeaffd794d126b61360f8f")
 
 addappid(897441,0,"183512ea1bec44f4a0663ab5b29236a642b5c268f50793406becbd7bc7dc6514")
 addappid(897442,0,"fbf2053a26e8933c7ed75ca00c229a3dabc26faac3e73617971e0b1f2218f2cd")

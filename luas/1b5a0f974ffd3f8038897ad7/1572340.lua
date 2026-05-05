@@ -2,7 +2,7 @@
 -- update time: 2026-04-14
 -- app_name: 乐园的阿尔忒弥斯
 
-addappid(1572340)
+addappid(1572340,0,"c2e6acd6be1da6e9ded2d9bcd4fa9f753619ea01abf1f3aa442b894f7c030498")
 
 addappid(1572341,0,"65f94d90768a18bfef1f248454277ad7492adafc9708ba9f277f8e6e42ef4a85")
 addappid(1572342,0,"e074c84ee7883d4d093efca0f890288b5cd3a9aed9900132a7baec7f70b4311b")

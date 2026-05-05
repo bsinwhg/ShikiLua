@@ -2,6 +2,8 @@
 -- update time: 2026-03-08
 -- app_name: 扶她炼金师艾夏的自慰生活
 
-addappid(3646510)
+addappid(3646510,0,"ad2fde50b310c16c57cbacfe2844a7aad21b86e75eb567f69812dce3e5c6642b")
 
 addappid(3646511,0,"e971b64d80f13f4724977aa8635d27ed9fb0b06f11b79b2c1f63cfc63cb70ba0")
+addappid(3646512,0,"55ed9bfcf0ddc6c2ea1d407e0b9dba959801f134dd87ed5ec73d7c6302987d3e")
+addappid(3646513,0,"ce0ece7853b64a30ed1f4f13ef900c016293c606482f1df1d2da5deddb4b0aae")

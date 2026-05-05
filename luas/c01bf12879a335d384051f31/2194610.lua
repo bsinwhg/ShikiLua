@@ -2,6 +2,6 @@
 -- update time: 2023-03-17
 -- app_name: 勇者罗伊的婚礼
 
-addappid(2194610)
+addappid(2194610,0,"f39ae1e2dcf1798e53c7377dfcbcb486b97ac58a73d58503e5255467f9f2f9e8")
 
 addappid(2194611,0,"9211f3f5dda994d887e48d6d808ad9b5cb72a2ee7bcaec04dd59aa666d97e577")

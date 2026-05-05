@@ -2,6 +2,6 @@
 -- update time: 2023-08-03
 -- app_name: 男子大学的生活与性 - 第一季💕🔞
 
-addappid(1822120)
+addappid(1822120,0,"47d044a14c737484cbaa8d4de08d0aed1e0abb9df515c57115d069b98ab3919a")
 
 addappid(1822121,0,"bd96fd89afd5496aeb0da997cee9953435052dc8dabe32bdc42ed75e2e69acfa")

@@ -2,7 +2,7 @@
 -- update time: 2021-11-16
 -- app_name: The Witch's House MV
 
-addappid(885810)
+addappid(885810,0,"8816c9bb8ec0ae58dbb49cc432addde0296f8f35ce8de89e728136426517508b")
 
 addappid(885811,0,"38ec892728597a1d2692bbe73eadb498168e36e38c858120adb4ad17a34a9cfb")
 addappid(885812,0,"d9d1e6778fe6a95273ec04fc5d019e3bfa86d545ddc8a729fdcf9d843bbbd245")

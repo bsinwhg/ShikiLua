@@ -2,7 +2,7 @@
 -- update time: 2024-11-06
 -- app_name: Innocent Grape
 
-addappid(2924050)
+addappid(2924050,0,"6bce65dab44e72be1872f1488c4abab12be98f3644da7df8434b9eef98ccdf4c")
 
 addappid(2924051,0,"8a62cbec218c7159ed981fadd5a5fb99665b0cc06c6d6e9c24fe0c8f2ae03c42")
 addappid(3007750,0,"745389b76e6844e0b4ffc4f4fcaa6854ee067a5c644e970b6a2c0123ea8bc21f")

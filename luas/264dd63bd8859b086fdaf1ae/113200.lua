@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: The Binding of Isaac
 
-addappid(113200)
+addappid(113200,0,"25d16c3477939d0cc439a4dfe9e674aeeba511e5cdbdcd28befad075b8d0d73d")
 
 addappid(113201,0,"dc46feac7ce6fc9f0620f632205abb4ed111519738ebcca5cb8593b96fe79350")
 addappid(113203,0,"b5cba50948d0305ebde3371d94859ca28fb851407c66be924e02888de9d10802")

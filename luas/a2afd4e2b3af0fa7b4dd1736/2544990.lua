@@ -2,7 +2,7 @@
 -- update time: 2024-02-01
 -- app_name: 催眠卡牌
 
-addappid(2544990)
+addappid(2544990,0,"c569866539bcd20ccf56908303f28701643ee350444ebff954b86d7f3adf3857")
 
 addtoken(2544990,"895505794107348130")
 

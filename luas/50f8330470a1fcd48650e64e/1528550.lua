@@ -2,6 +2,6 @@
 -- update time: 2021-09-19
 -- app_name: 监禁女王
 
-addappid(1528550)
+addappid(1528550,0,"37b73d7e0f4e40efa98653c085030590ca7c50912e12954ce0a52ffc446d2d01")
 
 addappid(1528551,0,"12bb48ed067e974f76806b9de60a1bd54f98fed5032b6e2300bbae16e9dfb9a2")

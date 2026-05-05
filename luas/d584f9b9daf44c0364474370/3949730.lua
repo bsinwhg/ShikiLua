@@ -2,6 +2,6 @@
 -- update time: 2025-09-18
 -- app_name: Fire in the girl
 
-addappid(3949730)
+addappid(3949730,0,"682de5f8245ae9844ccc570f1b3ce06c03e7c635dad4fd4ba76228d39191f04e")
 
 addappid(3949731,0,"3814d10f16a15a6545df764a9b7c6e926771b9856e2c3b918defdc455eb3b9b0")

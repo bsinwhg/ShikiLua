@@ -2,6 +2,6 @@
 -- update time: 2024-11-26
 -- app_name: 夜勤病栋
 
-addappid(3239270)
+addappid(3239270,0,"bbd852f304f60b71dfb7160f3a5a357bfce3215d4bb77220edea90e1a3ae604a")
 
 addappid(3239271,0,"94c30ac47ad9c694a516a45cbc89f73e179cf4456d6aec9a1c0c95b1378084b3")

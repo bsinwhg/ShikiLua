@@ -2,6 +2,6 @@
 -- update time: 2026-01-06
 -- app_name: Hypnotic Eyes
 
-addappid(4108760)
+addappid(4108760,0,"ad2a4b07570a857a179ac8d0a4845096478da50de51ed97dee50da901c8b6344")
 
 addappid(4108761,0,"d2cbc027a1d1d50097f0bf77709a6a16191ee5ff6b9ca8a81ed06af85dc14fc6")

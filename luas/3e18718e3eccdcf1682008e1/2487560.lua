@@ -2,6 +2,6 @@
 -- update time: 2025-07-28
 -- app_name: Hentai Uni 2
 
-addappid(2487560)
+addappid(2487560,0,"c74403484e92faca5a4b88d9d756b5a9abae51342f91431b4194ab2e1be1047c")
 
 addappid(2487561,0,"f70d8bd0f2e29e3116635827ce0cb56e2b791a9f8ab4ac91188a7c9a0187ca26")

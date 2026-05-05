@@ -2,7 +2,7 @@
 -- update time: 2023-01-11
 -- app_name: 召唤师莲和情色迷宫
 
-addappid(1653030)
+addappid(1653030,0,"4f9ce5e28c87bcaf3ec788da15334e97459d222629f7fc7c972fbf5aa44fbdc0")
 
 addappid(1653031,0,"8a1dfabb9ff0e28157ecaad1bf24a34348cb46afdcb59490d3d5f169eac91a71")
 addappid(2268530,0,"7b69640ea25e18f3b31a8bb914c1aa85fbbd5bce5b9a80508814d5f6289c3a0a")

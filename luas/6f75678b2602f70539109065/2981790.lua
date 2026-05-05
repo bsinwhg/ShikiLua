@@ -2,7 +2,7 @@
 -- update time: 2025-10-23
 -- app_name: Kuri Kuri Click! ~我的异世界重生!~
 
-addappid(2981790)
+addappid(2981790,0,"2c1e8d429955d3c4345e6507a2dda4aa7a7a1c9da557aee5ae733e69436c2520")
 
 addappid(2981791,0,"81d6d5df90fdb38454aa99c07ec24fc706a29d35b394c37192eeeab8704ff0c9")
 addappid(3052130,0,"b147d6aa39f6055e3026869d2979e82e61fa0a3e63b4d2cb1f938540a8ea423a")

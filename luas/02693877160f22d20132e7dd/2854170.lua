@@ -2,7 +2,7 @@
 -- update time: 2025-09-19
 -- app_name: 吹弹！丰盈！波涛汹涌！异世界魅魔学园！
 
-addappid(2854170)
+addappid(2854170,0,"62efb946d762949a6636717473fd0e5f9f44b61bc9f13b0805c6994373bbf1bb")
 
 addappid(2854171,0,"6b7d17a5dce248ea62e596854cc58b84d88914c3a82c711f8236161ffaae0d4b")
 addappid(2854172,0,"4da70b5bbc7d3eb5633f9168b9a90f203dbf04ed23703ccfe0eaa6777aaa86a6")

@@ -2,6 +2,6 @@
 -- update time: 2025-10-26
 -- app_name: Castelo da Vania
 
-addappid(3064230)
+addappid(3064230,0,"07e40b608bfe9e3fd3dcce73b3a0c413e2a1f5363c649d9dae10c15e5ce63180")
 
 addappid(3064231,0,"b399bf0273bbc62a3a3505045e5d4a7e692e2c3382022da7a7cf89af29b63ca1")

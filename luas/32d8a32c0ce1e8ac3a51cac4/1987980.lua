@@ -2,6 +2,6 @@
 -- update time: 2024-07-17
 -- app_name: 索命倒数-背德的欲望清单
 
-addappid(1987980)
+addappid(1987980,0,"a84076c86ee6e2d6c1ca42bbcf787d271450021e1adf04a4087f3bb3aed569c8")
 
 addappid(1987981,0,"6f3c5dffa06166c971a22b5f4e4efad7a8060b82a5dbe092ec46a780f4f699dd")

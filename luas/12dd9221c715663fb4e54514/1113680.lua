@@ -2,7 +2,7 @@
 -- update time: 2020-04-27
 -- app_name: Hentai Girl Division
 
-addappid(1113680)
+addappid(1113680,0,"2632bf5fb986d4651f85fa3961d5db9f2fc0af68b4a565a339b417f773df4fd1")
 
 addappid(1113681,0,"2d8e465d2ee8ef0237a40a8da9c052e9984ae730aee91e5b56d791705f8eeb94")
 addappid(1145500,0,"7394e7d318ab58924c7d5567de981ab0e7dbee3b8945ea77bd540cab727e7de1")

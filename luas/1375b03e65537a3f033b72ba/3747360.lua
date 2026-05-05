@@ -2,6 +2,6 @@
 -- update time: 2025-07-30
 -- app_name: Witch’s Seed: Goblin Slave Alchemy
 
-addappid(3747360)
+addappid(3747360,0,"d28b36ee634335195428818f611cdd470c442d97320dcc13c7efcd8acbaa80d5")
 
 addappid(3747361,0,"96929a106be08d5327d07d9f0b6bc9acd2525a4e9c3ec67411333d628addf6ce")

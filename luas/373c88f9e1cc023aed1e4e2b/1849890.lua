@@ -2,7 +2,7 @@
 -- update time: 2022-01-26
 -- app_name: Neko Maid
 
-addappid(1849890)
+addappid(1849890,0,"ea9fadd8496e9cac5f570ae9b0380337ca6bfe62b1e257462a58b9b9896fa154")
 
 addappid(1849891,0,"e43bfe52b4cb42da892c849f4a5c4075e4d878c7a1dfbdd651eceec0f70c5fa4")
 addappid(1874850,0,"1b9cf3cce137690baadc1fffde8c74985297d1a81d8d1ca465d1863a52cd2d2c")

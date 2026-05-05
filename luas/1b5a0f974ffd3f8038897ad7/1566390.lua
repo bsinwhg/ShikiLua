@@ -2,7 +2,7 @@
 -- update time: 2024-02-15
 -- app_name: Seed of the Dead: Sweet Home
 
-addappid(1566390)
+addappid(1566390,0,"c1a5861b1d6ebd2406e3f44cd33c51429c6f0ded39d2f23d4b0819f8b96d6dd7")
 
 addappid(1566391,0,"5903c7ae493cd5f1c18b10794a90ca4aac94973bdd75cc92c94abb11d88ec4f0")
 addappid(2452270,0,"de98419d69bd6fcb0603958d0ed38592693a6277bc986be886c3beb5ed63db20")

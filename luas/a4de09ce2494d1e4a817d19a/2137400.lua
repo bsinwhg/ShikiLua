@@ -2,6 +2,6 @@
 -- update time: 2025-08-26
 -- app_name: EmyLiveShow: S&M story
 
-addappid(2137400)
+addappid(2137400,0,"46804a58c658b7fd32a14bbd6e9689bad1c6e747233786a5c2b7ddbf35635044")
 
 addappid(2137401,0,"31253f015988afab492e2baade05cf851470ad444867963e77164b4dfd3f9fcc")

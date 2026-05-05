@@ -2,7 +2,7 @@
 -- update time: 2022-01-24
 -- app_name: Twins Edge
 
-addappid(1795960)
+addappid(1795960,0,"e6edc5743a7fdd4af4396207ff012f69daa8a11882ac99ab112cde83f11bbe38")
 
 addtoken(1795960,"11877745674830042313")
 

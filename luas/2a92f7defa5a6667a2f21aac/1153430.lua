@@ -2,7 +2,7 @@
 -- update time: 2020-01-19
 -- app_name: Love wish
 
-addappid(1153430)
+addappid(1153430,0,"edfef259262fd0e542bc00d7677e3446bf28c5b5cdadd05acce95da5e3d3656f")
 
 addappid(1153431,0,"03be09a785084b42b5cb1cb53dcc99a03232d56ef0fd588f5fd0240c29a847af")
 addappid(1153433,0,"97dc7fd43710e661fd3a21d191c7a6373fa0af4bc07e27f2535c1090f143b740")

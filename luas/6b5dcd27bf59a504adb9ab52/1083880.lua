@@ -2,7 +2,7 @@
 -- update time: 2026-03-19
 -- app_name: Princess & Conquest
 
-addappid(1083880)
+addappid(1083880,0,"0eea0e8d63f5ebc35f39e2120a419f71fa35ef58ff7bf60417e0f390ea0859d3")
 
 addappid(1083881,0,"025fca5d3d90f5c08b853a3a764709c5e39e826f6c6e10c586260b8e8950c341")
 addappid(1083882,0,"16141777c2eda442b1401de3bc408ca42de6cc15dc9df673c00353adf2c558d1")

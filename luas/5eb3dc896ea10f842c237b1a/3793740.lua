@@ -2,6 +2,6 @@
 -- update time: 2025-10-12
 -- app_name: Clicker Dairy
 
-addappid(3793740)
+addappid(3793740,0,"27ad6e9bc9dc54849e6d630e4b779eceddd731266573c83dafb060d25e29630b")
 
 addappid(3793741,0,"4bbd297061911438b8eac42ad9ea6f86fa8aa1b7b7d9ce4bcc995cc8958fee23")

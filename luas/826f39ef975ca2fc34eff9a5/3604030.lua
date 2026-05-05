@@ -2,6 +2,6 @@
 -- update time: 2026-03-13
 -- app_name: 狼伴侣
 
-addappid(3604030)
+addappid(3604030,0,"4d75f34f6e4728423f496c42184ef5ac4e09abea46ff3187e235705688559ed8")
 
 addappid(3604031,0,"25bb0b80ef9c253f8f2aa8adf6a6a941b7bbdfb04455390e0cc24de71950d86a")

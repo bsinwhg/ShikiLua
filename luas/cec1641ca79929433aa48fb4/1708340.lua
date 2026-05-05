@@ -2,6 +2,6 @@
 -- update time: 2023-07-14
 -- app_name: BlazingAngel Mistletear
 
-addappid(1708340)
+addappid(1708340,0,"7c0d1d9231b269a14e93a9157c334a84d7799f3e45e2b4f3a3ba7140235b5d2d")
 
 addappid(1708341,0,"f4bb44d48690320f2487cea49a20c69938227b4a1973442ee5359a03db672634")

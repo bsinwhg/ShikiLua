@@ -2,6 +2,6 @@
 -- update time: 2024-09-26
 -- app_name: Love X Crotch X GYM
 
-addappid(2430700)
+addappid(2430700,0,"2c25f60979b76dc87cda3d8e6d3923e2a6a86fce2b406e19f275eb4ce31e0934")
 
 addappid(2430701,0,"afbc916900bc78d7753c3fd2886678938a2708d44c7729f2b9bd6bcc45343e0a")

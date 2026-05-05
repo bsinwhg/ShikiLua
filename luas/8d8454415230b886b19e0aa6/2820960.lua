@@ -2,6 +2,6 @@
 -- update time: 2024-02-24
 -- app_name: 太空站的魔女
 
-addappid(2820960)
+addappid(2820960,0,"5ee21f1863c0e7582ff684468ba1539f7c8becd23413f232b7fd53b436690692")
 
 addappid(2820961,0,"a7c35abd4e3cb9de830b2c9ad692872b1fe885eea151e2f16eb51e31172d5bed")

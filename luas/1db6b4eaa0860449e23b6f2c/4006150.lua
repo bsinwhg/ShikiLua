@@ -2,6 +2,6 @@
 -- update time: 2025-11-14
 -- app_name: 情趣馆大小姐的私密调教日记
 
-addappid(4006150)
+addappid(4006150,0,"5efd3937a7e905c368b8605a331a61b89a3a14b355b1e4d8368a5959e793eddb")
 
 addappid(4006151,0,"0fc939462c824f1b5d3f297a72a3b5d28f6a7c2bd7f388379aae0d04cedb3650")

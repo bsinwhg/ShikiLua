@@ -2,7 +2,7 @@
 -- update time: 2022-11-01
 -- app_name: Succubus Farm
 
-addappid(1455220)
+addappid(1455220,0,"f65b06441bd6bd1505cfe6b01c04a1e22f237f0310db79ae255b6603cc98f282")
 
 addappid(1455221,0,"e144c8d739dc9ae6388f3cfc7ff576d1e4c9e931814b835d60e0dae4dcd3f524")
 addappid(1455222,0,"077466bf4c9bcd3901d4074a501c5420fe6734dd1d9c6c53882ae67839cac7cd")

@@ -2,6 +2,6 @@
 -- update time: 2025-07-16
 -- app_name: 北城捷運糾察隊
 
-addappid(3861290)
+addappid(3861290,0,"545ba31d1d095bf2aeae25d613bc20eb90919f1fff75938eed85e29facd25ece")
 
 addappid(3861291,0,"1c5c0f798a970317a5b216a0cbabc8973345223ebd178b42cb26a423b5e77fee")

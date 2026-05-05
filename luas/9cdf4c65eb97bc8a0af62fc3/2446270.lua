@@ -2,7 +2,7 @@
 -- update time: 2025-07-15
 -- app_name: 花园魔三国2 -The Sacrificial Girl of the Fantasy 3 Kingdoms 2-
 
-addappid(2446270)
+addappid(2446270,0,"6f6924117bee0e2179c6d4a7c533c4a94e661311300273fd69aaaf13b86bdbdc")
 
 addappid(2446271,0,"1ec7158f1c1dcb6bfba78443cd698604092d2313993f6b964bb33b5470ac7a8c")
 

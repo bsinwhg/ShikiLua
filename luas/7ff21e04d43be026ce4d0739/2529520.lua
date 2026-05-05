@@ -2,7 +2,7 @@
 -- update time: 2025-03-04
 -- app_name: 魔法少女木叶
 
-addappid(2529520)
+addappid(2529520,0,"45a406c8dfc3823b617069f03b848d655bd2c4eda908e393a135637d14dc330d")
 
 addappid(2529521,0,"923f1d3c205f8dbc1eef8e6cbee1095b0be2947bc6ef19da25d2e7a7720bab6c")
 addappid(2529522,0,"3ea483ce0b2468f630399edde9043207a90bc1ed1cdb05c10c1c4adf2e4a2d69")

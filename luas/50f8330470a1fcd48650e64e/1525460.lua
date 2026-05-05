@@ -2,6 +2,6 @@
 -- update time: 2021-07-30
 -- app_name: Wild Journey
 
-addappid(1525460)
+addappid(1525460,0,"9a4f096f84110bd47d29c8f33a21a1c1a4892a8cbfa6e6d8fbe5deb4c40992b9")
 
 addappid(1525461,0,"39dd07639dea94ef7cd3e3824ddc328d970046c34ecd1dd988763847c25b2b98")

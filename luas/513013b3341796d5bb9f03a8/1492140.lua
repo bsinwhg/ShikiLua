@@ -2,6 +2,6 @@
 -- update time: 2025-11-20
 -- app_name: Club Hentai: Girls, Love, Sex
 
-addappid(1492140)
+addappid(1492140,0,"c4337d166169a71dd32eaa94b0f66a4428fce54284dfef9793b9b2ad074c6ae7")
 
 addappid(1492141,0,"6caad09749092994f17a3b8bc453a3e1439b31744b0dc63ba436fc08f0ee5e8f")

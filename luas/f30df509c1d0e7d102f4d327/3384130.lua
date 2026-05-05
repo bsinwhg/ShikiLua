@@ -2,6 +2,6 @@
 -- update time: 2025-12-12
 -- app_name: Trophies: A Corruption Tale
 
-addappid(3384130)
+addappid(3384130,0,"9efc92a081b684b566d86b61900f8592bfe52be55e89d879bdf6378432dcb12c")
 
 addappid(3384131,0,"502de64fb278ee5d792dba89379dfaa5bb73a4a227415f0f2a429941f11b3775")

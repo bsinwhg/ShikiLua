@@ -2,7 +2,7 @@
 -- update time: 2022-09-17
 -- app_name: 职场女友带回家
 
-addappid(1770390)
+addappid(1770390,0,"3b2c2d0928a05c9a3e83a1a43f853e89400ed3111484ed0fc2b85659a3774405")
 
 addappid(1770391,0,"a81fbfae6d3e2b28a74fa8a5d21521ee19c315365354abe6acc15d4c44fdfe94")
 addappid(1770392,0,"5a6b522169b08aedbbbef1cee107ea5cf0dbafb0c1e529918c1a03fa1838e46d")

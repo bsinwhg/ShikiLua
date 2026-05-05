@@ -2,7 +2,7 @@
 -- update time: 2023-11-16
 -- app_name: No.BreakBrick
 
-addappid(2334210)
+addappid(2334210,0,"1aad2e510eb58b21cd0400f666efa48f4145ca5a8e4c78952ed7023c3830fdde")
 
 addappid(2334211,0,"edb24dc1a4037b7918dbd9d5d90ff78aa212034d9747c47cea4b0b6da8b5c727")
 addappid(2348131,0,"1f90be5abc87077c3ab80fc0e8fc4d46fede4cd9c4f42d391722fa77e6ff3c85")

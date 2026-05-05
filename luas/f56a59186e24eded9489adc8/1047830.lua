@@ -2,7 +2,7 @@
 -- update time: 2021-01-12
 -- app_name: DARK FABLE
 
-addappid(1047830)
+addappid(1047830,0,"3ef8f8d389dffe3cc110d12b71bd5b3280a3428d064be6e2fabd861535592434")
 
 addappid(1047831,0,"dc222a614d26d6337b5f7c6cdde7dab22824cd48d213d8b18011f774fe2814e9")
 addappid(1047832,0,"4819f5d5cd037ca65d03bfdaca3572dcfb67f88c3ac884d8b28dd33a04a918d1")

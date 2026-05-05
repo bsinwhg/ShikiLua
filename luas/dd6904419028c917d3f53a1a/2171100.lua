@@ -2,7 +2,7 @@
 -- update time: 2023-03-06
 -- app_name: Sword&Magic
 
-addappid(2171100)
+addappid(2171100,0,"5ecfc6c77a882d8623b8bb2b40d1fb5753b2f4280450455765d7cceac60421f8")
 
 addappid(2171101,0,"7f86c3c9188c15df4bc55bf2aedd5185c77a55278ed9962d1a522b04a1b6650d")
 

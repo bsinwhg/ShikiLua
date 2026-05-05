@@ -2,6 +2,6 @@
 -- update time: 2024-10-06
 -- app_name: 沙沙方块娘！！
 
-addappid(3277230)
+addappid(3277230,0,"6b5102a09e3bb6337c2bbb5e14446fec6ecdc993dc08267119b0b6637c3efdde")
 
 addappid(3277231,0,"a47d3c88b478214acf7b127051c53751d397cb9e719b49aa6ce93ad2ec159024")

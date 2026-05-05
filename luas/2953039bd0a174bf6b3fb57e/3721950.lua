@@ -2,7 +2,8 @@
 -- update time: 2025-10-23
 -- app_name: 魔法·勇者·大冒险！
 
-addappid(3721950)
+addappid(3721950,0,"af999a7d65d917b7664fb2b3b4545cfa4a6e9bafbfb78ae0a453c76426e4e2cf")
 
 addappid(3721951,0,"dbe833f6032bd7f3fb8e472eda29e7927a96cd514cec75aebf3f8d83dff02c13")
 addappid(3721952,0,"f0b9fe1bf2414c873ab52d18f6baed39ecb8f75059767999b615591315330aa1")
+addappid(3721953,0,"c8b2cd1e7e9656e3b3c5fbed03fa70df77d416dd658d9ed3b647f7100863e1d6")

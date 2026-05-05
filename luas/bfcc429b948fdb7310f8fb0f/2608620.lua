@@ -2,6 +2,6 @@
 -- update time: 2024-09-18
 -- app_name: Sex, Please
 
-addappid(2608620)
+addappid(2608620,0,"0b03e7da7e4f75b87407f98273b731de1adb6052d89901e9bdbd2dc3a48001ae")
 
 addappid(2608621,0,"028aaf876d4865b18a2f4b832aa4a64b93ca525fc6a93d68ace599882caed780")

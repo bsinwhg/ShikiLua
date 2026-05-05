@@ -2,6 +2,6 @@
 -- update time: 2020-12-14
 -- app_name: 夜永 Eternal Love
 
-addappid(1416240)
+addappid(1416240,0,"70922fe5bad2e3bb435483bfb3fbb68880e3e3717cc3b2ca71c12497cb78923d")
 
 addappid(1416241,0,"91328f3beffd3f2d636dac6025dcfd6951aa03c120a3219fa783ba73cc730cd5")

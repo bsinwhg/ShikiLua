@@ -2,6 +2,6 @@
 -- update time: 2025-01-08
 -- app_name: 淫门之钥: 黄金秘密
 
-addappid(2651550)
+addappid(2651550,0,"ab748599736c53f4b75958f06ec547a1cecd4a6980b753a5c044909b40e7218d")
 
 addappid(2651551,0,"a15109689d682e3ab4b899dde7c46635ec771a1a4b524cf9e3941e5ddcfd1180")

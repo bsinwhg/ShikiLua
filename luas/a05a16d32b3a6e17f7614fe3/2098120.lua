@@ -2,7 +2,7 @@
 -- update time: 2022-07-22
 -- app_name: 你被驱逐了。
 
-addappid(2098120)
+addappid(2098120,0,"1fe1b8ce7acf387e0ce0ddaca9cd7e264641cb2330e862fdd33edd54da9bc77b")
 
 addappid(2098121,0,"0b8f03ce2dcaf6850c4ae580aa4fc71b01af523e7411377f167c4a271778a943")
 addappid(2394360,0,"7c27db9df6dd4f3cffc0e84984975c38e64a249c159d4c6eb45ba32f7e1a9360")

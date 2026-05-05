@@ -2,6 +2,6 @@
 -- update time: 2024-05-29
 -- app_name: BLACK★ACADEMY
 
-addappid(1602390)
+addappid(1602390,0,"c7426f333e6de14e9d605bb9e45d8fe41b65e40fdcec13601f530dd200b5c086")
 
 addappid(1602391,0,"c1c87b51f3d08c3f79e23c7844af07a3a5740e1c99e0ffa2fb831d2cd9b1158c")

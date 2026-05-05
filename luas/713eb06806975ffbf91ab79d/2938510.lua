@@ -2,7 +2,7 @@
 -- update time: 2025-10-06
 -- app_name: Withered Flower
 
-addappid(2938510)
+addappid(2938510,0,"365da38fdbfb8d0f36b6c04020da51f832dc2e13c3bd7ac8d23e560c2c5044cd")
 
 addappid(2938511,0,"7e0c687b802f0afb3a1ef487642ea1f3cd757b553ade057e0859efb85f39e7a1")
 addappid(3541290,0,"9aa90287ab90266372a2e9285c065a274b803ea8e44e9d3959c369766c6d4dd4")

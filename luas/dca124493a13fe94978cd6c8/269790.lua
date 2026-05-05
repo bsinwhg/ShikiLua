@@ -2,7 +2,7 @@
 -- update time: 2020-11-19
 -- app_name: DreadOut
 
-addappid(269790)
+addappid(269790,0,"ed00290890a19ba6e142b3119431a2752664a8eb43e1262aaddd6e0633c26d69")
 
 addappid(269791,0,"e1f7b20aeefcd252268e5725c669ecc3fb071ddeda8affa5e2f78114a1ce5486")
 addappid(269792,0,"fdda844ac33d04960454fba5109cd81d70ebbd2b1e2867f0a952c887ffc7af23")

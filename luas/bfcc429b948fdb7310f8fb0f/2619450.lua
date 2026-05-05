@@ -2,6 +2,6 @@
 -- update time: 2024-08-12
 -- app_name: Tower of Hidden Waifus
 
-addappid(2619450)
+addappid(2619450,0,"7fa41042bd269e909265abbbb6539545826827caead817381d5893aa0d5d6f5c")
 
 addappid(2619451,0,"d43a5f853cf7e4e7b3a6baa0c6a350fbaab52f7dbc782ae9993c8ddb55ecd18d")

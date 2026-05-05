@@ -2,7 +2,7 @@
 -- update time: 2025-07-25
 -- app_name: hOrnyWars
 
-addappid(1767840)
+addappid(1767840,0,"1a17e955fee7d22c7a080771585b560c5349d94742ad390a80211a2051e92ab0")
 
 addappid(1767841,0,"eb8c3e817aee3f974ec87047e6dc9d9b5b231dc57981c71bd2cd90efbc8b1e2a")
 

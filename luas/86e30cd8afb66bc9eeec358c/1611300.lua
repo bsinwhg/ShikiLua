@@ -2,7 +2,7 @@
 -- update time: 2022-01-29
 -- app_name: Happy Guy
 
-addappid(1611300)
+addappid(1611300,0,"3b0dbfcd3a40ab5d9e1af86eadc5a956f0bf339609d3ad2b06bc4a806cfdb8ab")
 
 addappid(1611301,0,"7e1a3795c5ff3060e3852805a9223dee0fdcc8dc8bbd62ae00ae54c8806f8056")
 addappid(1649810,0,"0795dd77403671996ebf50a19882033e8a0e22ba96a1c279afdb14634c350d22")

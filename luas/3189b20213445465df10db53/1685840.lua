@@ -2,6 +2,6 @@
 -- update time: 2021-11-28
 -- app_name: Lyonesse
 
-addappid(1685840)
+addappid(1685840,0,"05eec3e1de114fd3c77e734efac1f102a2cf466eba310cdbfe41e6905031e6e3")
 
 addappid(1685841,0,"0792856db36c0bce0b10da9f075d167a2aee4bfd83d3917edfdaab1586a56daf")

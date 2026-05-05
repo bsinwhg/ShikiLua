@@ -2,6 +2,6 @@
 -- update time: 2025-02-22
 -- app_name: Sakura, The Jirai-kei Magical Girl
 
-addappid(3009640)
+addappid(3009640,0,"12c7e7c4013aa93988b21a751181e6eb50ded99b95db08029483fdefc12570ff")
 
 addappid(3009641,0,"42502aed5c953cec15df3cb201e428ce1aa7990916e1aa0b0b42396fb8c2a9a9")

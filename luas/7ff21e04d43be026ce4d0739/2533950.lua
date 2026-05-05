@@ -2,7 +2,7 @@
 -- update time: 2023-09-25
 -- app_name: Hot And Lovely ：Uniform
 
-addappid(2533950)
+addappid(2533950,0,"4fbdcae502f7f11879840081309318d23b50f4cf7c307f3f7d832f346827f7f2")
 
 addtoken(2533950,"12804927819000859335")
 

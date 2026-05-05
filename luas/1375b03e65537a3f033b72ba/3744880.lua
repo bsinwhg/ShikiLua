@@ -2,7 +2,7 @@
 -- update time: 2025-07-24
 -- app_name: 百合花撩乱!美少女的百合生活
 
-addappid(3744880)
+addappid(3744880,0,"cb6dd78f1fd2eeea2c9d3829c40ab49da1d9cd562cc4fcdc9615d38e6d0024e0")
 
 addappid(3744881,0,"a3b375577c69e6568c1e731c2c9065f7581fd2fbf4b980f9c7a3fab0dd5e7d60")
 addappid(3744882,0,"9a9138c5a345577770339ec471f01d841995a005a2d7bfefecda362a4e037d57")

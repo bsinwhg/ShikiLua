@@ -2,6 +2,6 @@
 -- update time: 2023-11-16
 -- app_name: 圣女仆学园
 
-addappid(2680250)
+addappid(2680250,0,"e75ced10441f553041927700462f90ff8d762402259ccc1d4323b0d866b0d398")
 
 addappid(2680251,0,"bb009d20596bdb8346541b7d2d18f734ec4fcad3accf7debe9629cdf8e8877cf")

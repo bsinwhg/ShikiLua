@@ -2,6 +2,6 @@
 -- update time: 2024-04-17
 -- app_name: Ark Mobius
 
-addappid(1594090)
+addappid(1594090,0,"b60177728809f6a85cabfbdcc5b9a6553a68698a314b37ae7e688fa64e792e39")
 
 addappid(1594091,0,"99724be5b6dbe7164a70b1f32299054c0930635e4b2f63e2afd4fe62c7165d18")

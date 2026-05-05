@@ -2,6 +2,6 @@
 -- update time: 2021-01-20
 -- app_name: AV Company
 
-addappid(1508620)
+addappid(1508620,0,"bb56bc481b90e3901b864a3a7a979753d3e077869f7d84d5509f907df1409c88")
 
 addappid(1508621,0,"fea12357cf6cc9a0a757f19adc6ed805cd2222c3096286fad3208033b2429ebe")

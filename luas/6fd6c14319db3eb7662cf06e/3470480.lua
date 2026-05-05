@@ -2,6 +2,6 @@
 -- update time: 2026-03-19
 -- app_name: Streaming ON! VTuber Training
 
-addappid(3470480)
+addappid(3470480,0,"cd60246415510961fb3066aa770f9a3ab5985d19c31f96f7b753137f22b841bb")
 
 addappid(3470481,0,"4db4d036f2b4128883b039838cf27142f2d6b9e7a8d26828dd0bd969c9b30189")

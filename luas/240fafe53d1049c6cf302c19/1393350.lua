@@ -2,7 +2,7 @@
 -- update time: 2023-10-04
 -- app_name: 摇曳女孩
 
-addappid(1393350)
+addappid(1393350,0,"988793834f16bc58c346dabfde29063a2840ab4fc0a9e84357210bf36625d91e")
 
 addappid(1393351,0,"127ba573c89e588d1ebf1143d5ac398396761ac9872c33a8a0cdf94ba45b9bec")
 addappid(1411520,0,"e586ed20f11f3af27faedba91bbe31da12db4e28ced73c5eb6266186ad8abdba")

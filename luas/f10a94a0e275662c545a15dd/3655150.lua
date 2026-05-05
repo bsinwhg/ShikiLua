@@ -2,6 +2,6 @@
 -- update time: 2025-06-24
 -- app_name: NEKOPARA After
 
-addappid(3655150)
+addappid(3655150,0,"35fb60740c62afa7414579a8743a505c6ea6ab822eefe35c6ee6c39d4304f14d")
 
 addappid(3655151,0,"206e7abde00a238e00fe011204e6ad561dec4699aa698664ec8b87e80b33182b")

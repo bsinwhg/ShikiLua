@@ -2,6 +2,6 @@
 -- update time: 2024-09-04
 -- app_name: Lewd Girls, Leave Me Alone! I Just Want to Play Video Games and Watch Anime! Hentai Edition
 
-addappid(1553890)
+addappid(1553890,0,"9be1c8357ce1358c7efeb5499514d17d5db9815c6c819bb757e5814e2a4b24b6")
 
 addappid(1553891,0,"fd9577bb5fefb0b2c6ab1ea6e6654307b54a4f30b8c6a454bd9f410597765345")

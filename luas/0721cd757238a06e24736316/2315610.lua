@@ -2,6 +2,6 @@
 -- update time: 2023-03-03
 -- app_name: 爆乳御姐
 
-addappid(2315610)
+addappid(2315610,0,"da3e0e0d8caa204515b842a84a2b7c0a1f7f1baa24a9469b15d491bf61999324")
 
 addappid(2315611,0,"a1e0f8b980f68f745f946f9710210b450acbfd253dc3c6685111ac5b203f377c")

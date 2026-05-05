@@ -2,7 +2,7 @@
 -- update time: 2025-03-03
 -- app_name: 求订阅！魔法少女莱万提亚频道：观众越多越强大
 
-addappid(3158380)
+addappid(3158380,0,"2a7aad0d102193c37852061986613660beafaf641c18583f45b1baba7450aff3")
 
 addappid(3158381,0,"f04ec8bd020fc9e99fc4881bf18fc487e76654385002b98d0a6d88febf4e24ad")
 addappid(3158382,0,"1af119ce32c3b400f8aeee749011e4f75f49b8dc1f4e6d68a455b80163948c24")

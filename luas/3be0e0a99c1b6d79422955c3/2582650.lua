@@ -2,7 +2,7 @@
 -- update time: 2024-06-19
 -- app_name: 艾妮希雅与契约纹 ～马蹄大街的娇弱圣女～
 
-addappid(2582650)
+addappid(2582650,0,"d84f3118044462c8f8f722153a07817300f7d4397fef4f1bee6cfec74f840af9")
 
 addappid(2582651,0,"8ea2fbad7aa8878bd7e674aa550b35e8d4b750a2bce64c0ffeed92a421157200")
 addappid(2582652,0,"f505ee536ae4c88d3f84bfd824d866a2d385b3cb48580c5ecff9ba06d0ba1de4")

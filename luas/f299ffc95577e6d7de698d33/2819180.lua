@@ -2,6 +2,6 @@
 -- update time: 2024-10-08
 -- app_name: 最后的乐园
 
-addappid(2819180)
+addappid(2819180,0,"6c0facd9648f894c89ee4a3749c6288029dcadc8b160d9283e5e0f64bea4b78e")
 
 addappid(2819181,0,"3f0a9f9239895aede6a67e2874a094d9c5a3738ac389404aa550da9e0db08cb9")

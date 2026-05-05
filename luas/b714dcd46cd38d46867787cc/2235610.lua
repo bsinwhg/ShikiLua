@@ -2,7 +2,7 @@
 -- update time: 2022-12-11
 -- app_name: Sakura Mirror
 
-addappid(2235610)
+addappid(2235610,0,"1e6155390c408cfcfd83f5f9aa35ada9b178c634b90eadd94e18e4e49db66363")
 
 addappid(2235611,0,"d51bd697449cbfb094c247a1d7e2f4748447d1c3e2166f979b7b5b7f5ed6b5bb")
 addappid(2240710,0,"d817b6b8cd24ac08c2011c89eb9c95a2a5737e2165bae5da2106dc78b3921d82")

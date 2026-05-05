@@ -2,7 +2,7 @@
 -- update time: 2022-07-20
 -- app_name: Rebirth:Mr Wang
 
-addappid(1394800)
+addappid(1394800,0,"9befff2ff6ed56b5d13eed146da00d68dae2eb2362f936aa8f642888a14f3018")
 
 addappid(1394801,0,"65f530753cfb7411d2f8bad0308677ae1a7cd0fadb279287c2dac9eee8cec04c")
 addappid(1423640,0,"d07ce674bbbc44aac018c121e75ca31c8b70446f323cdc113497b3d0f895cc3d")

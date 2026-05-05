@@ -2,6 +2,6 @@
 -- update time: 2021-01-07
 -- app_name: Fantasy Tavern Sextet -Vol.2 Adventurer's Days-
 
-addappid(1461770)
+addappid(1461770,0,"6657d990001e270cbc71115d164adbdab2c64f59c790805529d7efa80aeb8b03")
 
 addappid(1461771,0,"5123a99066149ecf15462285c26a5947e738725fc7b0e1f7056f006bf5e2edbc")

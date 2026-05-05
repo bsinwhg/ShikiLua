@@ -2,7 +2,7 @@
 -- update time: 2021-04-11
 -- app_name: Tower of Waifus
 
-addappid(1502230)
+addappid(1502230,0,"c7cedd6efbdd60b9f76f6de9218b387712a39276df652dd68baf23f5cf14959f")
 
 addappid(1502231,0,"d61b15ab225cc1fa8ada555dc3048f5446eb4ada26dfabbc01a04b19aafbaaf0")
 addappid(1536050,0,"29b86537deeeec7f74212d4fbcc4d245d64d403d53d3d2486233a878baf96e31")

@@ -2,6 +2,6 @@
 -- update time: 2025-02-04
 -- app_name: 女神降临的昇天塔
 
-addappid(3015270)
+addappid(3015270,0,"9a9acbfdb640330ad9bcf646c31ab2fef8cd9992c12dc2da5abb3c5320c7c76c")
 
 addappid(3015271,0,"1bb4faf6bc3ed9dffb3076d3bdbff16c13cc693a57982a85929e8d9df3458645")

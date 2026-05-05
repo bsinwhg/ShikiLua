@@ -2,6 +2,6 @@
 -- update time: 2022-11-01
 -- app_name: The Lord of Isekai Brothels
 
-addappid(2136820)
+addappid(2136820,0,"449371f0c40ca78009e346d7dea3b6698a48be0b3594284f9fae68aa4f180ab7")
 
 addappid(2136821,0,"4e3a71a7ffe89a1ecc77933170ba7654cef85770555977ecb0e124db9cf144ce")

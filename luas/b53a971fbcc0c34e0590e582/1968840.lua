@@ -2,6 +2,6 @@
 -- update time: 2023-09-15
 -- app_name: Scarlet Maiden
 
-addappid(1968840)
+addappid(1968840,0,"362e6cb8b7d066a87c4bb98eda34ece8ee8bc180d9068feb0f8d2051f89ac1ac")
 
 addappid(1968841,0,"a1af508c18885b42388ec2960c468fd0012bba6ac9a4a955998c2975605617b8")

@@ -2,6 +2,6 @@
 -- update time: 2024-08-15
 -- app_name: Lethal Women: World of Femdom and Espionage
 
-addappid(2855820)
+addappid(2855820,0,"960caa457039b75605e419c51f2c8329c6fda69b22f4a7875ab8e147f38ab637")
 
 addappid(2855821,0,"a6ff97cc0b27a02885197cab736ee0e48979c1cd73ac9838dff2e8509909eab7")

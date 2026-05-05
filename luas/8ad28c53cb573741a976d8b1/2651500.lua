@@ -2,6 +2,6 @@
 -- update time: 2024-09-23
 -- app_name: 异世界奇幻配对 -与可爱妹子一起色色配对-
 
-addappid(2651500)
+addappid(2651500,0,"7f71105862555e3d051d3ac643ec10e8af6a18b1e9037b443786922eef35407a")
 
 addappid(2651501,0,"28b6ed09cacc74e129d915cb834e67a39030199af8448aa6efcbaf0e82fb841e")

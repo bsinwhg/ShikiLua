@@ -2,7 +2,7 @@
 -- update time: 2024-12-26
 -- app_name: 人妻瑟蕾娜与魔石迷宫
 
-addappid(3255830)
+addappid(3255830,0,"d94f67b0b7b710aad8a71049eb361dba82ba5bd99dbbb3b9b963ede11fb81822")
 
 addappid(3255831,0,"03cefda2182dea4a98c95c90c56bcec2c2aaf373feb8030ef9a4b46147a587be")
 addappid(3255832,0,"81a87d91d532de709064fc785a22ae64df09cd216f1c74a3e41bb7be6d91d9a2")

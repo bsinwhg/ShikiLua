@@ -2,6 +2,6 @@
 -- update time: 2025-05-20
 -- app_name: Vaygren - Lustful Temptation
 
-addappid(1771700)
+addappid(1771700,0,"003dcd0dc2f4cfd3e5db774f413e0fef345d755f5bff684da2a177ae582bebc8")
 
 addappid(1771701,0,"59a1fc62e34fe007d5c485f46989980cb731d3f87219d035efe5db869bff31bc")

@@ -2,7 +2,7 @@
 -- update time: 2024-12-05
 -- app_name: 伊甸骑士1:2 淫难的巫女公主赛西莉篇
 
-addappid(1566840)
+addappid(1566840,0,"d179bb73324b1ded24bddc3cc5df687c2840408a4af5ad0b06ba38e1f2269267")
 
 addappid(1566841,0,"79d388d747a94e90babd55643f7d2a009a696cdeede1123e20368b71da20b4ec")
 addappid(1566842,0,"f12d338e6d11cd71ca37b0b3ca002f55bb53d5485aa4a610a10fe1bb5faf9508")

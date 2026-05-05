@@ -2,6 +2,6 @@
 -- update time: 2022-04-11
 -- app_name: 重启的NTR后宫生活
 
-addappid(1742470)
+addappid(1742470,0,"4e132545e121198dfd052cabe3661d2fe38b5d54641f35f9a8cc6d1d70349167")
 
 addappid(1742471,0,"2143d50b695e0675ace5c8e1c6812f67563c4766ae7fc885aa8ce7fb52f699fc")

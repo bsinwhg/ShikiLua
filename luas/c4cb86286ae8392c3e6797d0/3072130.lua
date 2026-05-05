@@ -2,6 +2,6 @@
 -- update time: 2025-05-11
 -- app_name: Oceanlust：情色深渊
 
-addappid(3072130)
+addappid(3072130,0,"0cc4c16bcc1a6e67fd433beabd774648ccfe51a68345848449ed0c91ae5d4684")
 
 addappid(3072131,0,"9aad255b548e8077835eb7cdf2fa7cd061809a9f5ac9a5351da31b17faffa41c")

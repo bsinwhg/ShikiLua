@@ -2,7 +2,7 @@
 -- update time: 2021-06-19
 -- app_name: Blackberry Honey
 
-addappid(716340)
+addappid(716340,0,"a35311b95b032ccd872a59013d28e047bd05f0dd019dda12520cccbadd76822b")
 
 addappid(716341,0,"bd15126fc962dbb6c0a4ec9a42b6e18a6a0b2e811b58be392e437f73b38bbddc")
 addappid(1075720,0,"bff260b646418deae614e18a6e4d34d49c08e7d7fd34695a4b3d94c6ccaf9da8")

@@ -2,7 +2,7 @@
 -- update time: 2025-06-06
 -- app_name: Sisters~夏日的最后一天~
 
-addappid(2781750)
+addappid(2781750,0,"e57d32a3b465d8626e9384431e84af2e75b699fb66929bc211b0e1359759ac73")
 
 addappid(2781751,0,"5c3d679819846ede99cfe58b13c73d35ddee27bded8f5203b49fa3688b0f95f3")
 addappid(2781752,0,"696eef6dd11faa85a97fc12a44f3c36a6f8563d86371b34caa4dc59c7bdc9ccc")

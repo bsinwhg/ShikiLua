@@ -2,7 +2,7 @@
 -- update time: 2025-01-26
 -- app_name: 催眠卡牌2 幸福生活
 
-addappid(3085640)
+addappid(3085640,0,"a130a296b80a437986e3ec222d842ee6884239b23c0bba73cb8e45f45abd99b6")
 
 addtoken(3085640,"17735823876530162056")
 

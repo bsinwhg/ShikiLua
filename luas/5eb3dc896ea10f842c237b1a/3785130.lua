@@ -2,7 +2,7 @@
 -- update time: 2025-06-15
 -- app_name: 边境小店NTR
 
-addappid(3785130)
+addappid(3785130,0,"f41ad2efa76782b7f1ae44e50510776a31d18dc39d59d2b2f5c5c69bb0f7d93d")
 
 addappid(3785131,0,"2e85f5a855a4c29b2f27b04f3f0c5fdfb025fa607c5d5864682e2015b8e6bd6e")
 addappid(3785132,0,"c3b3d4ff39507a32fe1d5eb8b0e816acd2cd82acb6b45af667e3dd6d1cb2881d")

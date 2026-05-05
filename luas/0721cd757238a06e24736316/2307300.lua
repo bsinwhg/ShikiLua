@@ -2,7 +2,7 @@
 -- update time: 2024-01-23
 -- app_name: 纯情的可洛妮 ~星降之村的见习魔女~
 
-addappid(2307300)
+addappid(2307300,0,"eacf0b70dc851bec3b872a2fd5a891cd733073c12c14ce027452b17fbb3b1912")
 
 addappid(2307301,0,"fa6076c2d443bb01d34e2d21b226e14b78a1a98ff247141ef4cc176b9c5088b3")
 addappid(2307302,0,"c67479e946a153f322c2a8a1af1f473cdcd076157c056cb0f6b955e1be7523f8")

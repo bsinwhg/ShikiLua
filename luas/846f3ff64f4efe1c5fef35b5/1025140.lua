@@ -2,7 +2,7 @@
 -- update time: 2020-08-31
 -- app_name: LAMUNATION! -international-
 
-addappid(1025140)
+addappid(1025140,0,"74465d0538457ace1005b5d07dceae1ecb4e4b037a4b3aefdd7fceb10dbb28ca")
 
 addappid(1025141,0,"5098c1b7c97effa982ec61b1da8ba484d0e8d6e72caa9148d5e95e7d68e6cf98")
 addappid(1047150,0,"d588512096c7f18b0ca5f3f92d63c751a0fda939cc491975a5cf5fbabf75fa75")

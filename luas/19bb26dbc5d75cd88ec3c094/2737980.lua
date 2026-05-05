@@ -2,6 +2,6 @@
 -- update time: 2024-06-11
 -- app_name: 纯白交响曲 SANA EDITION
 
-addappid(2737980)
+addappid(2737980,0,"4644402645b188c0a7d770de0c292f051980bdb5bc9885f3ac5e6f30f0006cbd")
 
 addappid(2737981,0,"882ceb591ef091f2af56f01825d27f46362ca67a764d89d7d7d6e847ade539fc")

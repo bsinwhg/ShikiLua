@@ -2,6 +2,6 @@
 -- update time: 2024-12-13
 -- app_name: One Night ~仅限一夜的幼妻~
 
-addappid(3277480)
+addappid(3277480,0,"9b8f7021e62403b13d5ec729a3da77ae7edfd994626dd8a4c8b534bb42ad867f")
 
 addappid(3277481,0,"735e3eacb6ae39f1ecfbf8ffbed241483f08dc27d5e9b8a5d7144d3759c7ae4d")

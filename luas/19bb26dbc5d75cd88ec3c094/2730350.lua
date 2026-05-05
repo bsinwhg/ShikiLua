@@ -2,6 +2,6 @@
 -- update time: 2024-02-16
 -- app_name: Liminal Border Part II
 
-addappid(2730350)
+addappid(2730350,0,"f63cb5b7b8851d4870e525a7da216fb8297038c652473bde50425ac88224cabb")
 
 addappid(2730351,0,"a52a05e23a682786233689f57b36f6bb1a09a5d487088d6c13c54afb54e1de6b")

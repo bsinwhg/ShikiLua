@@ -2,7 +2,7 @@
 -- update time: 2024-02-12
 -- app_name: Steamy Sextet
 
-addappid(1154110)
+addappid(1154110,0,"0a56690e39f8b7df986750e35cafce6e1750f79cfcf53c88f0b823a5ec3415e4")
 
 addappid(1154111,0,"0948bc6aacf2c91d274987f7149d13958d81ee0e220b2cb25347b8b53bc06216")
 addappid(1154112,0,"077ef46dc1ba559f38c6e0823a36c2c84c520fdcecc80451c0bc8bda4d6b9581")

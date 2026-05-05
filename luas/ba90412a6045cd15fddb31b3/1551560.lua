@@ -2,7 +2,7 @@
 -- update time: 2022-12-05
 -- app_name: 梦魇与少女
 
-addappid(1551560)
+addappid(1551560,0,"7c0f40a331615b29e137904ef1c8bac990d867f29bd0ae883c5e3aa96b2075ff")
 
 addappid(1551561,0,"0ddd4520a10d8a8826c53bf1affb96491e0980a9208ab674d2aecd874d3bc5b9")
 addappid(1551562,0,"3ca0b57a1e5f8baec91decd1446d7ecad24d2708215f92421ae5bd2a2b11516c")

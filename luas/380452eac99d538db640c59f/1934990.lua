@@ -2,7 +2,7 @@
 -- update time: 2022-09-27
 -- app_name: 前辈与不可思议迷宫
 
-addappid(1934990)
+addappid(1934990,0,"a40eca71c23684238632a303d2b7b4d5185bdcfa659aa40ca06a8b2adbdb0a47")
 
 addappid(1934991,0,"879226ac7f36f0f2dea94ade0754da71ffea1a5d05cfdf5353699bc26e3655c7")
 addappid(1934992,0,"742a36968ccd56f3ed1a8bb6a1a657b400c70cc9e6d126715c33190e87918a8f")

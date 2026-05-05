@@ -2,7 +2,7 @@
 -- update time: 2022-06-30
 -- app_name: 阿多斯塔之海漂流记
 
-addappid(1342120)
+addappid(1342120,0,"b88a4ffc3dc1c8945aabe3e665b21c936ffee0efc7b08e8a07c5b737369712aa")
 
 addappid(1342121,0,"7cb766f03f0121f5f537f7b79c7f094766dcef0e9d81624bd1ca561edfa8feef")
 addappid(1342122,0,"26570162d6d719c89a1d0cdea73d7c09c018e9f2bd1a9032d47f249651a70264")

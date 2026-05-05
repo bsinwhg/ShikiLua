@@ -2,6 +2,6 @@
 -- update time: 2023-11-16
 -- app_name: Hide or Sex
 
-addappid(2686670)
+addappid(2686670,0,"421b1bb4041b380a0ac763c5b0d0d193fef90317b19fd857d6238288aaaea86c")
 
 addappid(2686671,0,"149d8130788af02a413012f1df47f32305352e1c88f4b36bcdf01cc5dbc3f213")

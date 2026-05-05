@@ -2,6 +2,6 @@
 -- update time: 2017-10-11
 -- app_name: Legend of Fainn Dynasty ～Battles of Beautiful Warlords～
 
-addappid(720240)
+addappid(720240,0,"c918efbcb61a041549a381aba301e1cb6f6323a8bdab7069d8fcb16bff786cac")
 
 addappid(720241,0,"8937497d4e481b2ad9a7aa6aaff0242efce19a9c06ba564508479fdbc38b77cc")

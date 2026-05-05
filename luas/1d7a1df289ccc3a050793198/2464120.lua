@@ -2,7 +2,7 @@
 -- update time: 2023-08-28
 -- app_name: YUME 3
 
-addappid(2464120)
+addappid(2464120,0,"30d6577574dcd525e6ab14e0f6caa4dbe2bc2f794c39bf86847c5e468b801f02")
 
 addtoken(2464120,"6362346597535920752")
 

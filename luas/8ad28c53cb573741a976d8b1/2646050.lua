@@ -2,6 +2,6 @@
 -- update time: 2024-02-05
 -- app_name: Sakura Isekai Adventure
 
-addappid(2646050)
+addappid(2646050,0,"7cf2514f884298f0ca2cc9d31a53cfdb04e700e0dfeaa8fee5995d408cd5ac65")
 
 addappid(2646051,0,"5063078418cc94616e99f8c453eb16a74b8b13770bde84af02111efc079eccb8")

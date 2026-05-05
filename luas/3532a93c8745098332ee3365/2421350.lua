@@ -2,6 +2,6 @@
 -- update time: 2024-12-16
 -- app_name: 雙修武林
 
-addappid(2421350)
+addappid(2421350,0,"30847598aec2667e4ef8c666df133615ebca1f9e73b0ae7b07eca27afcbe0c6d")
 
 addappid(2421351,0,"172f94c002d3bb3a0e43f677287a18520f7c2543c8af3934ba5dce1eb2b303fc")

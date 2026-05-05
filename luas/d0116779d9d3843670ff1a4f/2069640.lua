@@ -2,6 +2,6 @@
 -- update time: 2022-07-25
 -- app_name: Hero's Journey
 
-addappid(2069640)
+addappid(2069640,0,"05af84d22a6ed4e13872a22c24bff6a32c0e6c9225ffc19d4956dc82ad2347b4")
 
 addappid(2069641,0,"1e1f09869084e661446538b39b15e2e3e1e227133f3d992f6e1930387ab7871a")

@@ -2,7 +2,7 @@
 -- update time: 2020-05-15
 -- app_name: Kawaii Girl
 
-addappid(1198390)
+addappid(1198390,0,"9260d57ca178741d6f39d49d0b7a2af32f91be756699db721e8623ca6644e293")
 
 addappid(1198391,0,"56008414f9c876a50d726db3cca4a9e94bc935737a314f5c4c2d55710ef665f6")
 

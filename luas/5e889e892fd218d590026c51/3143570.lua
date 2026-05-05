@@ -2,6 +2,6 @@
 -- update time: 2024-10-04
 -- app_name: 光翼战姬～ExS-TiA协奏曲１～
 
-addappid(3143570)
+addappid(3143570,0,"a2aa386a79525d7794d0a355077b6e5d8fa2bca2f18d8a87bbb84139c43fe97c")
 
 addappid(3143571,0,"4d0ee90bf430c1a0759eef06a4aff8a0081f9818e451d28337d93e15960e360a")

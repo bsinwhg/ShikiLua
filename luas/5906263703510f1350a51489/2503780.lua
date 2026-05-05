@@ -2,7 +2,7 @@
 -- update time: 2024-04-29
 -- app_name: 月之少女、河中天使、成神之刻。
 
-addappid(2503780)
+addappid(2503780,0,"6a5025416f87a502d4428f25535e8680123a3901f37ee0a6ab3846a431a9c1c0")
 
 addappid(2503781,0,"fb9e6087c9e7eaf0deb7fb93da10bad6b8427a3cb6ed9bcf5a28de8fba9f5bc8")
 addappid(2503786,0,"d72af15acfd6db1a8dc93c45242fe9528d26b7278bbd281b802d3edb465c5fdd")

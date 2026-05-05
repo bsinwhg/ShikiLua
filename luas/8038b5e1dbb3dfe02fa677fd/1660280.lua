@@ -2,7 +2,7 @@
 -- update time: 2025-11-21
 -- app_name: H-Isekai Loves
 
-addappid(1660280)
+addappid(1660280,0,"b087ca993824c7a6d4cb091d1e062fbb4311ef93769e3a68722fa47413cb4b77")
 
 addappid(1660281,0,"8cc649cb0a22cb4c90df6a1cda5c2cb79e8f4c8a98eefbd12ae3c302a4b0b52d")
 addappid(1845310,0,"6b1e2ce8dec9f7318b11a4e3b7b6ec960cb4575c4cb4002912ce2c4cfb186350")

@@ -2,6 +2,6 @@
 -- update time: 2024-01-25
 -- app_name: ARATAMAKAMI
 
-addappid(2782510)
+addappid(2782510,0,"257092db8c843c785e8ecf701035ba6fe45a72c15f806fdbac16293aa4b1937c")
 
 addappid(2782511,0,"68ee63d1f44dd68452fc4b72550144ec4d95c50ade17a9a3ed8b976a4d05a61f")

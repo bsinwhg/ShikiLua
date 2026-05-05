@@ -2,7 +2,7 @@
 -- update time: 2023-01-11
 -- app_name: 光樱闪姫普利塞
 
-addappid(1965280)
+addappid(1965280,0,"a18805d841fb8cfe36806feb6e8eddf3d61b0332392d637c4698a3afb8935b98")
 
 addappid(1965281,0,"8d11194622fcd713500f4787b1aebede6da0c3af0a461c3a9a220d29cc3e34ca")
 addappid(2495170,0,"bc24e1743a1fd9e674a543bdeebe8a523714d58e5aca850995a88b255b99a0bb")

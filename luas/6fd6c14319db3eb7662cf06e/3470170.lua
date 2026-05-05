@@ -2,6 +2,6 @@
 -- update time: 2025-08-06
 -- app_name: 女王游戏
 
-addappid(3470170)
+addappid(3470170,0,"2e545f9cb03a5471addc133f4448e600da8e098d2d9601a732a5185342f420bc")
 
 addappid(3470171,0,"6b190ee575edf4396d9c6f678cc87f91af1ad2fe6ef4f5ec94ebdbbd3ae3da09")

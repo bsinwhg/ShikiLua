@@ -2,7 +2,7 @@
 -- update time: 2023-04-10
 -- app_name: 欲望的圣痕 ~堕入深渊的圣洁修女~
 
-addappid(2287960)
+addappid(2287960,0,"6d09bfc25bd9be1783019b284f967634167aa5ee3ee75abee283120ad03d2624")
 
 addappid(2287961,0,"149e0764e8dc545c9a55fa06ded87ed0efc156c3eeea62909431558226abb780")
 addappid(2287962,0,"6d18dd3feae1034bc8b74e4e446b2ad191d24a446e918ca7d89abe1fa17e54e9")

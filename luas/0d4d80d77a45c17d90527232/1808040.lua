@@ -2,7 +2,7 @@
 -- update time: 2023-01-14
 -- app_name: 独自一人：刺激的新世界冒险
 
-addappid(1808040)
+addappid(1808040,0,"3d52a237db69af3fa9cb3ab45d930c3c38cf55c3a1a871e5f0ecbe77a80071fc")
 
 addappid(1808041,0,"576c91b3d2398bb874ce673abc186dec03a451d1dbb7413c4bfd7287eeeaa281")
 addappid(1808042,0,"fe54edf0f8bc1775fcce1c07d84af2c3a10fcda3e5adbcd8b0de23b96cd74e07")

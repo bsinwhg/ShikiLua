@@ -2,7 +2,7 @@
 -- update time: 2025-05-14
 -- app_name: 雨夜迷醉时～A night filled with the sound of rain～
 
-addappid(3556740)
+addappid(3556740,0,"32fae3109e27e013810dfac470711299e5dea04fc87630bdfa23c3f94ca1cc41")
 
 addappid(3556741,0,"ec50a696d376c762e08e89f4f58e2fb02394bb8e9d84271ab52b5d18c2cb4fb1")
 addappid(3556742,0,"8276035ff1b257876fb1fb53dbfa27e0efb5b328092be56952f36fff5b926928")

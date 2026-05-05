@@ -2,6 +2,6 @@
 -- update time: 2024-04-29
 -- app_name: 对魔忍雪风
 
-addappid(2739700)
+addappid(2739700,0,"47421c9b57df88b621a4e146caeb585f93ac40c694fdf18b39bf75f0c7bce8b8")
 
 addappid(2739701,0,"53be8aa3174f1fdcfd58684d4eba6f7820afcec522a1bc8cd583d43ab61a1309")

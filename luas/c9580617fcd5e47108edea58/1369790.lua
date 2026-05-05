@@ -2,6 +2,6 @@
 -- update time: 2025-01-30
 -- app_name: 回家前都算是棉花糖
 
-addappid(1369790)
+addappid(1369790,0,"2ac25952766df1dccf2a8f9d0b0ad73146125b4d6ccb76dff4373363dbdc11c1")
 
 addappid(1369791,0,"5b55f191681a5d180ad1d19d09745311f45aa0182053aa3fb6acc70bebab39af")

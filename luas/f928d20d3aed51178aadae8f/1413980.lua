@@ -2,7 +2,7 @@
 -- update time: 2022-01-31
 -- app_name: 魔王的冒险者小镇
 
-addappid(1413980)
+addappid(1413980,0,"527b256012841f4e0ac9d524d3dcb671d44884b26eaa8aefb6bcd373fb1e13b7")
 
 addappid(1413981,0,"42c51cc817fd7aee3eb542713e6c91e0990b8aa00badbccdf67018c1ce202fcf")
 addappid(1413982,0,"bcb8b34aeb89c6caa8a50dd2fe6fa836f8e09d9354512ad785886d5cc1e48aa9")

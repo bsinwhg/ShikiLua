@@ -2,6 +2,6 @@
 -- update time: 2024-01-16
 -- app_name: 精灵女上司的训狗术
 
-addappid(1988080)
+addappid(1988080,0,"51f9a161884b8cde12f3fd270d6d0fb42d5a2037c7f7a1fa0bcf61580e5ffdc4")
 
 addappid(1988081,0,"2f2d89c33d219070189ed82828687c2c29119ce4ddfec37ab6db6a3fde7f6b3f")

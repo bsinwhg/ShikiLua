@@ -2,6 +2,6 @@
 -- update time: 2025-12-25
 -- app_name: Mahou Arms
 
-addappid(1165870)
+addappid(1165870,0,"64085e75df053f53ff49453033168bde94a3c796973985a22d918ebe737527c8")
 
 addappid(1165871,0,"d9f54b16c1da7cd86fb9df6038fea5304ff0ab65adbf2e0508cab3112ada43a4")

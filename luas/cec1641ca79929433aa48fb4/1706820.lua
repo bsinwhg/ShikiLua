@@ -2,6 +2,6 @@
 -- update time: 2022-02-03
 -- app_name: 熟女的城市
 
-addappid(1706820)
+addappid(1706820,0,"3b7cd2f592068122ea474c29dc0c55982aab9f26ba210d34575da1c5cc3261e5")
 
 addappid(1706821,0,"b04ff44688067aa0f1bc30d30b4adc392853b0afa2136b7b155b72c5699f4ae5")

@@ -2,7 +2,7 @@
 -- update time: 2023-06-26
 -- app_name: Hot And Lovely ：Charm
 
-addappid(2206150)
+addappid(2206150,0,"e442c38c3b6aa68af5880f02ee9a470a11c51213062d3095418eb6b82caa4dae")
 
 addtoken(2206150,"8737382314796150450")
 

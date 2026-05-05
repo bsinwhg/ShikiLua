@@ -2,7 +2,7 @@
 -- update time: 2023-12-09
 -- app_name: 诺艾尔会努力的！
 
-addappid(1724320)
+addappid(1724320,0,"24bd901a2e48d12f40f57cf222afefbd464f31b5b84feba59309a0784edc8398")
 
 addappid(1724321,0,"c590dd8bb5b7295f31f32b3cf4a1ca294a944891e8b61aedb9fd288492fd8f65")
 addappid(1724322,0,"57ec54beb96ae23bf195dbfd600b64ee0907917d3a22fd5cc7942f276727425f")

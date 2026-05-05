@@ -2,7 +2,7 @@
 -- update time: 2024-08-12
 -- app_name: NEKO-NIN exHeart 3
 
-addappid(1129250)
+addappid(1129250,0,"0857e7e0bcebdbe7346ac690bb5e641a77e68a93bfc8b3c49813be5fcb2534c5")
 
 addappid(1129251,0,"b8e2f2a8ae12b9f57457dafce4cecffea03242b2382f3b2236ac791980491d21")
 addappid(3166350,0,"ec89ed3d75e618338e2adfb9908dbe7b32938c87d3246cc6ca88103184daf497")

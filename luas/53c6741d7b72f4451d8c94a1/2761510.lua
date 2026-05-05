@@ -2,6 +2,6 @@
 -- update time: 2024-04-15
 -- app_name: 帅气的我与100个女友！
 
-addappid(2761510)
+addappid(2761510,0,"9ec937c28fa0fdb2d3fd156fa5900a3be44eaa47273edde6cd0e7ce3ff56412b")
 
 addappid(2761511,0,"16d6a26d0dcbb97c1ff66bd132b37cdb531eb109b2caf4e4cefb37539dac44d6")

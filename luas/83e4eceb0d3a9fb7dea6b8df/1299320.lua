@@ -2,6 +2,6 @@
 -- update time: 2020-11-02
 -- app_name: 午夜淫魔城
 
-addappid(1299320)
+addappid(1299320,0,"2b9c0aa7d471fc513d6e79826e1cf4a80fd6bac19c773a564ab51ffd228a1e2c")
 
 addappid(1299321,0,"11d1de1dd11e8583a5adf970135d385cfde9af5f4cae98c06cfdc1b5254765cd")

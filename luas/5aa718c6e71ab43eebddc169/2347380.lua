@@ -2,6 +2,6 @@
 -- update time: 2023-05-10
 -- app_name: 魔女的花园
 
-addappid(2347380)
+addappid(2347380,0,"0ed519fbdbdc91709ce1ac6c6ae9637d08547bace83dd88c2f99ebbf4334f3ba")
 
 addappid(2347381,0,"0ace6a68df6b2d06443c2c430e08ab6079f1b48d774df71490341d67cf368ce5")

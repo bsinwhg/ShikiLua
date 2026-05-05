@@ -2,6 +2,6 @@
 -- update time: 2025-04-20
 -- app_name: Another World Guardian
 
-addappid(3588580)
+addappid(3588580,0,"9a0dafad69e700b88aa773d0e0f3a5ac17d1daaf11d6dfe96622fcb87c7b11f2")
 
 addappid(3588581,0,"f91093199035709f75d09d42b128ce1c3a6edc3a02f411721ecfa2b049f4e025")

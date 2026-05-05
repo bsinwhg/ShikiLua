@@ -2,6 +2,6 @@
 -- update time: 2023-03-13
 -- app_name: 为你臣服
 
-addappid(1925050)
+addappid(1925050,0,"a377f4c6d8ade3488c9762751f3e0bf0b5dc7b04e049a4df72385a4184aac056")
 
 addappid(1925051,0,"fbbf250a18281a9e3d4cbf9349773320e93e3568d9e07450755e2dca09c3cdb3")

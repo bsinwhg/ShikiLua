@@ -2,7 +2,7 @@
 -- update time: 2023-10-09
 -- app_name: 异世界猜拳勇者
 
-addappid(2143540)
+addappid(2143540,0,"d9fa68e6d4a329d757e9eaa7cf978c60113220aea30b34e8a2d241f71f330019")
 
 addappid(2143541,0,"29691ae1e012fe2e8a4bff9e0a1d60cc7054f57d72c732cd02c5587cfda26caf")
 addappid(2232640,0,"41551a0db163cbf1c3cb672db7458c61f55217c43119f32f126bdcdce85a54fb")

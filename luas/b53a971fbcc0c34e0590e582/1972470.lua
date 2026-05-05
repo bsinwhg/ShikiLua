@@ -2,6 +2,6 @@
 -- update time: 2024-10-14
 -- app_name: Under Contract
 
-addappid(1972470)
+addappid(1972470,0,"2de323b62efaebd0c0a3bf93e4ce8d5fcdb870a122ae99b7c8e634da3351692b")
 
 addappid(1972471,0,"1549e8e73488583468f6a9fcdf615fa1e3a6bd62a89764ebdb18005d03182fe7")

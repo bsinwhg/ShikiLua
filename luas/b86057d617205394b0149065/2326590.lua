@@ -2,7 +2,7 @@
 -- update time: 2024-05-07
 -- app_name: 淫习的幽世村 ~绝对不能曝光女性身分的时间~
 
-addappid(2326590)
+addappid(2326590,0,"4a052eb62713cbfc468b00119682c70d2f2ab4105afe6d88fc7517751c1dfa9f")
 
 addappid(2326591,0,"06dffa8bbe8ca3cc7ca7a8002bce59c29899352e3950ab92462e53861b21a328")
 addappid(2326592,0,"7b7c2d7b88f3e48079fadda550611d68b15841b01427ec5511de10bd8a039afd")

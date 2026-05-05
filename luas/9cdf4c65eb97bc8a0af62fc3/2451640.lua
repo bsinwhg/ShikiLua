@@ -2,7 +2,7 @@
 -- update time: 2025-09-29
 -- app_name: Furry Myth 🦁
 
-addappid(2451640)
+addappid(2451640,0,"c99ad2262918a5f7f35f889fba2ffc96aad9b07d2cd9c5cc30b50934e2691c8f")
 
 addappid(2451641,0,"032203c5ac58e693cb22424290bf3fd4641f142b47d3bc0f9b1a8e373fbed15f")
 addappid(2805290,0,"91b4f4bdc95dfce4a8be06bd68852dd600476e9e0604fdf0d66c4a2e62792c9b")

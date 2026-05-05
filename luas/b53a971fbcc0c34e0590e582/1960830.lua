@@ -2,6 +2,6 @@
 -- update time: 2023-05-11
 -- app_name: 玉响未来
 
-addappid(1960830)
+addappid(1960830,0,"b46dfd84a80a5e500a5eea4a7729059649087b6d3e46ce7c22cfe84dfc03bfed")
 
 addappid(1960831,0,"a90ea531b57341d0e69e959b043b491ead2f679bc518a527f4cc7ce8c229ba7d")

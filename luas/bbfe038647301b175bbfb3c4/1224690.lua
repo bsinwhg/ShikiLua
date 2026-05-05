@@ -2,6 +2,6 @@
 -- update time: 2020-07-29
 -- app_name: Avaria: Chains of Lust
 
-addappid(1224690)
+addappid(1224690,0,"896d39344bd2749fa08149e898a9dbdbe4fd6b75dd0f251b3f29fe3ee1ea7a6d")
 
 addappid(1224691,0,"40c2cb7eee8e66c047f307038bfeef7661aa409541d1ceaafe7a986ea79ef96a")

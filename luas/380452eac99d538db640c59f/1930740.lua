@@ -2,6 +2,6 @@
 -- update time: 2022-11-23
 -- app_name: Muse:Valkiri&Dungeon
 
-addappid(1930740)
+addappid(1930740,0,"d04b9b59faab77f1d604d00efa88553c8ea45197d1af496cf0f91c8ea3ee53b4")
 
 addappid(1930741,0,"de4025ff3f73a3b1cd0ce08d51e3efa8f3f0a017b07c6a0f282cbb1e0b120c19")

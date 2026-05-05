@@ -2,7 +2,7 @@
 -- update time: 2025-11-19
 -- app_name: 影色渐染~阿斯林顿的妹神官~
 
-addappid(3111930)
+addappid(3111930,0,"f4fc4e47aadb7e11eb8ccc4a0d16903bda6349773c8c70bb67342f65d160cf49")
 
 addappid(3111931,0,"62eb721dcfbea6a6d6d352bf9636c5511d99469a53934e9b5bd66e6ae288e386")
 addappid(3111932,0,"f7a5510b7cbdefcfd3d0039c54cc1296065d69c69e47d7eb5a26ab6d46faf6e9")

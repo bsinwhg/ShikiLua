@@ -2,6 +2,6 @@
 -- update time: 2023-10-26
 -- app_name: Nayla's Castle
 
-addappid(2097880)
+addappid(2097880,0,"f31752a6496fcfdd0bed25a0538c7e4b0b3a89eb7b630aa85b27cd74452312c7")
 
 addappid(2097882,0,"e8a82f4ae601bde673deee16f0e5234454987fa7722ea112f4605db93ebddf68")

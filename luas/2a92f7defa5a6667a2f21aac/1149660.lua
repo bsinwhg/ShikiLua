@@ -2,7 +2,7 @@
 -- update time: 2020-01-10
 -- app_name: Seek Girl Ⅱ
 
-addappid(1149660)
+addappid(1149660,0,"d905751dc77beac6159debe640317d18306396da8c59aee5bcd2ea0cd79f616f")
 
 addappid(1149661,0,"5eaff49e16659003bb3b7f72329e6b2c58193f6f261904b2a5e7ff7ae57cc1e5")
 addappid(1163330,0,"4813e5c81a54ce05e6c5b70b5f95864dbbc831deb7c6548bbebb95df076733f3")

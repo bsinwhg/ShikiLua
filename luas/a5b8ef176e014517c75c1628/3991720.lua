@@ -2,6 +2,6 @@
 -- update time: 2026-01-06
 -- app_name: 想要诉说的心意
 
-addappid(3991720)
+addappid(3991720,0,"129a43c3ede1a1bf30b518873842e4dbee7870abbff182fee4f0b22e9e7d25e2")
 
 addappid(3991721,0,"cc6993a028942d93d5e8a7c95f50bcf3f1d12525a5cc34066feffc3c0785e13e")

@@ -2,6 +2,6 @@
 -- update time: 2023-11-16
 -- app_name: 兽娘道 ☆ Girlish Square 2
 
-addappid(2601750)
+addappid(2601750,0,"e172474cab3095e995ee00651343b7b4079669055f2b7656c4ad3e47c5b3a972")
 
 addappid(2601751,0,"8674b89e1a4fffdb71d5b3db305bcbba1e34e7fcc706ed62e6a89a793b5e3206")

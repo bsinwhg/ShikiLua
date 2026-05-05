@@ -2,6 +2,6 @@
 -- update time: 2023-07-11
 -- app_name: 欧克按摩店
 
-addappid(1129540)
+addappid(1129540,0,"0d80d3da846a66fefb93dacf1ea3e517f9906a88ce066f367b1084408c0033f7")
 
 addappid(1129541,0,"b1352d91104d7a3c4a4402d664ca5eaf0471b69d4483c5e37ca40d47416ae6ae")

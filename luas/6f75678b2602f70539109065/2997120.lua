@@ -2,6 +2,6 @@
 -- update time: 2025-09-19
 -- app_name: 好色管家俏姐妹
 
-addappid(2997120)
+addappid(2997120,0,"6581231f9bab03ce149de93141ed352c477a977ba9caded2479d0a92e629a8c9")
 
 addappid(2997121,0,"1eb6aac18921f46af207d80bb4294c731d859a54aa38117ce429ed843a77bfc8")

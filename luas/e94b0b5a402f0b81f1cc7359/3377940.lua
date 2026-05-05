@@ -2,6 +2,6 @@
 -- update time: 2025-12-12
 -- app_name: 你重生到游戏世界，性交了NPC！ -动画-
 
-addappid(3377940)
+addappid(3377940,0,"d6cc4c400a69e9bf51a8fa82bb0a78ff6c89970355377a3d50d34e427e8d2405")
 
 addappid(3377941,0,"06877a792507572e245eacfb70650eb1b28f91386958c94fe3bfe49d9929bacf")

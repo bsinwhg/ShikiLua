@@ -2,6 +2,6 @@
 -- update time: 2025-01-26
 -- app_name: My Cute Egg Diary
 
-addappid(3360250)
+addappid(3360250,0,"dbb997bcbd73e74c7a14a257a13ce00f3b6e6d7c548940b438070f76f4cfbd8f")
 
 addappid(3360251,0,"918d4814efa55e2269519a219abfcf1ef6b02962624e3f8bc19ce92fcb8867d3")

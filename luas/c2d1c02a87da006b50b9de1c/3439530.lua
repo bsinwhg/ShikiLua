@@ -2,6 +2,6 @@
 -- update time: 2025-02-13
 -- app_name: Tomboy: Annoying Childhood Friend
 
-addappid(3439530)
+addappid(3439530,0,"b3801611be71a80c103f744fb5fa597014ba384a13257254c7fa79b36e1d1c2c")
 
 addappid(3439531,0,"f73be1a6eb07b6c1502ff857c768168760d5d9dd45022c87ed03ba06a661d143")

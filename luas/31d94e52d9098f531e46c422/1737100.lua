@@ -2,7 +2,7 @@
 -- update time: 2025-10-01
 -- app_name: Treasure of Nadia
 
-addappid(1737100)
+addappid(1737100,0,"02a537e5807c0e02bf78a38735e6ebc3ff8e211700af5ce9431c7e8b59c1dbea")
 
 addappid(1737101,0,"a09bbee3b0b48c12f205af08b2368560edbadb26a14d1e23be07da3faefed34d")
 addappid(1737104,0,"04d45c82a571ef38dc0c0488ba8381508099222e32d5457760d4967176f23b05")

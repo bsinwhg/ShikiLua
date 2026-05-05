@@ -2,7 +2,7 @@
 -- update time: 2024-02-08
 -- app_name: 此后，勇者不知所踪
 
-addappid(2582660)
+addappid(2582660,0,"f5b5a503293a7c34ec121ea273ffd19385f71620495226ea16decc4d9fb5af73")
 
 addappid(2582661,0,"3f28164e45f91a8ea2f3439f1d6e08ac410703d44e07ca6bf50bbd9a034256b3")
 addappid(2582662,0,"b403db2ef212db42142cd36193892bae3dc6805caa610e2ec9bbfae9a8095da0")

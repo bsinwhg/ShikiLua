@@ -2,7 +2,7 @@
 -- update time: 2020-10-01
 -- app_name: Hentai Asmodeus
 
-addappid(1147510)
+addappid(1147510,0,"aa087cd5e23cb126a931d7f90bd73ef86b9ffb09822b3a8f572c2151da059247")
 
 addappid(1147511,0,"e4f92b8ebe218cac2da5e8e27c754230ec6d71f627f0fa58aed4cae2b9239eeb")
 addappid(1176490,0,"cd6b8f5ca6d57b8ad2388fe3983dc0d43468189664220bb2acb0c0fd93a737d4")

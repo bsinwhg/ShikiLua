@@ -2,6 +2,6 @@
 -- update time: 2020-08-19
 -- app_name: Ecchi Jack
 
-addappid(1340600)
+addappid(1340600,0,"5cf25eae8c8c2da5f2764c4c2081ea70b935c223bcab340347936607cd2b5358")
 
 addappid(1340601,0,"21254ea95d073fb79cfae3c1272a814ff8eee9cd050f313b4829688dae725133")

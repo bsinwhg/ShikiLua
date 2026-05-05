@@ -2,7 +2,7 @@
 -- update time: 2025-04-01
 -- app_name: 最强☆天使 沙利叶！
 
-addappid(2804550)
+addappid(2804550,0,"385297ce0fb2fdf611ff1bbfeca4a017d7bf1ca2cf0b0f95fe6603d1ea42fe73")
 
 addappid(2804551,0,"dfc93272be62177c6c433207144af77d3563de2d62818c8f4f861e35cb05f09e")
 addappid(2804552,0,"80d423f97a6c35147c53e84e7e59747889fca0ff5a8b1904dcf65c305b10ab21")

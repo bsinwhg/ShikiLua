@@ -2,7 +2,7 @@
 -- update time: 2019-12-06
 -- app_name: Taboos: Cracks
 
-addappid(1060670)
+addappid(1060670,0,"d1e5e3416ab5b75df5ae2fbd7f4cab13cf7c6278db5fcf3a250db5cc43edfb1d")
 
 addappid(1060671,0,"1390abcfefc4ee287f2d8c61a14da848f32ccbb18d1168383c08c58208cb2bd5")
 addappid(1110320,0,"9b516377089198530023b99ef085dbad29079f892ab447730104a02c0bc50d15")

@@ -2,6 +2,6 @@
 -- update time: 2026-02-02
 -- app_name: 关于我转生成为变态手的那档事
 
-addappid(3264850)
+addappid(3264850,0,"e36b1e605f0cefe7c78e93e3b72db5ede3e41c4896a9bdf8de78a52ee28c55b3")
 
 addappid(3264851,0,"0c3939bfeb0779a83002b99b9dbafae53d694dbc5966fdf6c07a90b54372f604")

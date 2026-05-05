@@ -2,7 +2,7 @@
 -- update time: 2025-12-22
 -- app_name: 我的可爱女儿 / My Lovely Daughter
 
-addappid(580170)
+addappid(580170,0,"9fad1c75f4dc7ed05b3a38d00ced824b62e14441c000e01485837fe9c2ebd927")
 
 addappid(580171,0,"941dffc83c78c5187b363a41ccdd15d251258a6525e7ff068b90a024a428f953")
 addappid(1033041,0,"d77a8fd0d23d6c154d13fb6f29f24f8aa769157c1c54b38a5640cc2c58e63d44")

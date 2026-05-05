@@ -2,6 +2,6 @@
 -- update time: 2022-06-02
 -- app_name:  在无限重生中守护妳
 
-addappid(1778280)
+addappid(1778280,0,"d08c53bf6999c75def50119b50473bd495bab721c95ee877e8b2a820d8a5cb10")
 
 addappid(1778281,0,"ff7bb32335dafa84cb27419bc7b1ff64f23184d1bb6cdd9ce4a54291a9ea2330")

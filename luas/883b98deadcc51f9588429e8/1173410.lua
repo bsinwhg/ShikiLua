@@ -2,6 +2,6 @@
 -- update time: 2022-05-28
 -- app_name: My Breast Friend Sally
 
-addappid(1173410)
+addappid(1173410,0,"1c34c09ead2f71099e4dec12edc52d2a365a44a659a739aa79de93533446d6ac")
 
 addappid(1173413,0,"12dd03b22ecfc2b35669ae8d286e8f918884be1a5d39ebc74f40abf2cbfd87bc")

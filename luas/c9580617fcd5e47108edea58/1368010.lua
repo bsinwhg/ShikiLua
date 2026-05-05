@@ -2,6 +2,6 @@
 -- update time: 2024-09-12
 -- app_name: Primal Hearts 2
 
-addappid(1368010)
+addappid(1368010,0,"291cc92f9d12062ebab58eb1fd54a8686263d264ae26825b5369954205ddde61")
 
 addappid(1368011,0,"bf979df2d347fc8c141990a74a53a9bb993a5fb2cb7f4973b9fe1797610fa3b1")

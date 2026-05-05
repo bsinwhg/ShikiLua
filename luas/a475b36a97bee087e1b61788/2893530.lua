@@ -2,6 +2,6 @@
 -- update time: 2025-10-16
 -- app_name: 蛮族的侵略 - 被强娶豪夺的村庄
 
-addappid(2893530)
+addappid(2893530,0,"d577a3a0bd2f7fe60ac151a307e98f603b417d445fa2dcd5da7534579f3a2a5d")
 
 addappid(2893531,0,"401692a3e21d8618961b851c4180aba8e435351dc01ab7575e50a353ed4cefc1")

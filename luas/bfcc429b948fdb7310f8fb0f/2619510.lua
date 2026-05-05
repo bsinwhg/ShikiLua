@@ -2,6 +2,6 @@
 -- update time: 2026-03-09
 -- app_name: 幻欲游乐园2
 
-addappid(2619510)
+addappid(2619510,0,"e67e5b731ef0f50e715b148e1eca03e0b9945dd385449a9bb261e5b53921a884")
 
 addappid(2619511,0,"6475c7736ef57987e791be66b8bd9b4f0fbe5e5a2d4eea12785d1fc683903784")

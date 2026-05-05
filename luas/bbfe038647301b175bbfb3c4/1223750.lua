@@ -2,7 +2,7 @@
 -- update time: 2026-03-27
 -- app_name: Cloud Meadow
 
-addappid(1223750)
+addappid(1223750,0,"688f47aa30c8ee351ffc7d92b8c869407a39485c11f4b6cba2063ad5f54bd4a3")
 
 addappid(1223751,0,"88d74738f99c281635e93487fe2dd2868ccb7c88dbf1c87dcbb748da80e3e8db")
 addappid(1223752,0,"de4a25bf0aad5f39e9c95f5f55a504bb2bf6aa283f335d47b9213474109c6db1")

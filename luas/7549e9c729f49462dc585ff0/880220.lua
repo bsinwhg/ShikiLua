@@ -2,7 +2,7 @@
 -- update time: 2022-12-24
 -- app_name: ~Azur Ring~圣女与奴隶之匣
 
-addappid(880220)
+addappid(880220,0,"15b09f57767cb3c880b4eabe940249dbddbfc18243ba2948b4e5c71004a9166f")
 
 addappid(880221,0,"8d6d85f2bfd21f9bf9f4d58c6ec6fcd12191ad28d85fad8b5b64e100b6d3a999")
 addappid(1325320,0,"7371d0b8e9c7f527c60a299543e725be3e1fe54c3d4ffbaf33101d23591a981f")

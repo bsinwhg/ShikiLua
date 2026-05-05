@@ -2,7 +2,7 @@
 -- update time: 2020-10-12
 -- app_name: Guardians of the Ashes
 
-addappid(1195020)
+addappid(1195020,0,"e0a93c995820da35bb1c94d6a9ba2dec00f5137dc44fcc6d266f475cd2a29324")
 
 addappid(1195021,0,"f09129cec70e04532a511a18f8efd3ac4d1e9891756a91aab42f93940ce7e72a")
 addappid(1251870,0,"9847da31a25a71ce914fe499d9b4147ce54da23d26731c4f0ebecab14bdf6ae1")

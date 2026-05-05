@@ -2,6 +2,6 @@
 -- update time: 2026-01-29
 -- app_name: 夏日海滩
 
-addappid(1936020)
+addappid(1936020,0,"ecbd8c8fcda5a38193590db679bacdc322071db9e8ed1f0ecefc24e8e7b9d90e")
 
 addappid(1936021,0,"00b7c04293f112b3b3488b23f9df2f30fc3b7c1d0789d33daf2a0de0310c253c")

@@ -2,6 +2,6 @@
 -- update time: 2024-05-08
 -- app_name: 伊芙物語 2
 
-addappid(1959520)
+addappid(1959520,0,"6c87125e4d2ad377bd08ee85bfc60e86131444e794b93453654e751e131b25e4")
 
 addappid(1959521,0,"b99f0b1a0ddb2cc6b26f314c9a857a65fb961f556a4aef394d65a4ec5ba1cbd9")

@@ -2,6 +2,6 @@
 -- update time: 2021-05-08
 -- app_name: Ecchi Spirit
 
-addappid(1484560)
+addappid(1484560,0,"ba9794236e99370d51aaf146961b4c505e5ce668562fe0951ab7cebf51f3262d")
 
 addappid(1484561,0,"a8713ce14dfa3cdb8ae83f964f0a9950110805f70e416974746dc54ade586ab7")

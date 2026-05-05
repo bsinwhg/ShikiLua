@@ -2,6 +2,6 @@
 -- update time: 2020-07-24
 -- app_name: 魅魔新妻 Succubus Waifu
 
-addappid(1184400)
+addappid(1184400,0,"2cfeda1d51fffd42518164fce1e88cd58c78cbad3f7b2f7ea875de39e64ed7e8")
 
 addappid(1184401,0,"88e7dd6a8a9ce3e1947596d857d20e040dfbc32ef84c35c0472152a26acc30c0")

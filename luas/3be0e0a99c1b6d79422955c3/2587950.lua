@@ -2,6 +2,6 @@
 -- update time: 2025-05-19
 -- app_name: Isekai Hero
 
-addappid(2587950)
+addappid(2587950,0,"92031749bbc8b824874e28a20e31c58414b91b597a04589bab1b70378e6c9a52")
 
 addappid(2587951,0,"9cb3a0bba649f614883e6d9c67d6da6199bd69e5e4329addb3306b84b65e4242")

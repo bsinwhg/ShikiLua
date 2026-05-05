@@ -2,6 +2,6 @@
 -- update time: 2022-03-23
 -- app_name: 謎塔魔女
 
-addappid(1587290)
+addappid(1587290,0,"285044c4f37fd1a8a1beceb8fd27ddcc9472cef05a63945e7f15074adade31da")
 
 addappid(1587291,0,"5f0345992f7c3872df56931323405a81ac3ecfbca78fe1f3a01bd01d877e9ec1")

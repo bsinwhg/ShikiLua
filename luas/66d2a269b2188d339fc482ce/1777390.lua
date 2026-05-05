@@ -2,6 +2,6 @@
 -- update time: 2023-04-24
 -- app_name: AI诺娃-机娘育成方程式2
 
-addappid(1777390)
+addappid(1777390,0,"26607c91a214d3c31e814fb2609429b6ce5c14329e24e289be4ac4129a371125")
 
 addappid(1777391,0,"1e8d1498a3a66626ed40273e9e78bf2abccb999576944f0c7919e111eff4bd8d")

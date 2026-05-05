@@ -2,6 +2,6 @@
 -- update time: 2025-12-18
 -- app_name: Echoes of the town
 
-addappid(2959890)
+addappid(2959890,0,"bce0485587511c207164f4142363fc7b8deb9b6101c1ad3e01f5c8447375ce1c")
 
 addappid(2959891,0,"02c3d66d4ed5f2a4dcb78744a81d87648fe74889bf4de5427ffda98eaf2bee4d")

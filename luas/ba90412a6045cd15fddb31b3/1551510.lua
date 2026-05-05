@@ -2,7 +2,7 @@
 -- update time: 2021-05-28
 -- app_name: 念动少女璀璨星 
 
-addappid(1551510)
+addappid(1551510,0,"9200a875aab53f3260395ddc03e1df448cb46ac44e176bc5ca26b8c7cf40ba75")
 
 addappid(1551511,0,"9b2c9b18370c1006d8e1dc0fdba74200eebc7c3abc587e04ef86787256fad82e")
 addappid(1551512,0,"48a120c3f7ec9badaf03410d515c08ca1ed266abdab5b414cc34f0451537b781")

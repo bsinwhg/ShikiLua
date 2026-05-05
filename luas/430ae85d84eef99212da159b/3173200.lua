@@ -2,7 +2,7 @@
 -- update time: 2025-10-23
 -- app_name: Kuri Kuri Click! ~我的写真偶像~
 
-addappid(3173200)
+addappid(3173200,0,"f9edf2f071896dd809085547df66a46423c37a38f1d3f4b77a0c6ebf820bcae4")
 
 addappid(3173201,0,"a2a1dbf489ca127e0a6e5f35205295db77ab51bc8bbef8619eecbae00d3e1f31")
 addappid(3412810,0,"fdcf062c3f2df69a79f79d9c9ff379580d672bd11463348dac13f6b454ddee72")

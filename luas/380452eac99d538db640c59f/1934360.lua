@@ -2,7 +2,7 @@
 -- update time: 2023-01-11
 -- app_name: 魅魔梅尔尼亚
 
-addappid(1934360)
+addappid(1934360,0,"c3a9b2ea2c5eea68fb4546cbaa818165382494c8f87b7fe14148cb0d2de9d40a")
 
 addappid(1934361,0,"e8d1b548d48eb3defe3b34987ae5562ce32583c3d40a05e1e2811fe5f6c21ada")
 addappid(2305690,0,"5427bca1f132072d232b02d1aa6db4e4639961f5cc41ecbc513e8e890e53fd63")

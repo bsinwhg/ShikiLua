@@ -2,7 +2,7 @@
 -- update time: 2025-06-18
 -- app_name: 一攫千金 - 魔物娘与财富之岛
 
-addappid(3367190)
+addappid(3367190,0,"487edceb402b52d8de84bad68cdecc425834aaffbda0c46b82abdcdd8abbd63d")
 
 addappid(3367191,0,"8c9c7efdddd45a027a57b187b21dd3803419dca046620b14895a18d1185aa179")
 addappid(3367192,0,"01963b1eb3f1e1edd4e75a56326c8f70f9d77bb9c048d389867cd649216f2ba6")

@@ -2,7 +2,7 @@
 -- update time: 2023-08-04
 -- app_name: 寻宝猎人舞~传奇至宝~
 
-addappid(1551640)
+addappid(1551640,0,"e2b0b8130244b754621b07ca2dd0bc3563e4931f1032ccdde04b2873b539550e")
 
 addappid(1551641,0,"dcf78143b45f7e41878e69be143e1cb14953b12ab969e1ac5cdcd7aa4b269c97")
 addappid(1551642,0,"37c1bacf70fa49cef5e576c341a4e4f85ec9c9e9dc16f7ea8a1941b0fad18b2a")

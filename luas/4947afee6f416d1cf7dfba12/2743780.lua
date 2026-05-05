@@ -2,6 +2,6 @@
 -- update time: 2026-03-03
 -- app_name: Bunny’s 家政上门服务
 
-addappid(2743780)
+addappid(2743780,0,"ffccd3e4206c71303748d8af0e147e47550fc69eb939caf40fc8fd6a123b35e1")
 
 addappid(2743781,0,"147d0784d7eb4b943060ef9588269e71128640676f8c998a562f70a0142844df")

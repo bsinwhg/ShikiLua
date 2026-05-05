@@ -2,6 +2,6 @@
 -- update time: 2025-02-25
 -- app_name: 穿越黄油开后宫
 
-addappid(2651530)
+addappid(2651530,0,"9e3ab6ed2ce056db93162473d116344d4a8bcda0125ad01a22c4d6c574c9ae59")
 
 addappid(2651531,0,"d7596ff5ad3ce043041d79adabb84af953eaed760e20e205f14ed2bc3f95dd4d")

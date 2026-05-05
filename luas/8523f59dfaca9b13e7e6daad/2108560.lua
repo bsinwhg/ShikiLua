@@ -2,6 +2,6 @@
 -- update time: 2022-11-02
 -- app_name: 异世界王国淫乱后宫
 
-addappid(2108560)
+addappid(2108560,0,"0eb8b3c9817263c0a1182811e4354ba758f2131c289de9b7b86afa06292fd94f")
 
 addappid(2108561,0,"ec670f112235d2dae7a9810bba99607970bd601d9c4d4536dd3e505c9906cabe")

@@ -2,7 +2,7 @@
 -- update time: 2023-01-12
 -- app_name: Summer~乡间性活~
 
-addappid(1508570)
+addappid(1508570,0,"df2feb3f323ae7d76177fa2353b899c44235f73187634c4986cd159c68603ee8")
 
 addappid(1508571,0,"0fc8bbfd68f345b69c6afb453fb86b722789fb96fa1e3656964dac2a63f61e4d")
 addappid(2107850,0,"19d4a80e52b5f6ab4bcbec10fc570b877a01decc50fba435f37fdc47f5afe98a")

@@ -2,6 +2,6 @@
 -- update time: 2022-07-27
 -- app_name: 窥视你的未来
 
-addappid(1885130)
+addappid(1885130,0,"4c5794707a2feb5c987009d049bcf1c7344a55001a4679ac3f998e9e92ce4850")
 
 addappid(1885131,0,"60fbe90bda1d3c40aa3f40713650fb06dbca1edfc2d7299cc558b15444194ba7")

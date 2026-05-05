@@ -2,7 +2,7 @@
 -- update time: 2021-01-28
 -- app_name: ~在魔界当女仆~恶魔天使与勇者的秘密喫茶店
 
-addappid(1377550)
+addappid(1377550,0,"6e18b852b4917b052ef4b43676055b1cdeae88249ec01026625a74788198d4a7")
 
 addappid(1377551,0,"ab2a8bf9e78f7764b620e24cbf4bf5f84eb72d571bac1fd28c5d598cf89e7c57")
 addappid(1484220,0,"73aadf8d6cc464110ce3831601e41f389b5739c478ff493359da7eff12bd81b6")

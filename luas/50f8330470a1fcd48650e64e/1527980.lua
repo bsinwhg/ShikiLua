@@ -2,6 +2,6 @@
 -- update time: 2021-09-19
 -- app_name: 我在女子监狱开后宫
 
-addappid(1527980)
+addappid(1527980,0,"c28cf75d707e521a23b08b7043d9bfcc636f2eb84b121f79c1a192c63d4e9f12")
 
 addappid(1527981,0,"7597c80f21ffe54030675cdbc78adda6cd2a139759e67932490f46d5a04564da")

@@ -2,6 +2,6 @@
 -- update time: 2023-05-05
 -- app_name: 异世界魔物娘后宫
 
-addappid(1988150)
+addappid(1988150,0,"0c0b03810481e36b17b8ed067c8b3ad1e8963d791f90bdbfa76f1ce99fad94c6")
 
 addappid(1988151,0,"d8116f1ff33aefdc3b98bdd16fa4d6d72f5b4a4b22329b1c563b5665c9c2449e")

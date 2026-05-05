@@ -2,6 +2,6 @@
 -- update time: 2021-12-06
 -- app_name: 降临在我这个废材身边的全肯定妈妈女神！ ～真棒呢，你很努力哦♪♪～
 
-addappid(1805260)
+addappid(1805260,0,"aac6d99bf0a5cb39fc309c29ee153b272dbe9b55c386cdce40a28987db88f275")
 
 addappid(1805261,0,"e25c543945b29b90c452daf42e07082c7062e1b291f79c39d09c08d81ab07087")

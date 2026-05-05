@@ -2,7 +2,7 @@
 -- update time: 2019-07-24
 -- app_name: 月影魅像-解放之羽-
 
-addappid(1069230)
+addappid(1069230,0,"5d41f40f075d5b6b87e3c79b2d713013fc1ae702a7dec98fcdd7d3c6170ed8ed")
 
 addappid(1069231,0,"9167766df0b94d42754502d5fa0d3c53e99aacbae1a09a0528a908235aea28de")
 addappid(1069232,0,"39082ac36c26edd80cb5c4ed75132cd5ce8fe2764398ea76f9c9e7b5da8cff9d")

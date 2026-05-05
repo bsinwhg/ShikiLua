@@ -2,7 +2,7 @@
 -- update time: 2024-09-16
 -- app_name: 淫咒的芙蕾希娅
 
-addappid(2346530)
+addappid(2346530,0,"bae66abf9b123b210ad5243edffee98e902c0ff1d3dd1fb396acaa83351de8c9")
 
 addappid(2346531,0,"2ace4b16b6f77551d885c86657e3e5b74e09df76af8eefeeda1a81ca9c0df911")
 addappid(2346532,0,"50099bd4872580e6aaa1bc63a800d666c05db5168c6baf70f13f3629c2f3be9c")

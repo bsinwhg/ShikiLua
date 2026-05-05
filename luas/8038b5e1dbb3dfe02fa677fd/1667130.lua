@@ -2,6 +2,6 @@
 -- update time: 2022-01-15
 -- app_name: Beautiful Mystic Defenders
 
-addappid(1667130)
+addappid(1667130,0,"6447f9b1fd3c7bfb87f3822d802ecb5d0316fd4814a3a3b605f91aefaf672c28")
 
 addappid(1667131,0,"b69a55ad510828ef6ebac599d4f0b571632eb5835155a15eac2fbe7de13f7080")

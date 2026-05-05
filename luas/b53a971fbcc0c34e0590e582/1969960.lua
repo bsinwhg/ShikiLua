@@ -2,6 +2,6 @@
 -- update time: 2023-02-14
 -- app_name: 超级英雄闪击光拳
 
-addappid(1969960)
+addappid(1969960,0,"78e83be091dd5bf2d527cbfb8b777a3294c6e4fcbba32998af73204a80a5da51")
 
 addappid(1969961,0,"6553b8d9ebe09e0da7fcd1780e08c68019e9e6ff7250f6cc1072095946c8e503")

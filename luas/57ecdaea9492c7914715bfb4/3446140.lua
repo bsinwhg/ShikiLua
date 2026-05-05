@@ -2,6 +2,6 @@
 -- update time: 2025-10-07
 -- app_name: Horny Haunts
 
-addappid(3446140)
+addappid(3446140,0,"fc6012d7d394d82e3804dd4fe42dd5d90863a5c6c7009c0ac40efb80b701d8a8")
 
 addappid(3446141,0,"c366e219537572ac4e5038e9e92cadc81ae2e8472f855fd0deaf6186ce7dd3b7")

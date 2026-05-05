@@ -2,7 +2,7 @@
 -- update time: 2024-09-13
 -- app_name: 斗伐
 
-addappid(2897170)
+addappid(2897170,0,"bbbfba0e3e61cd4a8c077a84e14942f2705d0174263937b5beef59c4fc48137f")
 
 addappid(2897171,0,"5929409caa8b197b507507eda310fd655f032de4bf528d4cce0852eda2deb624")
 addappid(2897172,0,"a960df8e3e90e0d923dc3d58b315a7edc8adaf94d1e50426f9298dfe19b42fd4")

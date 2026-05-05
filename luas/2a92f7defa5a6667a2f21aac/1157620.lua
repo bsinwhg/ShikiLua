@@ -2,6 +2,6 @@
 -- update time: 2025-03-11
 -- app_name: 爆乳人妻战士
 
-addappid(1157620)
+addappid(1157620,0,"691a95a36cbcd58aa48d893341f7821a2c064065aacfd274d8d62abcd5cb71b1")
 
 addappid(1157621,0,"420ee3fc1ba43d4c24fe45776f303d0817b1086f9616527d424284471bf1027f")

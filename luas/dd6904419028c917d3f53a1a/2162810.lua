@@ -2,7 +2,7 @@
 -- update time: 2023-07-17
 -- app_name: 异常状态少女 ~魔纹/禁书/寄生篇~
 
-addappid(2162810)
+addappid(2162810,0,"a5bc958549bc6ef8e7b522b3acbdc0c663a408190230a86ac2d40b0f5c16330d")
 
 addappid(2162811,0,"4fd5e68ac5f4abc57360da42d557f408ae2d6841c82de7d638617ac95eac6cf4")
 addappid(2162812,0,"1bd3e2bc9594f8b0a9e53b49331de22080b1dff8f1997c7c779f459e3e62267c")

@@ -2,6 +2,6 @@
 -- update time: 2025-04-03
 -- app_name: 兽耳☆训练 ～狂暴兽耳大小姐的养成～
 
-addappid(2939800)
+addappid(2939800,0,"b2c2c31e40b045664e0146ea4f1db23a1f53e566597be9e43cfed619e87edc2c")
 
 addappid(2939801,0,"1b632b94a46a5aa9d4a6c76497b8c5f7db72e8b1086cfde86f217828aa0d59d9")

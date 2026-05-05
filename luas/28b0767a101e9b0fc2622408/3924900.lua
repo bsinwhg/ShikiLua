@@ -2,6 +2,6 @@
 -- update time: 2025-11-14
 -- app_name: 巨乳母骑士的肉体赎罪
 
-addappid(3924900)
+addappid(3924900,0,"f995a978a49dbb203173107d6c68ef4e4b46273cd434ed274af3a2a2e8957ce6")
 
 addappid(3924901,0,"b188dfefb8bcb404a096645724a77e81f4ecb8d148b63b829a63605e884c721e")

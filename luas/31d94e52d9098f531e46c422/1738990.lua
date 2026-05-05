@@ -2,6 +2,6 @@
 -- update time: 2023-05-04
 -- app_name: 精灵的性爱农场
 
-addappid(1738990)
+addappid(1738990,0,"ce827c9d14e2a159fbcd983c4eda3f2b0a35cfb5c63aeee280dc803bd1781ba1")
 
 addappid(1738991,0,"b8fd4ebcf7b6a25e90733e7a1bc47e193e5938d4b491fbd0d580f318c4bc77a5")

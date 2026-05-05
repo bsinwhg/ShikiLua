@@ -2,6 +2,6 @@
 -- update time: 2026-03-07
 -- app_name: Survivor Strain - Season 1
 
-addappid(2568390)
+addappid(2568390,0,"0f89d43fe5bdbd1acb4694bd122062a76a46def82c2188f629bae960a774cccb")
 
 addappid(2568391,0,"01ea13a22ee4052b60f3b41d9df0821b618b45377f9d87c82e1930d21daaaa5d")

@@ -2,6 +2,6 @@
 -- update time: 2025-09-26
 -- app_name: Narea's New Mission
 
-addappid(3923080)
+addappid(3923080,0,"f2c34f39bf5346a84366d219fc122f3def9d9a3880858be91548db98031bae6e")
 
 addappid(3923081,0,"d16094189242c6e6068a1a7afde35333ac4da0fe28a4aeeaa82bd8065cdc7ab1")

@@ -2,7 +2,7 @@
 -- update time: 2018-08-16
 -- app_name: ICEY
 
-addappid(553640)
+addappid(553640,0,"008c5080287844a685c9cb4cf22dd09ebe83413086c6dc56ac3295a74e401dbc")
 
 addappid(553641,0,"c43efb7d162191ffd887e73f2373974c64df411656075028af76deadb0f1dfdc")
 addappid(553642,0,"ecfcbba334f887d5fafca898004b2402e6a5fdfce89ed26c819092cdd88bd07c")

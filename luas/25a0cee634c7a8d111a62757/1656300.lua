@@ -2,7 +2,7 @@
 -- update time: 2021-06-01
 -- app_name: Slime VS. Female Hero Party
 
-addappid(1656300)
+addappid(1656300,0,"5a6df47b145c8abda1c5dcc4f42cc4915f6deaddd7e91c02055ff1a6c95e8896")
 
 addappid(1656301,0,"520c21f0b5f7d23ce7e1270a13046717c62b87c75b44cc7351e7b36a4bc6ea4c")
 addappid(1656302,0,"199e95095591f3a136ecf7b52d18bd2a22d91cbbf67ec9b80d1ffd0324a71b79")

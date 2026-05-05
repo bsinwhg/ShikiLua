@@ -2,6 +2,6 @@
 -- update time: 2024-11-12
 -- app_name: Cockwork Industries Complete
 
-addappid(1172940)
+addappid(1172940,0,"1f24b0cadff9c143e7fd02f6893bb50757ccc7cc3f525586d83cf513fbe99311")
 
 addappid(1172941,0,"25a2dc491586f75f0abc70b9b16c93e9b2d76c7103becef52ba41fcebad1884f")

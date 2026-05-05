@@ -2,6 +2,6 @@
 -- update time: 2025-06-16
 -- app_name: 嗑药做爱！地雷酱 ～一边追星一边援交做爱！嗑药嗑高飘飘然～
 
-addappid(3759320)
+addappid(3759320,0,"716f1f7ba1e9bdbd5bf8856c2cbc126d6db9977efa2bfbe3480a22930d7c23e9")
 
 addappid(3759321,0,"2ff05371058449f51a4222c87617fb695f49f57c08f3ac160cd842fdc1cca060")

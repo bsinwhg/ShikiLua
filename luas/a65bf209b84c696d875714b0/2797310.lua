@@ -2,7 +2,7 @@
 -- update time: 2025-10-10
 -- app_name: Hypnotic Idol
 
-addappid(2797310)
+addappid(2797310,0,"14608b783e9261bb55a1c5e3bf1642a0806d61c9411dbd1b99b19c0806e5def1")
 
 addappid(2797311,0,"2fee0d3ceb47f07db76153736bebdd92eb1e44b9fe6d731c8f237d37a05ce7db")
 addappid(3463980,0,"6c4a4f062de4faf9001664abcc320ef5f26c0a00912ac6e667c96ed53d20ca8e")

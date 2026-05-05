@@ -2,7 +2,7 @@
 -- update time: 2020-02-25
 -- app_name: 打工新妻莉安娜
 
-addappid(1013870)
+addappid(1013870,0,"b3da87069ced78648b4cddc180bc6c35cc76f96fc30cbedb56cc5450a101f07e")
 
 addappid(1013871,0,"1a23b5febcfc60aa075e82a3355376bc4d49785d197bc40a75d37c35d7dba087")
 addappid(1013872,0,"6d6037782f2f46afa1b114173fd3dfe775bc10e0f48cebf6f0a5e107ab0e670d")

@@ -2,7 +2,7 @@
 -- update time: 2023-12-22
 -- app_name: 灼炎之巫女 静音
 
-addappid(2510830)
+addappid(2510830,0,"1db3dccbea5f56007cf349378bcc4e5ee1813f74f0fc12349230f3ac4b4c05e1")
 
 addappid(2510831,0,"b21d09b98af16128b56ce28c28eda205f878648559e1b80bcfbf25c519e910ac")
 addappid(2510832,0,"c71fe87b0b6280b5763fcc3bbf1fb983db288f3acb8a4bbd07c86bc7539591da")

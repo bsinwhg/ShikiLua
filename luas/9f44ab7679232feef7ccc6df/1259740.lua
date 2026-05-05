@@ -2,6 +2,6 @@
 -- update time: 2021-05-03
 -- app_name: Escape Dungeon-莎莉丝 地牢脱出 
 
-addappid(1259740)
+addappid(1259740,0,"f07c31e211a94fd236a2c1f86848e29c06b5fa95243e3b1e0679c8215af2a479")
 
 addappid(1259741,0,"5f22ce39399a905e6ff6a916965fa5bd795f09294a405864d5468fd11f3c77f8")

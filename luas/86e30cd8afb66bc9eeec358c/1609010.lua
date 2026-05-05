@@ -2,7 +2,7 @@
 -- update time: 2025-01-30
 -- app_name: Forever To You!
 
-addappid(1609010)
+addappid(1609010,0,"f8fd936f5e5c8d94abd85f523fde7f6587baf27dea4af51996b3e5b0b2cafa7d")
 
 addappid(1609011,0,"6ba02f4c1edcf68684ba00bc062ab97cb6b0ab7ceb1564816387b2c771b2c0b9")
 addappid(2173560,0,"d91e778667e3897364c4b99163ce5d4678b0aefa5955279cf4804404909a8aaf")

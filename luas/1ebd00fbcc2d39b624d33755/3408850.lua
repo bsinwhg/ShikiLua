@@ -2,6 +2,6 @@
 -- update time: 2025-10-07
 -- app_name: SKETCHY MASSAGE
 
-addappid(3408850)
+addappid(3408850,0,"628ed7f75df38a71fadf49750742ac1a05a637d2383b145c1e32b8017ab8e6e8")
 
 addappid(3408851,0,"a1146dd02e576f966b13b8ab3e056e38e01644ee84eebff26e6c93450fe3ffdb")

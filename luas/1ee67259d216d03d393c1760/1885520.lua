@@ -2,7 +2,7 @@
 -- update time: 2023-01-13
 -- app_name: 欢迎来到阿鲁毕恩！
 
-addappid(1885520)
+addappid(1885520,0,"06c34afea81dc9812cf30e63b189aab851cd5c9e7bdf9e257828644d9e2e5bf0")
 
 addappid(1885521,0,"ed5260a92ee63cc49d683c59b68bc23caa66336af0064c76bb6abfc97b95ce7e")
 addappid(2640430,0,"4bea7f70d8697c89dc90e976e285c9c97ce49ecb1ff5134e2e45acafaebf00c5")

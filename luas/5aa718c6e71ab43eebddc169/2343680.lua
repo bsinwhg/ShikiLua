@@ -2,6 +2,6 @@
 -- update time: 2023-07-10
 -- app_name: Slave Princess Finne ~ IF Story 3
 
-addappid(2343680)
+addappid(2343680,0,"960cf82cd4e1c38240b895554f833be132ca25490f28b0531626bf6c3284611e")
 
 addappid(2343681,0,"6e1d582f0bf55e22390802551287df6f2018eb6dfa086a732f644b078d2d7f6b")

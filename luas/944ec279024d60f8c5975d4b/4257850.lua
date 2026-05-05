@@ -2,6 +2,6 @@
 -- update time: 2026-04-08
 -- app_name: 妖狐的深夜特训 未来篇
 
-addappid(4257850)
+addappid(4257850,0,"cda2425d305288226222c74a341887a1e4b04aed5e1be5b236481449f55b86a8")
 
 addappid(4257851,0,"c546d8551ff25ea41d289d2ac5cb1de50887071ca3dece82e245fc92245325f7")

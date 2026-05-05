@@ -2,6 +2,6 @@
 -- update time: 2025-10-08
 -- app_name: 对不起操了你的妈
 
-addappid(3381190)
+addappid(3381190,0,"127452046f1f1f60ca3df4fad62de78c10d44d92ec00d434d96d131e64b12073")
 
 addappid(3381191,0,"2ee7f8fea3255e45451d02af15ce3f8059e09b13a90646c45691a20cefff9dc5")

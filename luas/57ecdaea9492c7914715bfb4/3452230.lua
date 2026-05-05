@@ -2,6 +2,6 @@
 -- update time: 2026-03-20
 -- app_name: 阿芙罗狄西亚的魅魔 第一章：亚子初次拥抱
 
-addappid(3452230)
+addappid(3452230,0,"2172ffc9ce8c6808688a3ed1938e9e91dd4368eb588876ab7dea8b4db43f30ba")
 
 addappid(3452231,0,"efe0be7e0c5f44762d404164e08b6d33ab874ce4aedb6df0cf3cd6c52f7707de")

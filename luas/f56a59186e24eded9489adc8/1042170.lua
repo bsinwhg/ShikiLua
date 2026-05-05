@@ -2,6 +2,6 @@
 -- update time: 2019-04-22
 -- app_name: Summon of asmodeus
 
-addappid(1042170)
+addappid(1042170,0,"6c1cc825732b62a4b7ebfae76fe8a43eedf26ef1427251ce425a9d1257ebfdc9")
 
 addappid(1042171,0,"6305f7bf2fd471858f9dcddf603a8ba87164b40e51b094a70046f50f2a2b38e4")

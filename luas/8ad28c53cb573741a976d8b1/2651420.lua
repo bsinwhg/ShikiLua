@@ -2,6 +2,6 @@
 -- update time: 2025-07-29
 -- app_name: 服侍人偶的日常
 
-addappid(2651420)
+addappid(2651420,0,"5c205d2e0655c7220e59b2baf2d651d370d1f3cab857fb87654bd7691351e3ab")
 
 addappid(2651421,0,"3aa434e7250f311cd42ad20e30c3debf283ae6b8e41e28470a3d80bfb4b2ee23")

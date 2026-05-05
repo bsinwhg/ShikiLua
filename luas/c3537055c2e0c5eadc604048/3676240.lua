@@ -2,6 +2,6 @@
 -- update time: 2025-11-26
 -- app_name: EmyLiveShow: Dungeon & Mistresses Tale
 
-addappid(3676240)
+addappid(3676240,0,"03b3e04d962562d45b6663b0b0e6d6678f758bb2d834a1a81c54aabba5cbb648")
 
 addappid(3676241,0,"b1e6b0fef90cf9b349ae61d6b02454771dc30f6d1e324f8d363267f8fa2e00ff")

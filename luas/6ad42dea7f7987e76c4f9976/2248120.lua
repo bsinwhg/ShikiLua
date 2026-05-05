@@ -2,7 +2,7 @@
 -- update time: 2023-05-16
 -- app_name: 光与影的二重身
 
-addappid(2248120)
+addappid(2248120,0,"0aab73beb4eff2b14d1aa79f862886692019ce17476658c71679fa29fb5b5b74")
 
 addappid(2248122,0,"39de9dfd269168f0bac53e5b56bcc6a8619dc8fc157f167e4d48e3f4ff81a5da")
 addappid(2248123,0,"9c240a515625bc33fa3e106e206b2f905e5cae1dfcb14183960a014edbd349da")

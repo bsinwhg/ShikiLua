@@ -2,7 +2,7 @@
 -- update time: 2018-09-18
 -- app_name: NEKO-NIN exHeart +PLUS Nachi
 
-addappid(744520)
+addappid(744520,0,"e617368608a390a4f29241da723e5a224adb3b403f696da1f4eaa31d9cae360c")
 
 addappid(744521,0,"459015c8de6239b67aa3f5e7501aa3b1750af79fee603048533b64d9c8b65bed")
 addappid(947710,0,"b179409c1fc3c6cdda54584250cd55a896227ee851fef2d752b3be3310df4829")

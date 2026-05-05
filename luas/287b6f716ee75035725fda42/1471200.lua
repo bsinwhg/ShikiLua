@@ -2,7 +2,7 @@
 -- update time: 2021-01-19
 -- app_name: YUME
 
-addappid(1471200)
+addappid(1471200,0,"e654f490a6dfe337e05adcdcd4516728a2745f02447ca297c0d81a6ba914ba9f")
 
 addtoken(1471200,"8017524124606917961")
 

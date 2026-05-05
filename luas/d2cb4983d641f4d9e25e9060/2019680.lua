@@ -2,7 +2,7 @@
 -- update time: 2023-11-22
 -- app_name: 禁慾健身中心
 
-addappid(2019680)
+addappid(2019680,0,"21a18e100ba9ffe2355ee795f4e3a2d492e8b8acf817e9753daafe36117dab0a")
 
 addappid(2019681,0,"395771a5b5ad7dd6bdb0b8471c62d1aaaf1964d8fe0f9a93d9e4601825c4e05d")
 addappid(2631341,0,"edc26cbea089eb8f58f30e8e961e47e45b23ff5535e630ce24da8a63d1ac93cf")

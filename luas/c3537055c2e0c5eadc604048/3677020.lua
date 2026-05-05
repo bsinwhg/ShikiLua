@@ -2,9 +2,12 @@
 -- update time: 2025-12-05
 -- app_name: Waifu by Myside: Patch Me In
 
-addappid(3677020)
+addappid(3677020,0,"086f0061521302ba9a17dcbac400ee29e677d6e7e11cf7652eee620a63e13e72")
 
 addappid(3677021,0,"44470809b814451a6864c2e2b194982bbf8ea5c514c2237da33634b4a6d45d1c")
+addappid(4062830,0,"57c1b14a19a635c7b5d9d1524a3d0bb36a3a4563891b7b743e120f8fac9ace82")
 
--- DLC: 0/3
--- missing DLC: 4062830, 4111150, 4111160
+-- DLC: 1/3
+-- missing DLC: 4111150, 4111160
+
+addappid(4062830)

@@ -2,6 +2,6 @@
 -- update time: 2023-05-19
 -- app_name: 爆乳剑士沦为玩物
 
-addappid(2413090)
+addappid(2413090,0,"abd98f13080d6a2e93443fad9edbaa1259af46b2f507b0d6a1789b6a58c74129")
 
 addappid(2413091,0,"106e790fd1ead6e50539700187646a72b9d7cd8a1972af4fb690356485266f8b")

@@ -2,6 +2,6 @@
 -- update time: 2023-08-30
 -- app_name: Witch's Rhythm Puzzle
 
-addappid(2359170)
+addappid(2359170,0,"7b652a8f679aa2e155342f886c8e9ac744a208c9e47ecf4e8a2cc62aa8118fc1")
 
 addappid(2359171,0,"e630da84effdc7f8ba0a65f1db23f6e91ce5585919da47165f318ebe1e0e6e66")

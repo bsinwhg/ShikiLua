@@ -2,7 +2,7 @@
 -- update time: 2023-08-14
 -- app_name: 圣骑士大人与魅魔从者
 
-addappid(2218210)
+addappid(2218210,0,"95f4139c6b0eb7a944f619ef860c7367bcdab4b220902daa5152670ca6d411dd")
 
 addappid(2218213,0,"449bd52562baf4f747e368bbee1c16c0d87b347c122d994aa5fe6acd20465a46")
 addappid(2218216,0,"bfdd66566dbecdc96d0cff1aec51f263abad32ff081310bd4589d8cb0f66ec4c")

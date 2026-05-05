@@ -2,7 +2,7 @@
 -- update time: 2021-10-16
 -- app_name: 懵懂少女惠子
 
-addappid(1065940)
+addappid(1065940,0,"2f94441429f9cf4661e7e1ade16544e8f9705bafbc319e4eed8ff6fb7fccb900")
 
 addappid(1065941,0,"ea003dad8a718fad953de2a3640b76cff8cf54d084fc6cdbd8d23a1b2730a90c")
 addappid(1065942,0,"f9532fd2549dc8bb000d501a6e2b35a0b637ddd71d95ec8209d8cd5ae7356bd4")

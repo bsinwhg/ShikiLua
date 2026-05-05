@@ -2,6 +2,6 @@
 -- update time: 2021-03-23
 -- app_name: 7 Sexy Sins
 
-addappid(1023740)
+addappid(1023740,0,"583c4214d6bc8d477dbcbd5f2bcd073735d9a287fa8d0ad530ef27f0afc46808")
 
 addappid(1023741,0,"080d958a5c49374cd18c8d02ed6afd38caf19d49121f1bbf944ab419ad82df5d")

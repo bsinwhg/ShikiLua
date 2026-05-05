@@ -2,6 +2,6 @@
 -- update time: 2023-10-14
 -- app_name: Alien Breeding Program: First Contact
 
-addappid(2401080)
+addappid(2401080,0,"9c44950235bbed338dbf393ca50753a8ec21e875809646c82553b98d1dad5f8a")
 
 addappid(2401081,0,"a6f760965a6604695f442e0d86a2ef270a1d0647c58dbe6bf35f8f348e44e1bc")

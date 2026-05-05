@@ -2,7 +2,7 @@
 -- update time: 2024-05-09
 -- app_name: My Maid Girls
 
-addappid(2916250)
+addappid(2916250,0,"a4e16a48cd53932222afe235ae69d67ebfcad31af25fc6eeaf6385083be68eaa")
 
 addappid(2916251,0,"ca3f0cf2c21100045d4b3a7cba5ce4a3e58a16cfffb405d4da2ba7efac0d9655")
 

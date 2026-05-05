@@ -2,7 +2,7 @@
 -- update time: 2023-08-15
 -- app_name: 花都之恋
 
-addappid(1846630)
+addappid(1846630,0,"832d59501225a2a028d6ccb029e677d1cf9bb0584e61dbfd5c27dcfaf02f2208")
 
 addappid(1846631,0,"92da98b6afc27149dbeb71c07f4ea61c4166d3a5725f0f9572b882e8fd0ec293")
 addappid(2457620,0,"5c83432f11d8b004416203fe71cdc57b4cc7eb97f3acac9cd2f311d243aea2fa")

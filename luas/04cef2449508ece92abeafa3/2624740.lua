@@ -2,6 +2,6 @@
 -- update time: 2023-11-07
 -- app_name: Sex Lens: A Porn Story 🍓🎥
 
-addappid(2624740)
+addappid(2624740,0,"a8449760657b2742d0b1e862de4f757683925f00921b69c101ce43b1193af39d")
 
 addappid(2624741,0,"1b73eff41eba5922089424f4622480b698cb4cbafd9aa87eae5308e4820d0744")

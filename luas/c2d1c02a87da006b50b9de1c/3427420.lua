@@ -2,6 +2,6 @@
 -- update time: 2025-04-04
 -- app_name: BDSM Clicker
 
-addappid(3427420)
+addappid(3427420,0,"4b2e4f53611cc8acdf6018b962134035c629c2e8161d97df9329d6a3a2fcf915")
 
 addappid(3427421,0,"dea7d49312dd6c9655dde564f6c4cc02b6384e3acf15a2af8d1d05737bb80e3c")

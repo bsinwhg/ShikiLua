@@ -2,7 +2,7 @@
 -- update time: 2026-03-15
 -- app_name: 异世界后宫
 
-addappid(2419800)
+addappid(2419800,0,"152914434818e0a3dd3b2079172afa7082a24441365f30dbc4ba2ddccf16bdd6")
 
 addappid(2419801,0,"4a7bef718df8d31586cde9b359bb6f5357b205878529fe6025f4272be36bdd6f")
 addappid(2850880,0,"c3d2153b7af4d5803f71afcaf938f9d5c121ac3fff1cf8ffa6784f5c6edf0f57")

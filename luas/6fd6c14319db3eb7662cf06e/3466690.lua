@@ -2,7 +2,7 @@
 -- update time: 2025-07-18
 -- app_name: 冒失巫女与魅魔之岛
 
-addappid(3466690)
+addappid(3466690,0,"4d4b9a47e7cf3e8652fefd83edc882e8945c1fda538d0001adf4ee9289adfe26")
 
 addappid(3466691,0,"1a3df1326f2bd25151ef4168d2fe57b09cd07ae91c7ccf7e7ff949b4e56a8ac7")
 addappid(3466692,0,"e6e2a6300f54dccefe03fba409320b3d134e5ad04439a95601c3ae6c9ea64592")

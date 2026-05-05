@@ -2,7 +2,7 @@
 -- update time: 2023-07-20
 -- app_name: Nurse Love Syndrome
 
-addappid(1023690)
+addappid(1023690,0,"2b47185a3af1a241e65ab78f2f13105e07939c5ca9e9a011dad8de23490589cb")
 
 addappid(1023691,0,"bcc9d0587252b949dc2f1a91c4ed5b5be87ecdb1271886c1dc7858eae49af3a3")
 addappid(1023692,0,"a0e9f0b3f3b830be62f77a7f584ff53ce88cef5f33fa5c9379d023d726bffc35")

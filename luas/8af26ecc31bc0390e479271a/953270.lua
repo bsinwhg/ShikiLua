@@ -2,6 +2,6 @@
 -- update time: 2025-03-13
 -- app_name: Dominatrix Simulator: Threshold
 
-addappid(953270)
+addappid(953270,0,"2b401a5eca41d2742bf6f60c4ad7c1ef904ed50af9da420db9e328d639f4c3b1")
 
 addappid(953271,0,"ec29e3f325783c2846416bde359e2c9b6e9736c1249fab7434d6a4c7e48cf5a4")

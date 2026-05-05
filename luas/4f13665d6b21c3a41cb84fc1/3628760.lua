@@ -2,7 +2,7 @@
 -- update time: 2026-04-03
 -- app_name: 性爱节拍
 
-addappid(3628760)
+addappid(3628760,0,"a3351456cc495640188273663e62ca57cc45d61dc5a1ebadc4871e5a29ebbd70")
 
 addappid(3628761,0,"775f61e01dbea0e0c8762c8b4fc25cf529efcb965f528f2f94224c22f45af9e2")
 

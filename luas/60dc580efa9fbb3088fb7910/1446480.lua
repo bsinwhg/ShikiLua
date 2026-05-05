@@ -2,6 +2,6 @@
 -- update time: 2021-05-08
 -- app_name: Atelier Tia
 
-addappid(1446480)
+addappid(1446480,0,"0e6a91ae2e65eeb50eca21366735a8a788c84d0ff322dae013c55def7ddc3ab2")
 
 addappid(1446481,0,"eae4aef1041aa3e51a166e463b876aeedbd2ae3db234ef5a2752c900a1ebacad")

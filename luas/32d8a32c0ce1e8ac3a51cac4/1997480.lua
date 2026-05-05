@@ -2,6 +2,6 @@
 -- update time: 2024-05-24
 -- app_name: 刘婵养成计划
 
-addappid(1997480)
+addappid(1997480,0,"bc609f5ff8fb98692e848d6caa0600ca79d9b21cf7b765a83027add64da9398c")
 
 addappid(1997481,0,"6e01ca386e2eaaa9606f025f59618ddb12818c3b17f5857d2afba781fafe9270")

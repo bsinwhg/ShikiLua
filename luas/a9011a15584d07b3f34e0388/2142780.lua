@@ -2,6 +2,6 @@
 -- update time: 2022-10-08
 -- app_name: 女神狩猎
 
-addappid(2142780)
+addappid(2142780,0,"55b7df2cd1fcd064cbff7cb927ebae01fbd9652b847f8b3752ec81901bca7678")
 
 addappid(2142781,0,"ce8132eec6f6e1aa712edef45044830dd9148ccab25fbde4a362858ef4aaa155")

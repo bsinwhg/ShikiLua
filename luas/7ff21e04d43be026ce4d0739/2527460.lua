@@ -2,6 +2,6 @@
 -- update time: 2023-09-22
 -- app_name: 炼爱秘仪
 
-addappid(2527460)
+addappid(2527460,0,"8b8ee482571b864fccd1ee95ae0a4e69fb70c85a730e65fd47c650c1a0a78b20")
 
 addappid(2527461,0,"496bbe368c7728a91cc3cd45e78f711a1389b4bc48be030f8d8795869776618f")

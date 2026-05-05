@@ -2,6 +2,6 @@
 -- update time: 2024-11-21
 -- app_name: Dead-End City: 死废城的少女 OD Edition
 
-addappid(2756380)
+addappid(2756380,0,"39e61b1618118d4e945992fa0cc63eb8727a9dcc4f848af9b51b1859a897529a")
 
 addappid(2756381,0,"f556477d2d52f0967d05b9a9bc8fe4f10ed29415b745c4642ae7000778d07a19")

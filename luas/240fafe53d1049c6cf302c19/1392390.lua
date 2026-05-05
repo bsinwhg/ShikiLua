@@ -2,6 +2,6 @@
 -- update time: 2022-09-03
 -- app_name: 罗刹天圣扎兰达拉~湿婆之仪式
 
-addappid(1392390)
+addappid(1392390,0,"3f0ed362230e08c698c06daa555f95cccae8c891306eea68b01585455572e86e")
 
 addappid(1392391,0,"764d86bea3fcffc58e89dea1f1688f957b5b540ec1f600a6dadb8842dd73cadc")

@@ -2,7 +2,7 @@
 -- update time: 2022-02-24
 -- app_name: Paint Girl
 
-addappid(1389560)
+addappid(1389560,0,"e3697c741e06025d1e5c95beadb3094f57fa9edd2ff35989de53cbb47b30f00a")
 
 addappid(1389561,0,"b13219e74eae2fa8ef8ced03d6fed34bfc8062606dabe3ea458fbf8f6b4e3cc7")
 addappid(1409580,0,"00ad19dfee9f55a416604da45bbaebd9cb6477fca78411ebd741c1cd7b944c1d")

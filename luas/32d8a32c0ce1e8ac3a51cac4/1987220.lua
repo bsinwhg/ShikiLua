@@ -2,7 +2,7 @@
 -- update time: 2023-06-07
 -- app_name: 埃那托斯 -转世英雄与失忆少女-
 
-addappid(1987220)
+addappid(1987220,0,"6a69dce71631dae5fea2cbe880aff789e449c37642eee3682a535ab238c527e8")
 
 addappid(1987221,0,"d0e8967ee047cc546c2d234a5657d99e442b3955c337f7c75598b54331d829e7")
 addappid(1987222,0,"c7b2e79fad30154d093d6b713901fe82cb8dca5a6bb335fcfc52b0e14dd1bee0")

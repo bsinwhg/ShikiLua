@@ -2,7 +2,7 @@
 -- update time: 2022-11-01
 -- app_name: 魔斗姬莉斯缇亚
 
-addappid(1666510)
+addappid(1666510,0,"a140df235b4c94d86c41216d9ef0f2df24e36cb0ae17f0ec3abbba351bebc82a")
 
 addappid(1666511,0,"aea822186f18b67f909bc68d4bdde4afb3979733c71a85c0a030bb3a48ad9d9b")
 addappid(1666512,0,"12858de25781d51a7caf57207fe1a79a35a8ae3b8d5573e48e2f040baa106189")

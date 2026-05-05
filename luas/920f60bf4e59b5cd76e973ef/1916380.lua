@@ -2,6 +2,6 @@
 -- update time: 2022-09-10
 -- app_name: Idol Hunter
 
-addappid(1916380)
+addappid(1916380,0,"00dd26b7fde4be0753935f8ac88e4721c2769cc80c6592c819bf8fc373704878")
 
 addappid(1916381,0,"6aec734f842ad589a018ce07afdf7c63edec122fa17d9e7c9573375131896d09")

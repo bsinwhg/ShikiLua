@@ -2,7 +2,7 @@
 -- update time: 2021-11-30
 -- app_name: Cute Honey: Bunny Girl
 
-addappid(1740000)
+addappid(1740000,0,"775904db3911295aa432514eb9c85ba080cbd468345427ade644fce4eea7923a")
 
 addtoken(1740000,"15762087562818656088")
 

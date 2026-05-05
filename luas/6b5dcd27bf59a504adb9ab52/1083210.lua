@@ -2,7 +2,7 @@
 -- update time: 2019-09-13
 -- app_name: 符文女孩/Rune Girl
 
-addappid(1083210)
+addappid(1083210,0,"3fec4f06ef685ceba7ecc950c789ebecca159bb66e3722cb604b14fff6492715")
 
 addappid(1083211,0,"eef56ec1141769c469122efa433369eeb983cb2a2e9f57f102045ae1f0dc97ac")
 addappid(1112980,0,"3c93132ebd3035312f1f80a0e0e03bd4b40df4c3e8e75cc12455488cc10d38a7")

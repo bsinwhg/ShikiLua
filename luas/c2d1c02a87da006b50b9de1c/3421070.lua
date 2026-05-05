@@ -2,7 +2,7 @@
 -- update time: 2025-03-22
 -- app_name: 青春艳情曲
 
-addappid(3421070)
+addappid(3421070,0,"4d9dac01d43ecedcc34ef21adf950ad62c7229480e36ef33f3d296915ad5297b")
 
 addappid(3421071,0,"22a9dacf487c4102818c032a3bf8b9afbb244bb17aefc240c1b0787628a61748")
 addappid(3421072,0,"b3ab5206bee357ff258e9a6c842e2f6a34dfdeba7c1864b0da1a00acfe5c7fe7")

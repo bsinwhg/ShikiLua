@@ -2,7 +2,7 @@
 -- update time: 2024-10-04
 -- app_name: Secret Pie (Adult Version)
 
-addappid(1802870)
+addappid(1802870,0,"dffda39e3e662e35f5274156d123e93da39e2fb7820147100d1152e076e91a24")
 
 addappid(1802871,0,"ccad7ba97d05ac6585875c572974cf0ac57176ddc9f087e67cd77b2adb9d2af8")
 addappid(2175960,0,"d93c7decc5b83a855f8d632f6277f2e2f4c02d7c183ace34c231fdcd0488344a")

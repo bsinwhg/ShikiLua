@@ -2,6 +2,6 @@
 -- update time: 2026-04-13
 -- app_name: Angel Emica - Fallen Angel and deserted land
 
-addappid(3685160)
+addappid(3685160,0,"e4153bc8598b698d579381bd342dd9716cd3dda2edae0660da7eded0238c64c7")
 
 addappid(3685161,0,"c2e65a4ace48dcdf142fa7013b5b3232c1cdbdd55d00445ee0d397b17aff6ad1")

@@ -2,7 +2,7 @@
 -- update time: 2025-04-02
 -- app_name: 美女公寓
 
-addappid(3524970)
+addappid(3524970,0,"7767d820da6d053cf79530b43c0637b9275bd89c5326b7c8ee13f61eae82f2ca")
 
 addappid(3524971,0,"793005674d8cabbd8e1fcfe9f6725cd798ed6df93d534e6f5b514abecc2ff80a")
 addappid(3572890,0,"f02c439f24d444cdb77ae64e20da9bf97a3dbcfba433c61a2f41c7cc94023870")

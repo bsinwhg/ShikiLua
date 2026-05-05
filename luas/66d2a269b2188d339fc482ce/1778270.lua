@@ -2,6 +2,6 @@
 -- update time: 2022-05-10
 -- app_name: 娱乐圈疑云-S号房事件
 
-addappid(1778270)
+addappid(1778270,0,"b52e11cfbf5336ab64c666a52b6bffb9aaabbcda3034e02ccfd25b3eaff30088")
 
 addappid(1778271,0,"d1241efc0e9226580b9683d35b21806e2acc470a78f00b621275e24cc1149960")

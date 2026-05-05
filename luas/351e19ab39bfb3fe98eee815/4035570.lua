@@ -2,6 +2,6 @@
 -- update time: 2026-04-02
 -- app_name: My Ghost Roommate
 
-addappid(4035570)
+addappid(4035570,0,"86b87ba5f23c5deaa959f58bd3ba8668bcdc5f3308b8607d29606127760ef8dc")
 
 addappid(4035571,0,"19bf09c67f639a0ed9f0439e936384ed5615ad67f3470ca25fef8d8ab1b515ac")

@@ -2,6 +2,6 @@
 -- update time: 2024-11-20
 -- app_name: 我被巨乳鬼魂袭击了
 
-addappid(2623750)
+addappid(2623750,0,"b9840df7c293f0430ebe4b8b94ce39fc70d9bcb381cb3a6edebb35782b92c221")
 
 addappid(2623751,0,"0e35dd43c77977fecf0a6b9201b764b03dbf06bdf9ac46f1d47cf210b11f4747")

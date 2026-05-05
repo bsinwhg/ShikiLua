@@ -2,7 +2,7 @@
 -- update time: 2019-02-20
 -- app_name: Eiyu*Senki - The World Conquest
 
-addappid(691770)
+addappid(691770,0,"6e501b9b1202900d9eb0842fb71ca7c45c4734fa1924d089da71a6f2aa7b4063")
 
 addappid(691771,0,"e7c6159310a68a2abb94b79c8029a7d62d7c39ef83c57f5cb5235b4ea4d30a29")
 addappid(691772,0,"6a04d03b46e9cff5ac9cec79679840596ad808cfc17f5030de33de7b725cdf14")

@@ -2,6 +2,6 @@
 -- update time: 2021-12-15
 -- app_name: ATRI -My Dear Moments-
 
-addappid(1230140)
+addappid(1230140,0,"35b4ebb3fa686470464af83c51050ce9d477af7384fbf9d95b56318085e20b38")
 
 addappid(1230141,0,"39502ae3d63e81aa83ffa3684427babdc6369d7d06a742a3d21efbaa0097e917")

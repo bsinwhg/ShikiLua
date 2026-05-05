@@ -2,7 +2,7 @@
 -- update time: 2020-08-29
 -- app_name: Seek Girl:Fog Ⅰ
 
-addappid(1263370)
+addappid(1263370,0,"20dd7290f8286363ee5da7f2f92cfaf687da2cf5713fbeaa99af880cc39799a0")
 
 addappid(1263371,0,"2a0bf5389b61094c049b4307befee675b84180f69c6e45388f628f4f1da51af3")
 addappid(1270320,0,"ad5b9d6f3dcae60a4c522e40ae02d907752458b401bf99fe8551ca585b3936f6")

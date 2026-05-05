@@ -2,6 +2,6 @@
 -- update time: 2021-04-21
 -- app_name: 原始行星：終戰天使
 
-addappid(1417770)
+addappid(1417770,0,"a813a05d5a1e397a272764e007853b9cb21037f33897195c58ded942a91d49a1")
 
 addappid(1417771,0,"18b5dfca103afad7be8b1271e70ac8f139e977d768a57d0ebf5d0eaee6a9eedd")

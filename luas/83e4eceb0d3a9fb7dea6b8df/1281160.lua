@@ -2,6 +2,6 @@
 -- update time: 2021-10-16
 -- app_name: Castle in the Clouds
 
-addappid(1281160)
+addappid(1281160,0,"e1c503c6fd6b3c0fe96c726c6905a8e0da901246253b7976fc3aba993afb1036")
 
 addappid(1281161,0,"35aedc74e762a95acd5892f1d18533c20ccea01487562c6b6390ad4e709985e2")

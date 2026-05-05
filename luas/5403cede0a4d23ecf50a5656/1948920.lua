@@ -2,7 +2,7 @@
 -- update time: 2022-08-23
 -- app_name: 骑士姬库拉莉丝
 
-addappid(1948920)
+addappid(1948920,0,"a9494c85518f09915c8d48256cbdfece70e9f2afb6b1fe2fefff5f8d5c28d1a2")
 
 addappid(1948921,0,"c4f7cf48714b0b25f682fd38d3fea417064ce649d57ed32f72726ac2570494d5")
 addappid(1948922,0,"e26a5e0b7afca3764272a5ab7beacfae16458cd62b4b3e3cb3aa454ccd335fcc")

@@ -2,7 +2,7 @@
 -- update time: 2025-10-14
 -- app_name: Drain Mansion
 
-addappid(1888070)
+addappid(1888070,0,"ede7e20360ba88a82df06dafdbae5dee2386bd33627bb2fa3a054d760ddd7904")
 
 addappid(1888071,0,"f79c9e1ef0d9e2fa3c7a4d17b85acbf86a61e8625762bc9bd3ecc47e408ae7d4")
 addappid(2352110,0,"287045de9c6797ec737efdfe7e5736891e63e5014740da35f22b9ee5c0d1d5b6")

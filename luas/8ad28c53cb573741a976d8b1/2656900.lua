@@ -2,7 +2,7 @@
 -- update time: 2023-11-20
 -- app_name: Hot And Lovely : Tease
 
-addappid(2656900)
+addappid(2656900,0,"97c8dc9f15aaa902711bc39747f2a8cd0ef13f8726c0104dbba10dabc0077e94")
 
 addtoken(2656900,"9986681856821161211")
 

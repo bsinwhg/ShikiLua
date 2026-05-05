@@ -2,6 +2,6 @@
 -- update time: 2025-04-10
 -- app_name: 欲望都市帕里斯 - 与众多美女的亲密接触
 
-addappid(3164640)
+addappid(3164640,0,"6a39103ec9b6d92bdeb99130ae3cd6a768f427b7666b7b96175f22e4353efcdd")
 
 addappid(3164641,0,"e8110420e1f1bf532420da54f98179d0cf76a2ae67e120ec6f303e16b772c4e7")

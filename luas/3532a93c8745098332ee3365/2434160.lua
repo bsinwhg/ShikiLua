@@ -2,6 +2,6 @@
 -- update time: 2023-10-18
 -- app_name: 职场是我的后宫🔞
 
-addappid(2434160)
+addappid(2434160,0,"3e8d02add39b1c7378b700dc82a14f4bab762e3c35951b22e621ad255b72890e")
 
 addappid(2434161,0,"9f15a7ee019e495b267436320f3b6d7a5fac4f4def65b153f11d75f05786266c")

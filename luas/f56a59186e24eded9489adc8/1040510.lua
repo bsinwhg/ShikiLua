@@ -2,7 +2,7 @@
 -- update time: 2023-10-26
 -- app_name: 泽温公主
 
-addappid(1040510)
+addappid(1040510,0,"8cc804d052c07aec2c9b4d5a067eb08a9609fc2791a874d0439ccc8abe59aa60")
 
 addappid(1040511,0,"38dc0eba736d14847ca44fcf2cbe72223f2f1e83c88a929dde290bc68a1367d9")
 addappid(1040512,0,"69f7c9b2b0fe70c0f6d423a19fae8582de7d3e4f3aaca6258dfe49ff34f00356")

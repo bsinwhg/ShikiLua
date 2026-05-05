@@ -2,7 +2,7 @@
 -- update time: 2025-10-23
 -- app_name: Kuri Kuri Click! ~我的暑假时光!~
 
-addappid(2886720)
+addappid(2886720,0,"ac8e17c694b966e9042c4a5398ef2f7c96cb970bad994e0b5090df590ec26048")
 
 addappid(2886721,0,"ac0a48bac02189bb4ecaa51e9f467768586eb1f765034fcc3c2d92ccdbeb4472")
 addappid(2960780,0,"c80f53fd70bad423700673a5c713102637c98e16c61fccee65bf7c5687944b5a")

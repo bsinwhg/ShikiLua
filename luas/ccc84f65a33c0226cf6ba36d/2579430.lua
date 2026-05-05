@@ -2,6 +2,6 @@
 -- update time: 2024-04-17
 -- app_name: 从Kiss开始的自我主义～EGOISM～
 
-addappid(2579430)
+addappid(2579430,0,"660405ef4a8d719deb617946bc38487a73dba1e0e0dc0b849e3c78c8022f92c5")
 
 addappid(2579431,0,"fc02cd196afc6dcab3fa4ba6b1fb019e175bbc1dfc8d4495af9e4c628ce38e62")

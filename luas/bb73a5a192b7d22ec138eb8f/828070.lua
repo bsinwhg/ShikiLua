@@ -2,7 +2,7 @@
 -- update time: 2020-05-11
 -- app_name: 宝藏猎人克莱儿
 
-addappid(828070)
+addappid(828070,0,"a1079c189d138814a5eaf4020df62cd7d4241de21209a5f2223a8a78e81763f1")
 
 addappid(828071,0,"b9d79b992c2961aab11c5ca92dc32061de90dc773aa11a4f602a235a6429b3d1")
 addappid(828072,0,"a8beacd32d824fcb73bc287fb854a22af0b5d7a1652c5a88d5e09f86a3eb1a0d")

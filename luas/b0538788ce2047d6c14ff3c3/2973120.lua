@@ -2,7 +2,7 @@
 -- update time: 2024-09-06
 -- app_name: Dusk City
 
-addappid(2973120)
+addappid(2973120,0,"d512432ed43fada823db07045fbc0642a5d990ad4092f4bce78b72b4f227df3f")
 
 addappid(2973121,0,"22c01bbafdfb219a5fd9ba90848c076d2fc0a62366836087c2a8aed2d9c44339")
 addappid(2973122,0,"d7d1f397f1b5038d3a5cf8597157319b7ca6eeb5933015b27e4ed9b9f722ca6f")

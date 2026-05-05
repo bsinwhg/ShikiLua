@@ -2,6 +2,6 @@
 -- update time: 2025-12-28
 -- app_name: Seductive Shadows
 
-addappid(2738860)
+addappid(2738860,0,"ffc892d5f25292bdd4a3ebc5039cf3fab55d310f7c41b7d44f158f95cd0d0e7f")
 
 addappid(2738861,0,"3d2529d650689bbe9ab6604b9c2fed62c169c874a50653b5c666e3d8813c5d8b")

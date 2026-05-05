@@ -2,6 +2,6 @@
 -- update time: 2022-12-21
 -- app_name: Let's Turn Pick-Up Beach to a Nudist Fucking Beach!
 
-addappid(1634600)
+addappid(1634600,0,"cb72e52f9604cdd2628051a1659ebf1cf084b98b4bb8edd8ca03060b73962982")
 
 addappid(1634601,0,"bd3341940e58627849a844fbc07ab516e471d5d30d25415aebed523b043c0455")

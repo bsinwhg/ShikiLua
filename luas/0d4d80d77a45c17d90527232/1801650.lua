@@ -2,7 +2,7 @@
 -- update time: 2022-06-20
 -- app_name: Lost: Find
 
-addappid(1801650)
+addappid(1801650,0,"965c0ff64577ea82ca5034f3e82bb8d4d05cb8e508717cfc0a1ff0db089c516c")
 
 addappid(1801651,0,"79683aeafed869ddd22a8ad50c3c89f7de615cf55184f9e75cee3113b8415dc9")
 addappid(1811650,0,"fac8466a0702947d894e7a522e2c8adecac1ad30645b98b4dc40c096221cb0d5")

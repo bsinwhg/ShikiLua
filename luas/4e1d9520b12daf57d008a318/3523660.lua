@@ -2,7 +2,7 @@
 -- update time: 2026-01-28
 -- app_name: Adult Fairy Tale -Collector Viscount-
 
-addappid(3523660)
+addappid(3523660,0,"ad92a3da84862f1873c1ce77d50c4882ddab21c29d082892f5aca5c4a7b5fc06")
 
 addappid(3523661,0,"38cdbe60a249ccff111d3c5426d1849868f44319bc0c2e95e27cf908717ec3a9")
 addappid(3523662,0,"44ffe68866e4dd4f52405f51a59c2f5247d74829159caaa20cc60a6cd63f9dde")

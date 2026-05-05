@@ -2,6 +2,6 @@
 -- update time: 2025-01-23
 -- app_name: 魔界少女与奴隶召唤术
 
-addappid(1997460)
+addappid(1997460,0,"857758d3a48bd0bf3d72cedafc74433a63b2f26217635ec6a4169a5e5a077dc9")
 
 addappid(1997461,0,"ccdbf59f237483205ac014255333b0895ceb8e8c558a83c3a02c3bd52dae8ebe")

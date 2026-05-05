@@ -2,7 +2,7 @@
 -- update time: 2024-11-29
 -- app_name: 为主人献上圣罗的甜蜜侍奉
 
-addappid(2986260)
+addappid(2986260,0,"cd0d58729acdd9a10d8063700f4691badde533b951033b9eb924c1fc75a3b8d3")
 
 addappid(2986261,0,"446ed15ab2cdaa4d73ba54453a09f6b9aef798107b33e5ba94d483cf208c797e")
 addappid(2986262,0,"3f7fdb2d0ba1061c20ccf6c285405f1ecc0579bab8ac95213e2e66da2f8584e2")

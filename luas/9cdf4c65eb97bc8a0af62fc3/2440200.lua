@@ -2,7 +2,7 @@
 -- update time: 2024-11-06
 -- app_name: AURA: Hentai Cards
 
-addappid(2440200)
+addappid(2440200,0,"cdcce7dbd0e5bb1240d7acc3d7be53990b63fa883d0ce42216d32fff740c5165")
 
 addappid(2440201,0,"6dbc7e13591d109bd45665429c0863f0f95df37f15196a6ee1668330bb03de29")
 addappid(2614170,0,"8d8ca53755acc0ba6080c87a7da745cb112a3d3e95fba51834793fde9191ab47")

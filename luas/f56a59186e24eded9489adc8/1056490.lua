@@ -2,6 +2,6 @@
 -- update time: 2019-10-29
 -- app_name: The World is Your Weapon
 
-addappid(1056490)
+addappid(1056490,0,"dc9ef91bfd50a510ccf07aba6beeb6a29ffc2f64c3f680562094608b9ce12856")
 
 addappid(1056491,0,"79a430dddd602e9fd9abab744fb1a608df0e55634af743921cc5c218908e45be")

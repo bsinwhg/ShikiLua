@@ -2,6 +2,6 @@
 -- update time: 2025-05-13
 -- app_name: Liminal Border Part IV
 
-addappid(3591440)
+addappid(3591440,0,"7ecfcdf5c4c2518a3e0de6a585b838680aab905d30472edf5afcbdf39d985fc4")
 
 addappid(3591441,0,"804ade4741b4527764862c8660111e73b7c376e26b59c9031eacc8ee28d5764a")

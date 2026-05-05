@@ -2,7 +2,7 @@
 -- update time: 2022-09-01
 -- app_name: Fairy Biography
 
-addappid(1967320)
+addappid(1967320,0,"65f8147657d9b0d99837b863cd68c9428379ec93e38adafeee9b2bf48a0927ca")
 
 addtoken(1967320,"11250663608969530371")
 

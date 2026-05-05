@@ -2,6 +2,6 @@
 -- update time: 2024-06-26
 -- app_name: Sex Counselor
 
-addappid(2954830)
+addappid(2954830,0,"6baf938faede4172763b312034ced0346b6de5a67daf5bb5d167f46d77ca75f4")
 
 addappid(2954831,0,"4e3e1465723e0c744bebbae0b9b0a03b78753f435800c1aa3addaac3c93c9bb1")

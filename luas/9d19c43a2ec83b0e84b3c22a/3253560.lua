@@ -2,7 +2,7 @@
 -- update time: 2025-02-27
 -- app_name: 苍天煌姬拉碧丝菲莉亚
 
-addappid(3253560)
+addappid(3253560,0,"b73e58908bc8b77dbbf7be60af21ed78ca1a0f83255c44d57b0518fdb71b9ea9")
 
 addappid(3253561,0,"5f8cff6b936bb5bace9819a9c10295cf4464a51acf4ba9656fb83d1400bfe8eb")
 addappid(3253562,0,"dd9453493cbe0f65b2322bc695b6ad1788873a4aa5c6c5cf8ad4957536d92164")

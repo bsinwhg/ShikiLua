@@ -2,6 +2,6 @@
 -- update time: 2023-08-08
 -- app_name: 神之国的魔法使
 
-addappid(1768880)
+addappid(1768880,0,"034422d7fe09a09a1fca41c54647cebb0b79292483fb10a466f825fb94d6063c")
 
 addappid(1768881,0,"1c47021257f207f958dae1737e7e72994bb42ad179a06555dd1cab63affb3e5d")

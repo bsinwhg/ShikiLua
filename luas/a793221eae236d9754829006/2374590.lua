@@ -2,7 +2,7 @@
 -- update time: 2023-07-27
 -- app_name: 甜糖热恋
 
-addappid(2374590)
+addappid(2374590,0,"a71ab9e5a9060be5593d2bc95cf7eac835a34de99f2543d6d3cb0dbc7d1ee6bb")
 
 addappid(2374591,0,"0774fde3a0589ad5841ec261bcbe9bf1b3f80b3d2a0e6994fea69cfc1f47f5ec")
 addappid(2374592,0,"9f8da5a6b6a1ca61cd54c8e9f33a5da2f1ef9ccd32d21200c993dfb80ddd2148")

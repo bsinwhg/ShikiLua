@@ -2,6 +2,6 @@
 -- update time: 2026-03-17
 -- app_name: 命途
 
-addappid(1483370)
+addappid(1483370,0,"69470871cfe0e69b252d3a8ed57f323ebbcafecb2fff111baeaa088c420d6672")
 
 addappid(1483371,0,"d1ef3aef3226f5fa54875cdd981fddb402c1906a07b736d958cf078dd869bb50")

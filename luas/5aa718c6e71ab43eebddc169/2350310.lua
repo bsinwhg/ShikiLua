@@ -2,7 +2,7 @@
 -- update time: 2024-09-05
 -- app_name: 买房新妻莫妮卡
 
-addappid(2350310)
+addappid(2350310,0,"8e46cd863d2fb8f4a1a8e4042558086acfbe1b47b1faf62abef5e41106418bed")
 
 addappid(2350311,0,"b3ce6b28735f732862e1ff3123aeb380456a071f8ba0dba398c23ffcd1f0c133")
 addappid(2350312,0,"cc523530fadc9d6751b518b2ee960bb3dca437fb175bccbaaa95ef95149b4d9e")

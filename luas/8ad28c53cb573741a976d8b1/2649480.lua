@@ -2,6 +2,6 @@
 -- update time: 2025-10-09
 -- app_name: Spirit Valley
 
-addappid(2649480)
+addappid(2649480,0,"66d04fcae3482398911f820d8ba819c2e88fa35b8a8698f57a25792abf5938a4")
 
 addappid(2649481,0,"c8eb781eae8b24fa10fbf59a6cd2c74a0068c19afa643ade78e34aae7fc20b88")

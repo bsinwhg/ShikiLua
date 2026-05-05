@@ -2,6 +2,6 @@
 -- update time: 2023-11-08
 -- app_name: Emilia's PLAYROOM
 
-addappid(2162520)
+addappid(2162520,0,"9fc9f0ebf067bc147b97244e5edf77a7d5a483c49c71de20d0df1a103e28bb5f")
 
 addappid(2162521,0,"0a141907d91fdc5b1ee3bc62509f6449c39a4d5b79964c7af88d8b617557249d")

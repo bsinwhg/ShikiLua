@@ -2,7 +2,7 @@
 -- update time: 2022-06-21
 -- app_name: 无双剑士的后宫生活
 
-addappid(1660860)
+addappid(1660860,0,"be679116df1a6b306daeb3fdd6a9766ef05fbe3d1d18750efebe29f47c785697")
 
 addappid(1660861,0,"1eddcbef7a174a18c91ea7705ee6e73c9700a91baa7eddc356d68d81a0e01de2")
 addappid(1660862,0,"e7b0181d6ea770eca46345e1d32d7ecdc5dacc654d174abfcbb9cd47aa176ae8")

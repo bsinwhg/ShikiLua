@@ -2,6 +2,6 @@
 -- update time: 2021-07-25
 -- app_name: 失格冒險者與惡魔之石
 
-addappid(1349850)
+addappid(1349850,0,"ce1899e22c376743df0fcdcfa556651be3b9a1bc17f1c4314a7659abb5536803")
 
 addappid(1349851,0,"52eeeedad4c8cfaf8cc858c0fc8e3795acb64ec5f71d97ce2f27d6f9fe70873b")

@@ -2,6 +2,6 @@
 -- update time: 2025-04-29
 -- app_name: 早洩外甥與性冷感阿姨—肉體交換物語～
 
-addappid(3676460)
+addappid(3676460,0,"08ee93a6691b661b6679ae792a9895bcba4f8ef85cf2a0c83be18407d16c3d0b")
 
 addappid(3676461,0,"f2310c1f3a44a4040ea03e95daf4715451c0599f969d1171af79cb3335df80c4")

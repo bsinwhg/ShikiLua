@@ -2,6 +2,6 @@
 -- update time: 2023-04-03
 -- app_name: 异世界病娇魔女三姐妹
 
-addappid(2354300)
+addappid(2354300,0,"7a5ab57ac3d619c2a79af580a2348473b1694b8c8442dd39da2bf8df696a32da")
 
 addappid(2354301,0,"d35d83f71193d88e7506d9c07bc4c13b23182446340c8fdb307e52a02db045ca")

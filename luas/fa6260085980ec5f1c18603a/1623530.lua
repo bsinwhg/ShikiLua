@@ -2,7 +2,7 @@
 -- update time: 2022-05-17
 -- app_name: 魔物娘捕获大陆
 
-addappid(1623530)
+addappid(1623530,0,"a073d9f0e8f9c0dca7dca2752bbdfdb2fec91cd577717cbd5e002c7a9e468941")
 
 addappid(1623531,0,"dddeeca1ea7757a0971f4bbdee16dc1c200339ebf0f88318e490ee180dd63917")
 addappid(1799250,0,"667167655303e8256412f08905b1afb96cfbfe6bf9c63171944a570d5fca8cc5")

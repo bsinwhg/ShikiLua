@@ -2,6 +2,6 @@
 -- update time: 2026-03-23
 -- app_name: 性爱方程式
 
-addappid(2889660)
+addappid(2889660,0,"d3523390fd2bf3fd32365e3e35baa658babf67003c3c0d5f04dabe420f4611d1")
 
 addappid(2889661,0,"8de65c7822383b2d93b5dc0b44e946ab936809a2da93c49d043f289e50f957a7")

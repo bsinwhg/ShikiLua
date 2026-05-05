@@ -2,6 +2,6 @@
 -- update time: 2022-07-13
 -- app_name: Millie's Adventure
 
-addappid(2074580)
+addappid(2074580,0,"3bf85bedd299b037aef2a3424b1d89ab6bc0b37280e9211c06a70e366e8f28f5")
 
 addappid(2074581,0,"2dbe52ccc69f2256126848615b502fd4e2e7bfcf5c9e0e494a83aeb63c3ad2a1")

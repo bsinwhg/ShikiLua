@@ -2,6 +2,6 @@
 -- update time: 2025-02-13
 -- app_name: The medical examination diary: Teamwork in Paradise.
 
-addappid(3145810)
+addappid(3145810,0,"f1b68747396ff45f1db77549a8e0f847baad21f248d75f28614ae227cf85250c")
 
 addappid(3145811,0,"98b879fc45df25b0c7797365ae8fe3296d7e886328ea2a39d45cd98158d50985")

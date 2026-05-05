@@ -2,7 +2,7 @@
 -- update time: 2023-06-22
 -- app_name: Fairy Biography2：Confidante
 
-addappid(2172510)
+addappid(2172510,0,"3b207863b44781f40817f0739e1fbbe9f65c89efccf14111a8b478324a61b9fe")
 
 addtoken(2172510,"5558493885346475020")
 

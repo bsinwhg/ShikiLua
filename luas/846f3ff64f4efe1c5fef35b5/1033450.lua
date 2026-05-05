@@ -2,6 +2,6 @@
 -- update time: 2019-05-15
 -- app_name: Treasure chest Corps-結界を維持するため、魔物を退治した
 
-addappid(1033450)
+addappid(1033450,0,"0c21f66fe9d192067c3e87053f792dc391665438d4405526ad82bd47e911fb4f")
 
 addappid(1033451,0,"ff4f0069372122440fd73bac0cb976a0db0aa009560b0e6fae30b2337fe25045")

@@ -2,7 +2,7 @@
 -- update time: 2021-09-19
 -- app_name: Dungeon Town
 
-addappid(959880)
+addappid(959880,0,"b391dc672a73bf892f5fcce884398b6fda23b23d44cda80677f1645074dba856")
 
 addappid(959881,0,"1bf8f12e7bc0bb463f3f4d650556869cfd8b4cdaa5d6d45bd001647730a07078")
 addappid(959882,0,"8adf61b34cfc7688db06c8f9346a38829ed2e766ec68bb4a3cf0b2391531d564")

@@ -2,6 +2,6 @@
 -- update time: 2021-10-02
 -- app_name: The Edge Of
 
-addappid(1700110)
+addappid(1700110,0,"3d8ebbfdf38e2938594bd8872aba6bb89be3eac45453e03a0d8a1586ea788216")
 
 addappid(1700111,0,"add4ed4f7c2069c3e86de16929dec8cbe35e82ca4f9297b63e3725fc3efece70")

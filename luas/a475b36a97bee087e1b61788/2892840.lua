@@ -2,7 +2,7 @@
 -- update time: 2024-05-27
 -- app_name: Hot And Lovely ：Dream
 
-addappid(2892840)
+addappid(2892840,0,"c533d17d9146fa8f534b26d6d624d42f1c35b7f614751fe8062b5e00692ecef1")
 
 addtoken(2892840,"12575737796954041403")
 

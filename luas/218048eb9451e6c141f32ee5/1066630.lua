@@ -2,6 +2,6 @@
 -- update time: 2023-09-15
 -- app_name: 樱花裁决
 
-addappid(1066630)
+addappid(1066630,0,"bbf0bd7e354ac7788b2add9210fbf3a88eadd430b3f06c0c516e447a69196259")
 
 addappid(1066631,0,"4833965e25fac60c05374b668fbbbad07d4a6166cbe4e9d81c48282b45cb8d8d")

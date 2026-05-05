@@ -2,7 +2,7 @@
 -- update time: 2023-04-28
 -- app_name: 茜镇怪异录2
 
-addappid(2279310)
+addappid(2279310,0,"4a018b3bfd11d53e5dcd88e57605b16efb183c454198bd2c5b0d7a62c62d27df")
 
 addappid(2279311,0,"9d94d85dffdb64626a82b4741f52f9c21a85a37cf3d4a31eadb3eccf265d7446")
 addappid(2279312,0,"6bc6275f228f5df08c028696d9d0f1d399e2a754ffe0b476b6c79eb5e88d4e4f")

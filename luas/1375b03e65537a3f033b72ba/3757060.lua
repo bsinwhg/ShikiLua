@@ -2,9 +2,12 @@
 -- update time: 2026-04-06
 -- app_name: Shana - priestess of Tona
 
-addappid(3757060)
+addappid(3757060,0,"2322e7792c415f481bdffad00fcfa75f60b75925902f4c18a822489b9942f726")
 
 addappid(3757061,0,"c3d860ccd6339fd9521a2eee0d34d94d3c0f3ef48a8b3a6100f2844f46314423")
+addappid(4094040,0,"015fcea15616fe66f9d7aa63a5e0c899a645cbb80ea1ac0d592c461388eaad71")
 
--- DLC: 0/4
--- missing DLC: 4094040, 4094050, 4094060, 4338850
+-- DLC: 1/4
+-- missing DLC: 4094050, 4094060, 4338850
+
+addappid(4094040)

@@ -2,6 +2,6 @@
 -- update time: 2025-10-01
 -- app_name: 我的美熟继母:爱做就做💋
 
-addappid(3685340)
+addappid(3685340,0,"59fbef94d952727a02e0b957923cf655067eb0cff2abbbf9a40c07f97a232182")
 
 addappid(3685341,0,"4d608f469b616ccee4536c939ee07a2f2c39271de513bc09c984fed59dfbe4c0")

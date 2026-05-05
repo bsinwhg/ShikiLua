@@ -2,6 +2,6 @@
 -- update time: 2025-03-03
 -- app_name: 特务朔的秘密行动
 
-addappid(2921690)
+addappid(2921690,0,"78419768c870cd85b4c4443709ccb8d60a9a0ed4606a7bcbc49476953441a3a5")
 
 addappid(2921691,0,"c9ca8698943c52459a0ed090afb21728f9fe4d5a5b0042a6e9f49ec04ebaffa5")

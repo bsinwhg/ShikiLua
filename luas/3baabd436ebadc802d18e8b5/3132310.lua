@@ -2,7 +2,7 @@
 -- update time: 2024-12-06
 -- app_name: 拘束战斗色情RPG - 命运的厄尔庇斯 -
 
-addappid(3132310)
+addappid(3132310,0,"6bcfd03729333c90330840aec80cc4383fd4fcbe0df795523f3d0e4c09c199a7")
 
 addappid(3132311,0,"5a09fc774077e78b30234e96ece8ecd04aeed0a6741f90468be0f2837f359332")
 addappid(3132312,0,"2c72ed5318bed2ac15048b1b1d68cf9a6edd229998a4aa09be64806ebed7b2be")

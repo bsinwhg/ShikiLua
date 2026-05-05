@@ -2,7 +2,7 @@
 -- update time: 2025-04-19
 -- app_name: 合约女友的一日体验:拉莱尔与里斯
 
-addappid(3172230)
+addappid(3172230,0,"ebc7b7f4f7491be702a81468dd576f0435740dbd106b3d4f734b2ca8cea4014a")
 
 addtoken(3172230,"4690077073153701485")
 

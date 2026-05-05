@@ -2,6 +2,6 @@
 -- update time: 2026-03-27
 -- app_name: He Maid Her Fall
 
-addappid(3318560)
+addappid(3318560,0,"69eecf7cc1702530605ad458666628b2dbee320cd042a98a5ad9c87dd7743b83")
 
 addappid(3318561,0,"5623d45abe48cdeb7bb7108d92e77d8f22354fef62e2e41d93a4b2bbaba87771")

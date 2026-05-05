@@ -2,6 +2,6 @@
 -- update time: 2026-04-12
 -- app_name: 小姐！别耽误我上分！
 
-addappid(3201360)
+addappid(3201360,0,"bd590c143b57010a3c2525bae65ac025ee4843101fb3632373d566fb21acdd58")
 
 addappid(3201361,0,"804bd2d633af4561c3aca312d1b02d20058ab0f23421179886c81a8657cea48d")

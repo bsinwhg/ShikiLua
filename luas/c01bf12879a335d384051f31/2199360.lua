@@ -2,7 +2,7 @@
 -- update time: 2022-12-04
 -- app_name: Cow Girl 2
 
-addappid(2199360)
+addappid(2199360,0,"cd9459c6ea3a6dd541cca5133bb58c4811b567ddd7cecaa3d04c13755e242793")
 
 addappid(2199361,0,"31fded73d20ea7e156d2b87bcffbdfa369be12a512d6c85d89220ce6e6d953e9")
 addappid(2230870,0,"acfe0bbc0c9f9cb80870fe1f45942be07c87602172c747a350dfb3bfae942c4b")

@@ -2,6 +2,6 @@
 -- update time: 2021-12-21
 -- app_name: The Humbling of a Holy Maiden
 
-addappid(1473880)
+addappid(1473880,0,"8f985d4c9da7354351a9acec2be5613d49490b2032d58a09e7ca4a24af3b0856")
 
 addappid(1473881,0,"2d2965dc55412f5a04fb3e5994da177717b3144a9a8cf230f9727f8dc9815fda")

@@ -2,7 +2,7 @@
 -- update time: 2019-06-16
 -- app_name: 冲突的意志
 
-addappid(1011940)
+addappid(1011940,0,"7295f9ec193f2a29f76faae16ac8856641d538daa423eea29b5aec03bb03baf4")
 
 addappid(1011941,0,"bfe3f65b777618e99c0b3825b73e0b4785c1e576c20829af31dabff68a1185a8")
 addappid(1011942,0,"2abeab98fe2d057bd36ba2ffdd391b2f751e6dd34188910ae29a936c67ba6f96")

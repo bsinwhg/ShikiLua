@@ -2,6 +2,6 @@
 -- update time: 2024-12-04
 -- app_name: 与儿时好友的爱情性爱 ～一个无辜的女孩沉迷于猥亵他妈的～
 
-addappid(3370460)
+addappid(3370460,0,"3acca059618c07d7b23623859393ab7c39d1fc4760068c95759431bb3ec722fa")
 
 addappid(3370461,0,"3b64166aa24ce934dc47a4c177a3b4dbf9dd53068715f6ee784515245a65281b")

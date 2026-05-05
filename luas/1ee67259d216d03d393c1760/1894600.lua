@@ -2,6 +2,6 @@
 -- update time: 2022-09-19
 -- app_name: 怪物
 
-addappid(1894600)
+addappid(1894600,0,"64686d4bc5666abbe78b02fc5d94635a2f04fafb684e211158cbfd5785e36455")
 
 addappid(1894601,0,"ddb89ea73cf7c129ea1b93f4029b8169d2ed30a615d0f92422b96403c7bb807c")

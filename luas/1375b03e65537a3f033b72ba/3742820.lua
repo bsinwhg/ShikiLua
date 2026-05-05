@@ -2,6 +2,6 @@
 -- update time: 2025-10-03
 -- app_name: 美好的回乡生活
 
-addappid(3742820)
+addappid(3742820,0,"d5fafb970d748ee5350a27d804547ddd3d2c98dfd8515472c39b50aa97450775")
 
 addappid(3742821,0,"dadfb4e35d203127348639434b5bff35ad1878cae8d2e0d419ea7a59ee65008e")

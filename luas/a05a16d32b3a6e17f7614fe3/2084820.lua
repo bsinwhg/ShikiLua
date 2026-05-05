@@ -2,6 +2,6 @@
 -- update time: 2023-01-19
 -- app_name: Gold Drill
 
-addappid(2084820)
+addappid(2084820,0,"9594fb9f3dc8a0c307d5b7ef6b8ebeb2084c9957b6a38131739fb768928f4558")
 
 addappid(2084821,0,"bfeca721fa033410a992e678cd3c5db01f4ab9ea2a373f7c61694373d1e8b4f1")

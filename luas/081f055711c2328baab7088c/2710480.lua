@@ -2,6 +2,6 @@
 -- update time: 2026-01-05
 -- app_name: 隔壁的美艳人妻
 
-addappid(2710480)
+addappid(2710480,0,"6021f76c5d3db206a898fe4abf64eead00ec420eb17bbb22deb76c9bbc9b75e6")
 
 addappid(2710481,0,"7765451235157fe8932eeebf00a41af0f17b2267a35e3795492dd9b7b3931572")

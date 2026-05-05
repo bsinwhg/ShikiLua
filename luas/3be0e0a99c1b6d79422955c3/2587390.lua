@@ -2,6 +2,6 @@
 -- update time: 2025-03-05
 -- app_name: 女仆人妻放题咖啡厅
 
-addappid(2587390)
+addappid(2587390,0,"448bd97fbc41c135d37cba8eb14d0e11c6fa53505405af6663fa67d3240e55cb")
 
 addappid(2587391,0,"9b1288b76741a79da0298320ead7934495dc79f52c7ff2f6688b2f82a81a7a6f")

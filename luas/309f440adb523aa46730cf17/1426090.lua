@@ -2,6 +2,6 @@
 -- update time: 2025-07-18
 -- app_name: 病娇姐姐的「性爱」囚禁 
 
-addappid(1426090)
+addappid(1426090,0,"ef41cf8dbc188ea3415746a6ce71981f1cf8474340ab13d67052dbedcc6d38a4")
 
 addappid(1426091,0,"1bda40da75f5af72d4e96c47fd3216d3f63ac3ea1bbd8c3c1b9f1b160f498b4c")

@@ -2,7 +2,7 @@
 -- update time: 2025-08-05
 -- app_name: 螺丝式插入模拟器第5代
 
-addappid(2370740)
+addappid(2370740,0,"4f4f83807acb5aaa9541bb748d7fbbf4e7b9a17a983ba690ab656514dd71d4c3")
 
 addappid(2370741,0,"427211ca5b459623e9cbcd6f589aa08a0ce118ee1b64daddb6c67e835d8d5ccd")
 

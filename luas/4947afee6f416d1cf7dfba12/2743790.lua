@@ -2,6 +2,6 @@
 -- update time: 2026-03-03
 -- app_name: LOVEJUICED! -感受来自邻家满满的爱意-
 
-addappid(2743790)
+addappid(2743790,0,"bc591983326a502e853e9066f088eae07e88f3fdc9de1c49f97be0ef54e33dd0")
 
 addappid(2743791,0,"c74f82455d25ba70a5b0dd2225ecffb6b8da5fca0242f8233bd9133c00b25fe5")

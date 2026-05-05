@@ -2,6 +2,6 @@
 -- update time: 2024-04-12
 -- app_name:  那个江湖
 
-addappid(1925040)
+addappid(1925040,0,"dd88c8de4431bd60d559fb848bc30c19624c392c5d2022fa823bf7dfd3ee151d")
 
 addappid(1925041,0,"1eff8aa6622a2071a2ce92df82e7922b79ddcafc06dc323f6c26a7415efd4b34")

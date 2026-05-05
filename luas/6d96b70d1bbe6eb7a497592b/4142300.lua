@@ -2,7 +2,7 @@
 -- update time: 2026-04-21
 -- app_name: MELFIAS－苍红界域－
 
-addappid(4142300)
+addappid(4142300,0,"f7f4ebc7ce06a02ab4fdd983c0731bdae887aff08ed4ccae1301615c45accc05")
 
 addtoken(4142300,"7007618772408407221")
 

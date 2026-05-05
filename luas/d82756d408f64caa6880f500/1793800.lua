@@ -2,6 +2,6 @@
 -- update time: 2025-10-05
 -- app_name: Lillian Night: Exclusive Contract of Succubus
 
-addappid(1793800)
+addappid(1793800,0,"eb4a0d050f373897880b0882c8c855f7952a00729c764b2477b16e52fef53ed0")
 
 addappid(1793801,0,"c23473d19ed0d107bf5866965baf129e4f3e64fbe6bcd2f2ca4e89a044cdb05b")

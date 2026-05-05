@@ -2,6 +2,6 @@
 -- update time: 2023-04-30
 -- app_name: Lorena and the Land of Ruins
 
-addappid(2146070)
+addappid(2146070,0,"0761baaf4399bef28d6b7e3f34bc781b4c2248c7bf0ac23523ecffb27806ae1d")
 
 addappid(2146071,0,"f3b3ef2a8a7244470face111121ce74984671d85fb21890fe0acc98f178b4a42")

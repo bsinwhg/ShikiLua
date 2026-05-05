@@ -2,6 +2,6 @@
 -- update time: 2023-04-20
 -- app_name: Sexy Mystic Survivors
 
-addappid(1964360)
+addappid(1964360,0,"fb8824834a4a8cca5f3a3a8a036c23be383139b116855752600b04adcc925618")
 
 addappid(1964361,0,"a7c59e735e6850c357c118ec4571233d0880dacc4f6c9a07896ca67f9547e3a9")

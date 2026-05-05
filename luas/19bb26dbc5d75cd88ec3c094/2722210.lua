@@ -2,6 +2,6 @@
 -- update time: 2026-03-27
 -- app_name: 淫乱迷宫大师Plus
 
-addappid(2722210)
+addappid(2722210,0,"a6269a82feb46ec0697cf97d7a17c7ca433f797bfb23f5a16c2159e45a19f7e4")
 
 addappid(2722214,0,"f0f33ce8e31bec81fa9ca1a1c9fae6dfceb2a2e803c2e9d1b0ff0da679974028")

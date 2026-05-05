@@ -2,6 +2,6 @@
 -- update time: 2022-09-03
 -- app_name: Your Love Story 被你忘记的那个夏天
 
-addappid(2010830)
+addappid(2010830,0,"615f64eaa34168763d1a48b414c2755d694fa167c57175acda58d5209a0893a9")
 
 addappid(2010831,0,"6d19969a3a15e68565b161f41243a10fca5085ee00d6615c356c5f6fc8a7eb83")

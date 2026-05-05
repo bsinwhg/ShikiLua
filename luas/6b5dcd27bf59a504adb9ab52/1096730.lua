@@ -2,6 +2,6 @@
 -- update time: 2022-02-04
 -- app_name: 巨乳丰臀BBA骑士团
 
-addappid(1096730)
+addappid(1096730,0,"d605e7a5e973efc6f36fd2f31dc51b95ae3d1046463ee30c14c998459854c0af")
 
 addappid(1096731,0,"a608f60119ce6b67443a3b9edc9476071725d3aab23834c03300cbfef47e0d92")

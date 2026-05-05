@@ -2,7 +2,7 @@
 -- update time: 2023-05-10
 -- app_name: OBSCURITE MAGIE ～ 强欲冒险家与王室之血
 
-addappid(2303810)
+addappid(2303810,0,"a35350f02471bfed947914e0a4ee5062ce34d403a899bc2b5e58342fc11ec399")
 
 addappid(2303811,0,"6a0cb76aef1d609defe1d3a6a0d15ba1c4e8f48beceba5b241926bb74ec9fe98")
 addappid(2303812,0,"e0a70fb5b351060504cb8f6a58c24c6455e4b3ed0e9b3198209d61bfc7d9c835")

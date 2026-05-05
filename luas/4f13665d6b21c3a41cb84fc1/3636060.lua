@@ -2,6 +2,6 @@
 -- update time: 2026-02-10
 -- app_name: RogueDiceR
 
-addappid(3636060)
+addappid(3636060,0,"fff2f9911bdd2968670a098fd6df11c85344ee95841ba0177328ac858efe6002")
 
 addappid(3636061,0,"c5c086ec130f065e698a0a157afdb93a647eac94d777ec1336b10e0efa5b2ba2")

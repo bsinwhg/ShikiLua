@@ -2,6 +2,6 @@
 -- update time: 2024-02-08
 -- app_name: yahtzee girl
 
-addappid(2635340)
+addappid(2635340,0,"67c448c4e1330814925b2567be082de49152b19cae65e09c4c72c64e856a744b")
 
 addappid(2635341,0,"448ab9077b13cb5b44b2a957fa4bf7f2b55d5d1e900c825ea5d79c4bd958cf6e")

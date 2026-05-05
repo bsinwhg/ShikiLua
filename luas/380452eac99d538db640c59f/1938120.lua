@@ -2,6 +2,6 @@
 -- update time: 2025-10-14
 -- app_name: QUALIA ~The Path of Promise~
 
-addappid(1938120)
+addappid(1938120,0,"8fb97805eca7026a9ddc00e45bfe8aa7201d0ab30e63bc5cb873fb8db0c135bc")
 
 addappid(1938122,0,"b5e8591446c0097c95c5cf44a13e57171700603c453538a3c5b36258c4dc1b87")

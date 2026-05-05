@@ -2,7 +2,7 @@
 -- update time: 2021-09-23
 -- app_name: Sweet House
 
-addappid(1659800)
+addappid(1659800,0,"7f0367433f7e8a3f2ab1191b4b0127d6152fefae54e2fdd306c2cf231949480f")
 
 addappid(1659801,0,"918f3eb9d85ffcf599ea2af91ba3cfd43f21d1d04da9309db57ca1b9858920de")
 addappid(1689200,0,"96c2f8dd611fc4d4f224a7da3151919de312dbbe4c1f079a16ba68dd6cdf8c82")

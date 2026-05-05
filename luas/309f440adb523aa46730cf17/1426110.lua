@@ -2,7 +2,7 @@
 -- update time: 2023-01-30
 -- app_name: Love n Dream: Virtual Happiness
 
-addappid(1426110)
+addappid(1426110,0,"0959beefb2042efcc6943d8cbedd121032dd17dcd796f91e30070ddf5c4ee2f8")
 
 addappid(1426111,0,"711dccacbec994d76a4a654e82dc28a42ba0f5848de980b2f669a57a781848b7")
 addappid(1442220,0,"e7a19c534f6a6ea39cd9647ea6fba5762e25ef0657eec11d04fd1e00a4d3f87c")

@@ -2,7 +2,7 @@
 -- update time: 2024-06-30
 -- app_name: 克拉罗罗-深渊之魂
 
-addappid(2822010)
+addappid(2822010,0,"4fb6ebbc16197e628ce91d9a86c42ee1ed0e8b1b7f542932b59955ac37b0bb98")
 
 addappid(2822011,0,"79ce645312960253edd0606b5396c1c0bc92f77afdaa1b0b1b0c7ea4c01300fa")
 addappid(2822012,0,"328938a49c160d21861b1bfb7f659d1f6c07ec3f08e894e26c47b9fbbbda9450")

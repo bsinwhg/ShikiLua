@@ -2,7 +2,7 @@
 -- update time: 2022-03-14
 -- app_name: Waifu Discovered 2: Medieval Fantasy
 
-addappid(1452200)
+addappid(1452200,0,"01b4275b6392dc42ced8c0a3f9c99e751528ceb2e9b98800b45bf1ff93e6f73a")
 
 addappid(1452201,0,"e495fdcd1670ea67d322ded18b5bc0f885c57d76d6b5973601c38ee935be7743")
 

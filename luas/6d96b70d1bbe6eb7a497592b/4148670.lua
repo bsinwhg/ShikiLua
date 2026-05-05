@@ -2,6 +2,6 @@
 -- update time: 2026-04-10
 -- app_name: Sex Shop Simulator: X-RAY DESIRE
 
-addappid(4148670)
+addappid(4148670,0,"16b8a77da132a04bdf7f2606d247eab0c909997215eb65f2a6b2d406583fed8b")
 
 addappid(4148671,0,"465e3e5940df069d4b8508ab5b77e8ec7de3c50dc67d75c1cd3aa8e9fcc3b3d3")

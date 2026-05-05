@@ -2,6 +2,6 @@
 -- update time: 2021-06-08
 -- app_name: LOLLIPOP!
 
-addappid(1515230)
+addappid(1515230,0,"b3b8a112fef255e5822d4b723f05de01ddc0d473e38b15787c2133d7c64d1462")
 
 addappid(1515231,0,"aa0c77b3418aec5b9ea84171b3125897615e8b6929e82fbbd3c055ce8f1c3fdf")

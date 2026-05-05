@@ -2,6 +2,6 @@
 -- update time: 2023-12-18
 -- app_name: 久那土国记
 
-addappid(1934910)
+addappid(1934910,0,"78be6a3ddfa1abd22dac176596268b6f0e5239f8b0a366151925ceee89dc9d61")
 
 addappid(1934911,0,"2440fafc5b8a4dadb056e49d83a079e93b4ac5476c9982dbca21b50ad8cc5a6e")

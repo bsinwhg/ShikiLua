@@ -2,7 +2,7 @@
 -- update time: 2022-05-20
 -- app_name: 堕落千金—黑蔷薇与欲望之火
 
-addappid(1546010)
+addappid(1546010,0,"15534e128b1c4deba5e8a80287cfdd52f011b5251520c1a2efd71c6e0cdfffcd")
 
 addappid(1546011,0,"94cb5305129d131e57fc68bcb686f9bd95578b9c07476abba9488ec4245a6275")
 addappid(1546012,0,"c560e2b5cc929b7d3dd1936b6c54c44ea6d3f5eb641ef8496a72e50e5b251db0")

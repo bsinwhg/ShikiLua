@@ -2,6 +2,6 @@
 -- update time: 2025-11-12
 -- app_name: Dragon Sleuth Brittany
 
-addappid(1918480)
+addappid(1918480,0,"b4058b69739749e667933774e600c86f967ec0b65c3b4e4984f8bdd6fa2c5047")
 
 addappid(1918481,0,"13654ded73aa769208dd59982159daecf9ed03aebb9454e1a237b3c852758e06")

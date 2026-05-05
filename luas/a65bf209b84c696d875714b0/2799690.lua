@@ -2,7 +2,7 @@
 -- update time: 2025-06-16
 -- app_name: The Secret Atelier
 
-addappid(2799690)
+addappid(2799690,0,"a84ab7c2a2e5dcc917098c49eceb4cf85f5e6aaeb7509b4f257c354a92913080")
 
 addappid(2799691,0,"c9a31c20b8e8fb95478ef9df03a4131c471da468ed8001b788d5ffd5e349ee3e")
 addappid(2855720,0,"88612944aa6426092b7946fcab7e87462a2746b4f8698b4fb59e6e7136b78d5c")

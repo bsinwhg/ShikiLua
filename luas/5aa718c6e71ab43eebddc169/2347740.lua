@@ -2,7 +2,7 @@
 -- update time: 2023-11-04
 -- app_name: VenusBlood GAIA International
 
-addappid(2347740)
+addappid(2347740,0,"1e9b24d94e807732b7c8c8cdc924e8e0f4a30fcfec481cd53efff82f21976fe1")
 
 addappid(2347741,0,"02299be30e0b3789ea6df9bf854adbc5a230b91ff9cbe618365b244db7a7cf74")
 addappid(2347742,0,"138ab629621f7fb3cd3ebaad541b0d9387978296420616f20a51c16e5f0a0da5")

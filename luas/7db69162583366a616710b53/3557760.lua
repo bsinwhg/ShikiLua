@@ -2,7 +2,7 @@
 -- update time: 2025-06-17
 -- app_name: 性感可爱的淫妻们：诱惑
 
-addappid(3557760)
+addappid(3557760,0,"b0440194a82d2bc7c053ff68ae934edc875fe7f732ce538743faad9d0e26ab17")
 
 addtoken(3557760,"6270140366448527081")
 

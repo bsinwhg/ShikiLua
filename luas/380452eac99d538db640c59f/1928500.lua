@@ -2,7 +2,7 @@
 -- update time: 2024-01-05
 -- app_name: 姦控の器
 
-addappid(1928500)
+addappid(1928500,0,"a0c383120e2ccd6b1bf50f6e7a4e33a63b8b357e60876bb33df25c571e0a596b")
 
 addappid(1928501,0,"2b4afb5de6b383c8c84de0b01005ac29cf2bb0d09b2daab7ec05c2c2410cb076")
 addappid(1933710,0,"118abcb062288abd39e7a1e2d7ccc6f7ac95491abc451d5ac423f1d49ac51375")

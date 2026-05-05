@@ -2,6 +2,6 @@
 -- update time: 2026-01-06
 -- app_name: 下来啊！冰鸟（是男人就下一百层）
 
-addappid(2685500)
+addappid(2685500,0,"3d2cdbb2950181ad94e0ba4f286a00b64fa543697eebe8d049b6dc47e0e8b56b")
 
 addappid(2685501,0,"56d4ce5a7ddc4f9380bdc6771b93de03c22223e08bee1ad29f7d592dc74d4dc3")

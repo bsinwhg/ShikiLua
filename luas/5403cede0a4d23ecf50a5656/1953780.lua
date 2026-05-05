@@ -2,6 +2,6 @@
 -- update time: 2023-08-07
 -- app_name: 純愛貓娘的同居生活
 
-addappid(1953780)
+addappid(1953780,0,"99cfd02b2bdd0d39a63c0383b21d8915e8f1a1c3fe1d2227e59caa9100d80a87")
 
 addappid(1953781,0,"1ae516ef0c808e8570f31c775c6020dd2a1626676c2e4a7508ae83c795262e22")

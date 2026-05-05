@@ -2,7 +2,7 @@
 -- update time: 2025-01-17
 -- app_name: 咖啡厅夫妻的愉快抗病生活
 
-addappid(3331050)
+addappid(3331050,0,"4edc50888d38780a20fb1b98c198a5d928036ae1d2ebb78df0bb38d56f001cac")
 
 addappid(3331051,0,"3635c29638e0a931d56fcbf43f5c6d4234f1f60119fe523f12d4e1cc503d32ed")
 addappid(3331052,0,"0b6e3a43bacee18eb7cae47bd4271b8dc37da67d260d3840457494cb58125e6e")

@@ -2,6 +2,6 @@
 -- update time: 2024-10-23
 -- app_name: 泳装乱舞
 
-addappid(3089040)
+addappid(3089040,0,"ab3a0af26bd50a89a4b3b6c28a95065db88ec7f2638379c7f81e35c879f8a105")
 
 addappid(3089041,0,"c54caf9790efda2628041670f1070e1bb7498de219b5360742a0cea263b3ad46")

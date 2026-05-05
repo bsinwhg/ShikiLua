@@ -2,7 +2,7 @@
 -- update time: 2025-07-09
 -- app_name: 终焉之森2
 
-addappid(3264480)
+addappid(3264480,0,"ed4ed40c6c59bb3a3f7739e7186f92d08c1ae786cd39bd4d6949a05445f83f84")
 
 addappid(3264481,0,"314c4d4633ede404991734a66fbfdbd7ba07c2f08ae8d1dfbbe1e162f8e1473e")
 addappid(3264482,0,"892994075a51e5151e3bde5df83dedede314d7d5dc3130fa7fbf0f889de06d36")

@@ -2,6 +2,6 @@
 -- update time: 2024-08-05
 -- app_name: Primal Hearts
 
-addappid(1359400)
+addappid(1359400,0,"476af717c0fb716a521ca14b074693344da21496b44b19886cfdf833f2615efd")
 
 addappid(1359401,0,"1b73f4f1df3af50b09edf939689fac26ee67d23e76bc8725278d4391c9aea924")

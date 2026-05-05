@@ -2,6 +2,6 @@
 -- update time: 2026-01-21
 -- app_name: 扶她★咖啡店
 
-addappid(3306200)
+addappid(3306200,0,"14f25474e491a32c7ede371f06483aa58ec0d87677caaffda53e4dfca99d0908")
 
 addappid(3306201,0,"df0568186ef1858d1d4323e254ded42fb10a23af7da37d4b94f848fb79948da0")

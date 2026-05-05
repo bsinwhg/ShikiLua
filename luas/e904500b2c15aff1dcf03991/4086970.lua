@@ -2,6 +2,6 @@
 -- update time: 2026-01-12
 -- app_name: Crossdresser Killer
 
-addappid(4086970)
+addappid(4086970,0,"8b9cc4518346b851c2fc700b4784c655216b4959e9f02d46e3342d8018cfde0d")
 
 addappid(4086971,0,"a10e54028943c0c1f12a7f0a91c508781c0ff5c16e6dcc5d79f4e1ccc902860d")

@@ -2,6 +2,6 @@
 -- update time: 2025-12-25
 -- app_name: SQUAD XXX: Slut Hunt 🚨
 
-addappid(4144180)
+addappid(4144180,0,"1941707064c046d174bfd1d4d738fd37468fa3221d9c25461f96e51bf3a8fbf5")
 
 addappid(4144181,0,"7721c6c397e02226ece743fe54cdfed1497a76588f1ffd1a2d50655398d7a90a")

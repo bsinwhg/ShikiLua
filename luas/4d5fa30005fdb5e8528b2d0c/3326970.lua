@@ -2,6 +2,6 @@
 -- update time: 2025-11-30
 -- app_name: Lustful Victor
 
-addappid(3326970)
+addappid(3326970,0,"4c2d7c03324ad9fe6d44b51f7cb0185e0d54ffa52fe33982f436f8e65f90b177")
 
 addappid(3326971,0,"7f738cf99d45c1291750c76c19e6f0d64ecde00ba6cd374d85ae2e8ad4a2412c")

@@ -2,6 +2,6 @@
 -- update time: 2025-07-28
 -- app_name: PMC Promiscuity
 
-addappid(2738670)
+addappid(2738670,0,"133c0c619424873ab9f15f1b03dd9e104c3a025ca2d3f7756fbfa83a9c2e3698")
 
 addappid(2738671,0,"1a90107a65dd2558c3929d4f7223b6aa8585a2173994c65751f6f4360c17aa9c")

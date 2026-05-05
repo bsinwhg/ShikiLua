@@ -2,6 +2,6 @@
 -- update time: 2023-11-21
 -- app_name:  魅魔少女
 
-addappid(1778330)
+addappid(1778330,0,"c7ed9ebb4426dabc56fd4a07c3747eccc67a9ac082b2d5dc51db42adc5ba6d48")
 
 addappid(1778331,0,"8b5c65b6ac37a5e33f7c45a284222564188b50d246782675615033ae8b431a39")

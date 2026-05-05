@@ -2,6 +2,6 @@
 -- update time: 2024-12-06
 -- app_name: 地下城的女骑士
 
-addappid(2651460)
+addappid(2651460,0,"45b13bf3c34e1cb6dcb42705cba86555d75fe079231e3ddc3b361d78b727b13a")
 
 addappid(2651461,0,"8909af2fc7ffb1eb4372b6b8ae65c096a21d0092f2cb667549a373698b7d6095")

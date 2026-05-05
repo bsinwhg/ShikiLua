@@ -2,6 +2,6 @@
 -- update time: 2024-10-18
 -- app_name: 魅惑
 
-addappid(2845150)
+addappid(2845150,0,"d4ddd94be71d8839702b376c489793a63aaac9d75c835f7fe850cb7cc5d21b0f")
 
 addappid(2845151,0,"81caa5d3690ec58f975c7e299f1dd030ee4eb2c27792622df54c9e6bf147331a")

@@ -2,7 +2,7 @@
 -- update time: 2025-10-07
 -- app_name: The Coma: Recut
 
-addappid(600090)
+addappid(600090,0,"5288c47d041428b9bc187aa69699ca6d2dd0868fb875b1158981cabd78514f2b")
 
 addappid(600091,0,"de553d6854f11f68eb056cf3500f35fc436f87338fc8c223d678310230f9579d")
 addappid(714740,0,"fb7bf149cd9b3e1d5d5fd630bcfafa1a55023ca9d056782eda9bfb881d7faf98")

@@ -2,6 +2,6 @@
 -- update time: 2023-04-20
 -- app_name: 《我和她（护士）的研修日志》
 
-addappid(2243920)
+addappid(2243920,0,"ff8d3f3799ae03df0680b78c6f4a911d8ac1896935a681c1191f15ac83875b7c")
 
 addappid(2243921,0,"07c82b79fdfa024eda4b10cbe7f6963c4fd1a0630617b399987a29709887997b")

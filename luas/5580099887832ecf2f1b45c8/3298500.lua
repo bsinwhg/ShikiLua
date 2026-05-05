@@ -2,7 +2,7 @@
 -- update time: 2025-06-06
 -- app_name: 留级魔女与贤者之石
 
-addappid(3298500)
+addappid(3298500,0,"42479c543533f6a4f3e65ba4dbb95c4755c8bfea4573a08c2b168da79e44ae6d")
 
 addappid(3298501,0,"79c931807bc81140e9e0b97ffa40d1cbad978c34bbb684f7db093af440bc1307")
 addappid(3298502,0,"92c8db4ce934dc5e74e03804921b2db95d49d5f805d4b59ac556bc546ba5f6cc")

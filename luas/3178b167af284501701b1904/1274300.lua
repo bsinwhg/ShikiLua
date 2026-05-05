@@ -2,7 +2,7 @@
 -- update time: 2020-06-18
 -- app_name: Cyber Agent
 
-addappid(1274300)
+addappid(1274300,0,"294be4e223cd913cbb255613e1d3a8ed24701a08c46bc9e245fbcd5ba93434ab")
 
 addappid(1274301,0,"15ca4016e83f695eb2b729348bbabe7491f1e6e8e8297b607ecd4f5724f173fa")
 addappid(1333370,0,"0bfda0b1d5d9b05ae27494490d28a4418c746d09d1ebb1e4fd983e24c6d81985")

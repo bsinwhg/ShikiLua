@@ -2,7 +2,7 @@
 -- update time: 2025-01-25
 -- app_name: Abduction！？おっぱい星人
 
-addappid(3227350)
+addappid(3227350,0,"defc58b0958f31c022d43655ec50e0adf6b8c1beecb30cfaaadd5a4dabd6ed6f")
 
 addappid(3227351,0,"a798792a71b53356dc435857b5ca038b8c9600f0c32cd76c99c4e4d16e9a2c98")
 addappid(3227352,0,"6d1e58cb5f705310a28cb55fe093d4c4a266cf06014edeecfd898e32aa70675e")

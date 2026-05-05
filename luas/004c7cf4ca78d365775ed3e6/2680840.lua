@@ -2,7 +2,7 @@
 -- update time: 2024-06-07
 -- app_name: Monster Girl Conquest Records Battle Orc
 
-addappid(2680840)
+addappid(2680840,0,"3b0399afa0ca0d73b9dd01f4a3af2d71426219700bb22fe1a3a13b300dd04421")
 
 addappid(2680841,0,"b1c722345e9c1846a382a4f30ad709b89906c4e9faa0931392c4524b8e7ec12c")
 addappid(2680842,0,"59900d6cf3dffeca93167bb4de999a67b959897f4455ed9806b82ac1de2623ea")

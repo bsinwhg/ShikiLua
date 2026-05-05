@@ -2,7 +2,7 @@
 -- update time: 2024-06-29
 -- app_name: LEWDAPOCALYPSE
 
-addappid(1271710)
+addappid(1271710,0,"c954ce74c8e6bc118b59cb599ce6456604a1f10b93e3e903f580c9b7b56fa14c")
 
 addappid(1271711,0,"a3a6de30266dc9e93ce5bcc3c3ba66e63b18924664b1c90487964f36d12185d2")
 addappid(1271714,0,"b095aab93efa36d1db3a56680d4d5fbc5dcb31e4393b292eef22d57767899c9d")

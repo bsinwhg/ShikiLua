@@ -2,7 +2,7 @@
 -- update time: 2025-07-10
 -- app_name: 被虐的诺艾尔 Complete Edition
 
-addappid(850000)
+addappid(850000,0,"002b6d7d46ceadec839151092916653b16a32701526ef39a1a6fa15faeabb686")
 
 addappid(850002,0,"f7ce9ce160db258e38da87a4e2acddebe02f594dd82f07bb6e35d5c346bcd0f5")
 addappid(850003,0,"a00033af2039e7e4f5ef0cb91ca51c452e9feeb6aa143b195374634f457e2c68")

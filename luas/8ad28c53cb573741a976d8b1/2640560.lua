@@ -2,6 +2,6 @@
 -- update time: 2023-11-19
 -- app_name: Udonge in Interspecies Cave
 
-addappid(2640560)
+addappid(2640560,0,"6de495266640ef91f962a83f065bb712536c49bbec5366b1e77877c22b716eea")
 
 addappid(2640561,0,"4ac16c15d429fc2c0efc1e570cd0697a9512905906b906b5e6097d26089e23be")

@@ -2,6 +2,6 @@
 -- update time: 2025-01-25
 -- app_name: 彷徨之街 The Street of Adrift
 
-addappid(1672670)
+addappid(1672670,0,"b5b38a731563b8280f955b574605a2b1c9b37488e8fe0e5540b377eb723f17e8")
 
 addappid(1672671,0,"c533a45a4e94ed704c34ee330d6f2e5f2969396d60b213688ea5218eb06efcf8")

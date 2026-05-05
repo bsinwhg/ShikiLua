@@ -2,7 +2,7 @@
 -- update time: 2023-06-22
 -- app_name: Assassin's Vol.
 
-addappid(2096790)
+addappid(2096790,0,"120ba5328ff5dc63abe32b67cf7d86644c9aaf46c378336fb76c9b3cd5e1ff83")
 
 addtoken(2096790,"10227256801591646389")
 

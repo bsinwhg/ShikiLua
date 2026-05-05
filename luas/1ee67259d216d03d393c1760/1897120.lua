@@ -2,6 +2,6 @@
 -- update time: 2024-08-04
 -- app_name: 幸福的二人房
 
-addappid(1897120)
+addappid(1897120,0,"4255711e65ba8bedb422f7aba8245eabeab49c1e165b3774e007cbc05681b7f6")
 
 addappid(1897121,0,"b55056806cd1d9ee4f5b9cb6760a7488028681e4c9e7894ea3971f7ce3589f17")

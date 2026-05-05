@@ -2,7 +2,7 @@
 -- update time: 2023-10-17
 -- app_name: 间宫摩美想要疗愈你
 
-addappid(2361690)
+addappid(2361690,0,"6914baf997911bdab2465a952aff97aacd3e529bc322f4eed7889d0be18cdccb")
 
 addappid(2361691,0,"e60924b78d03e78e2fa7af27c61784de23211adb6a7124a490a627e313cde904")
 addappid(2361692,0,"f7be5515de5b73fd49e955364751e4d84a831db4c4c08377ea5a2a7eb187f850")

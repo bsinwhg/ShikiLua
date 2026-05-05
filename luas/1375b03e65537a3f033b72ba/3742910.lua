@@ -2,6 +2,6 @@
 -- update time: 2026-03-25
 -- app_name: My Secretary Bird
 
-addappid(3742910)
+addappid(3742910,0,"a2220d973675a114e6308c36766d861366a9f46392a15de0d0265b1e102138b2")
 
 addappid(3742911,0,"bad05fc29b771bc1bb3454e597a176ae4a45ef573053c9276d41c966a2c100bc")

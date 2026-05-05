@@ -2,7 +2,7 @@
 -- update time: 2021-12-20
 -- app_name: 无辜的女孩
 
-addappid(1349030)
+addappid(1349030,0,"f26b40b608a213ba29278bec53ef0b4f4ff005fd427810b5b351a9caaf3fc222")
 
 addappid(1198731,0,"31a417f054c19c94e98bbc5ffb947fe9ecf2385a6f1be888451264f5c23b8b04")
 addappid(1349031,0,"a008152c9063bedcfb2e6a4cd2f0a1d1c98ec6db7e8dfa59b349c6f2cc9e9865")

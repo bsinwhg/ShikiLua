@@ -2,6 +2,6 @@
 -- update time: 2026-02-10
 -- app_name: 偶像调教事件簿
 
-addappid(3990990)
+addappid(3990990,0,"f29f3e3616866e922e694b1f5afae31546adb8fb3aafab1b27257413326d89ce")
 
 addappid(3990991,0,"19995c2dd7fa0f45ff6186d23ca1e421acb6a80b1694b9c3c67d6956a9074728")

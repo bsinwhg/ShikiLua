@@ -2,7 +2,7 @@
 -- update time: 2023-04-17
 -- app_name:  万鬼夜行
 
-addappid(1987970)
+addappid(1987970,0,"27d4c7d9cbce06cb1a86a76e0cdaff2e5d7d8eee08ded2713f9da42e6b3d60cc")
 
 addappid(1987971,0,"4e9eeb7f0129d56ec844cc944d75d00153b2d7aa12d0701e7c32d6c6c148afac")
 addappid(1987972,0,"b92641d0c6ec845889a1ea07efd872567f3c61c84c516cd03d752588187c6208")

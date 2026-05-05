@@ -2,7 +2,7 @@
 -- update time: 2019-06-07
 -- app_name: The Leisure of Grisaia
 
-addappid(460160)
+addappid(460160,0,"c398a45c14df12bbdbd9982241977ae5ed82c6da2f467e399e64a6978724d1bd")
 
 addappid(460161,0,"e6c30e7c38b0521375678ac335a4e6e75fee9ab641c4444a4a2eec29da776a7d")
 addappid(460162,0,"dd5447642d0e5e6dff97542fcdf8542c82b13fa312d455b95d2df348f04bdd43")

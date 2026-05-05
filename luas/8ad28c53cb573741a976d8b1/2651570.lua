@@ -2,6 +2,6 @@
 -- update time: 2024-10-04
 -- app_name: 魅魔莉莉姆想要升级♥
 
-addappid(2651570)
+addappid(2651570,0,"dbbb5cf31b33a8852757dbf375a64dfabfbc4c80d8f71be291ca6858ca3376c0")
 
 addappid(2651571,0,"59f80dedd0a2710cd83d050ba933cf31bbcc23a680d006685dd2659b36e9fb6e")

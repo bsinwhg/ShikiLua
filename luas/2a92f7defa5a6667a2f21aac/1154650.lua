@@ -2,6 +2,6 @@
 -- update time: 2019-10-25
 -- app_name: GSpot Master｜穴王拳
 
-addappid(1154650)
+addappid(1154650,0,"33426e063a8e2842513d62e66f693a67f23e8d85e81d477b12036dd9769a43af")
 
 addappid(1154651,0,"37f0520d1ac6033306ecfbce3a66c82197556a2db602e1d27ef20ef3bb2715f6")

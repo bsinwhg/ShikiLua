@@ -2,7 +2,7 @@
 -- update time: 2026-02-05
 -- app_name: Nocan's Quest: Sex Gold Glory
 
-addappid(3870580)
+addappid(3870580,0,"38678e6aeb0327ac66fd7555769b685ec2b8434f33a7345b425ea0fbe9dec3c8")
 
 addappid(3870581,0,"c3d471463ecbb3d56f72425d97b8a15cb18c311c46ea88d5854392f9b1521af4")
 addappid(4203930,0,"958c93468e03eef6f616017fa0f79545c5128da9c0681908aaeca945f130c840")

@@ -2,7 +2,7 @@
 -- update time: 2021-02-18
 -- app_name: 虚幻寓言：欲望的祭品
 
-addappid(1257200)
+addappid(1257200,0,"d123da0cb2d9c011aa72ddecf215f4dbbfd19d8ccc7e6367fbfc4ace370f0071")
 
 addappid(1257201,0,"327df4a0e0fa14e593d92c6009961de38c9361f97ab7b5a1ebe36a40c26c082a")
 addappid(1257202,0,"20f2f5848109ca513b363e0833a165b1e48d4fbee8e7291697fe93930cd93a41")

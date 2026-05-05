@@ -2,7 +2,7 @@
 -- update time: 2026-02-26
 -- app_name: 恋~一些小清新的猎奇故事~
 
-addappid(1849570)
+addappid(1849570,0,"c065a4f55de9d02db86df1d047287686d5d26bc09b34bc2ace7434d7ac24705b")
 
 addappid(1849572,0,"2495c1a42b50376c637f370a1abcb3b0c891bf6cad365b3b7d38dd0ec4ab7b30")
 addappid(1909920,0,"89d7c56e771fd90cb13d649cfdbbea2a1c505aecdcb304257c6ddbc248c64940")

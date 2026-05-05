@@ -2,7 +2,7 @@
 -- update time: 2019-05-16
 -- app_name: Metro: Last Light Redux
 
-addappid(287390)
+addappid(287390,0,"4d76bc072e301e6affb29508fc6de4a896d7a1e477f605eb31d5da768517e91f")
 
 addappid(287391,0,"b83248490dbb4df7788d5976584e6829597922e10fb4a9ab537e4da04c52b61b")
 addappid(287392,0,"b31b8b47d359f387ffb0f435de1b127ab2a3dfcfd16304b1d18efff394f3c7f5")

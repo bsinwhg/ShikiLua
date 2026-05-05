@@ -2,7 +2,7 @@
 -- update time: 2024-04-24
 -- app_name: Asian Foxes
 
-addappid(2833960)
+addappid(2833960,0,"de0e18c085059104d5435e2166eeaa75b2e8f238ab5952f5f7316fe4e2f1ecdd")
 
 addappid(2833961,0,"4f2bfbfc476005e67571dea768a0d2b861aa1c823698caaa08f06c7035f77c40")
 addappid(2873730,0,"06d432cfed01746afe1b2f8566f61b5f87367ac492ecea5de4db815fbc912e13")

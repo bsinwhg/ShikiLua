@@ -2,7 +2,7 @@
 -- update time: 2020-05-31
 -- app_name: EvilMaze
 
-addappid(484950)
+addappid(484950,0,"dbcc1574c3fe7155cba6b18687b1a1e943dc4cbcc9c9b2fd1ffcc7ffc0a5f5eb")
 
 addappid(484951,0,"2bf103a4a04f3fcbe3c491a0c7fa63aeff6553d0218018530da353713fab95a5")
 addappid(498520,0,"601ced4055a125fc2f66b5123366d0dc5761180c744a96fb0d912a913b430923")

@@ -2,7 +2,7 @@
 -- update time: 2020-11-30
 -- app_name: Happy Quest
 
-addappid(1418160)
+addappid(1418160,0,"187b2e3dbbad4b29f85c6aa8855614f2d12500205ae112f755eb554de4beefaa")
 
 addappid(1418161,0,"d3c5bd1a514816e87bbbfc4d3ed1c56b0e6b67b0069438508ed3c8b41e6a05d8")
 addappid(1447440,0,"04e7755f9c488a04caba081b9b1e262bc65c9e4dc5682e4e27b934d14d669484")

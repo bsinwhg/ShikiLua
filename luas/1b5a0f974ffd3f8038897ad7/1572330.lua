@@ -2,7 +2,7 @@
 -- update time: 2021-08-10
 -- app_name: 魔兽英雄
 
-addappid(1572330)
+addappid(1572330,0,"caa89220a546d5a18cbce21e1c549c9e95c821fe5062d51c2310e62f41c3fb66")
 
 addappid(1572331,0,"b735fa410fd327631f18acb168a1e19afe7bc607e5b07cbb387f650fb3a78774")
 addappid(1572332,0,"b9deac1d14e36bb6b8f46db6798aa2ed37c9964679d7a52fd74b9a79aaabd8d2")

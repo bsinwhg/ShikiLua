@@ -2,7 +2,7 @@
 -- update time: 2026-03-25
 -- app_name: Humans are not that against Lizardwomen 2
 
-addappid(2642840)
+addappid(2642840,0,"6cce8d68e4a05eebf6f5f59abbc19b9f370c3e76fd41ea0d203648816e39b208")
 
 addappid(2642841,0,"a053e2625dc5de7ad48ac866826306a817ee98714ee2f1164fd73b2cf783135a")
 

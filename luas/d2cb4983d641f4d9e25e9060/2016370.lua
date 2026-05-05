@@ -2,7 +2,7 @@
 -- update time: 2023-06-26
 -- app_name: Adorable Witch 4 ：Lust
 
-addappid(2016370)
+addappid(2016370,0,"bebc4374814810836fcbb776e83eac740cf3713afad236f4e201e17c44f54d44")
 
 addtoken(2016370,"6832842984699518180")
 

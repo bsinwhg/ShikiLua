@@ -2,6 +2,6 @@
 -- update time: 2023-02-13
 -- app_name: 她的圣域
 
-addappid(1961760)
+addappid(1961760,0,"56e6138852c79d61e6e7d7cb8e130d355e808edfc1763b2eec3d184ce88013de")
 
 addappid(1961761,0,"a5e3a8349ed97f57e66cd5b439fc33732a9e76b9888d89edb0f5a8e387251896")

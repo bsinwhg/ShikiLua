@@ -2,6 +2,6 @@
 -- update time: 2022-01-11
 -- app_name: Paradise Delight
 
-addappid(1729070)
+addappid(1729070,0,"72c6f8b095c4e2239685866c1c646c17f86ed643ba329b182b45c6a999a7068f")
 
 addappid(1729071,0,"b2ac17d4fadf17656ef7194002baba38fbf9d0accf6792220add7ca12d8317c7")

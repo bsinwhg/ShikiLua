@@ -2,6 +2,6 @@
 -- update time: 2022-02-24
 -- app_name: Dream Date
 
-addappid(1256610)
+addappid(1256610,0,"51191bbe782f17dc4872db4e7db7ec3689f4122a2b185bfba8bda4daf5f9d09c")
 
 addappid(1256611,0,"b17857f338b33e5ed5c5bb67cd78aee3f7920e2a41c7b2433d1f7297b0c522b6")

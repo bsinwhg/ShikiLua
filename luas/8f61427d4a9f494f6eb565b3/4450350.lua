@@ -2,6 +2,6 @@
 -- update time: 2026-03-30
 -- app_name: Xvirus
 
-addappid(4450350)
+addappid(4450350,0,"2bef6367cbeea1a4e2a0534e87b9426eed3aacba84859bc37094ac1b9fecd62a")
 
 addappid(4450351,0,"fa572485596bebf7f3a03e835d4c6f13c4e4b07cb0fe9dc4637ab66ea362f5fa")

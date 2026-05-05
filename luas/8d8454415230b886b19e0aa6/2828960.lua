@@ -2,6 +2,6 @@
 -- update time: 2025-01-13
 -- app_name: Beyond the Portal: Island's Salvation
 
-addappid(2828960)
+addappid(2828960,0,"93afc8eec883ed6103601bea5a7bfb161902b6189679f2411b2ccf5cc22b26b5")
 
 addappid(2828961,0,"32766a7f154a6755d62620a3805d0e97e86f8f47119b17a46a1fd07bdadf29ac")

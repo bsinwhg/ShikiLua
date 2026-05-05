@@ -2,7 +2,7 @@
 -- update time: 2023-06-30
 -- app_name: 冻京NECRO
 
-addappid(2183070)
+addappid(2183070,0,"6b0da3a1f77ca1b937f8bad5b8742c1cbe8094760e14bd29d5a68cabc01fcf60")
 
 addappid(2183071,0,"d3e8e6533d389c76f6a02e2cb6e73b4acbf148e6aae92f7c50a9d568ef149bc4")
 addappid(2183072,0,"8bf3143e68991dea9eda3a7875af20ed84d06457489f1a9b42d9cb01f4a5f734")

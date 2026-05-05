@@ -2,7 +2,7 @@
 -- update time: 2022-07-21
 -- app_name: 捉妖物语/Monster Girl
 
-addappid(1967450)
+addappid(1967450,0,"9187081aacbac8794dd38d888aae1a867b8c48b1cf20fd570a41900a4ffcd6fd")
 
 addappid(1967451,0,"72ed793e54a81acc76b668cd0f8ebcc5e1463a8329eedb9393ea2ccdf95110c3")
 addappid(2092051,0,"ac55fdc98c87dacb43c0531e603ff1c69487792e45703836a39d333a49782c84")

@@ -2,7 +2,7 @@
 -- update time: 2022-05-13
 -- app_name: The Dead End
 
-addappid(1342060)
+addappid(1342060,0,"4adf7a89961dfb277d607c05ee8bdc97284956693ac539cc6caf817deee31203")
 
 addappid(1342061,0,"e927cd62c62423bb41a029aeeef6d9de619b1ad2b07ae00f333693fa3bf5fc62")
 addappid(1342062,0,"b1772b5c4d7ae860e029433f39ee6d3697d6bd453a4b82be3348e386a7f8e7ba")

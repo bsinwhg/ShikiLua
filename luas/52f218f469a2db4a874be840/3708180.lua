@@ -2,6 +2,6 @@
 -- update time: 2025-11-14
 -- app_name: 孕兽师的异世界学园无双
 
-addappid(3708180)
+addappid(3708180,0,"dcd923577c7955dc5a000d89d45de972f6212389f8bd1c9a4c98f30ddce419ba")
 
 addappid(3708181,0,"d58f5e1270d170ff9ca50e2db4881db83a837cbe68a021baa61f6c5cc4413d64")

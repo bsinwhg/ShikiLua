@@ -2,6 +2,6 @@
 -- update time: 2024-10-25
 -- app_name: 妖精调教仪式
 
-addappid(2696060)
+addappid(2696060,0,"710bcbf89b62a476d0b8c5065e66845fdc97112ab12acf1ac970e559cfea9649")
 
 addappid(2696061,0,"6e1eddf856af93e1784ccefb3e8308dae76877b722e3ef97f6b56b2a4e78e16d")

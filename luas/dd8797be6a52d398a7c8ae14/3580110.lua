@@ -2,6 +2,6 @@
 -- update time: 2026-01-21
 -- app_name: Fuckstone
 
-addappid(3580110)
+addappid(3580110,0,"96b1395c074960785675b04fdc5fee9d31c81e4c40cf972a4d110cbd3cedd6a8")
 
 addappid(3580111,0,"247aab193f4110823002071b5307c04d872b83f1c6ab13aae2f7e1edd8ac0c70")

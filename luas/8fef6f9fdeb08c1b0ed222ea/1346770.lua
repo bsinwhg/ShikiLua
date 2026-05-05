@@ -2,6 +2,6 @@
 -- update time: 2022-01-16
 -- app_name: 醋意乱流 
 
-addappid(1346770)
+addappid(1346770,0,"c54c06d4ae7c6fe027945bb76b9d78baebf5dd247f421ec97147523bda2f8bd6")
 
 addappid(1346771,0,"142726382393ce1177147da37ef4c1e611309494173d39162f2f3cafd6eaa85a")

@@ -2,6 +2,6 @@
 -- update time: 2024-11-28
 -- app_name: 镜花水月-零
 
-addappid(3046800)
+addappid(3046800,0,"36ede10f50556e542f203e3317bb40376faed9f789d51cc8a907e57f45396e5d")
 
 addappid(3046801,0,"30fdbbcd6edb75aeb69b2c8a2a43c9d9197dcabfe6bed6e6d665731869d80b1a")

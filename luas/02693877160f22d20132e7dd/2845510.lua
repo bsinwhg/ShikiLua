@@ -2,6 +2,6 @@
 -- update time: 2025-09-15
 -- app_name: 人妻遥香开发日志
 
-addappid(2845510)
+addappid(2845510,0,"8dcac7816e9a1f9cd6ba24b10392b8e5568c651625317458a28407f0fdd91f2d")
 
 addappid(2845511,0,"8ceab5a8e3ac53f318ccf4d6485e1fc7d686b0689214d5ee34df8c87318aea67")

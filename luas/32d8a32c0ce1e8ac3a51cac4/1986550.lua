@@ -2,6 +2,6 @@
 -- update time: 2022-11-30
 -- app_name: LOLLIPOP: SUMMER!
 
-addappid(1986550)
+addappid(1986550,0,"15200c41610838e4d2b077d73085bf67bfd15188fb19d815fc5dbf5505a1e806")
 
 addappid(1986551,0,"9d1c2027741da4497a87a87d08dc9d49f12e1f4d57754054ec346b59c35a3d18")

@@ -2,7 +2,7 @@
 -- update time: 2020-11-08
 -- app_name: 玛蕾与黑海迷宫
 
-addappid(985400)
+addappid(985400,0,"eb8994f271371a2f937837dd14fcde84f26d7e6edcbeca877c8f8cb8ce36d59b")
 
 addappid(985401,0,"747ff4cb67d5ce8f3aa837f3cd3f95a596b5408bec00788161ee34c013544ef5")
 addappid(985402,0,"fb962db8415e4864fb131bc1368efff0f4986d2264cbcc0b76aa3bffc7288768")

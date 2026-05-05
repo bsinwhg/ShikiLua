@@ -2,6 +2,6 @@
 -- update time: 2023-08-09
 -- app_name: 病房轶事～在凶恶护士长主宰的医院深渊中过着卧底生活～
 
-addappid(2474940)
+addappid(2474940,0,"7a7b8273b54ef1c7645cba10ef12b8baf84bd01280526044b8da712040b5118b")
 
 addappid(2474941,0,"21ee99ef5fc00ffd56eebe7540b9ce39bf861e3bba1e23605cdb87f74ea4f5b1")

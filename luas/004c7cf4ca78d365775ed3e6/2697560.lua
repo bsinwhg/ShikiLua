@@ -2,7 +2,7 @@
 -- update time: 2025-04-02
 -- app_name: 丑小鸭与文字祸
 
-addappid(2697560)
+addappid(2697560,0,"2b5859fa2fae3e6bffabe0c53fb5ef0112d8657b2769317b5ef6b245f450f98f")
 
 addappid(2697561,0,"c7119846f65dbdecd322641a0be846285ffccad8f2091c91bf241661478efd59")
 addappid(2697562,0,"c3d99f0f7d28f92c6529a27946777e65821ef2587d1cdfc59e47c87cb68fedeb")

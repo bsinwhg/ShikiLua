@@ -2,6 +2,6 @@
 -- update time: 2021-07-07
 -- app_name: Lost Ruins
 
-addappid(1306630)
+addappid(1306630,0,"8f07d61a516db32e7cbc5b5c08bb7fbdba03803dde12dd1163748146705775c1")
 
 addappid(1306631,0,"c4a67b4a6be84aca23afef67a3400117b2993b6f7082b570e8624a3cdcbe4495")

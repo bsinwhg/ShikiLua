@@ -2,6 +2,6 @@
 -- update time: 2023-09-23
 -- app_name: 进化游戏 第一季
 
-addappid(2424660)
+addappid(2424660,0,"01165807dfa680bdde775cc7e331838356e2f57f7b9c6fe1c2304f5f0cda32fa")
 
 addappid(2424661,0,"386554c31a0622543a8fcde1de35281f0b9875170bde5189a93b484146e23ed4")

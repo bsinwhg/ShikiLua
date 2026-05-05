@@ -2,7 +2,7 @@
 -- update time: 2019-06-27
 -- app_name: 人间 The Lost We Lost
 
-addappid(1057680)
+addappid(1057680,0,"0d1cc1da467c0819126f68b3a24aea8390fb4922808500b23d8bc13a405e2502")
 
 addappid(1057681,0,"6fdc6b60b7f397e3130ad16adcd80e6aabe854e6f95a7a384122330fb7515996")
 addappid(1088450,0,"6bad4c5cf73c8610426614c19bbc3fe39cd11d98af5c459e2e5ebcf87050e8aa")

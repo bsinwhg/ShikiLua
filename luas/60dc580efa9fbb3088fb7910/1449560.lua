@@ -2,7 +2,7 @@
 -- update time: 2021-05-21
 -- app_name: Metro Exodus Enhanced Edition
 
-addappid(1449560)
+addappid(1449560,0,"7dd9f4ea39c4ff179ecf8b1cd481a8dafbcea9ecc997ce717647ab6318989534")
 
 addappid(1449561,0,"0bceeea8048e48e451693146c33f2ea54932dfe36ae0f6ccce505d07e1d7930a")
 addappid(1449562,0,"70f09a9fb7115c8689a965227487211709491ca9d0c923c0c95f4685db9c5884")

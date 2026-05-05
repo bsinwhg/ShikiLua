@@ -2,6 +2,6 @@
 -- update time: 2024-07-09
 -- app_name: 二分之一
 
-addappid(1998450)
+addappid(1998450,0,"b44df8c9b7dda8dcbe0a44e951556c954a6f465a8ec767cd7838d6759557e31f")
 
 addappid(1998451,0,"099823601580b64b8673ebfabe89d86cdff8e4e3940d2ec1cce71619f95d6560")

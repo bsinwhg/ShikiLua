@@ -2,6 +2,6 @@
 -- update time: 2026-03-03
 -- app_name: My waifu guild
 
-addappid(1581180)
+addappid(1581180,0,"6efffa90856ffd57e5b60840be65c8d0d4f66fb3bcfd4eb5ce0a021176bb8f56")
 
 addappid(1581181,0,"7bc92ac93915348bf937d5c68cb8fcc15c3f8d351337401c1724e6e6ccc296d3")

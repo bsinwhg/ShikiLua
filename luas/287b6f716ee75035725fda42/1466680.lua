@@ -2,6 +2,6 @@
 -- update time: 2020-12-01
 -- app_name: Sakura MMO Extra
 
-addappid(1466680)
+addappid(1466680,0,"6af28ff36e24411fd710ee44eddfcbcdeb93f4425e74252e7efc709894a6ce8e")
 
 addappid(1466681,0,"233c5c900735f8ba4f8fe6c487715b185c776b47b8592d7974e50e5592eb89a1")

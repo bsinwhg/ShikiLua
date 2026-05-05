@@ -2,7 +2,7 @@
 -- update time: 2021-02-24
 -- app_name: Tales of the Black Forest
 
-addappid(1093910)
+addappid(1093910,0,"b5b9aabe1f70e6c86123019e2095da435136f3ac57801f2b581d3f7ef48c47c6")
 
 addappid(1093911,0,"815e0377ea5af4f16ae800ccbcb5337a6e818bbbc92d8fe904b2634e2d3f5229")
 addappid(1093912,0,"866b857bcc37e14d4a5f34bb1a285236b50f280738318ca313a366ebedd8a784")

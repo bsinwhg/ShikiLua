@@ -2,7 +2,7 @@
 -- update time: 2023-11-11
 -- app_name: 米斯蒂闪耀繁盛记
 
-addappid(2007980)
+addappid(2007980,0,"f5275d6505d595c3c8992d883f6f68b7c2ed4b9ee685b6253a4e56f7a321eda7")
 
 addappid(2007981,0,"c1f06946752378b7d9bee81622fc9075fdfe8ac2dc8cf6a6245aaf2acced0e1c")
 addappid(2007982,0,"bc590f696a581ae66b450db623456a77d966e3a72ef5cbce8c443dee2e3235af")

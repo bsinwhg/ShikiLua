@@ -2,7 +2,7 @@
 -- update time: 2024-08-02
 -- app_name: NEKO-NIN exHeart SPIN!
 
-addappid(2995390)
+addappid(2995390,0,"5ad6fd8f2a8038c665a1122c4c9cca6f0dd22b5474ccc3427a81c3e4e6f4a1fb")
 
 addappid(2995391,0,"174d087b65d14a03946c97300fcc8efe3b0af8d09e9bf2afe55f2a72b18ebfe0")
 addappid(3111540,0,"23c4eee936e0cb691a2873d4f94a3643e26ce500425d1af16a1db08c9b69254f")

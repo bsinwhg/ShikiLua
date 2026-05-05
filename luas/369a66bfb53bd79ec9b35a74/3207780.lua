@@ -2,6 +2,6 @@
 -- update time: 2025-10-15
 -- app_name: 恋爱庄园-家教篇
 
-addappid(3207780)
+addappid(3207780,0,"8d1e6f9681cda17d074678ac97586d3854a3739b9678795f7d9ce25ae76a070f")
 
 addappid(3207781,0,"3551564b59e26ffe321d5d8dcb72136f1d1fc8b7144ace3ac38d2647f123164c")

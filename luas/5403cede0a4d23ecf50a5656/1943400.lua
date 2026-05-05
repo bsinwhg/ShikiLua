@@ -2,7 +2,7 @@
 -- update time: 2024-07-04
 -- app_name: Momo's Eternal Adventure
 
-addappid(1943400)
+addappid(1943400,0,"af899dd0d58c66a756d0d5c33b2f299c0e9258627bb0f57bf63bad0f633eb9fa")
 
 addappid(1943401,0,"a86bed84c19da1d023b33a1727a216039ae542f825462b34a911f5e33c8c8ee1")
 addappid(1943403,0,"c2b2cddeb87bab4b672a57fcf68aeaf329adacdd671fe859bfc944c07f2224aa")

@@ -2,7 +2,7 @@
 -- update time: 2025-07-11
 -- app_name: 巨龙征服者
 
-addappid(3396400)
+addappid(3396400,0,"114bfa4d990e92360c168afdeaf76eff1c918b0c38a730d10eea303ca9da87b5")
 
 addappid(3396401,0,"2b8aa4e200755d972c8f6c82156d351984caea111d77bea60766ef88a09f0274")
 addappid(3396402,0,"693d59c0a8e1bb5acfb52ca3ac88aa23ceecd08dedb4217f0a2415d522d1f9d2")

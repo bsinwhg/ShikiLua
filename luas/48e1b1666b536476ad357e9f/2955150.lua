@@ -2,6 +2,6 @@
 -- update time: 2024-05-20
 -- app_name: 女巫的交易
 
-addappid(2955150)
+addappid(2955150,0,"8ca8b66c03afa059a7f75d221f4decff6105b80b58e0039ed107b5bcd602d334")
 
 addappid(2955151,0,"a26f28a51a09bb586ef567d857cecdeb861d8b3f61af76ac81b73985b167384b")

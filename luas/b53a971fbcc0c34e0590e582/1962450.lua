@@ -2,6 +2,6 @@
 -- update time: 2022-05-19
 -- app_name: RitualSummon
 
-addappid(1962450)
+addappid(1962450,0,"37458810570de9320a31ec48bbbb3f37973e99a5d0b715fcdba7bf9c6ea3b4ae")
 
 addappid(1962451,0,"dfd2afa82ae15fef9cb7d92e7687777a6592ec7187f538c769fbc703b1421c26")

@@ -2,6 +2,6 @@
 -- update time: 2022-12-27
 -- app_name: Tomb 盜墓
 
-addappid(2206130)
+addappid(2206130,0,"b78fd7a375b31d3d4a4463cd4cabff806b69b60d5232226de316d22fb33132f5")
 
 addappid(2206131,0,"181f0eb16378ead181cb84428c53326ad71029c55f97777fa87cb4f7eae54030")

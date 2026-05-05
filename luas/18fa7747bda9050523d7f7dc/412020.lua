@@ -2,7 +2,7 @@
 -- update time: 2021-04-15
 -- app_name: Metro Exodus
 
-addappid(412020)
+addappid(412020,0,"451aeeb55696fcd66f30d193102e9bb702eb8fa196553ddfaef2d46279ca3f81")
 
 addappid(412021,0,"f06003bf9aba2630c97f3f84b80f14067b0df94fb9bfabadcbaea93e1ae4c6f7")
 addappid(412022,0,"fdaa0cc6fe8207b1742e3d1fe9b0c62fc848da589cba441eef409d816d6aa775")

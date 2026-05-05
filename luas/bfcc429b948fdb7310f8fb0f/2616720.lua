@@ -2,7 +2,7 @@
 -- update time: 2024-12-02
 -- app_name: 格式塔：五日回
 
-addappid(2616720)
+addappid(2616720,0,"f32d9403d9705de193e02f1276763fd5037235ffde329dbd9d8f45e0ff706b7d")
 
 addappid(2616724,0,"7339bf1c17f0ae5a2d858f7a174d10964fffdbcbe31b59c7bad9ac8daf28f8a0")
 addappid(2616725,0,"e035db1c1251344f90daa301f12d6d852eedfc8326fd8e65099ad5a90ff60525")

@@ -2,7 +2,7 @@
 -- update time: 2026-04-01
 -- app_name: Deadland: Fallen Apartment 禁闭乐园：堕罪之寓
 
-addappid(3347620)
+addappid(3347620,0,"38a8c078207275a4b102068ffb6114fb0a6a3fa2f9a2b571d7c568cbb479c69c")
 
 addappid(3347621,0,"d4de16dac674d0b5a322c66e79b02aa09b6f2a881862c9020310305d1f6204ab")
 addappid(3899260,0,"2ef537e64b67ba145836bf48081e61c376a6c5719448585f10eb9e3593aa73d5")

@@ -2,7 +2,7 @@
 -- update time: 2020-11-13
 -- app_name: Funny Business with My Precious Coach (Anipuzzle Series)
 
-addappid(1402410)
+addappid(1402410,0,"36b43425840a41c728bc95980a96cb29f3d67774f73820ff21ddae66fa80bd44")
 
 addappid(1402411,0,"10c85c7cc7719c77b0b9323c119da2c45014a762ede309865c7542d0587c8fad")
 addappid(1402412,0,"0d6e293783df5a82504738d4ee26df529c0d07a3051c99beba76a1b4bc579834")

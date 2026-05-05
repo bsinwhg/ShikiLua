@@ -2,6 +2,6 @@
 -- update time: 2025-05-14
 -- app_name: Yusha Prototype -原型勇者-
 
-addappid(2253970)
+addappid(2253970,0,"cc6a94dda2ba08d6e1d6e8ca6080c98860a9ea6d978079f4cebb43200a552ebe")
 
 addappid(2253971,0,"9f942330205627b5337c1edcd364f2b5fa55676802cf2f14cfbb3febcd2120a8")

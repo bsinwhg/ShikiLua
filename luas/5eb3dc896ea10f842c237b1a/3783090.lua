@@ -2,7 +2,7 @@
 -- update time: 2025-10-18
 -- app_name: 性感可爱的淫妻们：紫色
 
-addappid(3783090)
+addappid(3783090,0,"1e77cc14ed452d14267300da4efc43030f5f802ccfab7a3bd38522ac47f41ec2")
 
 addtoken(3783090,"10093652871749631995")
 

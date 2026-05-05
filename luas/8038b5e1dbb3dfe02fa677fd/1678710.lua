@@ -2,6 +2,6 @@
 -- update time: 2021-09-09
 -- app_name: 维纳斯计划
 
-addappid(1678710)
+addappid(1678710,0,"224c1a4b5cc325afa33578a058474911efcba308866a1b303f350827ba85936b")
 
 addappid(1678711,0,"5942c4c13bf689bfb693168b31aa62f7ff26a21ea03c4d771577bb1d4f98fde0")

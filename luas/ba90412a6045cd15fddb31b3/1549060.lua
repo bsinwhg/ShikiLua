@@ -2,6 +2,6 @@
 -- update time: 2021-09-17
 -- app_name: WAIFU IMPACT
 
-addappid(1549060)
+addappid(1549060,0,"74f0a3c8a967d44a6616496e522cbd2312021f58f7cdcff3fa4f223196b93126")
 
 addappid(1549061,0,"3ae2205af6b40736adfc75b1407ae92373a14d55097e584fa5932b7cc2e27a2c")

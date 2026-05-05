@@ -2,7 +2,7 @@
 -- update time: 2024-08-07
 -- app_name: 流星 -a wish star-
 
-addappid(3034450)
+addappid(3034450,0,"fdb9947ebede7bacfdd8aabef6b883479cbef4b34a9feca2eed3a23c2c638557")
 
 addappid(3034451,0,"7edb092ca8a34fcf00626f1655dafbd68b0ef3c0d0874f102f839da70b88809b")
 addappid(3034452,0,"377ddde3a661209a218d8dabb34569df1599922a84ae7cb34651f539b1d2e66a")

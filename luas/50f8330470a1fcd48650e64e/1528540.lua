@@ -2,6 +2,6 @@
 -- update time: 2025-02-07
 -- app_name: 圣妓女艾蜜莉 
 
-addappid(1528540)
+addappid(1528540,0,"d2355befc5a05331c4375a2c0c5e58b68e486b2d4f72f1bd3269bdc91af1556d")
 
 addappid(1528541,0,"3c781ca2954742cd8047dfb3a10dc4163b026ad888df044e40a12e7fdcb9c156")

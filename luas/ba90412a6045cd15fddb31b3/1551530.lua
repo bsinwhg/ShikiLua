@@ -2,7 +2,7 @@
 -- update time: 2023-09-23
 -- app_name: 祈愿诗篇
 
-addappid(1551530)
+addappid(1551530,0,"198cf10107cf078b7df1fab8c32b9699fd51d66bd7a983946beba0cf6d8fb5a2")
 
 addappid(1551531,0,"8bf4bb9de5995d70de93ed82c12e20ab74698b9448371dda333a4e7f31e4ad35")
 addappid(1551532,0,"81d1809a02aacdb3d10af04d9637fcea028a71ef0eaf2827af9c07fe12f00998")

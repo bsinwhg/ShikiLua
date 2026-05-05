@@ -2,6 +2,6 @@
 -- update time: 2026-01-18
 -- app_name: Cosplay Collection
 
-addappid(2149070)
+addappid(2149070,0,"e15510c4a04335e3bb5eb1b8b5f1e4da8a2dfbd1310e31fb49d0897445ffdb3b")
 
 addappid(2149071,0,"0367cbae01f6ebbb59c61cc2af6b6a1c649f5ca4f6447a3eccc445c1b7ebdc16")

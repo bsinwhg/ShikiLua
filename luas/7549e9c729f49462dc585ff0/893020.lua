@@ -2,7 +2,7 @@
 -- update time: 2020-08-22
 -- app_name: 奴隶之剑２
 
-addappid(893020)
+addappid(893020,0,"fc2fa8aa22382af238fd1f940e96830cb1022f0078c30e1e88e351ed4e7badf7")
 
 addappid(893021,0,"ea0b628dba9cc59bf1f3b672e65967f9e4d6aa2a3a4380e6e06137bc307a4ac0")
 addappid(893022,0,"ebe462d8f7c9183f3755125deed5e81a4b14c59196b3b4c14c763a850169ef58")

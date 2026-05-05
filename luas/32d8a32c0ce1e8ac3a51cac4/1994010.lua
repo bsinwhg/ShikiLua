@@ -2,6 +2,6 @@
 -- update time: 2023-02-07
 -- app_name: 与姊姊同住的时光
 
-addappid(1994010)
+addappid(1994010,0,"44ddf8c14bdd199174f7a8b20d801e216bb80444ae026ca8e1782c7d250c2229")
 
 addappid(1994011,0,"f59867622559267d946ba4432de47880cc2cc41421db1ac93eeedf508ce82782")

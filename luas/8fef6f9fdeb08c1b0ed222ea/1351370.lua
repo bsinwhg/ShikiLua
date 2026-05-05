@@ -2,6 +2,6 @@
 -- update time: 2020-07-17
 -- app_name: Sakura Knight 3
 
-addappid(1351370)
+addappid(1351370,0,"f2a7c65a120cb105d251f9fb08d3c610330d00f9345d0291ef683d8f07831ea5")
 
 addappid(1351371,0,"36360296fd81678d5854be48152b785deec3d433fca8a522c2cca9bda6685325")

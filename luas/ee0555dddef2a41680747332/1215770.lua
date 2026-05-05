@@ -2,7 +2,7 @@
 -- update time: 2020-04-03
 -- app_name: Naked Story (Sports Festival Ver)
 
-addappid(1215770)
+addappid(1215770,0,"17ccb7044cefae64757717072d8c2fef793528ed5f718df6677a862e30e46cc0")
 
 addappid(1215771,0,"c6d36c498505777b9ce018a85ff9f7378917cb40ce0b670163b44951c1becce4")
 addappid(1215772,0,"1ec76a982e7c9a3134f6a30f4127e4f45e291bc089dccef15e993db7ee41068b")

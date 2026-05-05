@@ -2,6 +2,6 @@
 -- update time: 2025-05-20
 -- app_name: Wet Slits
 
-addappid(3006150)
+addappid(3006150,0,"b9e41b33fd8a11c9e86f8d26a19d7c48c9e2fd5bad222f2c2dc30be8beafbb1b")
 
 addappid(3006151,0,"926be047332178d275b307ee2a95395972f1cc828c36a90fd24d1a04999229a6")

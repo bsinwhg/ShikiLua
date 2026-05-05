@@ -2,7 +2,7 @@
 -- update time: 2025-02-15
 -- app_name: 梦5：春节
 
-addappid(3172220)
+addappid(3172220,0,"1e54c58c44b8f6982aab3278d1389ebe7e39d9ae43414941035e04ceb6301be0")
 
 addtoken(3172220,"6905363394419308191")
 

@@ -2,7 +2,7 @@
 -- update time: 2025-10-16
 -- app_name: Monstrous Love
 
-addappid(2011410)
+addappid(2011410,0,"6fd2fbdd9a08e35f0d27b28e8bafc2a727999de089a0abef58af456f1f986570")
 
 addappid(2011411,0,"2878adc34d0ca705f90d97d75f1af3aab3cd4214ea25f0edce223a5773632335")
 addappid(2643760,0,"bf5f2c751568bd5c169ebc2cc02464d1f428bcec8737868bc5676df2147c2fca")

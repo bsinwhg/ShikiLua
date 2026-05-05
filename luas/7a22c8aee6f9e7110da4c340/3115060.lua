@@ -2,6 +2,6 @@
 -- update time: 2025-09-03
 -- app_name: 催眠诱奸
 
-addappid(3115060)
+addappid(3115060,0,"430f73644b02828f017984fa533af386963df72c73beaf2c6d92449204ad4e26")
 
 addappid(3115061,0,"6199195d827ba8221fea9e5991489ec2b0f4ce8c7e4f8ca315e62c3adca2f8dd")

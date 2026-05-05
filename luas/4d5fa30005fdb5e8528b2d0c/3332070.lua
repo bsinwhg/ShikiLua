@@ -2,6 +2,6 @@
 -- update time: 2025-01-18
 -- app_name: Dark Fantasy Godhood
 
-addappid(3332070)
+addappid(3332070,0,"89cfb1ec678d3cdf005a103c55317d62ed5e8c262fbe4140c171fb4eb6f15c6e")
 
 addappid(3332071,0,"7453509549d26be4acd78d2322911079f100e81b334c17dcdb0b8f20e47d5b44")

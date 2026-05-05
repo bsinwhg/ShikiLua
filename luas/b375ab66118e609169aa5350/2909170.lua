@@ -2,6 +2,6 @@
 -- update time: 2025-03-21
 -- app_name: Body Pay
 
-addappid(2909170)
+addappid(2909170,0,"4a0a7e49beb33c9227c84c738c9d95416a2c497e2be4771e2871cf46f2038a41")
 
 addappid(2909171,0,"7cbbaf548fcb7e13b3f988bc1ddf128dc062f4751b682542c931e7780643fe58")

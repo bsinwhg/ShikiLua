@@ -2,7 +2,7 @@
 -- update time: 2026-01-07
 -- app_name: 暴食的怪兽公主：惑星美食之旅
 
-addappid(2289720)
+addappid(2289720,0,"17fc5e207a609c0e6eb853dfcf65c47551860d9d4d96e1d42d58e74113ce4850")
 
 addappid(2289721,0,"9fc3429c350b7acd178867e645e958b1fafa2cf615acb4bdae830eaac032bdd0")
 addappid(3350771,0,"6a742ed9433fdae3a6672cad8164d006a18603cf0e55d63109d7704000df7ede")

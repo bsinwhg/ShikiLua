@@ -2,7 +2,7 @@
 -- update time: 2026-04-05
 -- app_name: Third Crisis: Neon Nights
 
-addappid(3400350)
+addappid(3400350,0,"b5b7a7ddb7bd6becf50f0f3e59b6fce4335796f33bfc57465433be563aa52872")
 
 addappid(3400351,0,"d7235ae13dc595910e55dbe00a78c7f1944a44268fa6fea54330f1451bed200f")
 

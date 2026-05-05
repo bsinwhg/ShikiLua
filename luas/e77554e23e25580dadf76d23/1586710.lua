@@ -2,7 +2,7 @@
 -- update time: 2025-12-16
 -- app_name: Cafe Maid - Hentai Edition
 
-addappid(1586710)
+addappid(1586710,0,"8de880365fda161a79d98a1849b183fe25b76fd1e9c044ae9211423acf5fb704")
 
 addappid(1586711,0,"93406ab674f96958167baea5b0807fd423030e320a691ef5dc13ed15db87ac33")
 

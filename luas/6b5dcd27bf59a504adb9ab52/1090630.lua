@@ -2,7 +2,7 @@
 -- update time: 2023-01-24
 -- app_name: Granblue Fantasy: Versus
 
-addappid(1090630)
+addappid(1090630,0,"54e41962a17ce511d13f3067817d7e2b3757584a6bb05c3be7b5f8565d615f16")
 
 addappid(1090631,0,"b5f78f47f569c27ce004a9fbfdded96e4aa71e27aaa6004283b2fcc5ecdaa615")
 

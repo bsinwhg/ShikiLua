@@ -2,7 +2,7 @@
 -- update time: 2023-03-09
 -- app_name: 亡国少女谢莉尔
 
-addappid(2201230)
+addappid(2201230,0,"b812fda8473304d4012483f55bd8c2ed7ff2752ffb33815a3bac2e21cdaae433")
 
 addappid(2201231,0,"7e6c67e1c7eeeb679773c30c3d90a3bb04074ddf6ab52971d1272286db0a7efb")
 addappid(2201232,0,"f14f6661f088e51ed5b13fc3c60808bc4f97a280dfe3f2a9ce589bc5e953dd00")

@@ -2,6 +2,6 @@
 -- update time: 2025-08-27
 -- app_name: 我的恋人老师
 
-addappid(3153770)
+addappid(3153770,0,"1adddca91ae10e2aa30fadea6f2aa28d3079f10ac77712bc5412414104914b5c")
 
 addappid(3153771,0,"5cab9fdc0de97c87081041859fc715c5f390c78a5ea26620c6190da6b15b6da9")

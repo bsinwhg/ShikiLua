@@ -2,7 +2,7 @@
 -- update time: 2020-09-18
 -- app_name: Lens Life
 
-addappid(1346970)
+addappid(1346970,0,"531e7d558fd542ffa44711f408896eec92c4b373c7925cec536601b8b7b31ab2")
 
 addappid(1346971,0,"28e41781573c16ae115676d763166e885e62363544ad59fbba857ddaae7597fe")
 

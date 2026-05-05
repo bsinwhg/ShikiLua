@@ -2,6 +2,6 @@
 -- update time: 2025-10-17
 -- app_name: DeviDevisurvivor
 
-addappid(3159800)
+addappid(3159800,0,"fe726eb40b77cf94d68d115fa8db14bb91a3f6db2135f2c496846aea7fa1a44c")
 
 addappid(3159801,0,"4431a0a4b1da41035f777bed25b99f8ac7f0f26be25b0e78f4dc6c17991a900b")

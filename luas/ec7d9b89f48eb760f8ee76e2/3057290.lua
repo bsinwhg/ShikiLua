@@ -2,7 +2,7 @@
 -- update time: 2025-09-29
 -- app_name: Furry Adventure Club and the Holy Grail
 
-addappid(3057290)
+addappid(3057290,0,"6918982a317a6bde4fb613d0552f133f09b87d9823288ebc0faf1cff7ad46da4")
 
 addappid(3057291,0,"728aa49b1fe454fa72a413bcb66ed683a59cf32f6151b70810ddce0dd2399c98")
 addappid(3332610,0,"74ced397e8500bf263fd75722ca69bfa9b9315935cbe5f9e81a72b809f194a47")

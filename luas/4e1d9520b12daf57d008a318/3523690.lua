@@ -2,7 +2,7 @@
 -- update time: 2025-10-03
 -- app_name: 爱衣与恶魔与欲望诅咒
 
-addappid(3523690)
+addappid(3523690,0,"e84beeeceaab4926fe8697539dc95094d16ec2788f9526e9aba8b0027f4741ab")
 
 addappid(3523691,0,"8b58bce41d91e3f2920175fdf0e96782012dc7f5153b1fd11ff94fb621c1ca7f")
 addappid(3523692,0,"a4f0101ecf8ef819fd286185b0b18025214489b1adb0688fbca87bddacbf0157")

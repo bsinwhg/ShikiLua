@@ -2,6 +2,6 @@
 -- update time: 2026-03-30
 -- app_name: SpunkStock: Music Festival
 
-addappid(1863290)
+addappid(1863290,0,"6f2af168a726f7290689616e34b056baf2ccd30c06a3e75c94c47c7369cd797e")
 
 addappid(1863292,0,"4bd38efc92c05bf066c4a12452acdc8cf858d881f29cd0417fb8332b57e20406")

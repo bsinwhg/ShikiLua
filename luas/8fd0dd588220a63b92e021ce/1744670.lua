@@ -2,6 +2,6 @@
 -- update time: 2021-11-16
 -- app_name: Back 4 Boobs: Sakura's Escape
 
-addappid(1744670)
+addappid(1744670,0,"a04761fb586d5c8fc2af80f44a2c28c6e350d3bf814a58fdc9c4a0375144953b")
 
 addappid(1744671,0,"0653191c2342bdc5870a20945ee022159893208787010178bd4cd9acd8c2ce9d")

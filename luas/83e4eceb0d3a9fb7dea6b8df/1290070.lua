@@ -2,7 +2,7 @@
 -- update time: 2023-06-27
 -- app_name: Hot And Lovely 3
 
-addappid(1290070)
+addappid(1290070,0,"8b8c4839cf0d21926475b21b95c6235738dec4b7a4cd3dd3b4ba88771c065809")
 
 addtoken(1290070,"16435531609186273007")
 

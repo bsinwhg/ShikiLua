@@ -2,9 +2,10 @@
 -- update time: 2026-04-18
 -- app_name: 精灵忍者逃走中  3D
 
-addappid(3830690)
+addappid(3830690,0,"5cb2cdcc8f99109f033680141f166a8c355a65e1480ea0d36fe1d157346edf35")
 
 addappid(3830691,0,"b7dc6defefd989232eaa64bc1b6251b5e1a5ea073241601dd1d7706eb75376f5")
+addappid(3830692,0,"ec74050ea5920381bc0eab9189d805b5dd6cbd7cbe429433be92756d849edf57")
 
 -- DLC: 0/1
 -- missing DLC: 4209540

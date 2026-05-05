@@ -2,6 +2,6 @@
 -- update time: 2023-02-19
 -- app_name: Sister Wish
 
-addappid(2251510)
+addappid(2251510,0,"b27fbda93805e513aa5e153415a10950fd67c865709ba455b4eec72350693c8d")
 
 addappid(2251511,0,"ed80ef675380c4347e2c6c081f24ec66b7f832000a1cd0868fcdf0ef062273eb")

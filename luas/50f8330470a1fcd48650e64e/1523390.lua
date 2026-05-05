@@ -2,6 +2,6 @@
 -- update time: 2021-02-15
 -- app_name: Fantasy Tavern Sextet -Vol.3 Postlude Days-
 
-addappid(1523390)
+addappid(1523390,0,"caddbcdf539b372bdd288d495d49bc1b9727af0d5c34adcb1c5a78c4764f6610")
 
 addappid(1523391,0,"a77f9c84a32b0dc3d0aac69ca74d2357cad2607531d47a33a1586413bcab1048")

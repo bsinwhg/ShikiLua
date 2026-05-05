@@ -2,6 +2,6 @@
 -- update time: 2026-03-28
 -- app_name: Haunting Havens
 
-addappid(3377770)
+addappid(3377770,0,"f147c6cf194e4066acdb5dc680d59a1927365ec0ca58a55c86ebfe99240b8ab8")
 
 addappid(3377771,0,"66d9fcae2691745f33f9d4c65e97e53e6b10a4923be5ec52b6930ae92f65f758")

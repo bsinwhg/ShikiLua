@@ -2,6 +2,6 @@
 -- update time: 2021-05-03
 -- app_name: Pieces of my Heart
 
-addappid(1226640)
+addappid(1226640,0,"ce1ca06c00dfc838049f91d7b4dd9db58cbed9de327f8765ae3352e896f8104d")
 
 addappid(1226641,0,"2acf163922b20c3077bc7c140a03890ead940e5174282787380539a216983e90")

@@ -2,6 +2,6 @@
 -- update time: 2023-11-29
 -- app_name: NUKITASHI
 
-addappid(2399220)
+addappid(2399220,0,"758c1067a0fa7ca88f1b986765e3f27e6f713fa66dcc0db20ab7535e46102b03")
 
 addappid(2399221,0,"f18c3a74fed166b18837f108c3965836402874d288ee4cf23ebcd520dae50049")

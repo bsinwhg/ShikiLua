@@ -2,6 +2,6 @@
 -- update time: 2026-02-22
 -- app_name: 苍色之光与魔剑锻造师
 
-addappid(1414910)
+addappid(1414910,0,"0f01d1e5fed862388bdc80672e0825fb260bdea2976c5286d2b23cadc9df6689")
 
 addappid(1414911,0,"d6217f7868c7d33554670ef8d0b008e1fed943fff12d5026ed5e3ffa4c8dd9e6")

@@ -2,6 +2,6 @@
 -- update time: 2023-03-27
 -- app_name: Obscene Mansion
 
-addappid(2181060)
+addappid(2181060,0,"9d773b75eb5ed032d62c63710129be5a96aeb7ba6905441bc50c75530944a51c")
 
 addappid(2181061,0,"117ccf7cda60bc4285464e6d04509e62b8aac3553130368060d8cd67fcb7bba5")

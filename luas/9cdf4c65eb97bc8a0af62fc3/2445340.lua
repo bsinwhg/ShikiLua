@@ -2,7 +2,7 @@
 -- update time: 2026-04-06
 -- app_name: 爱与生活：幸运老师
 
-addappid(2445340)
+addappid(2445340,0,"f567a8ceb4b0d911018f2ef5842cc2253b7c9790beec4ae8c3abc3e04474332e")
 
 addappid(2445341,0,"abd0d78162f8690db2b855ea021f3a15eef0d8150644b9a529e5fb3aaa21d326")
 addappid(2662040,0,"05bccd13c2e9ac418a3d2959dfba61c733103631f4feac706c3b1ece5bdebe5d")

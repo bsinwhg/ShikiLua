@@ -2,6 +2,6 @@
 -- update time: 2026-01-03
 -- app_name: Succubus Roulette
 
-addappid(3339830)
+addappid(3339830,0,"f4bf0e9145694a9d2ee9d9e9f892f39521cb200560c51fda7d9ebff8af78b594")
 
 addappid(3339831,0,"ff17dda86efd25bb8f5f5fec810fe0d03c57eda6f6a630713dec383a26fd062f")

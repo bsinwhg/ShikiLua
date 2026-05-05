@@ -2,6 +2,6 @@
 -- update time: 2026-02-02
 -- app_name: A Promise Best Left Unkept - Aya Edition
 
-addappid(2479300)
+addappid(2479300,0,"b17c145c5de602bf97d1d336587e1e6912e051060d826ee8d04c33e391973f5b")
 
 addappid(2479301,0,"c049e29b9c3052c891d0c923a2edf1782883358c664a9d86a26a4ee63531ebc9")

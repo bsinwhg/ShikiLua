@@ -2,7 +2,7 @@
 -- update time: 2021-11-19
 -- app_name: 非常魔王(Beelzebub)
 
-addappid(1410370)
+addappid(1410370,0,"4c8f9408cd62cb5ca9aec9c175a8480e0ec4bc13ff1e4a5dcf0d145d79dfd3c2")
 
 addappid(1410371,0,"df484db0a09729e4100af1cfa6cb59da327977dcd7d6b7e53545a920a94fe290")
 addappid(1410372,0,"caea3e6357db3d834e9ff6dad3a6c2153df40707d88ac0403398692f697d2c9e")

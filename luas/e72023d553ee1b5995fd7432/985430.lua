@@ -2,7 +2,7 @@
 -- update time: 2020-10-17
 -- app_name: 灾难实验室
 
-addappid(985430)
+addappid(985430,0,"873b7ff4bd469c9c478a82a5762e5a3da518c5481c0a8129301695457ba12593")
 
 addappid(985431,0,"a2ed77677732da67b8078970a31fc88fb0fff6ee003e1ac3dfd73c8381b8acc4")
 addappid(985432,0,"23d29c3e88bdc5c4fcf1e440c7cbdceb8ddeacce4744b3fe1ef328b609d7dcc8")

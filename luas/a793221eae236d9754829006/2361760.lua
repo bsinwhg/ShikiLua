@@ -2,6 +2,6 @@
 -- update time: 2024-06-18
 -- app_name: 真实动漫情境体验！2
 
-addappid(2361760)
+addappid(2361760,0,"952a675ac18d09c79981953afed6fac55ec53c9c1de98eb8620221043e75d526")
 
 addappid(2361761,0,"74c7c2c18d0950a6d68646b4de6d293f8a7e42a2cc387942107576b81de06d0c")

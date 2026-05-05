@@ -2,6 +2,6 @@
 -- update time: 2024-09-01
 -- app_name: 无底触穴
 
-addappid(2988290)
+addappid(2988290,0,"16696c817be6d09659511efeaad5df9dfea07dd08349f7f7770ba1f4cc0506de")
 
 addappid(2988291,0,"c4051cecc4562a0c10f24104538c83a67710d5e74249edf016d700cdbe21c23d")

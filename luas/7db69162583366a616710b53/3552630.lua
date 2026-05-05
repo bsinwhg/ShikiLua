@@ -2,6 +2,6 @@
 -- update time: 2025-05-02
 -- app_name: 屌打征服異世界
 
-addappid(3552630)
+addappid(3552630,0,"c9a5d3fda89875c79295e4afa83ccfbef57289fa93abe03c9c4532ff68a69ab4")
 
 addappid(3552631,0,"ee5fbbec2a1a1c3dd8ffd877ce1d3ea24c3d2688ec8d53a3ae63d0ed8efdbe20")

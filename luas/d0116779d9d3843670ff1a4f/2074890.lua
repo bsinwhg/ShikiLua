@@ -2,7 +2,7 @@
 -- update time: 2025-04-25
 -- app_name: 少女妖精弹珠台 Elf Girl Pinball
 
-addappid(2074890)
+addappid(2074890,0,"cc68fcd71417404c4eb2300caf5418207580ead3ed0ec6b3f07004ba2689f772")
 
 addappid(2074891,0,"ba67098a50e16f823989f70996ca3dcde0b6f6ec881b9f83a1c224ff7188438d")
 addappid(3614210,0,"02799b560ea67de320f9b94f7eaea032ff1baed021d23b9fef058d423a0e2285")

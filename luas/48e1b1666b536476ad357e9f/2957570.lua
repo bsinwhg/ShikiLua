@@ -2,6 +2,6 @@
 -- update time: 2024-04-23
 -- app_name: D-Zone
 
-addappid(2957570)
+addappid(2957570,0,"316deb347bb5640ab1f9252118ebc4be7b4ec8735c225dbd359208459a4d0754")
 
 addappid(2957571,0,"a460ffadfa26fb8cf07bce706360aeff16f93be4810870139fe68bb28515bf3b")

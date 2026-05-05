@@ -2,6 +2,6 @@
 -- update time: 2020-11-19
 -- app_name: Freya's Potion Shop
 
-addappid(1436000)
+addappid(1436000,0,"2f47e4881670d715516326ab1087bc818fc77db8a4a73d3068ccca846f10c89b")
 
 addappid(1436001,0,"92564ca64141dcc7e65a2ef1ec0fa8452719b8eb7f90b133096526e497a71896")

@@ -2,6 +2,6 @@
 -- update time: 2024-05-20
 -- app_name: 炙热的岛国生活 -移居成为管理员根本就是来到了天堂-
 
-addappid(2879090)
+addappid(2879090,0,"87abe9b421e7a05b7fed8f59c1bbdceb558c92aa0d95e68fa631327807a90013")
 
 addappid(2879091,0,"d43b9987c03ad4a344d3476ea753b623e25f821017b9c39e21c35bd42fe3a13f")

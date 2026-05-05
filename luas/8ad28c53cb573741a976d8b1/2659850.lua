@@ -2,7 +2,7 @@
 -- update time: 2024-08-22
 -- app_name: BIO SECRET
 
-addappid(2659850)
+addappid(2659850,0,"a9e9f9b1e492cafa3e0b1a4b2483d0cbf6f168599376b77f9aade54f2959f899")
 
 addappid(2659851,0,"ff2193dd3222133a876a78e0ec52512c6d71d5a3cf55c6c44d673aff5c661624")
 addappid(2659852,0,"1a9ed6c5eb42584c635d70a35b838c999e8bf5ca236c3acdb5a4a7b661d5bc94")

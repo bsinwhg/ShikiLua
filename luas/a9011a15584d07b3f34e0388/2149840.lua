@@ -2,7 +2,7 @@
 -- update time: 2023-05-19
 -- app_name: Goblins Strike Back -Instant Fuck Heroines-
 
-addappid(2149840)
+addappid(2149840,0,"f47631474d071bc883e9e8e2b3c7ff641c678870283a85f4858ed91767608e59")
 
 addappid(2149841,0,"1c78d7198a94267bcd36f0baf737a50a3b4c37356710708e8eaee637f8cf87e5")
 addappid(2149843,0,"4f9696875a6554aec8718fbb8422fc8d5fb9afd5bf35f3cfe5416039279c86bd")

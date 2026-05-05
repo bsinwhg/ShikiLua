@@ -2,7 +2,7 @@
 -- update time: 2022-03-11
 -- app_name: Ero Manager
 
-addappid(1901340)
+addappid(1901340,0,"6788a7d13c4adf3f7539b5ec7cf070b52d1370e2f9e4b75c474841bf361dba6c")
 
 addtoken(1901340,"14659508037605800145")
 

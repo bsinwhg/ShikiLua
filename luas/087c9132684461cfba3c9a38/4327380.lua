@@ -2,6 +2,6 @@
 -- update time: 2026-03-22
 -- app_name: 色欲出口 Exit Lust
 
-addappid(4327380)
+addappid(4327380,0,"138a0ef78947f56b41361ab6969ee4b291ff1a22ae9378e8f20d2d2f61fa1245")
 
 addappid(4327381,0,"b193ad393e48b1d738f1cafaafdd3799b33755ef732681a94bb2cc1bf39c1576")

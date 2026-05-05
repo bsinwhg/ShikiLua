@@ -2,7 +2,7 @@
 -- update time: 2022-06-08
 -- app_name: ～Daydream～蝴蝶起舞之时
 
-addappid(1966070)
+addappid(1966070,0,"383ad10dd32dfb7f0568ad4c5d6bcd3ec7fafc514349892bb9e13cbd5713ce5e")
 
 addappid(1966071,0,"75c14e7bbec80451141e218aa2fe9b7175c2b098f2e49e63813b4fcf33c40707")
 addappid(1996020,0,"676afc6bd6957c15eff36cf800c384c030177132c35cb21ff9d29f980763ae42")

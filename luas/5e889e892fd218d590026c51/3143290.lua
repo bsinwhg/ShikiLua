@@ -2,7 +2,7 @@
 -- update time: 2026-04-10
 -- app_name: 娇羞之恋 -making*lovers-
 
-addappid(3143290)
+addappid(3143290,0,"2762bc2c26fd3078c83976e828a77b3d50b9c0972ca06337b6e095c337f1bed2")
 
 addappid(3143291,0,"c207ae68bbb47adaf03358932e4ea2f89e60a983cc25ea6dcf8314403fe05df9")
 addappid(3143292,0,"3c7dd04e9c64ee12c853d02c21835510311426ef8ea85591ddb3dc04d411c16b")

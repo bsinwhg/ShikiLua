@@ -2,6 +2,6 @@
 -- update time: 2023-05-08
 -- app_name: The Last Orgasm
 
-addappid(2407310)
+addappid(2407310,0,"28d3d78c892a1bcf46515c4467a3e046b9b90a7f73c9c9cd18c9ff496b642bb2")
 
 addappid(2407311,0,"6706426eedf40bdb900b75732c2fcd3bf90a6dd5d93c8cf2c28e7f8aa5d32f21")

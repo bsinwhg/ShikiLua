@@ -2,6 +2,6 @@
 -- update time: 2023-10-27
 -- app_name: 学校的圣域
 
-addappid(2002010)
+addappid(2002010,0,"d9a30737acfbe3f179c04ba2a33017b62badbcc891eaf35f2b530d5175a39408")
 
 addappid(2002011,0,"8ca3ed3ee5ebe8067b062df976407eccac47d03f943b0efa25af4e58da270cce")

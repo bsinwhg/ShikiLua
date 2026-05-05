@@ -2,6 +2,6 @@
 -- update time: 2024-03-06
 -- app_name: 神乐创世纪-久远-
 
-addappid(2668840)
+addappid(2668840,0,"e0684589dd9cfee95ca635e59fcffbac7f3ade8c7fba7395d95d6effaeb08367")
 
 addappid(2668841,0,"366ea31bc03bd1f1e750f709038b62830aec53750f9b3fd2ea04db6fe1408653")

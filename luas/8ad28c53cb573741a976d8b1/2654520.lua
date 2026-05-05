@@ -2,7 +2,7 @@
 -- update time: 2023-11-20
 -- app_name: Hypnosis Sister Clicker
 
-addappid(2654520)
+addappid(2654520,0,"259c74721ff7498b1f01cafa94c33d57cef974fbee79d58baed7dd9f47e133e7")
 
 addappid(2654521,0,"b4f2295a2d9fc1742438b8e9573b579ccde59c8eef6e3eda6ed470703c611b4d")
 addappid(2654522,0,"5cf30031e0da67854a63802a88be09818b5eae674ee49c84a8fed99d0c29bde1")

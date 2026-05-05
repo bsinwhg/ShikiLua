@@ -2,6 +2,6 @@
 -- update time: 2026-03-10
 -- app_name: Long Live the Catgirls！
 
-addappid(3929580)
+addappid(3929580,0,"3cadc157e5fd94b0db5764ed22ec30c0f89a829e00c26b6cf299d7fa57d1803c")
 
 addappid(3929581,0,"45d93dabb84d3efa67930c703bb343575b6dd822641a6289dd1bd43549e000fa")

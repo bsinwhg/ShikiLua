@@ -2,6 +2,6 @@
 -- update time: 2025-09-09
 -- app_name: 沉沦梦魔世界
 
-addappid(3803780)
+addappid(3803780,0,"2086c1dd74d7e2c78ecae297ed1b00529bebfe1f4538db6601241b4cc9eac51a")
 
 addappid(3803781,0,"57610de94ac62dc7f3a80474a1254daa590c7801562f23c5004e57cad24c0d2b")

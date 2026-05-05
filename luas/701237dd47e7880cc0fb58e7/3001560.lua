@@ -2,6 +2,6 @@
 -- update time: 2025-04-07
 -- app_name: 日本之旅
 
-addappid(3001560)
+addappid(3001560,0,"92b320d8a533034ba2e14dc327acea57bbd9c7c6286706ccf4feeeef806b08b7")
 
 addappid(3001561,0,"c9d8ebc9f17694690d406e2cba154ef6cfef0913258c98ca7214568bf3db0796")

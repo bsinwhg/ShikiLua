@@ -2,7 +2,7 @@
 -- update time: 2024-03-31
 -- app_name: The Symbiant (共生纽带)
 
-addappid(1883090)
+addappid(1883090,0,"07b28b1ed6c7f9def38fd1b2e955f17b3a27a746263dc284d275e7e63bc7c9d4")
 
 addappid(1883091,0,"2ed3e6e43f9e58ad0b7f6f43d7f62b9e4dcce79030941d7c3a64d945412d254e")
 addappid(2261481,0,"b9f2c41e52caf06d4e37cfba4186ce7c1f4e109f2b659fc712c8a390a2acdfd2")

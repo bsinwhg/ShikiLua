@@ -2,7 +2,7 @@
 -- update time: 2025-02-23
 -- app_name: Sweet Delights: The Girl’s Cafe Quest
 
-addappid(3471060)
+addappid(3471060,0,"0b605a04b2fa0545b665e8d03d7879a938be4919a6a615be79615f5b1ca8833e")
 
 addappid(3471061,0,"9463be2faae70be4243bca301c4fac4c3808ae3b342354281ca0f49341207c2f")
 

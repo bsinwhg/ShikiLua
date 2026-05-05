@@ -2,6 +2,6 @@
 -- update time: 2024-11-06
 -- app_name: 精灵弓箭手 与 消失的大树 - R18
 
-addappid(3212400)
+addappid(3212400,0,"9c9c3cf3f6d1d35e69f289b3d36925b42347163c6bb0ad35570aedaccb82fad7")
 
 addappid(3212401,0,"b7d6bd3beaf70b97fe18c16e4a77e6fa2a767f4baa6533322749abd32fc52930")

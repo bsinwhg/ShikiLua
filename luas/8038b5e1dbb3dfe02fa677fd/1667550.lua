@@ -2,6 +2,7 @@
 -- update time: 2024-10-17
 -- app_name: Swimmer Admiration
 
-addappid(1667550)
+addappid(1667550,0,"1b57ced1ba2f127be444e4ad51387f11d21f294342ce5618a17dfd52a2ba6dc4")
 
 addappid(1667551,0,"82c0d5a6b21937ae9947fe8c2d419761e22cb3f91e8208d3dec1e2978ad92c4c")
+addappid(1667553,0,"11ab4c8696ef27e19cc5f93feb75ef9827fb507869836d178cd2e36df6e950f0")

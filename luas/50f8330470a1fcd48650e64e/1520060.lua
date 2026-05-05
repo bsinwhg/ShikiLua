@@ -2,7 +2,7 @@
 -- update time: 2022-01-07
 -- app_name: Sheep Love
 
-addappid(1520060)
+addappid(1520060,0,"fa97b57bb1c5b48d1de72baae5cf415a12371cb43cab4ce8a9d6409abee678fc")
 
 addappid(1520061,0,"f22a6d9d77e5447f2d09fbe236b7490d58378a778c4a95effc2f343f6f9b300d")
 addappid(1521740,0,"57222fff5d7923df2cce890eb82590f74a9e5b36cb82fd254caaad2ce25d9017")

@@ -2,7 +2,7 @@
 -- update time: 2023-01-13
 -- app_name: hopeless.
 
-addappid(1995280)
+addappid(1995280,0,"88334ccc0dff9c199f1eb096dfa6e8e31808bc9831a8a1f902d2bb360f6ef7c2")
 
 addappid(1995281,0,"87891a75eaca11afccb6801b16cea2af9929800dcad1789d95ecc3769102877e")
 addappid(2339770,0,"804b383e8c255a2904c2ae75496ed3fe1fe47bc870bc519715aff3b5323f8c8e")

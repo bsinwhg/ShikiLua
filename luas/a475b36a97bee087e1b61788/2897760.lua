@@ -2,6 +2,6 @@
 -- update time: 2026-03-09
 -- app_name: 极品采花郎
 
-addappid(2897760)
+addappid(2897760,0,"7389a2c9d5eb3e5f06dc2d9ee37ed9979eec1e027cb308273e2ea1ee29bc569f")
 
 addappid(2897761,0,"d309294d9f28f61bc9fd632ec2133bc496ef6fb2c353ef57e9af630ea77ac693")

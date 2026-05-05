@@ -2,7 +2,7 @@
 -- update time: 2022-03-28
 -- app_name: West Sweety
 
-addappid(1186400)
+addappid(1186400,0,"53ce4ac98ca0cf2fcd33fd4ee0d67c1ab2ca6f941ebe1e5c46e5e0858dafe277")
 
 addappid(1186401,0,"ffc507108b6acf54e5396db6739d7f24634ec55a3d71152c4872d2acafa8999a")
 addappid(1190610,0,"9e2b6b9bdfc16dbbef97f09982f9059b5ac9bd0b11e3f5bfc0e2e495e6e620c3")

@@ -2,7 +2,7 @@
 -- update time: 2020-12-19
 -- app_name: 剑与魔法：见习冒险者莉露的大冒险
 
-addappid(1271740)
+addappid(1271740,0,"2398710d88df11b7a97c388bc4ace60359a7692796c207180e470805ed4f2ad9")
 
 addappid(1271741,0,"55b232ee39b3009010d650ff0e96b2adeaccbcb099b580e56d66e9f85571bcb3")
 addappid(1271742,0,"8fcdd14877e0aee7ecb7789f46dfa4aeb3abcfd1b5930a51a72b17faabd54723")

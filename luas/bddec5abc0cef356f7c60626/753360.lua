@@ -2,6 +2,6 @@
 -- update time: 2017-12-08
 -- app_name: VoiceActress
 
-addappid(753360)
+addappid(753360,0,"1284b3d1c2effae5c4962620a074780064139549fad9538ca5c39f0af426ca77")
 
 addappid(753361,0,"c03297382e4f158625aaf1e32a83b3f642b5cf43cc398cb690bc63a9c0e269a2")

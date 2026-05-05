@@ -2,7 +2,7 @@
 -- update time: 2026-03-31
 -- app_name: Among Us
 
-addappid(945360)
+addappid(945360,0,"7f0bd1cc5c537189d88186c93ddc7bb29608c8cff6c3e67bb2bb8bd5bab8f752")
 
 addappid(945361,0,"cc84ab09a34dfa19f0cf86c30c05345294e788988c95455a7c42d024dc4f33a8")
 

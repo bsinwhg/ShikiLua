@@ -2,6 +2,6 @@
 -- update time: 2024-02-29
 -- app_name: 淫荡美少女战士中出性爱
 
-addappid(2777260)
+addappid(2777260,0,"5a4e2d9e0cc351c5009e6718fce1ca1c184f8e614b32ff470a0bf500c7a064a1")
 
 addappid(2777261,0,"d08b7c0d4ae280a368f414562f1e7d4992886df5dd09b584684b075ec6e6bb63")

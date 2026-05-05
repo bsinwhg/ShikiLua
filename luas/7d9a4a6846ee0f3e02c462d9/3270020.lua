@@ -2,7 +2,7 @@
 -- update time: 2025-03-03
 -- app_name: 欲望地下城：不眠之都卢恩海姆
 
-addappid(3270020)
+addappid(3270020,0,"acf4ea55ae722dcbac2f3098c5e893bd8665d094acd7201e4d76b95e230c98d2")
 
 addappid(3270021,0,"81f4bbd6ad2b3404c7a5453c49e147ce8bd348f4820e1fc08158223c4f1966ca")
 addappid(3270022,0,"cda718089ad22f367d48311233be2e4364e13a6ebdf7960be86cb262c937b1ee")

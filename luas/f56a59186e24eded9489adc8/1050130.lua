@@ -2,6 +2,6 @@
 -- update time: 2022-08-23
 -- app_name: Sakura Melody
 
-addappid(1050130)
+addappid(1050130,0,"2b4f59aa896382fc4901bcb05ba27ce9d7d666192d6df484618536549ccde0a7")
 
 addappid(1050131,0,"e384e37ec4d5d2da5c6470ccb173e023ebf7af399a8810bf98be9dfbc96fe943")

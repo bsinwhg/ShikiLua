@@ -2,6 +2,6 @@
 -- update time: 2024-02-18
 -- app_name: 我的美熟继母💋
 
-addappid(2264880)
+addappid(2264880,0,"3d9f18ebd21fce3a8b57bc36121506998734b526036b800a538707bd810b64d6")
 
 addappid(2264881,0,"2771f70d8ae67cbbc01ab8a52db74cd83ed62596fe3d007ef553ea478a614e3f")

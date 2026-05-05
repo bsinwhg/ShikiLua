@@ -2,7 +2,7 @@
 -- update time: 2024-02-26
 -- app_name: A fascinating story : Wedding Night
 
-addappid(2736210)
+addappid(2736210,0,"b9b52de73ed9bd191d3f4ae15bdafec457ee36eb443aec9fea18c6fc297e2fdf")
 
 addtoken(2736210,"7029015027920826487")
 

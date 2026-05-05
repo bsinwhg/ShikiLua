@@ -2,6 +2,6 @@
 -- update time: 2026-02-28
 -- app_name: Monster Girl Invasion RPG - Part 1
 
-addappid(1836420)
+addappid(1836420,0,"80b3b92099d0b66747b4892ce27e752edbfbacc96d83475ff6dcc1fda36adf7f")
 
 addappid(1836421,0,"bbd8629289de9028bbbd4ad3c3a4509268c4471765ea63b78fcb58ba830e8835")

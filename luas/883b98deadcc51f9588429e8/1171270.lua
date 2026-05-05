@@ -2,6 +2,6 @@
 -- update time: 2020-02-02
 -- app_name: TroubleDays
 
-addappid(1171270)
+addappid(1171270,0,"b68e6c106b13e22b2edd002ec9275a21c9a8acec9b0b4eda09a0c0f26c692993")
 
 addappid(1171271,0,"a544b2fa24bdf04d9cef50a68771cb60215973dcdb3b84c7b5c0cd5a5bc10aa4")

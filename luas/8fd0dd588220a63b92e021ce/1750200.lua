@@ -2,7 +2,7 @@
 -- update time: 2025-10-28
 -- app_name: Sex and the Furry Titty 2: Sins of the City
 
-addappid(1750200)
+addappid(1750200,0,"38937de5d3c51ec9c0427cd48a61a18fc5441e2a7b1691014c7e7a94d39c398d")
 
 addappid(1750201,0,"0fc0057a167ee8605ab6dfeaef8ecccff8f406bcd28b2d06c32585006f70331a")
 addappid(2123470,0,"c55542f436fcc2a9f218a17312be20db29fb233bcca85d9d4ed055875b6bbcca")

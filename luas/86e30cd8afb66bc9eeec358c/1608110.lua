@@ -2,6 +2,6 @@
 -- update time: 2021-05-26
 -- app_name: Splash Girls
 
-addappid(1608110)
+addappid(1608110,0,"ab769bf76a00a1fc8a670c51ae9cb2d66a084b482962efc3c2d6849d54e82ce3")
 
 addappid(1608111,0,"ef80353dfe5113595d089dbe86b6d5f3da4386c770b7ab663843d901bd64c651")

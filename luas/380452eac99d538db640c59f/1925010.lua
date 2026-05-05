@@ -2,6 +2,6 @@
 -- update time: 2023-03-15
 -- app_name: 千金的奴隶家家酒
 
-addappid(1925010)
+addappid(1925010,0,"e1d1761fa8eae7b559334cf18b6797befd5f9629ec541c67b7ebfe9e698f6e9a")
 
 addappid(1925011,0,"5bf7f4b1cd0074d1a29eb4db0a15be6e08402d7f8c6197cddf4dc01be9e64099")

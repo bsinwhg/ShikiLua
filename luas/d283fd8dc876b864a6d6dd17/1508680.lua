@@ -2,7 +2,7 @@
 -- update time: 2021-10-03
 -- app_name: 爱与战争：天选将军
 
-addappid(1508680)
+addappid(1508680,0,"4ac89a63ce7e115c70ec931b540fbd22480c90728cbe1e082b43e98932253ca9")
 
 addappid(1508681,0,"49f5ff76cf50a3adbbf14e284efcf8faf6bb9b3af96c8e91ffa3a8650dd8d05d")
 addappid(1599180,0,"aaeff3311f31a7ddc0e96e5e8b68dbf470632414492e341c5d1eb43d4f052b05")

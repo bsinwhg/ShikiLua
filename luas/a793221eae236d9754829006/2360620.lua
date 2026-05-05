@@ -2,6 +2,6 @@
 -- update time: 2026-01-18
 -- app_name: The Queendom of Lithzena
 
-addappid(2360620)
+addappid(2360620,0,"266629cf7cf979f22dda2c8ec0078114561fd68b57938da00087fe67122c0045")
 
 addappid(2360621,0,"0a864edfa61a27bbd0c7abccc3d6c2e3d6dbbddc9973adcc0f52af78b8e767be")

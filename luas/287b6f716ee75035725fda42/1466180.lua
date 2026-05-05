@@ -2,6 +2,6 @@
 -- update time: 2021-07-08
 -- app_name: 惡魔少女 / Devil Girl
 
-addappid(1466180)
+addappid(1466180,0,"46371e5e437f2353b0e0b5a7f516b5fb8b812e424512c577d1e62c3c5afd27f0")
 
 addappid(1466181,0,"189d07eafba92a639ddb137253dcff1f09775bc34cebb549a96f98d274ae7842")

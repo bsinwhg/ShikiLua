@@ -2,6 +2,6 @@
 -- update time: 2025-09-04
 -- app_name: 色情團地 Libido Estates
 
-addappid(3893500)
+addappid(3893500,0,"726a7f02121572035c8e07f12e56170043a53eb2b7eebfd225f9b35be96debe1")
 
 addappid(3893501,0,"d5f4aafa15d678549c2ae243b45d158cdfcfb0053a5bb60a66dddd73895779cf")

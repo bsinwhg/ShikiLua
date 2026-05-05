@@ -2,6 +2,6 @@
 -- update time: 2021-10-27
 -- app_name: The Oath of The Dark Magic Queen
 
-addappid(1745620)
+addappid(1745620,0,"0c075f46ae5713b9c127e63d7549ce2bbddcc206f03dd4695d2a0f2215b3a85f")
 
 addappid(1745621,0,"f1571df9b99e5f4a2c4842f8c65db60dc235b1b50e6dafc2f6163f82d11ff5e5")

@@ -2,6 +2,6 @@
 -- update time: 2025-10-09
 -- app_name: Chastity Catastrophe
 
-addappid(1780470)
+addappid(1780470,0,"1bf5c9a6b8a6b00cbf60f771f81cc42f6333dee779e9e33257f04fd5b95ab339")
 
 addappid(1780471,0,"ee5ff53f1e661e5d15c70e57ac19243f1c1a483a532a14275d8101e70d75aaf4")

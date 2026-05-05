@@ -2,6 +2,6 @@
 -- update time: 2023-10-09
 -- app_name: 我与公主骑士及侍女的慢活生活
 
-addappid(1934900)
+addappid(1934900,0,"45b33bde141debbed54662fcae9126e855b670f7366dffd2e5f408a9d38c961c")
 
 addappid(1934901,0,"e92ec2b83d5c05879a1f355f165313346c74463f3593414e0e701af2a78957f8")

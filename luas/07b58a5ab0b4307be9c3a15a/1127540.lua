@@ -2,7 +2,7 @@
 -- update time: 2024-09-30
 -- app_name: 伊甸骑士 淫悦的圣魔骑士露西菲尔篇
 
-addappid(1127540)
+addappid(1127540,0,"c72a2f71f15c4c5890af38bc9a0bd5dbb18be550e88bbb36fd1bb988cc2481d1")
 
 addappid(1127541,0,"a88dfc318f3884df5d94d623734666b8eb1be851f76c77df6a7237d17faef382")
 addappid(1127542,0,"7178a6f4cb21496eb726504afc332e74ac91318061050bafa0e4dfc87ead7f42")

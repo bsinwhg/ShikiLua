@@ -2,7 +2,7 @@
 -- update time: 2026-04-08
 -- app_name: 后宫绮梦 Harem Fantasy
 
-addappid(3886870)
+addappid(3886870,0,"9b47f3e8f4ab51b89c6efc0a400c614a0413b2ff34725ac18b5e323d7beeda44")
 
 addappid(3886871,0,"c6b3980edea75863215d46482708da35cf935d055507441fbe951db4df4dfafb")
 addappid(4100560,0,"8390409fc3b76bd8571f0b21c6b0a78c721bea200fada524563272771c170a66")

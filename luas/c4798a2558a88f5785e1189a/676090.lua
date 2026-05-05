@@ -2,7 +2,7 @@
 -- update time: 2022-08-10
 -- app_name: Legend Of Mercy 神医魔导
 
-addappid(676090)
+addappid(676090,0,"cbaeafbf4b92d87058c761c23ab1982ecba33a3b1837438eaece6bfe689ccace")
 
 addappid(676091,0,"7139baaebde37e7ca1dd50b0b85c4ba64321c50d06d9129b5a4216d8da9eaa70")
 addappid(888430,0,"f6b08be13882515472202959a126314792fd6ffcf1f805273d72ccedb59f1c91")

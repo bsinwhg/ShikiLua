@@ -2,6 +2,6 @@
 -- update time: 2025-03-31
 -- app_name: Naughty Nate : Cosplay
 
-addappid(3100190)
+addappid(3100190,0,"af0460937c96d63f46511ff02c996de60cae328d7f9f51b9303d7157fbf01a96")
 
 addappid(3100191,0,"2b33a613d750d38f11b5c1d2803221f18437fa5a7ea67cccd09d817ec50765f0")

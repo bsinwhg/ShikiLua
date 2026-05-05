@@ -2,6 +2,6 @@
 -- update time: 2020-03-10
 -- app_name: Sakura Succubus
 
-addappid(1202310)
+addappid(1202310,0,"16dbc6bde16440c966419e32bc43b5a830e23495a8d0e82e431de44467961327")
 
 addappid(1202311,0,"d82aa698bc5ca6cd804322cec63dbb91a959b8d11d465375f924f4283c1c7ae5")

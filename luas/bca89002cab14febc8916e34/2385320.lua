@@ -2,6 +2,6 @@
 -- update time: 2023-04-28
 -- app_name: 巨乳骑士团长是我的肉便器
 
-addappid(2385320)
+addappid(2385320,0,"dcff94e9a70aaeba6a30546a8d58b83521800f656d40340176553e25a1321e1c")
 
 addappid(2385321,0,"b96571bb4b08e7e4bee251f240ec6b9e65e44498599963cfe90c3729f854982f")

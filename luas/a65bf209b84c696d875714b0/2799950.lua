@@ -2,7 +2,7 @@
 -- update time: 2024-09-13
 -- app_name: 紧张刺激！小美由与老师的猜拳对决！
 
-addappid(2799950)
+addappid(2799950,0,"59d83a5dff21aeba37d29bc9b46f808ffabe8ef0e9ea8f33a6435c58f2533a05")
 
 addappid(2799951,0,"da03935ca1f4dff9f7d8d59bbdeeb638965650907b942a1f427efa942b1a8bfa")
 addappid(2799952,0,"3908ae9cbc24c9038aaacd9baf41a005cdb06714be61841c755928d9a85443b2")

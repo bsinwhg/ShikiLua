@@ -2,6 +2,6 @@
 -- update time: 2024-11-15
 -- app_name: 被召唤到异世界的淫贱后宫生活
 
-addappid(2668660)
+addappid(2668660,0,"68536b767217b97183789a2bdd81ff95714a5342eb88d37859a4f1842a0d47a9")
 
 addappid(2668661,0,"57cac671c8b3900c2ec33da95efa0533698a66bb5e3584876e0b15cd1f3cde6e")

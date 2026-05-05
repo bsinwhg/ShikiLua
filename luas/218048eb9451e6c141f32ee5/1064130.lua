@@ -2,6 +2,6 @@
 -- update time: 2019-06-04
 -- app_name: Sakura MMO 3
 
-addappid(1064130)
+addappid(1064130,0,"e286792a0e4759bdc80896d2f7840fefdefce135f4d512199e3bdfc3632d9d7e")
 
 addappid(1064131,0,"4fa768d8af336643ab4e1024f0fe10f8833e7223f2b71797246191cba9b0d6d8")

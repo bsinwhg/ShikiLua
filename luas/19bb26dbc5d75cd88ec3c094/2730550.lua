@@ -2,6 +2,6 @@
 -- update time: 2024-10-09
 -- app_name: 调酒大师
 
-addappid(2730550)
+addappid(2730550,0,"edffd68ef0e6e281da861ae4cd239959a0e6a59ff7fccc390675974e91a697ca")
 
 addappid(2730551,0,"f6fc12db41bacdf908f9a19137028831624ce0eca9684218eebf2cd5b14c5d9e")

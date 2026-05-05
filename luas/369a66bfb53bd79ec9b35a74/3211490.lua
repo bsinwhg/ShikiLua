@@ -2,6 +2,6 @@
 -- update time: 2026-01-28
 -- app_name: DYSTHANASIA -终末期异化-
 
-addappid(3211490)
+addappid(3211490,0,"fdb2807f720d0361a38dd3b87c40ba2e41bfd69374bed672c4dc60034155e077")
 
 addappid(3211491,0,"014a63e4b5b3129d5c065f177fa3d4942ae93ec636291db28938f335dbf49121")

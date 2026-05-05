@@ -2,7 +2,7 @@
 -- update time: 2024-11-30
 -- app_name: 前辈与不可思议之岛
 
-addappid(3070600)
+addappid(3070600,0,"d066bdf1ee23ad1c09ea0bea33be8b3c71a17181ad41470bb2f4acd83966763d")
 
 addappid(3070601,0,"d33adf6ece9a5aa864881d3fc5b297f0eac98bfe9c7e0e19d3c5e3db464f2f15")
 addappid(3070602,0,"d69fa009536c22e03b240ca39ef1e25fbe822c990c00a1483cd17bcb05926806")

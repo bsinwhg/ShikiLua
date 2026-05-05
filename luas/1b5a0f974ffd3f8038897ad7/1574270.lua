@@ -2,6 +2,6 @@
 -- update time: 2022-07-21
 -- app_name: Sucker for Love
 
-addappid(1574270)
+addappid(1574270,0,"815beafb92fc28e2485064ac5e469ab5c6e8c98c85f41c5ebb8c698fed130db5")
 
 addappid(1574271,0,"8b2656d36390cfdbee7e42259c483e3146055db775c14687286baed5c00551ab")

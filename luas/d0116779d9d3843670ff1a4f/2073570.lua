@@ -2,7 +2,7 @@
 -- update time: 2022-12-27
 -- app_name: Holy Paladin Cynthia
 
-addappid(2073570)
+addappid(2073570,0,"6ec6a0839c2c3409ca76a764865268a8907cb6de1e3e592140fddb1dabca5f3d")
 
 addappid(2073571,0,"32ca08452285baeef5e0ddaffd1838f505b29ee11918806a2883a07be4c69785")
 addappid(2073572,0,"f0d00254ac8a4b7dabf4ebe34fd25beed07667ed1920601f7a95ce923c48b227")

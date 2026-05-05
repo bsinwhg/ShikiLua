@@ -2,6 +2,6 @@
 -- update time: 2023-09-25
 -- app_name: 两个月的魔王
 
-addappid(1997490)
+addappid(1997490,0,"0c1c0332f3708f6eba12860784bd5069251066eed455d0125871ce5bf2ac553c")
 
 addappid(1997491,0,"7e76563beaa4cf4d083c45670138ccce38bd989cf6722b6c3eb0cdc56e0a622e")

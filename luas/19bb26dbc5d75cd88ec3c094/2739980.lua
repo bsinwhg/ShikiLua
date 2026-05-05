@@ -2,6 +2,6 @@
 -- update time: 2024-08-09
 -- app_name: Horny Suika: Wet Watermelon
 
-addappid(2739980)
+addappid(2739980,0,"2aa9fb38e0427aff76334217b1b87cea4519a47f6e4a3fca4ac2a35c6eaa0fbf")
 
 addappid(2739981,0,"cf0ab872a17e935fb0bfc6f3069a078416eb7bbd3d16514066b9a94f99d56127")

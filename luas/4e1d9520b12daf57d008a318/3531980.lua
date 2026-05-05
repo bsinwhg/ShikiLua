@@ -2,7 +2,8 @@
 -- update time: 2026-03-05
 -- app_name: OBSCURITE MAGIE ~ 女神的精灵石
 
-addappid(3531980)
+addappid(3531980,0,"e6e5aa5d201e5d16457662cca0ea0bf9c86fcbb138c6899e04e0e122d556dc15")
 
 addappid(3531981,0,"1c45df52324d498314c3769e266adb8e88ac3ade327db6e31fcbfbfc4135817a")
 addappid(3531982,0,"e07af5916f7de28edff7e21d4a0ee15a3346bcb857974b08aa6800f01d18fa91")
+addappid(3531983,0,"7ded704ff6bb1ae31c8b9fc1dc4d1c9ffc7a56d4ea78d4749442d88fb60be4a4")

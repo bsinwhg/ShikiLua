@@ -2,6 +2,6 @@
 -- update time: 2026-04-06
 -- app_name: 欲之梦
 
-addappid(3060900)
+addappid(3060900,0,"60dffa83ff34fdecb1ed056949ff8f45b57d26ac4080f44df02675a66830d848")
 
 addappid(3060901,0,"ead4c9a8a43c73e6e396b2cf9d1b892e6b6322b2219ab77e02be03a366108053")

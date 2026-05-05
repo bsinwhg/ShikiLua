@@ -2,7 +2,7 @@
 -- update time: 2022-06-22
 -- app_name: Be My Girlfriends
 
-addappid(1631210)
+addappid(1631210,0,"9edaa92649cddfe4a2951af16cc1438f35e98939b4f051a515e8961a20a8fc6e")
 
 addappid(1631211,0,"18765b795dbecdf7c96b68f8c62fc28a6bdcea9c64eeabc83ce5d2ae0cfa835f")
 addappid(1935200,0,"d61e1bc066dacf7b4f4d5449fda8aaba18a11c5f8268410f9abf5e8ef5021502")

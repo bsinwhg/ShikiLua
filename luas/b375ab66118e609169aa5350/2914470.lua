@@ -2,7 +2,7 @@
 -- update time: 2024-06-12
 -- app_name: 战甲机索尔冈特
 
-addappid(2914470)
+addappid(2914470,0,"572d422c31808743c69ba1e14e4a0f5bccd7a5b1548f5a39cc5fe033e1da27bd")
 
 addappid(2914471,0,"1f7c50aa90a37dd9789be472809ec449796aaeeb638c675a9875a7de04212bba")
 addappid(2914472,0,"8f904b563d3cb619bebb9a4f053b99fdc719af68ebd6a8eef9372aaf3239fb18")

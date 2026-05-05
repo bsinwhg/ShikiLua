@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: Apocalypse with Femboy
 
-addappid(3913480)
+addappid(3913480,0,"38ce0044267b450b4a4b586949f1ea6324320a8acf206451f1984009fa1beaad")
 
 addappid(3913481,0,"8fbe784a17befc59e9ad3ad4b02f4236f5d083683be33b0b68a8b6e544ec879f")

@@ -2,6 +2,6 @@
 -- update time: 2025-07-14
 -- app_name: Salvor DEEP
 
-addappid(3004470)
+addappid(3004470,0,"bdf67ea566c26744e7e576a4ba99929dd7a5f8402a4feadc55ef40c6c13cb0fc")
 
 addappid(3004471,0,"18aef2bfc8151c1da49bb66506129fc453bb0e72dcf4f6768a4880d5894d6fb3")

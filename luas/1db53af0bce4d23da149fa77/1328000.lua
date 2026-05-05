@@ -2,6 +2,6 @@
 -- update time: 2023-08-07
 -- app_name: Zombie Shooting Star
 
-addappid(1328000)
+addappid(1328000,0,"b79856e7be77534ba93b80caf8e40bb3c9b808d7bb480389e4fad4a3fa7f50d3")
 
 addappid(1328001,0,"5a085a918af4b12b7f5fe3c4810571f4fee6573715a63f3d328a6b8e4d872a7e")

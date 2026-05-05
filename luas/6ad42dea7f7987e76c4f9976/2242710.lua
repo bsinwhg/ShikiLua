@@ -2,6 +2,6 @@
 -- update time: 2023-11-23
 -- app_name: 想要传达给你的爱恋
 
-addappid(2242710)
+addappid(2242710,0,"7f2485f714625ca595064665773c3c89c027459e68cbe353cd8414cfe15d94ce")
 
 addappid(2242711,0,"f0c1db2358f96933e8fc301b68cd57f0935a4209cc36c1e12fcd8171b6ed3ada")

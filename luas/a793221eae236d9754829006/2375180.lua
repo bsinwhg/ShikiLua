@@ -2,6 +2,6 @@
 -- update time: 2023-04-20
 -- app_name: 催眠临时工
 
-addappid(2375180)
+addappid(2375180,0,"ef0c6ad3a7dff5d41f07a63f52cf02090f0543ae00a7be785e02f6103647e2fc")
 
 addappid(2375181,0,"d9b759b2de5a44942daadb87272008f15b098998d517ba741ef8522b8c88d443")

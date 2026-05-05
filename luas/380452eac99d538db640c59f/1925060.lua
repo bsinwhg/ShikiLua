@@ -2,6 +2,6 @@
 -- update time: 2024-04-03
 -- app_name: SM的诱惑游戏
 
-addappid(1925060)
+addappid(1925060,0,"3c6c6ba4d0b17029f9e67cd23b2f5b0678828e1ba51bab135ac0353558775d6e")
 
 addappid(1925061,0,"5f63de0d852c03df13a34b95d04297a412dd9aa51c22fc0ac49227aa70231e8f")

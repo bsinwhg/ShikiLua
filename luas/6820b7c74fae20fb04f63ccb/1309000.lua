@@ -2,7 +2,7 @@
 -- update time: 2025-09-19
 -- app_name: Escape Dungeon 2-银月苍狼 苏拉尔
 
-addappid(1309000)
+addappid(1309000,0,"c8edec53965e679176255222cce7dba3bd3fad2914cb020c61ce5224ee088da7")
 
 addappid(1309002,0,"9ab5101386d9b48f2408837481455885a9d1ec8c7fd240350f34ac3f4b3e8c8f")
 addappid(4045770,0,"1431e1751ac203c7b1e4311fc78d88aa17dbe2325ba102ebb8f2f7afc4163722")

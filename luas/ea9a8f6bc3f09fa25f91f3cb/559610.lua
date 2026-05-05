@@ -2,7 +2,7 @@
 -- update time: 2018-09-14
 -- app_name: Love Ribbon
 
-addappid(559610)
+addappid(559610,0,"2003519f50db6edf2eec1bd7ced41a67c3375be2f93fef14c4301297079d18bc")
 
 addappid(559611,0,"ea66af4e7548ab67e854924971f606c05be97f25a6707bd99e17f6bd5ee0f08a")
 addappid(943730,0,"f9cf1cdd34b935c86c3c474ad6dedbb9ee4e4f6d45d63a8bda39676a4a75297c")

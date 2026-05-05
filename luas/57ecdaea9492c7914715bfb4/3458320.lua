@@ -2,6 +2,6 @@
 -- update time: 2025-06-13
 -- app_name: Glow of Snowy Night
 
-addappid(3458320)
+addappid(3458320,0,"d46eb664d5da3d5c2cd29a5b6fd05ea58286a06f2150d646d60d5f614775ae9b")
 
 addappid(3458321,0,"278f15bbbb3ba2dca5e2eff0ad649225ecb85c66ec38935e95fbc3fcb2c3305a")

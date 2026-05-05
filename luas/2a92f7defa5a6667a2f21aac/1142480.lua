@@ -2,6 +2,6 @@
 -- update time: 2022-11-30
 -- app_name: Anthophobia
 
-addappid(1142480)
+addappid(1142480,0,"361dae339f1ffb2b6fb3fe9eac7a121609c47eca8c7160db30b24a0db2a9fd04")
 
 addappid(1142481,0,"5ce2ff8c0181fb8ac25c96c2c421a773946e61f2633aa1931b1f795a524ec665")

@@ -2,7 +2,7 @@
 -- update time: 2023-05-15
 -- app_name: Date with Foxgirl
 
-addappid(2413720)
+addappid(2413720,0,"efe2f2dc7f95949e2f05f0ad65a8a29c138d0c15571280503b5f1ab10829403f")
 
 addappid(2413721,0,"ac0f89c772ef9f4742aaf34baba7e48232de2aa19f004047151e46fa9603160e")
 addappid(2425120,0,"eb2c4dc4c5e1636d6c3567b4177c138be362cc0062ea98dea8cb06354ef4ba32")

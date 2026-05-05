@@ -2,6 +2,6 @@
 -- update time: 2024-01-09
 -- app_name: 魅魔咖啡厅
 
-addappid(1520500)
+addappid(1520500,0,"ecf560ca77044a31b7e3c85efaeea7f3bb6fc3f10f26343a7a5e9a44ea89e250")
 
 addappid(1520502,0,"1b369bdd7b5ad7930005e61fb9d2c80e232bd3edf76635da4b681eef7c7e7e7a")

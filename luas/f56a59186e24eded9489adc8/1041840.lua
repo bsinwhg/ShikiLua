@@ -2,7 +2,7 @@
 -- update time: 2021-07-21
 -- app_name: 格斗天使SE
 
-addappid(1041840)
+addappid(1041840,0,"4390ae68738fb2fc0a11ffcbbed242a04161367f767c7bd4005c547315f56941")
 
 addappid(1041841,0,"dc5500497b281207f5fa2f61d1f802022878ea11d5c7b1a73d39ba9bcb2c6633")
 

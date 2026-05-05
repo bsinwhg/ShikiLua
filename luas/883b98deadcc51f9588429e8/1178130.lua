@@ -2,6 +2,6 @@
 -- update time: 2022-11-30
 -- app_name: 少女的求生之路
 
-addappid(1178130)
+addappid(1178130,0,"670cf6c0e33687a02efb896c2611edfa2613e8444c899f49220a09dd86aa2841")
 
 addappid(1178131,0,"b72bdd87d99c3674bda30ff0be99a04cfc270f1d19f17690a8972152deb893b3")

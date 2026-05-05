@@ -2,6 +2,6 @@
 -- update time: 2023-11-28
 -- app_name: FlipWitch - Forbidden Sex Hex
 
-addappid(1748620)
+addappid(1748620,0,"826768b905fd6a611accd1235491acfd1d5005f7b4bb5cfe804513825653d2e1")
 
 addappid(1748621,0,"576181678a4e491cb4a1e24e865c333a1299b03b6214413b78db4f51de0f1709")

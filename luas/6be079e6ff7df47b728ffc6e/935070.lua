@@ -2,6 +2,6 @@
 -- update time: 2018-08-30
 -- app_name: Sakura MMO
 
-addappid(935070)
+addappid(935070,0,"c347a305466c2fa8edfe632c570c4e367645ae0f9f9467e2e216f42267ec8677")
 
 addappid(935071,0,"ae4806c9ff891086d9c69869920edbb154656e4f81000c4aad61bee412923df2")

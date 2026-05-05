@@ -2,6 +2,6 @@
 -- update time: 2024-03-16
 -- app_name: 亚马逊人的欲望
 
-addappid(2359030)
+addappid(2359030,0,"97cf1974177e4f2c63576a9787783648dc0c6f42c04685447bc52fd34df4667a")
 
 addappid(2359031,0,"5cee1208172ae7afd80af34d6c17b42cf1d83315f93271c31af6d61cc3fbaaa4")

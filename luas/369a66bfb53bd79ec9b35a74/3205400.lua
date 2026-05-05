@@ -2,6 +2,6 @@
 -- update time: 2024-12-05
 -- app_name: 她的爱是一种施舍
 
-addappid(3205400)
+addappid(3205400,0,"6530e069b22f564951f54b645a6b6e1083f388ed7e5242fad3e5e3e32e90a0f1")
 
 addappid(3205401,0,"30449905fe4e3960351653aa93ddbbcf1802dcfa7e727da4de6fe4b554ece9e6")

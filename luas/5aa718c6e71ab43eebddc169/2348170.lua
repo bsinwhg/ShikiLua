@@ -2,6 +2,6 @@
 -- update time: 2023-05-16
 -- app_name: 黑兽‧改
 
-addappid(2348170)
+addappid(2348170,0,"6396617ae95df4cddf470456f72cd646164fc45ffdcfb8a99f0f56f6531c605d")
 
 addappid(2348171,0,"181ba457aea310b0124ce51495c0645435f185a424fbf121e9d0952de490b2a9")

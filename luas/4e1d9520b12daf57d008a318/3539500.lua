@@ -2,6 +2,6 @@
 -- update time: 2025-11-11
 -- app_name: My Witch Wants Elixirs!
 
-addappid(3539500)
+addappid(3539500,0,"bfc487b4866b13ffd37e90e1ebffb1dcfb4af71d5500d5287fc96d9c2f0a7e81")
 
 addappid(3539501,0,"2098862f4c7023aab25df9638412755e9cb73c9e972b98964608f8573de758d6")

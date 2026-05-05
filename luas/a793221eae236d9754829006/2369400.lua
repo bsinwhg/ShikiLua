@@ -2,6 +2,6 @@
 -- update time: 2023-05-21
 -- app_name: Dormitory Hentai Clicker
 
-addappid(2369400)
+addappid(2369400,0,"024a1e6af40a9f3213335b47bbd912559b44416a12b970d8349705b481c155be")
 
 addappid(2369401,0,"3baa15b345024030902762a4649fb4b1b15dea79e8a63a2eaebdff0c971251a0")

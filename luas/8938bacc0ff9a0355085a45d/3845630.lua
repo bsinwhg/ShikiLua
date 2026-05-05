@@ -2,6 +2,6 @@
 -- update time: 2025-12-16
 -- app_name: 调教按摩店 ～玛丽篇～
 
-addappid(3845630)
+addappid(3845630,0,"378dea8892c939a62c6d32547638a93d1d945c38f288c43fe02bf2e414d435ed")
 
 addappid(3845631,0,"70c1bbe573f72d38b50981c9efcb0d9d379b2f85940ce6364f94c37a83182f44")

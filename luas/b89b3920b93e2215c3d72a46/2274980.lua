@@ -2,7 +2,7 @@
 -- update time: 2023-08-09
 -- app_name: 隔壁太太今天也独自一人 2
 
-addappid(2274980)
+addappid(2274980,0,"f74e5a51a77a6546805ee8968e7423edbda1edad1710915ba8a9ead23ff8cb2f")
 
 addappid(2274981,0,"937caf7cd3251da9794abc0be8a72709a603aeec9e31a9c7e6c74895abe7bd5b")
 addappid(2274982,0,"c818f265cd59a57532204d4bd1a932b6cd8a2fbf75bc1539c8c4e2b6f5ed337c")

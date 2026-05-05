@@ -2,7 +2,7 @@
 -- update time: 2022-09-13
 -- app_name: Like an Angel
 
-addappid(1671510)
+addappid(1671510,0,"caaf515f97f2f2f72f02c7d4dcb5f0a0757bd840e0e13a607c528932d860f7da")
 
 addappid(1671511,0,"978f25aa58e40068072d3c34ee89eed9835ed958f07edbce254e196e44d51c64")
 addappid(1965420,0,"52f0fc9f930c3cb973760af5362a8fc42c7765ae96670d47ef53cd3a93d2ea16")

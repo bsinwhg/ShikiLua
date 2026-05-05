@@ -2,6 +2,6 @@
 -- update time: 2024-06-11
 -- app_name: 纯白交响曲 -Love is pure white- HD Remake
 
-addappid(2737970)
+addappid(2737970,0,"9db6f180e7dc97a1b9bc1a4f749a4e4132b811777664a4229f1cc633fbe44a55")
 
 addappid(2737971,0,"840f5dc54723f683a779d965c5f5b59100f204edf78060453dad1aa036877165")

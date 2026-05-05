@@ -2,6 +2,6 @@
 -- update time: 2025-12-19
 -- app_name: VR女友 / VR-Kanojo
 
-addappid(2954880)
+addappid(2954880,0,"0ab5faf034b4df02b690f7cc6477f786b419b7ef08d2132d8b28fa22741f6e17")
 
 addappid(2954881,0,"0e0fd245c24e73b77f90071292cc1a0dff3a9352a4e1b565da232a1ed2931733")

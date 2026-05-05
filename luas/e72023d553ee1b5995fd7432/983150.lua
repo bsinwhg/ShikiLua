@@ -2,7 +2,7 @@
 -- update time: 2019-03-06
 -- app_name: 樱之杜†净梦者 2
 
-addappid(983150)
+addappid(983150,0,"5a5763f8d0b07aa6cc2a832aac7ddd24aab111d41483fdf1ad123f7b966bd466")
 
 addappid(983151,0,"e2bde360273ad3f3af808caa270c483b0a0a90bcadcc1673ff5c6a64c3d8e15d")
 addappid(983152,0,"0f3a63c36045a8372c6ddf054655640ec45467d4cac8dfef5c45b2e6e9939d86")

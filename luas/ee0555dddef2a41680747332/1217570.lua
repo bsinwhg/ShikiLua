@@ -2,6 +2,6 @@
 -- update time: 2020-03-13
 -- app_name: 巧嘴辣妹笨小千
 
-addappid(1217570)
+addappid(1217570,0,"633d70baad9fb7a8e6e7d9e6059b58e028329eba74558b33a5910780e1e6c35d")
 
 addappid(1217571,0,"0fca9b6c4b15a7720b72dc63cd44eafaa231e54891ce8a96822bec2577113d84")

@@ -2,6 +2,6 @@
 -- update time: 2021-11-20
 -- app_name: MoonFall 化蝶
 
-addappid(1639230)
+addappid(1639230,0,"16c27367776474298eb6d25e2380deef721a49cbb648ec588ef6476f70352646")
 
 addappid(1639231,0,"f8459fbfdd6583bac8d79cd7a0bfb794ee006a4ae908b4d7beecfe44eb04ba5b")

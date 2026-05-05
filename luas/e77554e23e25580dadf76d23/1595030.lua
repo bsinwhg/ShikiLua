@@ -2,6 +2,6 @@
 -- update time: 2025-08-19
 -- app_name: Bad Memories
 
-addappid(1595030)
+addappid(1595030,0,"df722c9500baa3f28c0195fb58740dcfd39fe7d6ab9ed1f5b3fc8f35ed67a925")
 
 addappid(1595031,0,"a51353c9900493a310f180ce9269468cd6135e775a505dc1d27a261067c44ac7")

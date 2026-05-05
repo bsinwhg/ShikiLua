@@ -2,6 +2,6 @@
 -- update time: 2022-08-05
 -- app_name: PARADISE CLEANING -孕食人魔-
 
-addappid(2111760)
+addappid(2111760,0,"ebed54806841fe2f7e263b22e7d92937db132b219b174f2eac877e7b1decbc64")
 
 addappid(2111761,0,"aae36e61f1381e415e57db1a52b7909f11af88c461e2f2bb5f3db46e0df0d0ac")

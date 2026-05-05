@@ -2,7 +2,7 @@
 -- update time: 2025-09-22
 -- app_name: Quickie: A Love Hotel Story
 
-addappid(1517850)
+addappid(1517850,0,"84e5b52e309ef2bbee9f7f0e60ea75a3912283f7aae2adf22fe9461de7b1f048")
 
 addappid(1517851,0,"95d82c5be3ebf474bb15ca0fbabde95f8d12338a08aceabb4a88b7000d4eea3e")
 addappid(1517852,0,"c93a43df59d79c07dbcaa5b11e37c7802fe865b93e61898814c8dd30821e03e6")

@@ -2,7 +2,7 @@
 -- update time: 2023-10-12
 -- app_name: Leap of Love
 
-addappid(1469300)
+addappid(1469300,0,"ebbeda91418b36ea2e0bdc7a7ea7a37b9db10cea93f6d5d4bcf76b42dbe09abc")
 
 addappid(1469301,0,"fea0462f48ef2ad87e988f175bfb13d8530e479c3fc96ca95d2e1152ec39c932")
 addappid(1806280,0,"675fd81daf5a420c0c283d47bab822063a7674b899f6dbe50d1cc0122a6a34e2")

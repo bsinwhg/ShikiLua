@@ -2,7 +2,7 @@
 -- update time: 2019-11-16
 -- app_name: 圣骑士露比莉亚丝
 
-addappid(1156730)
+addappid(1156730,0,"72f9ca26b29802a3513fb7bee8feda49d812c9888eea9361ca4a96f7335321bf")
 
 addappid(1156731,0,"ffd959c997a072b8a30548cfafca6e64e0b65af794be3560ce9de4a05a0a1cc3")
 addappid(1156732,0,"0a573d599d9ece563bddf9f289679e56fa7aece3d7134be91789d6842b81b70e")

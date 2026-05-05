@@ -2,7 +2,7 @@
 -- update time: 2024-07-18
 -- app_name: Candle Daemon
 
-addappid(2686060)
+addappid(2686060,0,"8ac01f2df3a513ddf9c131dae42ea6d1f38177ca26bae7efa5495e47dc0a3743")
 
 addappid(2686061,0,"75ea1017a69f0d99128ce3c1ec39af8d5115a62867cb9c2997212627a15b7689")
 addappid(2834270,0,"0b2f1eeddf2b4306a56650fade4b4db29d2919daef769e5205cc7af1cdaa4986")

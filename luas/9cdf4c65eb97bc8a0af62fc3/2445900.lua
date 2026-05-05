@@ -2,6 +2,6 @@
 -- update time: 2023-11-20
 -- app_name: 魅App
 
-addappid(2445900)
+addappid(2445900,0,"5b383d6cf571c6f3163b9d9e7adaaad1c9c3b0b2c7dff58528914e8db1c8aaba")
 
 addappid(2445901,0,"0d6a7e30cff754b788817e12a4fe270e9bb933fd7173a55b169cc95c60d417fe")

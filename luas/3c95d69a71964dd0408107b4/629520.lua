@@ -2,7 +2,7 @@
 -- update time: 2025-12-26
 -- app_name: Soundpad
 
-addappid(629520)
+addappid(629520,0,"c437ad2314a89b2d736db77e137dd9afc1a597b34162483465c358a4a39408c2")
 
 addappid(629521,0,"40df4fcb0748caf1d77bff732f597eebb26b3a36539b1646d149f54eb676807f")
 addappid(629522,0,"832c15ab1f9cffda454f899b8d69ce24ae020d79dadfcaf97cb9b4494698b4cf")

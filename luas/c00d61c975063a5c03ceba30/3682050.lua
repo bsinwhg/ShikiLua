@@ -2,6 +2,6 @@
 -- update time: 2025-11-07
 -- app_name: 痴情哥哥与病弱妹妹的乡间生活
 
-addappid(3682050)
+addappid(3682050,0,"28bb850b5b0e5cae32440beb47a37f4ca05507f21a4a67f228177b140a9a5eca")
 
 addappid(3682051,0,"09652578b46fb04323a0df42c60d7d41225df719e923c430f528530ae6605d61")

@@ -2,6 +2,6 @@
 -- update time: 2019-04-14
 -- app_name: Rabbit Burn
 
-addappid(991600)
+addappid(991600,0,"dd871e7ce6e20d847c8b8345c997f92d056090089bb3e2fe51a66611281bbeb9")
 
 addappid(991601,0,"e504dbe79d02e75070cbec68f6e472756f4f064cdf0d7c4fd00c2a33bdcaf1d5")

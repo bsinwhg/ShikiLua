@@ -2,6 +2,6 @@
 -- update time: 2025-10-24
 -- app_name: 双面夜孃
 
-addappid(2971750)
+addappid(2971750,0,"81232dff678c58447a009cd809c467c7ca142dc48d1237983fbf04394f49cff6")
 
 addappid(2971751,0,"57d20028af82ef5ff2b0bdc9697892fe8be55ca0c9add9a01a83a9d123008654")

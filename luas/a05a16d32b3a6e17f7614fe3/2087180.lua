@@ -2,6 +2,6 @@
 -- update time: 2024-08-10
 -- app_name: 都市媚影-CityFascination
 
-addappid(2087180)
+addappid(2087180,0,"5e6d9bf56810b4c49c00bc882b03e63e77e0f67d26f7a021d9c9cb8986ba263c")
 
 addappid(2087181,0,"4d0e34fab595a537f67b7b92cc481d44c24cae1d72f15d39d286b5103d310f3b")

@@ -2,6 +2,6 @@
 -- update time: 2026-02-28
 -- app_name: DRACU-RIOT!
 
-addappid(1340140)
+addappid(1340140,0,"9485c02ecf1ead1a24be23a2d809c6766e464824e4e60424a088e1dbc8fed07c")
 
 addappid(1340141,0,"acb4de520f422632f5cecc9fdf4e471dd6ae4beeb4c14f64db1a4e7985bb65fc")

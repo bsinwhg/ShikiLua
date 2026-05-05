@@ -2,7 +2,7 @@
 -- update time: 2025-02-25
 -- app_name: Tunnel Escape
 
-addappid(2908950)
+addappid(2908950,0,"57ff85dffe64bf4cecdcd8479e46178dbe9616f244abbb1f9b235e55e381f04c")
 
 addappid(2908951,0,"6c7f76419c593ba5c58f439b1bce66c97efbc60175e703d3fe7ff376d7b581a5")
 addappid(2908952,0,"82de8724d731896e16cab060ce171f6a0ab52300aa31c57a788812b09479727b")

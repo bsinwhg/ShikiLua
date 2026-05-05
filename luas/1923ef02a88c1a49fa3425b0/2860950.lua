@@ -2,6 +2,6 @@
 -- update time: 2024-03-08
 -- app_name: 惩罚娘娘
 
-addappid(2860950)
+addappid(2860950,0,"fe56c7aa8244bf98633768a0c4036de512bae54e0d8541e515f38a933fad9686")
 
 addappid(2860951,0,"036ccbd25aa768b32d1e1e863c267761c3f081a727e2dea3e879d1858ee0c766")

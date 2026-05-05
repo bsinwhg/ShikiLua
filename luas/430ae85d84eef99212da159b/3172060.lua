@@ -2,7 +2,7 @@
 -- update time: 2024-09-21
 -- app_name: 性爱面试：甄恬的冰激凌
 
-addappid(3172060)
+addappid(3172060,0,"efa294224bb2f7f5aea5bd739fd1a097d9d5474df6b5a0c111167ec635c219b4")
 
 addtoken(3172060,"9591979397466884227")
 

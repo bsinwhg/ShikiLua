@@ -2,6 +2,6 @@
 -- update time: 2025-07-28
 -- app_name: Love Island
 
-addappid(2888000)
+addappid(2888000,0,"40bf6b6b7f8d6fbec55e87a76c2ea8a8ba8229487ee512aef76e1daeca3d27d9")
 
 addappid(2888001,0,"4665f5185bb51104e01da1f5ef0286d9c1c42fab5e5a8813944d8529de248d6c")

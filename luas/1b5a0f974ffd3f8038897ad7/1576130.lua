@@ -2,6 +2,6 @@
 -- update time: 2021-07-20
 -- app_name: IdolDays
 
-addappid(1576130)
+addappid(1576130,0,"7f58915b327d713aff0c045dea19bec61e0bda9ecb0a64f86ac953acdbfd8e2e")
 
 addappid(1576131,0,"a66f4924cf5369eff548eb10add26908f511c839bd36aa45e9c2c3cefd0c1ac6")

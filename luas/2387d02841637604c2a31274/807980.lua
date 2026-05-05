@@ -2,6 +2,6 @@
 -- update time: 2022-09-21
 -- app_name: ElvenEscape
 
-addappid(807980)
+addappid(807980,0,"afc8cac3c8901917c57d62d6e712aa7d987e6b63275809dfc65c0757388082e6")
 
 addappid(807982,0,"02deb50b9dddf4ba72bf7db9c9a2a908c16f3193164c9c92ad201d65dcca9582")

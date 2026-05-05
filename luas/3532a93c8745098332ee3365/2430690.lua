@@ -2,6 +2,6 @@
 -- update time: 2023-09-27
 -- app_name: 幸运草的约定
 
-addappid(2430690)
+addappid(2430690,0,"9e72726747d589f2ebf4ffe9a4c129e81e8a7d27b3c55766b17b71505dad42e6")
 
 addappid(2430691,0,"8b2540b4208868f8d243b13cd346addb345d8a9ed7fef271884389f0547b37db")

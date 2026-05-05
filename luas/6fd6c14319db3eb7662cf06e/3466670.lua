@@ -2,7 +2,7 @@
 -- update time: 2025-08-07
 -- app_name: 义妹私教辅导~哥哥我是家庭教师
 
-addappid(3466670)
+addappid(3466670,0,"ef0eafeaba965be7cc69964d40c1388af1275dc21c804c43bdb6abdeef519075")
 
 addappid(3466671,0,"12d931f98b1a880e6a8e4aa78274e6fe40a2caeb47c254d45bd33873942fbb2d")
 addappid(3466672,0,"c605ad35e615c48937422778a73d2fdb86a13464bf95b540cb90b7d8c8fb049a")

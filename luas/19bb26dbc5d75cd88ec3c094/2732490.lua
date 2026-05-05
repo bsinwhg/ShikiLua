@@ -2,7 +2,7 @@
 -- update time: 2024-04-01
 -- app_name: Hot And Lovely ：Suger
 
-addappid(2732490)
+addappid(2732490,0,"294ec350b146c177c1c2d50b5fbad40a92407d9bb5a0145b6f00f01a37a165f4")
 
 addtoken(2732490,"14182339517676421723")
 

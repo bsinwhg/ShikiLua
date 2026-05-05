@@ -2,7 +2,7 @@
 -- update time: 2025-02-14
 -- app_name: 邪祟之月 ~被囚禁在幽冥之馆的少女~
 
-addappid(3338380)
+addappid(3338380,0,"def64b0c95621424157c0c24d1d660e25ea0a9abf97f03819db3a14c7f175546")
 
 addappid(3338381,0,"4a2d86e772675dce237f66ebe8c00ff5cb1e8a7123c0a4bc627fac5e81e5564b")
 addappid(3338382,0,"e4cd045683080fb847465de12c9a3ac71e6b9052eb7c88d670f42485cccbbbec")

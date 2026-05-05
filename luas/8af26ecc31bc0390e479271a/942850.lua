@@ -2,7 +2,7 @@
 -- update time: 2019-10-18
 -- app_name: 末世孤雄 Vol. 1
 
-addappid(942850)
+addappid(942850,0,"ecf1b40f38341f23d7e20891470fed3e7f38a4a12bec9fde2f531abd2f182777")
 
 addappid(942851,0,"6d85d01525a1bfb26b11376dd63497bceeac34e4785344b31cfdc8fb5d60f8b4")
 addappid(942852,0,"4528f83b87a8beb0c803ffd5a151b74b43e4bc20a2624d5c171f8aec16ec6515")

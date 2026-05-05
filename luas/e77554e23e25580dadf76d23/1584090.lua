@@ -2,7 +2,7 @@
 -- update time: 2026-04-03
 -- app_name: 东方夜雀食堂 - Touhou Mystia's Izakaya
 
-addappid(1584090)
+addappid(1584090,0,"b523c29692b17f3cbe6ce13844d4bb956941f74b26000fdc6e53f06eec2d7c20")
 
 addappid(1584091,0,"7626ba6bac1a68d11a5685cac46137800840a0c24bbda35037b7fa1dffeaaf96")
 addappid(1838751,0,"802c21518c05f219fe8cce3eff43d09ad71dc681f1e6941ae81ef4124682db07")

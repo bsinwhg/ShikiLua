@@ -2,6 +2,6 @@
 -- update time: 2026-02-01
 -- app_name: Sword x Hime
 
-addappid(1384630)
+addappid(1384630,0,"24c807ff350f7e8bf4433862ae5963a9301e1f438a749ed430d13be7177e3043")
 
 addappid(1384631,0,"ce72ef8ddbf891aadec67833dcd27f6cccda1d2dcc919ab33e2178830533259a")

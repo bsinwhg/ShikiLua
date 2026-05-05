@@ -2,7 +2,7 @@
 -- update time: 2021-09-15
 -- app_name: Hot And Lovely 4
 
-addappid(1709460)
+addappid(1709460,0,"1609e62ff2a3a3e083fe176b2fd24bae8f42b04712f9addfe701398170cc752e")
 
 addtoken(1709460,"5489256034721082779")
 

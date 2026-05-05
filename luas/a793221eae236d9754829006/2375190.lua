@@ -2,6 +2,6 @@
 -- update time: 2023-07-10
 -- app_name: 我可是御宅社团的公主！
 
-addappid(2375190)
+addappid(2375190,0,"bf75e9bcd34c9c6fc6ba69c1206fe27a7174f45c0b5f54be22a8492f44111590")
 
 addappid(2375191,0,"30e192f28542e1a485fc3a8c43d25e1303df3afd2722983e24d5901c91b2068f")

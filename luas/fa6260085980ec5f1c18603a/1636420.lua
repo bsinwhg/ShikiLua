@@ -2,6 +2,6 @@
 -- update time: 2023-04-21
 -- app_name: Sweet Shine
 
-addappid(1636420)
+addappid(1636420,0,"9bc99479053f28611ecd8ff579fcf512ec92ca2108d6d6b6c7c1dcd466dd7b36")
 
 addappid(1636421,0,"81a8bba71c987f1000aa4414a338f5d70827480c0bccebb8b4db724ad044247e")

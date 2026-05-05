@@ -2,7 +2,7 @@
 -- update time: 2024-05-09
 -- app_name: Climax Heroines
 
-addappid(1891560)
+addappid(1891560,0,"95ec35a0cf12e50822b3ec01f2eb1de57f62957b8ffe4e1dc46089f1c5b54c63")
 
 addappid(1891561,0,"d20afe3e1884bbffa8954adc12142908301196d14d137998b40fe928af21588e")
 addappid(1891562,0,"0d5e82fb7a54a99c9a34293a7b1bc6614184cc268cf7697f8da8a6fa2ac2a1a5")

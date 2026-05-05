@@ -2,6 +2,6 @@
 -- update time: 2024-03-16
 -- app_name: 梦想女友：Doomer 女孩
 
-addappid(2051080)
+addappid(2051080,0,"2e087de1496b885def96ba9b0b2c2d6f39128ba2b453142e2e39495ff6573bf2")
 
 addappid(2051081,0,"53768e7f3c0032a3ef67a1df64b764d6fee277e1f4a3ce2b4a8edb93d01620d5")

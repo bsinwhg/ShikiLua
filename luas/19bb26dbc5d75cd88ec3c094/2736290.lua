@@ -2,6 +2,6 @@
 -- update time: 2025-07-29
 -- app_name: My Life In A Monster Girl Paradise
 
-addappid(2736290)
+addappid(2736290,0,"f66f45e48feba6ffd5bba4ab0fbe3e455f2c8da947ea50988049b68df46815f6")
 
 addappid(2736291,0,"91228ff8b2146bb6ee9111c3c89af5d8a49187e1383c091c5516d3e7e441acd6")

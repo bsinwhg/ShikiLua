@@ -2,7 +2,7 @@
 -- update time: 2025-06-30
 -- app_name: 为了重启现实，我喝下了索蕾尔咖啡，却遭到魔物娘和武装特工的追捕。
 
-addappid(3511020)
+addappid(3511020,0,"4f05c8af9a5f2ab0ea4df7143a1582f52e80c6b6a90271f2329beeb70a832e33")
 
 addappid(3511021,0,"c6aa942335bb0445fa85a1be3ab15ae6d6718e6793094d6f7d0836e4a5a9fea5")
 addappid(3649220,0,"13b49031393840261c7664bfca8e1c6c6266bf2bef8caafeec7c6d5ffcb7e502")

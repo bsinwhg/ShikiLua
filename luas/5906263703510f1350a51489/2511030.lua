@@ -2,7 +2,7 @@
 -- update time: 2023-10-23
 -- app_name: Deep Secret
 
-addappid(2511030)
+addappid(2511030,0,"b35e2d5a3264e562b25c2428eb5aa3b1553b26049859f238b89fa00348ac3b18")
 
 addtoken(2511030,"2382494127952280978")
 

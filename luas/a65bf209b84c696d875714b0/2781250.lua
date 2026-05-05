@@ -2,7 +2,7 @@
 -- update time: 2025-07-23
 -- app_name: Lyndaria: Lust Adventure
 
-addappid(2781250)
+addappid(2781250,0,"4ee2b485b8d35b7d2b042fa38b529029bda0466e1cfda587b01e702da0d28d04")
 
 addappid(2781251,0,"0464b6e2894be1a77f7e56e17eab98f4511d80a4dd5070bda1b4a0bebc83beb8")
 addappid(3170180,0,"7dffeacfc74b0c497258f32ab79a23d26e824b2f645ffbdc3baed3cbfaea08eb")

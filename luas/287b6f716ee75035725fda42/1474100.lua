@@ -2,7 +2,7 @@
 -- update time: 2022-06-08
 -- app_name: 圣天使夏洛特・淫虐之奴隶调教
 
-addappid(1474100)
+addappid(1474100,0,"7204d77b2d9514c2601e1bbffb2e761c10016fbb74399609ac7a7da0ba0fcc51")
 
 addappid(1474101,0,"395727da1d8aea813838d84b4a162f748a69b84b551b556446f0ea7d08fb9bf7")
 addappid(1491891,0,"c551b4bf77d101255fcea4b239af68ef723a5c0a576b729b4d7ae8ee7db4624a")

@@ -2,6 +2,6 @@
 -- update time: 2026-04-14
 -- app_name: 逃家少女〜蜜梨与巧克力〜
 
-addappid(3295720)
+addappid(3295720,0,"ddaf75429ccb329ffdf80ad9dc815e63603dd4afe845d78642577d635ac6ae38")
 
 addappid(3295721,0,"f0b51f6bfae21a4e3e1eb39410869e86e9c04ead6bed5b252e27363845268166")

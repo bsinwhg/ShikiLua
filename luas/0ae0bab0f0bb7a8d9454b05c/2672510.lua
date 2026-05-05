@@ -2,6 +2,6 @@
 -- update time: 2025-10-21
 -- app_name: Kinky Cosplay Heroes
 
-addappid(2672510)
+addappid(2672510,0,"2328374429babce37af70c246585de8d206f58c1fa6c33dd6d1ad86ee6836b60")
 
 addappid(2672511,0,"b3966858900b0e002a4224dc76149db3b8e6014c8548a5fbb25d60e793c631ef")

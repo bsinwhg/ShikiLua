@@ -2,6 +2,6 @@
 -- update time: 2025-08-18
 -- app_name: 神灵后宫
 
-addappid(2627280)
+addappid(2627280,0,"0b8c1c2561a1779a770217e244aba044567ef7fe3defea6e184450bf26aceb91")
 
 addappid(2627281,0,"bd28cb754a97f2d7c5effdd0995485f5a0492d5ddbfb3f354141ae8da833b4cf")

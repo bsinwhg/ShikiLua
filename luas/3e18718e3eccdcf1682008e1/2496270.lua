@@ -2,6 +2,6 @@
 -- update time: 2024-10-30
 -- app_name: 我的很大你忍一下
 
-addappid(2496270)
+addappid(2496270,0,"870d7a1d1c3180cc25db447d821c7602dfc695b7e8c20c33a751f9ad0efda85d")
 
 addappid(2496271,0,"49c8c2515509d5d42fb0018d6ecc75e8c89c3b3404e1e6b781c1edeceb1b796b")

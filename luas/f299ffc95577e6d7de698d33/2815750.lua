@@ -2,6 +2,6 @@
 -- update time: 2024-02-21
 -- app_name: 无知无知封兽鵺Ｘ
 
-addappid(2815750)
+addappid(2815750,0,"856bc2616cae685f75b4c560f8cdad8ff66bcd627b539f30b73b07b3bbca9ac3")
 
 addappid(2815751,0,"89b98b465aa236dad42a8038d17c98ff95129a467ca99ed573c8e9330995c417")

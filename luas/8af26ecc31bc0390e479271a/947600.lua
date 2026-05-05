@@ -2,6 +2,6 @@
 -- update time: 2020-03-13
 -- app_name: Eroico
 
-addappid(947600)
+addappid(947600,0,"13f2c1ab54ee2552ebe5d0f9d74cf5bbfafb5aa364a9c67dd36e531bd4ba15a8")
 
 addappid(947601,0,"bd2f853418c6ed40e1d94fbdacf58e8e0a09c053156a90b02b0135286b767fcf")

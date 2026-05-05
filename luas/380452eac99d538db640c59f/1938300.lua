@@ -2,6 +2,6 @@
 -- update time: 2026-02-21
 -- app_name: 模拟触手
 
-addappid(1938300)
+addappid(1938300,0,"ba1ba0c6f16245f11b88cbd02dbb8102b2d52eee05c5a012785009303d2d25a1")
 
 addappid(1938301,0,"1788feeb0f2ddff968a94fd76e7a3b8c64b57f191c423264c48b7fb22839eb4a")

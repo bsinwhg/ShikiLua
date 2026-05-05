@@ -2,6 +2,6 @@
 -- update time: 2026-02-07
 -- app_name: 奴隶主: 精灵征服
 
-addappid(2399670)
+addappid(2399670,0,"4e47143073347992019920a6a855d355cff6c8bbe5a3a4edef2402cdb2cdce1c")
 
 addappid(2399671,0,"6e2ed5e2240bcad0d9737c4686f533c897bcb6c25436f283a144e6dde66bc9a1")

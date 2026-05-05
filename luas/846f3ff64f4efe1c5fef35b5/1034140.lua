@@ -2,7 +2,7 @@
 -- update time: 2025-12-20
 -- app_name: Subverse
 
-addappid(1034140)
+addappid(1034140,0,"b056fcf655a5de937c67cfcd00e96de1e7dd5a755ff93f3643411535e7d385a5")
 
 addappid(1034141,0,"9c712c1efc2a5b5f884a153935bfca195dbe00c3a2bba7d8ec93b2e29daeb527")
 addappid(3342820,0,"d4e7b31fc2896aa5b8dbbfba739af9743b5faea198d0e66078f4ce1e8d16d2b0")

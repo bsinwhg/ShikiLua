@@ -2,7 +2,7 @@
 -- update time: 2024-07-19
 -- app_name: Hijiri in the Succubus Castle
 
-addappid(2184630)
+addappid(2184630,0,"983508f919da71172a9a8bcbd338d3f4e9638dcae75982ee124f6dcd2eba8a02")
 
 addappid(2184631,0,"18e5bd84f06c88f04089e72cc12877ddcc907af6547854e7f63a978ead15eb6f")
 addappid(2184632,0,"145f5a24d8d3e868960accb0b91eb69ea7ec3b96e74a1f168ef49bdb9373dce4")

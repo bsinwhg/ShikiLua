@@ -2,9 +2,12 @@
 -- update time: 2026-01-16
 -- app_name: Sexercise Club
 
-addappid(3899620)
+addappid(3899620,0,"f7880896b4c7c1c0f50753760411e857c40036256ccee0b2d3542ae4fd3a74b4")
 
 addappid(3899621,0,"62aa0d000f2206d9acf75e6a16a53a0ac6dbf8038e14895b2c718628270b2804")
+addappid(4271450,0,"0e17d3158f9b09e1266c7eb937124a1171df1e7378eb6d62bfc1d537e82be7df")
 
--- DLC: 0/3
--- missing DLC: 4271440, 4271450, 4271460
+-- DLC: 1/3
+-- missing DLC: 4271440, 4271460
+
+addappid(4271450)

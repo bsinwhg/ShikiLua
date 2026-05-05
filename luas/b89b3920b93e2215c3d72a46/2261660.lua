@@ -2,7 +2,7 @@
 -- update time: 2023-01-17
 -- app_name: My Neighbor Neko
 
-addappid(2261660)
+addappid(2261660,0,"dda8d5c5c9fe381e1e94e22ab4aed870cd004174435d0ebdb5b8a0b3e169f7d9")
 
 addappid(2261661,0,"de971374febd0c000b5f42739b2b40c99834fad46b9ec81264e5719ebccb6952")
 addappid(2273890,0,"3a3c33a65d38ab1e42eebe556d31de6c2ebd22393eef0046033931886275131f")

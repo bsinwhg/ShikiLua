@@ -2,7 +2,7 @@
 -- update time: 2024-07-30
 -- app_name: Joy Life 4
 
-addappid(3028000)
+addappid(3028000,0,"1fbb866f29c714065ac8f71fd0ae6261bad6af16911cc94c9e15b87c55dd9c35")
 
 addtoken(3028000,"2802153155424194284")
 

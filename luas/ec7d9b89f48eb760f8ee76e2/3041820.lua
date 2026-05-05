@@ -2,7 +2,7 @@
 -- update time: 2025-04-22
 -- app_name: 乱欲牢城~监狱都市的花之少女~
 
-addappid(3041820)
+addappid(3041820,0,"24001635d768ac5f82743b17b84f8295be12d2db820fcf41890f5fdbde3b9e4f")
 
 addappid(3041821,0,"1774cc267afce6d89ab3042f335b82d785dd05ae90df2c1b314559ea3e4bb934")
 addappid(3041822,0,"1a68ff98a7817e24bd5c2c2633076e2a46aac753e47351dd4cf61bcfbea07277")

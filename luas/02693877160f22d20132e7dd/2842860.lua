@@ -2,6 +2,6 @@
 -- update time: 2025-04-07
 -- app_name: COLLEGE SEX FEST 2024
 
-addappid(2842860)
+addappid(2842860,0,"543637d7fe6bec5ab3b534b7d3ba4c0afe79841c28d41ee81e4c58804c1a9146")
 
 addappid(2842861,0,"ddb6583a278b9d6e026f30f3d1f7929a82ee2d32179c4b52576741706887080c")

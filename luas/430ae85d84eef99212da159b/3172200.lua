@@ -2,7 +2,7 @@
 -- update time: 2024-11-11
 -- app_name: 乔甜和她的闺蜜们
 
-addappid(3172200)
+addappid(3172200,0,"5c5c281256a77c302c36252d9acdaa1be36bb1071983803069bbc276179d9000")
 
 addtoken(3172200,"5744316695033293816")
 

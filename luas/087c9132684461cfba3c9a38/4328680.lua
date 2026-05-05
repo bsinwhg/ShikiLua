@@ -2,6 +2,6 @@
 -- update time: 2026-04-23
 -- app_name: 朋友的巨乳妈妈全都属于我！
 
-addappid(4328680)
+addappid(4328680,0,"67aa4fb3ebca446af87a000ad2cb7e739b70c79eaff51c63cd5a31667308b605")
 
 addappid(4328681,0,"a6a8f83ebc322399e021ac22d800cd773fc998fca5f088619db42c14bcf9967a")

@@ -2,6 +2,6 @@
 -- update time: 2024-10-30
 -- app_name: Succubus RoomMate
 
-addappid(2502980)
+addappid(2502980,0,"2f739bac65cfa273d39c1b9a2358b4dee245589c0a69a330934d4e67bd7f62fd")
 
 addappid(2502981,0,"e3bd6fa46ad4d3b0b28257b4ee1cffdcf958d49e99ccaa8f7f6013afc7cc1ee1")

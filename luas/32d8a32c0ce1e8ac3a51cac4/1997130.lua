@@ -2,7 +2,7 @@
 -- update time: 2022-05-15
 -- app_name: 佩兹　的骑士　艾莲　与迷宫城镇索多姆
 
-addappid(1997130)
+addappid(1997130,0,"6762f18ce416d9774fdfb1f12962736acec791c94b606e9f3ce49cf48e4e5a68")
 
 addappid(1997131,0,"8b3749b3b893659a5beae7123a8d560eae74aa3845e3c0c45ce8092ce8a23b08")
 addappid(2323450,0,"f3a2266b93fc23747dd548f5012978b616d2ad3fedfa9f57aa7232a8baf86c53")

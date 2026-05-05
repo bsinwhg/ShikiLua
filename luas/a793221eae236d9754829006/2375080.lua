@@ -2,6 +2,6 @@
 -- update time: 2023-07-06
 -- app_name: Sakura Bunny Girls
 
-addappid(2375080)
+addappid(2375080,0,"2392d47a26ef221f0523c6435cd0d5afa2c544c20a4aee26cb6dfc0f6e0abc1f")
 
 addappid(2375081,0,"2fde335bf401b9750e2881cd4b1ed89e54913fb1b0b45677d13a059d2bae1544")

@@ -2,7 +2,7 @@
 -- update time: 2025-01-22
 -- app_name: 幸存者少女/Survivor Girls
 
-addappid(2679200)
+addappid(2679200,0,"00726a378071576a2cdb992bb768bb1a8159f8b5f1f6b74cc1405c10c6d554ff")
 
 addappid(2679201,0,"21656dbac72d63854cda6ed61bd5956be5ce4c8c70bfed1cbc0098f8a54673e7")
 addappid(2703560,0,"72350bd063c6d228f9b35e3492afa35b039b99f3f0e64732826f9a8db4b69cab")

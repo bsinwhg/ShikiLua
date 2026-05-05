@@ -2,7 +2,7 @@
 -- update time: 2020-10-22
 -- app_name: 米拉与奇妙的炼金术
 
-addappid(1328920)
+addappid(1328920,0,"58d2e364cdf73c938f948806528f0378f1132ae56b76e03fde88800310f1c002")
 
 addappid(1328921,0,"cddaeee3f656f2dbc2a0b9ede20216bc17fe2053e2b5644535f551ec2d171f7c")
 addappid(1328922,0,"de898efcd7256e9f6771296b3bb9dae0a6094cf1d7aa9c69e3b62dee01ed769b")

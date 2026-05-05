@@ -2,6 +2,6 @@
 -- update time: 2024-07-30
 -- app_name: 香草布蕾与玫瑰怪盗
 
-addappid(1987990)
+addappid(1987990,0,"a40eebc6a01aa6d1dd097067b4ccf78a85a067862616509dceb8623025fc8def")
 
 addappid(1987991,0,"633de0f90ae362230afae2a9b90fadd979cfa585fdf77719b878fb7a2891d35c")

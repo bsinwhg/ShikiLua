@@ -2,6 +2,6 @@
 -- update time: 2022-10-29
 -- app_name: SusRitual
 
-addappid(2151480)
+addappid(2151480,0,"9f1058797823a46b7dedefedfd95a8376eea0109982bab1f759a9232a07b1a7c")
 
 addappid(2151481,0,"9ef1a0142d0a2d18806378b554fcb41203eebdd9c87b774c2641a506f7f97ac3")

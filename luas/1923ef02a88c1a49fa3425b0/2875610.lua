@@ -2,7 +2,7 @@
 -- update time: 2025-08-19
 -- app_name: 赫雷斯的角斗场 Ⅲ
 
-addappid(2875610)
+addappid(2875610,0,"1a43d31114dedba2ebbc2abcc43564028f776eea437127e5f5a44eab0b110c46")
 
 addappid(2875611,0,"639beb8000cf0f91a72c541607879687e6f4dfc8821d5a01d3edfd3ceeebcf89")
 addappid(3709910,0,"5b90b81daf1117be3b01456d01480bf4ef087bbf33dbee3db51b6771a1fad838")

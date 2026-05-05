@@ -2,7 +2,7 @@
 -- update time: 2025-01-11
 -- app_name: Zoey: Nightclub Secrets
 
-addappid(3271470)
+addappid(3271470,0,"8f8066ce7e754a19d3fb1f84913b785b66baf66378c228b05d37cbd9649573b7")
 
 addappid(3271471,0,"8deb976c625731d0c7ba30d0eb127c2e88bebc4907e798a3f22974436c15668e")
 

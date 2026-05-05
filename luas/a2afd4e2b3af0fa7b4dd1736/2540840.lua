@@ -2,6 +2,6 @@
 -- update time: 2024-12-31
 -- app_name: Mega Hero
 
-addappid(2540840)
+addappid(2540840,0,"69cdbfb277200ff55ee9d3bd9e14e3d9536a29cd7bc2a0f232da842b000c3cb2")
 
 addappid(2540841,0,"9ba0df4dbb55bb22d5ac08db7f24b814c90c35704474207ab5614fccefc2b91f")

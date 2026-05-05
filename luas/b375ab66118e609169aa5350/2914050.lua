@@ -2,6 +2,6 @@
 -- update time: 2026-04-14
 -- app_name: Jugs Bay
 
-addappid(2914050)
+addappid(2914050,0,"1aef83cdcb244b8f523d8321265ba281672daeb95b7dbf2ff4c271d6b7b7ba12")
 
 addappid(2914052,0,"07dc89651676149b0a0328077bed98f1333c5528b0ce452173ab8067ac3d1790")

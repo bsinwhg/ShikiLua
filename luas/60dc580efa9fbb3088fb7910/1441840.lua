@@ -2,7 +2,7 @@
 -- update time: 2021-04-17
 -- app_name: 迷宫物语 - FALL IN LABYRINTH
 
-addappid(1441840)
+addappid(1441840,0,"fa078f9efd5703ca4d40f5c21896751df2e969955280cc29eae4789a6500042e")
 
 addappid(1441841,0,"088e8bdd7a5708ee6d10f9f666bc42c1915098a889e0fc8fb4719eecfd528ad6")
 addappid(1441842,0,"9e5dfa9a048a16f5065fbb2de7fca4c414b61431d8e9be8fba8a15d56b092e36")

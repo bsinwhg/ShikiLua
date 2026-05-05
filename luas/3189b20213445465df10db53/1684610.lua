@@ -2,6 +2,6 @@
 -- update time: 2021-09-12
 -- app_name: Hentai Girl Clicker
 
-addappid(1684610)
+addappid(1684610,0,"d2ef82443a7b0658e7d743be1aaba6a830d1e08f5913b88b23a3212e0ca1b518")
 
 addappid(1684611,0,"422d0ca7bed09fca322fcb54c895d42cd7867afd3ea1f248b18839caddd7222e")

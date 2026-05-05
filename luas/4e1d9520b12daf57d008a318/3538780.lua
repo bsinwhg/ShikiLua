@@ -2,6 +2,6 @@
 -- update time: 2025-02-17
 -- app_name: 与傲娇女孩的爱情性爱 ～她喜欢沉浸在快感和你的阴茎中～
 
-addappid(3538780)
+addappid(3538780,0,"84fb1db776689d0c807ca16734e4d8b5fbe0b648ff2946000023f75d0fb60ef7")
 
 addappid(3538781,0,"8eff0cbb341bb2e8d6b816939d33ec22df69b323376d31b6b318cdeb6f98273b")

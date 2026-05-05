@@ -2,6 +2,6 @@
 -- update time: 2024-12-17
 -- app_name: 魅惑牌桌
 
-addappid(3259060)
+addappid(3259060,0,"d969ad3ac5f2b38a6f517d679881d48b0afe6c2a0fdfc24f392de68295e02065")
 
 addappid(3259061,0,"1b9953bbbbace2a84b6f931225f74e65ae0d78fd0d59aac03a494d70e8ba5509")

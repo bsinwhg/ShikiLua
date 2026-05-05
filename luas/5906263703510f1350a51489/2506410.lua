@@ -2,6 +2,6 @@
 -- update time: 2023-07-11
 -- app_name: Secret Relationship with Subordinate's Cocky Gal Wife
 
-addappid(2506410)
+addappid(2506410,0,"0056905d3eaa2263cdcc6b7e7bf981cf665e6f21032cf75d4ca16acf3789ba1b")
 
 addappid(2506411,0,"1ffa09c2bf1a761f2bdedeaeb15b7c6ccdeb137e651dfc4029c4f6e7fa9f56fe")

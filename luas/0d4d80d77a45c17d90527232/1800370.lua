@@ -2,6 +2,6 @@
 -- update time: 2025-10-04
 -- app_name: Hentai Room
 
-addappid(1800370)
+addappid(1800370,0,"1e639be80a5e46206fbc82a4c9aa1e7a2205d4abb70aaf7a0bfd6d1db37b6ef1")
 
 addappid(1800372,0,"b4123455861501fc5149c9d073deec7ac8a40dfffc2f76182e2c56daeac4c8b4")

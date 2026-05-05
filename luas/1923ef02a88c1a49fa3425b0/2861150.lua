@@ -2,6 +2,6 @@
 -- update time: 2024-04-20
 -- app_name: 敬业女仆咲夜
 
-addappid(2861150)
+addappid(2861150,0,"5caa73bfe54417f4a0146b937c6624b1c3a4253b693cb9fc6de5c82a115d0886")
 
 addappid(2861151,0,"41b9db2fca8ffd897db2b0abd6bf7c724a32ddd741298db630740439645bd9a7")

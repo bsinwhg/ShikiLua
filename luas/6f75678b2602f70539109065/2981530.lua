@@ -2,6 +2,6 @@
 -- update time: 2024-07-22
 -- app_name: 索罗灵魂之戒—神界篇
 
-addappid(2981530)
+addappid(2981530,0,"9e34c883c1d2b6fe28fc0a51e7eaf2d1867ab95fc800d69640deff8799df751e")
 
 addappid(2981531,0,"aeebb809d66af204db199636d7dce370436cacf73009ef67844b09e04d0b75a4")

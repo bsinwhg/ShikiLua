@@ -2,7 +2,7 @@
 -- update time: 2025-04-10
 -- app_name: Love and Bitch
 
-addappid(3378270)
+addappid(3378270,0,"fd9e9cf0e90f03c84f9e9d52b867e1e4262c45343fdc7e5d6b7a04cabea5b218")
 
 addappid(3378271,0,"b8dc00a62803ced58faa3ad513bb7543d6dd6c1604b8e2c79d5518757d146096")
 addappid(3378272,0,"2ac31e231ae6e01d0aac9445124d742377fbf3ebd9a7e7d4d1a9d6118d251e9b")

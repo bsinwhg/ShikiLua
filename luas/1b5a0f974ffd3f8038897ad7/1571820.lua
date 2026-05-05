@@ -2,6 +2,6 @@
 -- update time: 2023-08-17
 -- app_name:  与女大生的同居生活
 
-addappid(1571820)
+addappid(1571820,0,"30cfc2787f9ef5462fa8206cc378a35260b42f625771d6d85ce04f5ec733ed65")
 
 addappid(1571821,0,"2377df26b7c9fa43a0cc970a08b1f87cac98193aa3c49ec12502b24472ae6207")

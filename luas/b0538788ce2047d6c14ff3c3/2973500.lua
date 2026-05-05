@@ -2,6 +2,6 @@
 -- update time: 2025-11-21
 -- app_name: Let's take a bath with Purin 2
 
-addappid(2973500)
+addappid(2973500,0,"d61014adf490b0c9777d290582cf68acc0dad1120f9497f77315e7a9e277e6db")
 
 addappid(2973501,0,"bd4257b868b65b6a4f8920cfb1df1c6af0ac26a8647e8928b631ab992d371819")

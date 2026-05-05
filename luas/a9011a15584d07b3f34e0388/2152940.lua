@@ -2,6 +2,6 @@
 -- update time: 2022-11-22
 -- app_name: 爆乳妈妈的淫乱寄宿生活
 
-addappid(2152940)
+addappid(2152940,0,"ee036ea74ef208a67566153dccd5b21ee696f9ebc7a3be122e7cac0f161cd9a5")
 
 addappid(2152941,0,"b6718585de07fb85b2d0e2cc0a479fc9cdbb8f6ff16d9c5443dd08821e9e879e")

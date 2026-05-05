@@ -2,6 +2,6 @@
 -- update time: 2022-01-21
 -- app_name: 黑夜跟踪
 
-addappid(1778950)
+addappid(1778950,0,"4c7587ce084b7af2e33fd6df558ef00cb8063f69f481a802beb6e02a634bb5a7")
 
 addappid(1778951,0,"a3dfa43b80a1d8ae71961c30b27b6473c63a1c6e7004c981ce0f3c069177da6c")

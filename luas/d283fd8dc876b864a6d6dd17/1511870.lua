@@ -2,7 +2,7 @@
 -- update time: 2023-09-20
 -- app_name: 末日竟在我身边 - Zombies Everywhere
 
-addappid(1511870)
+addappid(1511870,0,"3aa92f6143d961383571f2fda7360d6644f252721c3abbd44c1e372883bd6b01")
 
 addappid(1511871,0,"f9473cd6b4ef598db80dd5a61aa4a54296f25afe404edae01d330e34c70cce2a")
 addappid(1511872,0,"1b510ae57978e06772dec506ad6f774d7978ef5a58c2c4b156adf1881506b341")

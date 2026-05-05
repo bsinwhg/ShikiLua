@@ -2,6 +2,6 @@
 -- update time: 2024-10-04
 -- app_name: 扶她女仆后宫
 
-addappid(1828970)
+addappid(1828970,0,"9b64a6d5e198d588201a43431170d304715cf9de4d70de774c9f3001cca07027")
 
 addappid(1828971,0,"fe614635709ca46b4af8fcc18298f22e1642edbec58506a0d6e1ece13ca39f7e")

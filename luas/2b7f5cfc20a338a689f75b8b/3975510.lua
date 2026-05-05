@@ -2,7 +2,7 @@
 -- update time: 2026-01-24
 -- app_name: CYAN BRAIN 青之脑
 
-addappid(3975510)
+addappid(3975510,0,"9869fa745fa9f5866ec8f1dd4b4720306c4d0e5c8e8f6044acaf19b746238534")
 
 addappid(3975511,0,"a1bbbcf2b8771f1c4c286a07e143de31eba09b74be882c33eb28c9b41a1fbc4f")
 

@@ -2,7 +2,7 @@
 -- update time: 2025-04-25
 -- app_name: 失足女友
 
-addappid(2817390)
+addappid(2817390,0,"72562a9d8ab093317790cd292024e0827fec530a9fe34608631f7d8bee1a438c")
 
 addappid(2817391,0,"31e9a8bcfbaba2d6fd7cb5e68aec23fc35de27fb9ddf849e910eeb4c18fbe72e")
 addappid(2817392,0,"ddf805c2cfa330468e948bdb5e75e8da3cb314a8af22b9709d3e18680bf69b35")

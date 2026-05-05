@@ -2,6 +2,6 @@
 -- update time: 2022-08-10
 -- app_name: beat refle
 
-addappid(1947940)
+addappid(1947940,0,"feff7b01faa29be96a5396adb5ba382287065ba24d10e0cc0413cd2d14204a76")
 
 addappid(1947941,0,"807eaaf989173a205ed9f109d1f12b919f8e98a57b747d6a7722c8d7dc8f7462")

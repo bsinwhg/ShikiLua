@@ -2,6 +2,6 @@
 -- update time: 2022-07-29
 -- app_name: 反派千金II
 
-addappid(2017700)
+addappid(2017700,0,"80fae3e1be7ebc2b52bc10a5fc5442a2102e373ce82505786e5260ca493711ab")
 
 addappid(2017701,0,"0977e26baa12d7de3c9bbe3f500f310a4b22dac153d97db3ab9e075a1135da30")

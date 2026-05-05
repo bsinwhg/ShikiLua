@@ -2,7 +2,7 @@
 -- update time: 2020-01-14
 -- app_name: hot and lovely
 
-addappid(1189050)
+addappid(1189050,0,"47bd5ad96a4a336abf436b3a90f377b762966933b2ab8f5d7f1217dcb8ea7aee")
 
 addtoken(1189050,"1030010030236960674")
 

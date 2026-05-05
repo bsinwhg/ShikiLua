@@ -2,6 +2,6 @@
 -- update time: 2022-06-21
 -- app_name: Seed of the Dead
 
-addappid(958480)
+addappid(958480,0,"ac705898dfaa27427438188b367cc9d38ea115971a38386a8052c31dbb716900")
 
 addappid(958481,0,"c8d02a3f078c34721d045d369fb9c3885645666b815e0e9e957b73cfe9d9ef82")

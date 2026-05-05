@@ -2,6 +2,6 @@
 -- update time: 2025-09-18
 -- app_name: 我上了老妈的爆乳朋友
 
-addappid(3067200)
+addappid(3067200,0,"fee7999d5a9ca9b3d2b96520eccaac3f4dd22512e9a9e3c83518689a8def91e6")
 
 addappid(3067201,0,"af1b4380c9259b939315c7c6b35333788108a0385c930dd9451cf64f907ef6d0")

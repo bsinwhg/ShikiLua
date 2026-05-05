@@ -2,6 +2,6 @@
 -- update time: 2024-11-14
 -- app_name: 女潜水员
 
-addappid(2892310)
+addappid(2892310,0,"5d86a2beae1cbb0a99b3ad7ad61e71dc277e7b00cab063c7934b1ff837542ef3")
 
 addappid(2892311,0,"a7012073df3c23aa0bff820c99ca8f8092527f2bfad313cd09d7d3fc20d78066")

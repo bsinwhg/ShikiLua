@@ -2,6 +2,6 @@
 -- update time: 2022-01-24
 -- app_name: SEX with HITLER
 
-addappid(1849000)
+addappid(1849000,0,"816a4dc02ba6cd6ab4391c760014d74e1f713dea34865955a50fc0aed0b28e5d")
 
 addappid(1849001,0,"60f69dc6c86553a46cee8272fd7794764e8f6008077cc94056f5c4ea0498dd85")

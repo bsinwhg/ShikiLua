@@ -2,6 +2,6 @@
 -- update time: 2024-10-30
 -- app_name: 整个小镇都是我的受孕后宫！
 
-addappid(2552100)
+addappid(2552100,0,"fedf301c2a0ab0bb2989f4d42f71ec74553e91c9d78760593fc9db673ad9a5c9")
 
 addappid(2552101,0,"b6959139b382dd21b43f853c13207cdc70f6c78bc5e8572837025dbc2443de8c")

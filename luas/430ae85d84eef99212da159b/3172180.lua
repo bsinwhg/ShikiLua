@@ -2,7 +2,7 @@
 -- update time: 2024-10-12
 -- app_name: 性感可爱的淫妻们 XXII
 
-addappid(3172180)
+addappid(3172180,0,"732afb1a3581e6b7d05d7931468530fd7e54022609bb606c85b437bed3814020")
 
 addtoken(3172180,"14122366354563317558")
 

@@ -2,6 +2,6 @@
 -- update time: 2020-11-27
 -- app_name: NEKOPARA Vol. 4
 
-addappid(1406990)
+addappid(1406990,0,"1b251dec67aa3454039a85756ce0a541356db129d74674faaf2d08af37ea8625")
 
 addappid(1406991,0,"3a788925e3104dac2a37bd06c1889d4de6ed05d62e672b9f9283f07fd45e3f4c")

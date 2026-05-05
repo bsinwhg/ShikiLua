@@ -2,6 +2,6 @@
 -- update time: 2025-11-24
 -- app_name: Elysie
 
-addappid(4206890)
+addappid(4206890,0,"ac5a47881d7824f9d93e58f58ef20fef86d6b203a08361ea844597d50922d799")
 
 addappid(4206891,0,"88ddbd7a0946624f134007e626fa174bc69542aa9dcd50e2dff423ea3135ff77")

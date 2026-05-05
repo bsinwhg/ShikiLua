@@ -2,7 +2,7 @@
 -- update time: 2023-11-10
 -- app_name: PerfectLover 完美女友
 
-addappid(1181140)
+addappid(1181140,0,"ba4fce2b171321bb75965ace04706c86125fbf9c521ea596b4dfc6ba435ca169")
 
 addappid(1181141,0,"ec987ee5dfd51b9fcc2ac64d51ad4de16b43d25530ac3a49ed5f02225ba92a45")
 

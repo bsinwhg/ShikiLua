@@ -2,6 +2,6 @@
 -- update time: 2025-10-28
 -- app_name: 欲望21点：牌桌下的暗潮胸涌
 
-addappid(3418710)
+addappid(3418710,0,"c3ce46526e52758123435d9ddb6b88828717b8e9a64e58dfedc0d7181c4e96f8")
 
 addappid(3418711,0,"dce6cf8bd8a29bba8f85cc9b3db8317973e53fb9cae3828071d43f57887c33c1")

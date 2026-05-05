@@ -2,6 +2,6 @@
 -- update time: 2019-04-07
 -- app_name: Story of Eve - A Hero's Study
 
-addappid(928520)
+addappid(928520,0,"d1cf3d52b53f2c9c6bad82f257db678b81f3810065bc18d5f9a3e774c4f85711")
 
 addappid(928521,0,"b72390140ae74b7320cda28b268bdd6592333c4accad1db5372e74fbf897384e")

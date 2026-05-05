@@ -2,6 +2,6 @@
 -- update time: 2026-02-24
 -- app_name: 怠惰的怪兽公主不想工作
 
-addappid(1732180)
+addappid(1732180,0,"363a182e1d2d8c293a6a84db96d674f6fafbd7af7d7c7f31404a4d189b4b8c49")
 
 addappid(1732181,0,"ac0a1379869b405692517e125dc9c9e23e1f224072f1d174f90e75d667b85eeb")

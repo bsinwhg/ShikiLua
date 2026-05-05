@@ -2,6 +2,6 @@
 -- update time: 2025-05-08
 -- app_name: Magical Girl Clicker
 
-addappid(2142540)
+addappid(2142540,0,"45b53620381f07c66056f65df446f988257a88f8ae345de6bd77fca356aa3c37")
 
 addappid(2142541,0,"b7d204c004a99df32da2c3b321aba441ac3441bdbd2e72406374174c42b6efeb")

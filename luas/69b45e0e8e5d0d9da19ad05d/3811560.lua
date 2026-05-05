@@ -2,6 +2,6 @@
 -- update time: 2025-12-23
 -- app_name: 愤怒的鸡巴 Angry Dik
 
-addappid(3811560)
+addappid(3811560,0,"718d7b3bbf63f71e63b2d80c9d660044299cb47821dad4370a05c06d28cc1f38")
 
 addappid(3811561,0,"c4ecbe6a4f0507c44a8e64c974e06a632993630eeebf417450a6636f17efd8c3")

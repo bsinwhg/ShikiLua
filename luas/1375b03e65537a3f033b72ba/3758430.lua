@@ -2,7 +2,7 @@
 -- update time: 2025-11-11
 -- app_name: 潘多拉代码2
 
-addappid(3758430)
+addappid(3758430,0,"1c70bb2e8dbcfa9550dc5948053edf6018d0d8ea598fa4a2dc4abd7312b4f26c")
 
 addappid(3758431,0,"992c9cdf6370cec952371570839a5a66ecf215ce44b4b8239459936d27bb66d0")
 

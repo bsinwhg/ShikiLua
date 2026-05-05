@@ -2,6 +2,6 @@
 -- update time: 2025-10-14
 -- app_name: Whispers of Lust
 
-addappid(3503570)
+addappid(3503570,0,"dd0957b6b1e85f8a7494bb1b8e37618bffa40e113424c2d1547a2e5ae1b242c3")
 
 addappid(3503571,0,"e9f4158176b2ee3ef4b2e6094047c9fe1678e1d2111d3b8807b9063eedca4596")

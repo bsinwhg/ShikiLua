@@ -2,6 +2,6 @@
 -- update time: 2025-10-14
 -- app_name: With a VTuber Girl
 
-addappid(3849430)
+addappid(3849430,0,"48eb23b709d6a8bb2d179a561a457da67b0bf16e85a070ac01e9072302355400")
 
 addappid(3849431,0,"edfb94d431fd362df012078e1b25daf267a2108b14cbaf2d116ec39c7a355a4f")

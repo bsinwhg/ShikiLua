@@ -2,6 +2,6 @@
 -- update time: 2025-07-28
 -- app_name: 百合少女的日常
 
-addappid(3442040)
+addappid(3442040,0,"5c3a4f870fb67e1d3df345f5900e492953aabcf4e573fa278f6fd31292f3a58c")
 
 addappid(3442041,0,"e32be7205c393ad15198ebdd07964b3612a84c5c54871e864ca90bbf4cde39e2")

@@ -2,6 +2,6 @@
 -- update time: 2026-04-01
 -- app_name: 地球人禁止谈外星恋
 
-addappid(3714470)
+addappid(3714470,0,"df37f57ab9038ce00194364c0191f41e9749d8259a2acaa5598e19e31e95ea2d")
 
 addappid(3714471,0,"9212b3ad2b8c16ec5c0b81978c061c4ac7667d60a1c6b664e56a577facf97369")

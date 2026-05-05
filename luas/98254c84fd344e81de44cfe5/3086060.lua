@@ -2,6 +2,6 @@
 -- update time: 2025-10-27
 -- app_name: Date Banger
 
-addappid(3086060)
+addappid(3086060,0,"18bad6d8df6d00032919177a7ed31b3e72d3d6b585c327acd42df818104ff98c")
 
 addappid(3086061,0,"bca70a2e14a6c005cd9f488d8798f97e0e0936f239448bd04c0312de03f03ad3")

@@ -2,6 +2,6 @@
 -- update time: 2020-11-25
 -- app_name: Fantasy Tavern Sextet -Vol.1 New World Days-
 
-addappid(1372830)
+addappid(1372830,0,"80ae3da729c0cef4ca7195258a934ca8579c783647ea6f3215ac7a7a44134d25")
 
 addappid(1372831,0,"8fdc320d93c9eed491972c55a39c192ba9d7f2fa08b1b3b0cb56da7c84ee207d")

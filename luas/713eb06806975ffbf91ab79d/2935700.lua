@@ -2,6 +2,6 @@
 -- update time: 2025-02-14
 -- app_name: Cowgirl's Café
 
-addappid(2935700)
+addappid(2935700,0,"6632b16d454405d4f09f4ec70455101aed25d51f7259d1f542d8e5f522b722e7")
 
 addappid(2935701,0,"5dbd7021e3687dd34f292f0b229999b7d48b49d4de647f2a143e6464acc2075f")

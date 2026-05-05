@@ -2,7 +2,7 @@
 -- update time: 2025-02-12
 -- app_name: 深夜24时不来健身吗?
 
-addappid(2846210)
+addappid(2846210,0,"ff1d381fff6baf10bda7eccef9fe7179e62524ef411a367b693c867227665c9c")
 
 addappid(2846211,0,"faaf33604b93662ba4ff86b8a59b2371727aaa445c36f52baf33df3f5843568f")
 addappid(2846212,0,"0ab037cdeb8e7de550a318332762adb9239050cf9b9bc16ee8011809fcc1cf67")

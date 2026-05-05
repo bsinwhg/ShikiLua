@@ -2,6 +2,6 @@
 -- update time: 2019-10-08
 -- app_name: Sakura Fox Adventure
 
-addappid(1157640)
+addappid(1157640,0,"37547b7db493029a9f612768eeefee0be7f79c3bf4b263639db9aab38f3fda04")
 
 addappid(1157641,0,"2cdf397c4c1076518fdf6ffe6a99611c30802767ac36dad1918792c8a23d3b8f")

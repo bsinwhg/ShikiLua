@@ -2,6 +2,6 @@
 -- update time: 2023-06-09
 -- app_name: 绅士切切乐 
 
-addappid(1858540)
+addappid(1858540,0,"a7c576b6aa375484b3d1dbe410919f469219d1f23b59af3747aa0ac16d02d326")
 
 addappid(1858541,0,"82eb4708d698dc21e276a42a104924af1386d9a17dc7e10ef36f264cfb2fef67")

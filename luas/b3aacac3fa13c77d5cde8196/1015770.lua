@@ -2,7 +2,7 @@
 -- update time: 2019-08-13
 -- app_name: 深红之狱的女剑士 - 蒂娜
 
-addappid(1015770)
+addappid(1015770,0,"b7ef179764a4760ac58f39fc1195baf13e17a4c9fd456e7bf8b3d0225b1de79c")
 
 addappid(1015771,0,"01b24ac801c132dcc08a87efa9ca31c645add6aef79cbf0ac46f3623cf438406")
 addappid(1015772,0,"1efb2221e35b4c37f54ba72e87d88aca91e0bc0632e9941d68583691c908d50f")

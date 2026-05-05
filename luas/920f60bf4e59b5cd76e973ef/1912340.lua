@@ -2,6 +2,6 @@
 -- update time: 2022-08-08
 -- app_name: 雀姬的异想世界
 
-addappid(1912340)
+addappid(1912340,0,"1ec80451c06e3ed241ade493315e9974f4c24181fd0780074b66edf376fdf05e")
 
 addappid(1912341,0,"a5b6114a6aa109926ce762bd68809991b9fca762013cfb8cc17071bb3ece5792")

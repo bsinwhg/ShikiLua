@@ -2,6 +2,6 @@
 -- update time: 2024-04-05
 -- app_name: 我的美熟继母2:家庭派对💋
 
-addappid(2694600)
+addappid(2694600,0,"0ca10bc3011a65f2e317f0637f8e1ade0dd8cbf1f4e1e530d681ed5364908891")
 
 addappid(2694601,0,"19187d8d586b9780102d84a217b3614c25c65f76997a5fad73bb2cb409140ae0")

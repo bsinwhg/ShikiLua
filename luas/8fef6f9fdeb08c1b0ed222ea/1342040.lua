@@ -2,7 +2,7 @@
 -- update time: 2022-10-24
 -- app_name: Sylphy and the Sleepless Island
 
-addappid(1342040)
+addappid(1342040,0,"4d816fc6a4eb0a98930862284c36408059035d7756ba97927324700882c07e55")
 
 addappid(1342041,0,"6b28c4deca24e2deba9339633efc4549492c94ad835fe6ee9987aef298f4ff8a")
 addappid(1342042,0,"54d5a5400f0b3a4c2c320fcddb7a96273b47cc0be76d648ccb5f95bd2cc2968e")

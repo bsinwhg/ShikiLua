@@ -2,7 +2,7 @@
 -- update time: 2025-08-22
 -- app_name: 饿殍：明末千里行
 
-addappid(2593370)
+addappid(2593370,0,"7b0d21963019aae92eba5fe569581e19f6611a508423ddf61dadbc9bfb494e73")
 
 addtoken(2593370,"6738355291290611433")
 

@@ -2,7 +2,7 @@
 -- update time: 2024-07-27
 -- app_name: It was a human.
 
-addappid(2484160)
+addappid(2484160,0,"b47621797b1af251e654fba3fffa92a484cc097e45f7e4cbdae617a19a9f1920")
 
 addappid(2484161,0,"082865345ae6c65f949ce6bf5e67ae2b537cad7ca19ae22215b99f66abe51bec")
 addappid(2484162,0,"7dfcd9d8c72b4a18abcb49dce02dea896020fad1862cac0cc5e0eb47e540cf84")

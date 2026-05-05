@@ -2,6 +2,6 @@
 -- update time: 2024-10-16
 -- app_name: 翘屁美臀甜心老板
 
-addappid(3180060)
+addappid(3180060,0,"a288abc44b636d3a458c7ae3c8911f215788547e63af2ea43c143755ab410a94")
 
 addappid(3180061,0,"d1c2baa6997fc98e525070aa34d821f301ddb5316ec5caad00573a88517a1e0e")

@@ -2,7 +2,7 @@
 -- update time: 2024-06-25
 -- app_name: 打工人张伟和他不太好说的二三事
 
-addappid(2756390)
+addappid(2756390,0,"082e827ce1c91b66eeeaf699629ba172ba0c96660b5644fc63b07b81b8147f87")
 
 addtoken(2756390,"15908032074235449735")
 

@@ -2,7 +2,7 @@
 -- update time: 2019-08-22
 -- app_name: Super Naughty Maid 2
 
-addappid(1097880)
+addappid(1097880,0,"7b3ebad4ea9efab1d3eeaada975dd21062cdbcf202dc5cfb796850660b8d92bc")
 
 addappid(1097881,0,"a94133fb02a55c215056d3c37e72dc3bf5b16973af0b0d34aa0a4d2dfeb9de00")
 addappid(1097882,0,"83517665a6987c203bba3671f211876cc58f4ae58af7065b2a97ccc6bfaf17e6")

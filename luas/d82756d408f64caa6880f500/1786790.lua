@@ -2,7 +2,7 @@
 -- update time: 2024-03-03
 -- app_name: 魔法少女天穹法妮雅
 
-addappid(1786790)
+addappid(1786790,0,"711614526e6431e58dd9232d2c6b2a3e517e97f98ec4e426fdfc5bf70bd62f4c")
 
 addappid(1786791,0,"79653d61e87d3f733ec7273ea4efcd0e16a1cc36adf01917ead5a96ba3eb1a78")
 addappid(1786792,0,"645a031f716157475cabad4b564b2f14c7eca13542f1bdfab17bd87988f9ac4c")

@@ -2,7 +2,7 @@
 -- update time: 2025-11-16
 -- app_name: 我甜蜜的梦中的猫女 / Catgirls From My Sweet Dream
 
-addappid(1949000)
+addappid(1949000,0,"adbdb0c610d3130f843bd0b173fec565a5a24e55cb319595c1eb6632a17dce01")
 
 addappid(1949001,0,"2999728e2d4162ce626f1cb0b1b2bc5b77f62ab81699016491a067754498d8a0")
 addappid(2209920,0,"f014beaffc0d04aa66a37e5f4d7978a4e4678c2ca8318562748caa985a71d56e")

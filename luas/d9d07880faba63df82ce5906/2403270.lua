@@ -2,7 +2,7 @@
 -- update time: 2023-07-29
 -- app_name: Hot And Lovely ：Violet
 
-addappid(2403270)
+addappid(2403270,0,"7d35d0abe33c301737b5dd99a21145b48a83dcdaccf1858e552067e8bb33fcb0")
 
 addtoken(2403270,"95485299265960393")
 

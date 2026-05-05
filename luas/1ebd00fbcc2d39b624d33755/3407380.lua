@@ -2,6 +2,6 @@
 -- update time: 2024-12-26
 -- app_name: Leanna Quest
 
-addappid(3407380)
+addappid(3407380,0,"70ca3db4e1b378d154cabc164e44cc038f2e114cc0c18df3253da5e99bbad95b")
 
 addappid(3407381,0,"e562b604cbc7c5b8b066e7c41e0f01ee16569e27da50fc0b6e79fe326d76978e")

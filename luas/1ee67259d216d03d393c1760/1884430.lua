@@ -2,7 +2,7 @@
 -- update time: 2022-02-20
 -- app_name: Succubus Girl Story
 
-addappid(1884430)
+addappid(1884430,0,"40ca17a31dabbe5c6c2f149d9b402205097193da5a61178bb0517cdf440e077c")
 
 addappid(1884431,0,"1da2f62aebf57079977d249f8f8e9c544313f1978e315cbcdafab9f67be768da")
 addappid(1904920,0,"1989761c57f77aeb25c313d4d4e7af8c56aacb99bf25f906fb86ceeb98ee5650")

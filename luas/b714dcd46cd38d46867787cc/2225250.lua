@@ -2,6 +2,6 @@
 -- update time: 2023-02-28
 -- app_name: 龙姬混~日子３
 
-addappid(2225250)
+addappid(2225250,0,"cbf39afda3025c35e35588f6aa68678009af97e9ce00a93a1b220b12880c30f1")
 
 addappid(2225251,0,"a3fc2d7464275790f77dceee3125e52dea4c942e3d93e75058604fbc75e62bbd")

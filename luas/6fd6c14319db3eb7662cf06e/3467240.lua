@@ -2,6 +2,6 @@
 -- update time: 2025-11-23
 -- app_name: 在愿望终结的世界拯救你
 
-addappid(3467240)
+addappid(3467240,0,"dd6cb7f36fff98995610797c2c8ec68b6102454a02c3a3cad10e27a99a3d5071")
 
 addappid(3467241,0,"d10a145962ea47bffd2ea4b78ca5cbcfcdb77240f1d6af9465febce8cee04b9a")

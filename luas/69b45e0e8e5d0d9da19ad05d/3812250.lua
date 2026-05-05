@@ -2,6 +2,6 @@
 -- update time: 2026-02-05
 -- app_name: 无条件服从
 
-addappid(3812250)
+addappid(3812250,0,"15a7433beac69cbd77a1961460c80d204574dde614548b8e26a12cbdd3f155fe")
 
 addappid(3812251,0,"705692a9049745cbe6b849b8dbcf64f4b30e215ca89523457cda39b731f768b2")

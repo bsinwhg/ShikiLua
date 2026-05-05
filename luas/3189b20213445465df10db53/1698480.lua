@@ -2,6 +2,6 @@
 -- update time: 2023-02-24
 -- app_name: 性奴隶志愿少女 
 
-addappid(1698480)
+addappid(1698480,0,"c6732cdb8091028d0a5812fe834b61ca83867c390b32d6fff305972048da6a86")
 
 addappid(1698481,0,"fe729519dca0a21922206f7dd838622615dddb551429997e6eb43acfb5d28f7e")

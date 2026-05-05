@@ -2,7 +2,7 @@
 -- update time: 2021-08-19
 -- app_name: Kamimachi Site - Dating story
 
-addappid(989580)
+addappid(989580,0,"6f9fd9decde9965019389a833bb95d9f1a1fe7ab1756d82178e6d9dec5247688")
 
 addappid(989581,0,"443726899fd9176ec47c9d3d5a82530046ce8d3b343779130d4b8a5bcc3a2d11")
 addappid(989583,0,"edf8c5e87e3485471a5bde0bd8b0f4dbc4e45853b056996664115ec3e396d28a")

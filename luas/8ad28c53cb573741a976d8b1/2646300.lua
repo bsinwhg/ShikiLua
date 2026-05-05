@@ -2,7 +2,7 @@
 -- update time: 2024-05-17
 -- app_name: 姬骑士的任务 ~  安娜的奇妙冒险记 ~
 
-addappid(2646300)
+addappid(2646300,0,"f9193a374e0844779f370cf6bf9a77c592f849b0eaad6b9906ec36bc49341b78")
 
 addappid(2646301,0,"a7402c32159aa7631278bedea3ad78ffa3bad937d4d45ccf0b384b4469f52b97")
 addappid(2646302,0,"fd341bdb96bee1eba356ac6b77745f0995ae3e0f8290b475aef0d79abca4ec3b")

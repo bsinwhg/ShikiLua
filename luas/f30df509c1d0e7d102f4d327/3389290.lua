@@ -2,6 +2,6 @@
 -- update time: 2025-05-13
 -- app_name: Naughty Store Manager
 
-addappid(3389290)
+addappid(3389290,0,"e8a5a16245a0393c963b86d99110918538c7235b83ae084ced301269829e2750")
 
 addappid(3389291,0,"333c9a9fe0841737fda0d3de543f7f0d87cee426b8462f71bd6977de4809b63d")

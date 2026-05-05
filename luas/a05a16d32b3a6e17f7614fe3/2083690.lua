@@ -2,6 +2,6 @@
 -- update time: 2022-10-18
 -- app_name: universe_treasure
 
-addappid(2083690)
+addappid(2083690,0,"110d102fb10775cbd9a1ca0275b7a5f2b2a1cfe0cb2e57554220f913aec3e64e")
 
 addappid(2083691,0,"be2d8ff0fe2d8eebfb97b500cebfbf65d8beb53eddb6eb9172818b549950e142")

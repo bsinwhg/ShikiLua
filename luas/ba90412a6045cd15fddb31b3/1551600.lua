@@ -2,7 +2,7 @@
 -- update time: 2023-07-28
 -- app_name: 妮菲娅的试炼
 
-addappid(1551600)
+addappid(1551600,0,"4d5d7d83f2d8028e2326198feea7bc0b344ab6d8311b522478073d9b28d1cb6f")
 
 addappid(1551601,0,"beb80b28f4d5582fa9a601dab6592e94de32fe9b94c5e090ce2e7ada1180814c")
 addappid(1551602,0,"9dc0bcc68c45563a2fdbb860ab52f1fc4ef2eabb02832a9ea4860868643b0f9f")

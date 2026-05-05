@@ -2,6 +2,6 @@
 -- update time: 2025-12-10
 -- app_name: 毁灭之地的女王
 
-addappid(3862660)
+addappid(3862660,0,"a754072376bffe4e95103305a6b58daeca1b65812fabeda90eca4e00f51db75b")
 
 addappid(3862661,0,"822602771b01ae1457beac8b890a7441200068c5724afcefaefb94a6f2f33e53")

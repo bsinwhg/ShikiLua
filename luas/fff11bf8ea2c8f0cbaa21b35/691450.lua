@@ -2,7 +2,7 @@
 -- update time: 2024-10-03
 -- app_name: Misao - 2024 HD Remaster
 
-addappid(691450)
+addappid(691450,0,"ffdcd8afb4461f98510473d47d655f4dcd169a49724d494dc04193c46bc67d00")
 
 addappid(691451,0,"04aafd50f53e1eef0d6a4d24044acf18459466f5f43a9e5edc9edefe8549ae9e")
 addappid(691452,0,"a2a9ecef7a90d4dcb52abf5711470fc73168f3b55117e0f11ee628ed6faa5491")

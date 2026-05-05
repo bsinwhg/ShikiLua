@@ -2,6 +2,6 @@
 -- update time: 2023-09-27
 -- app_name: The Semen Donation Truck!
 
-addappid(2625700)
+addappid(2625700,0,"9996b90b85e8320ed87786cf6801fbbd8fe9fb44713363b50f6355bd1c8f43da")
 
 addappid(2625701,0,"b67a89a2ec50c34726b50b298d8f754c07f9544b7b846e4632aac93d5bb453d0")

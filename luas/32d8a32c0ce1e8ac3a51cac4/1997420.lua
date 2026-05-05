@@ -2,6 +2,6 @@
 -- update time: 2024-10-24
 -- app_name: 眼眸之城与梦境少女
 
-addappid(1997420)
+addappid(1997420,0,"7201beb0f3a831f40d97e7697ec5a5949afe7a19f3f43d1a678b38941eb64499")
 
 addappid(1997421,0,"ee9f16682ca6951c8fef80e3f483517ed8a475cfb4ec240611ce568a1cd76275")

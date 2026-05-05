@@ -2,7 +2,7 @@
 -- update time: 2025-10-09
 -- app_name: 小小梦魇 强化版
 
-addappid(2149010)
+addappid(2149010,0,"bd9d25a7ac48150e03c713d4a4f5d2490754b1e1b1f2ccc0b4fefd85224d663e")
 
 addappid(2149011,0,"05e1f184ed87ed48da9f886fc92f683a735242e8265dc6ff8a289deaeddc7ba2")
 

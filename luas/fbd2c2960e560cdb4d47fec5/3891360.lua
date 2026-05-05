@@ -2,6 +2,6 @@
 -- update time: 2025-08-07
 -- app_name: BunnyBarTalk
 
-addappid(3891360)
+addappid(3891360,0,"cc0d7359ba66bebe8fd8167e53f7bfbfc98b24b03415aabe607e868e8dcbd9bd")
 
 addappid(3891361,0,"eb726bb52f03b5b42a271ed362b15680a0a6897999915bc42a132ff2171fc289")

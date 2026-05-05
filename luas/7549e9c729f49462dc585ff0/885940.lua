@@ -2,6 +2,6 @@
 -- update time: 2018-10-30
 -- app_name: Meritocracy of the Oni & Blade
 
-addappid(885940)
+addappid(885940,0,"608f92f573b0e2377370226b211f47cccf92082f7ceafca77db9564b38236acb")
 
 addappid(885941,0,"8297c5dc050302f85d9ab6ae4936dabe453bc986ade531e01411885be45ba253")

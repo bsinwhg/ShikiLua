@@ -2,7 +2,7 @@
 -- update time: 2023-10-07
 -- app_name: Succubus alchemist
 
-addappid(2353470)
+addappid(2353470,0,"233fb6d18fa3cbd3fa250ceb6ce697e67f426002d5bc6bcd0e5eda63890b96ee")
 
 addappid(2353471,0,"79ad1f0334b4e36d4617a25c9eafce14af598eede4f7ef913ecf0daa7ccbdd76")
 addappid(2353473,0,"196f0eb3d44ee57adbc607a683f6365f033a77816a95b212dc7db30e892e3ad1")

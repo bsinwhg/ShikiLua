@@ -2,6 +2,6 @@
 -- update time: 2022-07-08
 -- app_name: Oppai Puzzle L
 
-addappid(2070830)
+addappid(2070830,0,"fe5a666de59d3743446ea93007b1e9337f537d9090b7f27fa692b2042b9835cd")
 
 addappid(2070831,0,"ac04b2541b868f90de36b8fac0d5bd6eae1942b5d07558ba8f6e03122075d2d5")

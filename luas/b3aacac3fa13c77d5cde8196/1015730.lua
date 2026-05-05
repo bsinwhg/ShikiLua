@@ -2,7 +2,7 @@
 -- update time: 2020-07-11
 -- app_name: 福音的使徒
 
-addappid(1015730)
+addappid(1015730,0,"ea345b8a114d54daadc7e8c050c87cc40af0d5f6a5cc8fa526542f949f0280f8")
 
 addappid(1015731,0,"eb38fc6679586ec2a747cea00a702131be17e2a1668be81aaa3c21ba3a140e61")
 addappid(1015732,0,"027091c42cda7e0ba30f5c0c93fbb7fd0be37121fb164ef38f76bc331845256e")

@@ -2,6 +2,6 @@
 -- update time: 2025-06-08
 -- app_name: 女神卷轴 - 最后的星光
 
-addappid(3677520)
+addappid(3677520,0,"bc6d8a040d82d519e4a33cfc26583ed45d40bd6f7262c18c229638ac2f39ba89")
 
 addappid(3677521,0,"bf357ca4e3236aa709136da7ff0e1b7427aabfe84160e582eb4aa4c1d0494c95")

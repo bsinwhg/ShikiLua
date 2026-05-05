@@ -2,7 +2,7 @@
 -- update time: 2023-07-10
 -- app_name: 盒子里的猫咪（Cat in the Box）
 
-addappid(1257410)
+addappid(1257410,0,"2c23122b4b45ff8c9a10627eac279d6bd158b5ec12b6d96b2c7e97fb059da21f")
 
 addappid(1257411,0,"a437b62908619fc1371274d6a55fb624d11c5e7282af4c02d82ee4fc3fa1a5b1")
 addappid(1257412,0,"507113d2dd169cb046f34a4e6a35b76df5e7e26f67cf45be8f5806b122bd8255")

@@ -2,6 +2,6 @@
 -- update time: 2022-12-22
 -- app_name: 我的巨人朋友
 
-addappid(2122360)
+addappid(2122360,0,"c4b6e46798b1c8a922ecd0b4de15f28cdc6114d644c3c2e18503356434dfa117")
 
 addappid(2122361,0,"d8eb8bd478366a8ab4a0818f2de9d438e286548fd94161f3f6ba0ad68c18697b")

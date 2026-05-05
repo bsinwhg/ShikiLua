@@ -2,6 +2,6 @@
 -- update time: 2023-10-30
 -- app_name: Tenioha! feat. 真美
 
-addappid(2552420)
+addappid(2552420,0,"f6c15fe358479379fa5fcb87d4e5c22dd10024a98f185eab83925a7128e1f060")
 
 addappid(2552421,0,"52a14f9120f9a4d4e6bcb63df9181596d9ce0168c3e68cd4d598aef3dd1261b7")

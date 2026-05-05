@@ -2,12 +2,13 @@
 -- update time: 2026-03-16
 -- app_name: Milking Mira!
 
-addappid(3049460)
+addappid(3049460,0,"0ddb05e9eded44f6fe4d8181d81b07c4f8ca3096b0e509a85230f05245620bc1")
 
 addappid(3049461,0,"d861a99dfd5210f1b9478097fd7e737640e1500b28485d9dae567387720882ab")
 addappid(3320570,0,"9aa73b7e3eba8229096c9ec01cfd9206d0dd1f1ec3ebde0724f0b1f231e45588")
+addappid(3737190,0,"0830d69091900391c94483867ca422c98ad6ccb453444a0ceaac0faf9d3202e9")
 
--- DLC: 1/2
--- missing DLC: 3737190
+-- DLC: 2/2
 
 addappid(3320570)
+addappid(3737190)

@@ -2,7 +2,7 @@
 -- update time: 2024-05-16
 -- app_name: Alien maze
 
-addappid(1631090)
+addappid(1631090,0,"b146c2702e83481075d332b7f8d4de09f7e3771e861ba93a9168ac60528c2c56")
 
 addappid(1631091,0,"c501d44b7e0cec0a4bcff457888ba76bcf2cddf752cb85cf2d09a63fef76fd21")
 addappid(1641280,0,"99d5f372fcc1708f952d48fe0d6c19c49d3749eac181222cd80457a3dfdaf2ba")

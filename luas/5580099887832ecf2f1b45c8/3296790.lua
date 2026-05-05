@@ -2,6 +2,6 @@
 -- update time: 2025-01-28
 -- app_name: 天之少女
 
-addappid(3296790)
+addappid(3296790,0,"645ce30bd4c13a42a9985c0254b0e8b64d6b5ba37b977c9f73ba121bfaf2ddad")
 
 addappid(3296791,0,"0126e59b12d307e4f79210e4b20eec8a4d13dbc80352156b731b6c63131e5a92")

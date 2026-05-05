@@ -2,6 +2,6 @@
 -- update time: 2024-02-19
 -- app_name: Asyula 方舟之链
 
-addappid(689070)
+addappid(689070,0,"a0ac830a30c7b065aa420894e683b2fb7be0a8d9cc30e2198e0dbd84876896fe")
 
 addappid(689071,0,"4f6101ccb22ccf7984a9e62f4b9e0052add2d04eec81eba8401ed6db8fa719a2")

@@ -2,7 +2,7 @@
 -- update time: 2025-10-16
 -- app_name: ISEKAI QUEST
 
-addappid(1268110)
+addappid(1268110,0,"eb96bf8ccd266ac4923cf983824264d88f60efefbe899e9852fda03808f05408")
 
 addappid(1268111,0,"2cc27adba9ed2e1ae7f47091e6f5d5cdfdcc1bcaa71aa027041b7e78d6ee3d4c")
 addappid(1398050,0,"54656e43d8581e493f460ebc845a9a1d073157e4b7e187638494b73384fa8b73")

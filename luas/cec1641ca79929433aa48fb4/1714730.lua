@@ -2,6 +2,6 @@
 -- update time: 2021-11-24
 -- app_name: 每一天都比前一天更不可思议
 
-addappid(1714730)
+addappid(1714730,0,"503e1f3f3e75a348e6cdf5fcd3469b320212dfde956adf4fbc8ae7c8b579bd5b")
 
 addappid(1714731,0,"7c9ab54dc4f32475b0762dfec3d38fd3203dc4bb76def1b133c500a107044af0")

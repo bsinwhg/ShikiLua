@@ -2,6 +2,6 @@
 -- update time: 2024-08-22
 -- app_name: 魔女秘药（witch elixir）
 
-addappid(1265090)
+addappid(1265090,0,"8564834c6aba8cfdfbd374abc50eeee1a65dbeec2ee27cdb2d048eb78feeeacf")
 
 addappid(1265091,0,"5612e22686a8e033a120d56e03296b891a15204ca9d60d0e76fb863ced13ecbe")

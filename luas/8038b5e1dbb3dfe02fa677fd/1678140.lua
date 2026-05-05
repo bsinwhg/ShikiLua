@@ -2,7 +2,7 @@
 -- update time: 2021-07-22
 -- app_name: Shades of Sakura
 
-addappid(1678140)
+addappid(1678140,0,"ab3daafd9d6d283c34f06f0ea25fed43e0f193ab649f10cd99a7c0834b1d3eae")
 
 addappid(1678141,0,"7768cb51f72f6fa4bee7fa9e4208d02b25c10f24d078cab93dad95be7a855f6c")
 addappid(1697260,0,"1eafdaaa41d4d3bd9c7b34430254803660e2b5782a9b242ab8b15a28d8116c51")

@@ -2,7 +2,7 @@
 -- update time: 2024-11-30
 -- app_name: 风流公子romantic young man
 
-addappid(2829600)
+addappid(2829600,0,"a7c69de64be0b432a0608faf32309af825bb5d8b72c951c4e7f2afdfe0cbe6c2")
 
 addappid(2829601,0,"fbb8036b1c4203d81c4daf47a7a87baa3c68150a3ab491f63a2f17457d95444b")
 addappid(2857950,0,"beeb055ff2710be8476cd907d1544ba338d759a722722ac3cab0cf2f61aaa95d")

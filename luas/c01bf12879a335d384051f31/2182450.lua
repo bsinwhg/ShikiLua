@@ -2,7 +2,7 @@
 -- update time: 2022-11-15
 -- app_name: Fairy Girl
 
-addappid(2182450)
+addappid(2182450,0,"3957e5c4a9cca9f60c489919eb598c3fd363950b9d904c3faf5abe7de506770f")
 
 addappid(2182451,0,"bf75f839ac5f112e0eb63b6f2187ed86e2e8ddd4a73fb6e4cdbd0d6e49e0e5a7")
 addappid(2191940,0,"9fd4101edbff309d222cf1b65f4a969288ed10797b28e22e2a04f0bad76ac82b")

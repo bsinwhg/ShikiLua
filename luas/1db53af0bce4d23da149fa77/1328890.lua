@@ -2,7 +2,7 @@
 -- update time: 2020-10-23
 -- app_name: 魅魔之恋
 
-addappid(1328890)
+addappid(1328890,0,"d0f4fe88a473d341ad8eab9b7e1059f85c7403387e344179a27ad6e240e7199c")
 
 addappid(1328891,0,"5d1f123be0b908623a2423c1af74ee4486879ffaf17e3fd29d6edd56aa6b778a")
 addappid(1328892,0,"01572888dba8edfac2e294c5e070b7ce87facd5a6a2dbb4b3dc8eee33cb398c3")

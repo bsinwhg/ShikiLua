@@ -2,6 +2,6 @@
 -- update time: 2025-10-08
 -- app_name: 体欲大竞赛
 
-addappid(3595490)
+addappid(3595490,0,"cd2c3207bfad8fa6fe715439f9264cf0c4e24551d9f20f054512de526203165a")
 
 addappid(3595491,0,"c0ff831e315de66207c0ea2aa6ef983aa858355c8bf7d4a34c3dc2b427ecc910")

@@ -2,6 +2,6 @@
 -- update time: 2025-10-08
 -- app_name: 卡琳的私密操练
 
-addappid(2698230)
+addappid(2698230,0,"be4a2e576483ce5623e0fd94f28496359c547725d551ecc8638a169fe7b01f73")
 
 addappid(2698231,0,"0c626efd397c7adc4e2bc44c5b2fb21318210b45317dfb72b970fba83b1ddee4")

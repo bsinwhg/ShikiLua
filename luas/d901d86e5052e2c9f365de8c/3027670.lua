@@ -2,6 +2,6 @@
 -- update time: 2024-11-20
 -- app_name: 破处了身为偶像的好友,做了类似NTR的事
 
-addappid(3027670)
+addappid(3027670,0,"673bd6918cd754a902e725b1379d2fb9d36d590c26d95490742b149489cc74df")
 
 addappid(3027672,0,"c5fd09f87869781bd32d8c78c8acf9e458a3e5e6b9a1a7c0a28b521e10be3c57")

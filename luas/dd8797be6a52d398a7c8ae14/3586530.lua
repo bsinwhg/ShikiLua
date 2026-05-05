@@ -2,6 +2,6 @@
 -- update time: 2025-12-16
 -- app_name: 【删减内容】：SexCP-069
 
-addappid(3586530)
+addappid(3586530,0,"cd6b6104d7d382f2481ca07cb1c1a1e867ccc49ddf23fc726c9d8183776b100e")
 
 addappid(3586531,0,"123b280cb963466ebe7e40e6c874c83a197df7738a3d61c0fbcb9f9d4ae3e6a4")

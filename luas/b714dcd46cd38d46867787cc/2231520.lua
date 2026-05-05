@@ -2,6 +2,6 @@
 -- update time: 2023-01-27
 -- app_name: Touch and Hypnosis ～ kunochi ninja Kunai ～
 
-addappid(2231520)
+addappid(2231520,0,"3ba5defd79b1644efc21568df5d0bc281aadee444457b6081a08449d301fa4f4")
 
 addappid(2231521,0,"0dcbece8905381f8579e76e6c860eced6215b9a11041cea9e4572fdecd2471a1")

@@ -2,7 +2,7 @@
 -- update time: 2025-07-01
 -- app_name: 圣女艾露娜与堕淫之书〜爆乳修女的色情使命〜
 
-addappid(3141900)
+addappid(3141900,0,"8444cbd3c01805fa87667acf4b59c05fc0d6938a24ddd0a622a6f05dfe8beb30")
 
 addappid(3141901,0,"3ca8abdfd3db93a319b9132c97664f4a930a300662ae1a5bfc93ddea581f9293")
 addappid(3141902,0,"0eb53395c49a4a930b50c69c66e45798642f39a1fbf29a4cb45c7cf39cc0f91d")

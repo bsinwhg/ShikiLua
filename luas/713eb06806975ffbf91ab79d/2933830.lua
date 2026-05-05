@@ -2,6 +2,6 @@
 -- update time: 2024-10-26
 -- app_name: Project: Stellar Girls
 
-addappid(2933830)
+addappid(2933830,0,"8d9959e9b680e11fdf4924613f684de77f906354e152a92c0d77a14be04f298d")
 
 addappid(2933831,0,"f7d5545342d172511ae46ca84228cc757b016972a30bc6b4aa1a2c354feab7cc")

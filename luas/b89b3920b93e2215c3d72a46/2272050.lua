@@ -2,7 +2,7 @@
 -- update time: 2023-06-22
 -- app_name: Fairy Biography3 : Obsession
 
-addappid(2272050)
+addappid(2272050,0,"67937aff8ddfdb09ed6f0a8193f6fa4b41a19301c2acd9636266d91c62f0c531")
 
 addtoken(2272050,"8658561014588585241")
 

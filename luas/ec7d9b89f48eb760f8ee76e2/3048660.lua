@@ -2,6 +2,6 @@
 -- update time: 2025-06-20
 -- app_name: 公主：东方与远征（Princess: The East and the Expedition）
 
-addappid(3048660)
+addappid(3048660,0,"04684d3869e785a0d30ba20a421a7dae352913da992f3ef8bba082c04326cc2f")
 
 addappid(3048661,0,"1d714d70ad4f5946e357c2cfb84c31ff09cd0c2e63327185202dff2aa5757fab")

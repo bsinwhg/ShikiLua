@@ -2,7 +2,7 @@
 -- update time: 2026-04-03
 -- app_name: Sexorcism: Lust Confession
 
-addappid(4039810)
+addappid(4039810,0,"c919c809e7a5ec6b85c91f83af45e6af21ed3fe665898d3858a7e36121fa8c29")
 
 addappid(4039811,0,"3098223c32b7d24fee9193e12c6cbfa8931ad41d09c088f6d0ee048cd510d781")
 addappid(4367150,0,"43c8ae2f3fd2556418f9be8db2d293fc07bb283f3e2741e36897c6ecaffb079b")

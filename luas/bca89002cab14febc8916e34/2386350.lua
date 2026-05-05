@@ -2,7 +2,7 @@
 -- update time: 2023-08-24
 -- app_name: 反乌托邦的掠夺者：The weakest go to the wall
 
-addappid(2386350)
+addappid(2386350,0,"d3adf146b8884d16b13aee6294287f5f61efda26bda7f49fbd9ae585869cbba9")
 
 addappid(2386351,0,"74264716fa3d8bb0877b4e4d622f575c66c469fa424c3ca948bc620eabb07627")
 addappid(2386352,0,"20543ecd2040f575df58191883ce6563a441cbe578f7195e392c962de636aac7")

@@ -2,6 +2,6 @@
 -- update time: 2026-01-11
 -- app_name: The Concentration of Lust
 
-addappid(1798870)
+addappid(1798870,0,"acbfaa721bfbda70fd219f0c37e40d6e3ae13dcb854a07dda6825e3cb623461c")
 
 addappid(1798872,0,"1084072fa874154c14c9a94d813f825b1a4e11cd059c7328b66400bcc1530187")

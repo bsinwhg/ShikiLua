@@ -2,6 +2,6 @@
 -- update time: 2025-12-16
 -- app_name: Voyeur Villa - Harem Manager
 
-addappid(2753260)
+addappid(2753260,0,"c73247a265f0589a59e819d457f9ee20d67a90a3fe00e580fa0667cd02d7e7e9")
 
 addappid(2753261,0,"0d36166c538c77da617a7706fa2a7e95e7ab2a74559ec5574df17f750f98cf6a")

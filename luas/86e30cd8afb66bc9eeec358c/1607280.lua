@@ -2,7 +2,7 @@
 -- update time: 2021-10-22
 -- app_name: 梦2：不眠夜
 
-addappid(1607280)
+addappid(1607280,0,"7f4af79eda34f5d20aa57eff87b3de871c8f02011f41799069b12e24e15e79be")
 
 addtoken(1607280,"7867552543293945867")
 

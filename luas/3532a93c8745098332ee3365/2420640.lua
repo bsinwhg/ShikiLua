@@ -2,7 +2,7 @@
 -- update time: 2024-07-17
 -- app_name: 圣天之泪：惨遭背刺的天使
 
-addappid(2420640)
+addappid(2420640,0,"d517902e3e41c1ad67f698df8f0e3fda67a50297e8784acb8313d5b393c5f7fe")
 
 addappid(2420641,0,"de3deb7b7b097b0f8a05567fc103947f985f07b22ed8c07103a61bd5f84f2caf")
 addappid(2420642,0,"e2d34ffeb8dcc0779f80678c28683fae6c39127e6edb8bf8c55f99af6d350937")

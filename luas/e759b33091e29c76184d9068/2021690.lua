@@ -2,6 +2,6 @@
 -- update time: 2022-09-19
 -- app_name: Sakura Alien 2
 
-addappid(2021690)
+addappid(2021690,0,"f8b33008f349f43b6387232559ea0bfe9ba1d53ae1b640c0198c43b55a2c30a6")
 
 addappid(2021691,0,"e329997a8d872fbe3894bd719b598446b24e8bdf78a27c0b4f3c108d2ad7a704")

@@ -2,6 +2,6 @@
 -- update time: 2021-05-10
 -- app_name: 努力工作吧 梦魔酱！
 
-addappid(1104340)
+addappid(1104340,0,"4c46617e64425e84d650291c3546dddad84d57759e529cb4dbcc852ede9457b5")
 
 addappid(1104341,0,"023f1d3fca0d4dbd646b329477b3909d31ae90f7608f1a49aceba59bf05acbfc")

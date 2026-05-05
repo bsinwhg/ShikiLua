@@ -2,6 +2,6 @@
 -- update time: 2024-08-24
 -- app_name: Lust Shot
 
-addappid(2975030)
+addappid(2975030,0,"a228728954c55c3ae0c9473f9f52d467932566cc507f6f6b0f28c8fe9926698c")
 
 addappid(2975031,0,"b5376faaa3dfbd3d5040efbdc7e544f751d540be86afa609955b5b8e4a254991")

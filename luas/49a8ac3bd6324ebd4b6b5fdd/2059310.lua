@@ -2,6 +2,6 @@
 -- update time: 2023-11-04
 -- app_name: 我与魅魔上司的同居生活
 
-addappid(2059310)
+addappid(2059310,0,"b5c5e543996ae1fe55667dcbf7a4a4084bb66d1e556d9c004b7692b4c8b56ac6")
 
 addappid(2059311,0,"ec8c19f17621a44e38fd9d2685d7da2c81a3614f2db4ba2df3bb78d2674da9b4")

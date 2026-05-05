@@ -2,6 +2,6 @@
 -- update time: 2025-05-21
 -- app_name: 被傻小子绿了
 
-addappid(2277300)
+addappid(2277300,0,"66c8b34c548ba07bcb15e87c9e0195fecd86f7e686f3afe2305dc1b422467eeb")
 
 addappid(2277301,0,"3c75a599c0b088d954bf25a00ad1c02918f2073d0ecb4e62d96c13ae27b0b191")

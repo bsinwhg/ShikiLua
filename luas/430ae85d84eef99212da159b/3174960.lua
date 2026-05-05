@@ -2,6 +2,6 @@
 -- update time: 2024-11-20
 -- app_name: 巨乳魔法少女之鬼畜调教
 
-addappid(3174960)
+addappid(3174960,0,"4e4f98d93dd115c9aef8843aa4950adc525fd2679533f4a188746bf69c15410e")
 
 addappid(3174961,0,"da1eb5f2d7ab67bbad2cd0768b2e9444504291fc157c90823123a53fb61658c0")

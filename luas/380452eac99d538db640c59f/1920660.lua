@@ -2,6 +2,6 @@
 -- update time: 2022-03-24
 -- app_name: 依依
 
-addappid(1920660)
+addappid(1920660,0,"739ac8c6d31ef0dc9c31f2dac01489d9341791a5bf85b28db796bab3ad1d3057")
 
 addappid(1920661,0,"d82b7b7767f2f2bff1030e6eaa9622da600997495ce5f2c66d999dd090044a56")

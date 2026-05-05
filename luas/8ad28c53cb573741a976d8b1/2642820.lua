@@ -2,7 +2,7 @@
 -- update time: 2025-06-28
 -- app_name: Hentai Stories
 
-addappid(2642820)
+addappid(2642820,0,"b7141dfe0102edf8db1eed4064eb01bd95e5027bc64e43e4651366b58c515bfa")
 
 addappid(2642821,0,"c4a8b7f6b8019817b6ce6fcb86624bf6ea1d976cfeac490b1f17c6f544af011d")
 addappid(3430220,0,"280149ac8a063c5ef08cfb592a699a092ec6ddaa977512503e7a6187931fd0ab")

@@ -2,6 +2,6 @@
 -- update time: 2021-10-29
 -- app_name: 微泳装×好色人妻 〜丰满肉体的情色诱惑〜
 
-addappid(1805250)
+addappid(1805250,0,"6401918741c36f0a5b0a09f7be39a88ac22f603dccf7e7ad86b2e0dc4b2ec1e7")
 
 addappid(1805251,0,"b7751c50cbc5574f6fd0035754152895356d04723d162db7ac185b6abf80f3d8")

@@ -2,6 +2,6 @@
 -- update time: 2025-04-30
 -- app_name: 昔日女校霸来我的按摩店了
 
-addappid(3122900)
+addappid(3122900,0,"fc66fa0607f31e76dec6d3d700067794e6f14fbcdceaf71f261c6fa6218098cc")
 
 addappid(3122901,0,"9dc10c99649df343d7e3a218ccfe2522e3c01c59de485cb279dff490b5f5e34b")

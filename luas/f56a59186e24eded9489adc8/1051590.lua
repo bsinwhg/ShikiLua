@@ -2,7 +2,7 @@
 -- update time: 2020-05-09
 -- app_name: Lulu & Ennoi - Sacred Suit Girls
 
-addappid(1051590)
+addappid(1051590,0,"01b4b26aebb0905291ed256f18f31e634ea559dcac3092003f9a938420b42762")
 
 addappid(1051591,0,"f808041c2ebda7f6d802932d9e6b2e4b73367c7c8ecbf1354372c206aa06ad08")
 addappid(1206500,0,"a10d3b12a668dc9ec4adcb6e2e537cc9d6677e09e55889c3c76b08a8b34994a9")

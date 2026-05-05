@@ -2,6 +2,6 @@
 -- update time: 2026-01-17
 -- app_name: 邂逅书店
 
-addappid(3902680)
+addappid(3902680,0,"ca8e92033ed04d88484dcb55cdaea074acaadcdfca96961df91fa62e73caf04d")
 
 addappid(3902681,0,"2717b294e458a5239306d8baebf15500f1e1a79cdc7dc2288ca80ffe1abd1749")

@@ -2,6 +2,6 @@
 -- update time: 2026-03-17
 -- app_name: 为战败的母猪骑士赋予诅咒!
 
-addappid(4001600)
+addappid(4001600,0,"dab0fe1578f80dd6fc847ad3a77a2daf771da27a4816346a7bfb1d5da2b50c66")
 
 addappid(4001601,0,"e1b70de2aa888a0823094c4ecd12e3e1d75f3d1740446e91894cb81eaf731da2")

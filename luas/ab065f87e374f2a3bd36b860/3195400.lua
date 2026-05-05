@@ -2,6 +2,6 @@
 -- update time: 2024-12-04
 -- app_name: EmyLiveShow: Case of Four Hot Witnesses
 
-addappid(3195400)
+addappid(3195400,0,"7297e2b6814eba73f5bc3778037c617c5dc0dc880d6965006d1316c8cd1e2033")
 
 addappid(3195401,0,"69b100e78cfac28b5d608e89ac1a5284ce0b1d882997c49afbac420509038c31")

@@ -2,7 +2,7 @@
 -- update time: 2022-09-18
 -- app_name: 堕落少女：焰发的玛琪娜与遗迹之城
 
-addappid(791330)
+addappid(791330,0,"cfefec37e4bca88e33d08472874ea07529c0f22e8018b299b742b23f822a0948")
 
 addappid(791331,0,"7b8bf6618f88974f48a18edfc3ed0b4779e9abc0a28887c9daeaf9c3f2aa30fe")
 addappid(791332,0,"ac70c31ba1a007f181507dda85639776e0f0ee77cdbd9e3a4cc59e09933e2909")

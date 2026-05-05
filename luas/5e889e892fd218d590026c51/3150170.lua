@@ -2,6 +2,6 @@
 -- update time: 2025-12-22
 -- app_name: God of Yoga
 
-addappid(3150170)
+addappid(3150170,0,"7fc91d21f8147f1cc5adad2839ee3b0598f98677f8ff73573d43d9bc03ddd454")
 
 addappid(3150171,0,"1228afe3f56074410817655808ddcf0e1952613b280d59b689864190efa81bb0")

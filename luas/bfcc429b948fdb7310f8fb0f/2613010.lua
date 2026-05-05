@@ -2,6 +2,6 @@
 -- update time: 2024-04-19
 -- app_name: 转录少女拯救行动！
 
-addappid(2613010)
+addappid(2613010,0,"b04de8c03c8a221153327233b396edbccfb3a8e5b638061254bcf9622642fd1d")
 
 addappid(2613011,0,"22f4812197ab3a7adaacf69a70e4d858eb85a8ee72387268e57be04daaf01a4e")

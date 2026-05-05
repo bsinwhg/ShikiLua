@@ -2,6 +2,6 @@
 -- update time: 2025-08-21
 -- app_name: 骑士团长怀孕了
 
-addappid(3000280)
+addappid(3000280,0,"4a927cfdde8f8c97e40678af34e8f02e26ab0cf65182b369b6de57819c6ceb47")
 
 addappid(3000281,0,"bba113a74795b652ee0f2167ea4e9e929a8b8e51345b5e44bae31ecc64ef92be")

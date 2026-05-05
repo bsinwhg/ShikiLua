@@ -2,6 +2,6 @@
 -- update time: 2026-04-16
 -- app_name: 外族娘！请好好保护我吧！
 
-addappid(3028830)
+addappid(3028830,0,"a03edba6f94e9c3b81fa281b261638e2948b8513eaee8793a44fcba66ad14e11")
 
 addappid(3028831,0,"17b6d8fa0a51ffee90b7d6ed8d56b674be74a7453bb8452f85b081a0f8d797cf")

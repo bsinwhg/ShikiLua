@@ -2,6 +2,6 @@
 -- update time: 2022-09-22
 -- app_name: Your Waifu JUICE
 
-addappid(2128750)
+addappid(2128750,0,"685ab134bdc3999592a5d36c9bc96d8aa844fadf3be0845d9ce916dbb12dd46f")
 
 addappid(2128751,0,"f0b83f48f9bf2d08e47b71249aa9811f4332af57139a9613ffea95b3387dba8b")

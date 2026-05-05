@@ -2,6 +2,6 @@
 -- update time: 2025-02-18
 -- app_name: Cultural Exchange
 
-addappid(3411080)
+addappid(3411080,0,"d26fdcff7556b4eeec2cbb7516bc9813282b71e53055332accd9ebc1d7348a22")
 
 addappid(3411081,0,"ad875fd47e3bcd0e190a05b29e764dc94e5a59c81eaad1f350bee4e57654d98a")

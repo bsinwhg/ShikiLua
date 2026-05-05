@@ -2,6 +2,6 @@
 -- update time: 2024-06-10
 -- app_name: Sakura Alien 3
 
-addappid(3022500)
+addappid(3022500,0,"86abd36da9dbf396be6ba730a12328c5de0a52382f18e47f693d737e7a7b7d8f")
 
 addappid(3022501,0,"aba8dcd345e6eb188bd36de1e1e1037e2f92589aeb975b48b7a7e065d6249546")

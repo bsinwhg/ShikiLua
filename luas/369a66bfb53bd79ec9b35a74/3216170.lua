@@ -2,6 +2,6 @@
 -- update time: 2024-10-17
 -- app_name: 魅魔的纵情契约
 
-addappid(3216170)
+addappid(3216170,0,"26256df2fea04bcca1865c749e3518c924bffe7d45a1490b560270a21e7ecda6")
 
 addappid(3216171,0,"67985d2f878aab60b3aac1295cf754ba77977d57688d8f197857060f6517b8e3")

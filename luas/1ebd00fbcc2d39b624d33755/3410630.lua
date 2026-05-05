@@ -2,6 +2,6 @@
 -- update time: 2026-01-08
 -- app_name: 永不枯萎的世界与终焉之花 - The Rainbow Appears After Flowering Rain
 
-addappid(3410630)
+addappid(3410630,0,"5bbf060e30f2559701b7382a073ec8d4f676131de1ae01696649787658870ebe")
 
 addappid(3410631,0,"53981c14f20e803a4fa666700ab51a4b87f6fffa4773ef7e97d6721c61b17c0b")

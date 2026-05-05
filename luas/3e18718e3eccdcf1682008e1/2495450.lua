@@ -2,7 +2,7 @@
 -- update time: 2024-09-02
 -- app_name: 冬日狂想曲
 
-addappid(2495450)
+addappid(2495450,0,"39746f016aa27eb5b7fe7791c09706fa2e25661d2c30eacb5cf398ec83c547d2")
 
 addtoken(2495450,"8113372692598700339")
 

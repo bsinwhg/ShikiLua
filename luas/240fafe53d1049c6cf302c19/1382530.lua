@@ -2,6 +2,6 @@
 -- update time: 2024-11-06
 -- app_name: 催眠！骚货女上司
 
-addappid(1382530)
+addappid(1382530,0,"025097ac569d8cc02d92d4b2d76f5dea25d06271553e422f35bfb70d159b5aba")
 
 addappid(1382531,0,"88845c47c20457253bc4651b0c1fe7bbf8544c9e65c2c7392c57958eb433e224")

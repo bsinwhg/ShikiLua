@@ -2,6 +2,6 @@
 -- update time: 2025-04-01
 -- app_name: StreamLove Voyage
 
-addappid(3009570)
+addappid(3009570,0,"19a4bda6044163fcc8bf002823c1d77263359458f8c6bcef6edf8fa1c5feecb1")
 
 addappid(3009571,0,"9e08c051e553d3b03896e4b10cc7f38e61d2cbfa2226b6dd04a028a05e418a58")

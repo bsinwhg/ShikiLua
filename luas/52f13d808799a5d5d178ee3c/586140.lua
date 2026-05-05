@@ -2,7 +2,7 @@
 -- update time: 2023-06-02
 -- app_name: BlazBlue Centralfiction
 
-addappid(586140)
+addappid(586140,0,"4bf84db94f54b179a00cb6141ac5e308588f9d5aa55b899cc618f8dd876f9d12")
 
 addappid(586141,0,"c99c2fc9ec1bf1a45fc4f91bbc02b59692e46294454be80955658b710f9659ed")
 

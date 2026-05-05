@@ -2,6 +2,6 @@
 -- update time: 2024-08-05
 -- app_name: Geminism
 
-addappid(1467780)
+addappid(1467780,0,"47eb4a27e9c8ad8340a6eda6e863d4924e2ea3269f132b8c7b71a31d361b0775")
 
 addappid(1467781,0,"99bdd46d11583e94604e031969f1b5d20d4484dfa4a9c2fd571453749f48d2b6")

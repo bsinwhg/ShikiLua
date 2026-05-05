@@ -2,7 +2,7 @@
 -- update time: 2019-05-20
 -- app_name: NEKOPARA Extra
 
-addappid(899970)
+addappid(899970,0,"4868fe01c94ad8b3b8a4ab83b87f61f0572b423ebd4eb7bbd1166baa2fc91d5a")
 
 addappid(899971,0,"a4d5d9b27ad9f7942a01fb69aa49a7864f74248ca2a03da836baf1a4824056eb")
 addappid(1088310,0,"ce6e3c20aa2d70971369417d89e84e133ea29f866b223d0417a60096df48a1ad")

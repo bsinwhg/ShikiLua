@@ -2,6 +2,6 @@
 -- update time: 2023-07-18
 -- app_name: 边境征服者
 
-addappid(1820050)
+addappid(1820050,0,"f67d3973994e0eabc42ded5ae7e065d77a8e080fc7883ee1624c8e4b165a0167")
 
 addappid(1820051,0,"7be4418a77385f68a45c07b1bf1871f98a04122b12697f9ed9e69d8f6fccccbf")

@@ -2,6 +2,6 @@
 -- update time: 2026-01-26
 -- app_name: 妖怪净化人
 
-addappid(2950350)
+addappid(2950350,0,"fdc4ed6def11810206149cba94dd6c0b56809ee87280e334c1ea011d1f5ae82f")
 
 addappid(2950351,0,"cefc8b4d5cb91b8959845f5d8ae7768f6ff1d7c1db15157de819ab84bdd74aba")

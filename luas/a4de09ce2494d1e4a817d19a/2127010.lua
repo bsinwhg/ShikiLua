@@ -2,7 +2,7 @@
 -- update time: 2023-08-11
 -- app_name: Handyman Legend 水管工传说
 
-addappid(2127010)
+addappid(2127010,0,"455b8cc7bd0af68016af0968e9adbedfaeab5e79c852dedd32d12e2f2ff72956")
 
 addappid(2127011,0,"ba74b9378234ce633438b260700a436620223cfa82eae6430bf1c27e9682eeb2")
 addappid(2346740,0,"bd695e7ca426eb597393d681bc252d5f761626dd9272ec44994406b90845a1f6")

@@ -2,7 +2,7 @@
 -- update time: 2024-12-04
 -- app_name: 帝姬
 
-addappid(1934930)
+addappid(1934930,0,"6891ab959eb3a0c5c12a6a2469a95fdc29be5803e78c4aaa8cab2dd1fefb94c8")
 
 addappid(1934931,0,"dfabc1288adf4975ed8739b4b7d31bd06394c5fce589e92b36ef346f3cc66fb0")
 addappid(2076370,0,"2a19a2ffcee93abb2193e8a510d564d4a2ac086d373284b28e3a3574d57e4a67")

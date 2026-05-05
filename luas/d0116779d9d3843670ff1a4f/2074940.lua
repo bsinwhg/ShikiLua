@@ -2,7 +2,7 @@
 -- update time: 2023-01-04
 -- app_name: 魅影炼金 ~西尔维娅的心跳都市计划~
 
-addappid(2074940)
+addappid(2074940,0,"fa142c64aa95689cbc5d91e8c0ceb46ded419bb05260f77a9763ca9a686a6df1")
 
 addappid(2074941,0,"f8445ef87be84f32f2ebecdefd0f0d2e9cc813a653f278a107c68bea9b6854bb")
 addappid(2074942,0,"de06357da75fab13c84ececb8dc921af1aabe546baec8e33b650b0bb61a08de9")

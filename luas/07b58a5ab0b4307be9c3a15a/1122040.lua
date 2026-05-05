@@ -2,6 +2,6 @@
 -- update time: 2019-09-20
 -- app_name: Kaede the Eliminator / Eliminator 小枫
 
-addappid(1122040)
+addappid(1122040,0,"fb5e25af19dea4414565c7cfcd656ce373ff280fbccb712bd133b3b03bd6963e")
 
 addappid(1122041,0,"3561b6e06a8bc926d054a11857d38b709215099bfd778955111fc446a4310d08")

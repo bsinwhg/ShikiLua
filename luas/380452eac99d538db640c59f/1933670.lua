@@ -2,7 +2,7 @@
 -- update time: 2022-12-15
 -- app_name: 艾莉尔的风月人生
 
-addappid(1933670)
+addappid(1933670,0,"df16f49ee4a7d8a3ea809cd4e8b7a4ce5c245b3d492b0a8e2cb6b36ff17e4431")
 
 addappid(1933671,0,"dceb885aa88b490ca0dd6dd95a46167539ac50f08f4a1ce5063399c73706b423")
 addappid(1933672,0,"a3306302abefdf6201c35436a0a6a8aabdc0f64d0902ddfbabd3ef901fd4247d")

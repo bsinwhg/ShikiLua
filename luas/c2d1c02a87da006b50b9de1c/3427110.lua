@@ -2,7 +2,7 @@
 -- update time: 2026-02-06
 -- app_name: 张伟和他不太好说的二三事 2
 
-addappid(3427110)
+addappid(3427110,0,"113cbe1898a690688563bf7f1ab50f89714dae506db8a2b2aaf1e2ee8baa4494")
 
 addtoken(3427110,"16681032175418277999")
 

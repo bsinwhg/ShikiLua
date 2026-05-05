@@ -2,6 +2,6 @@
 -- update time: 2025-07-28
 -- app_name: Hentai: Magical Girls
 
-addappid(2474970)
+addappid(2474970,0,"745213c1dd5894aecfd054cbb5415c7a8d075dede6a0040744248ed259623883")
 
 addappid(2474971,0,"dd09af7c9f4d3c7c8d0e111d261318884ccf8a0496c7881417e22ac0740f7a2f")

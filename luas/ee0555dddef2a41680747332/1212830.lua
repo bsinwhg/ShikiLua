@@ -2,7 +2,7 @@
 -- update time: 2020-01-10
 -- app_name: Seek Girl Ⅳ
 
-addappid(1212830)
+addappid(1212830,0,"7cbf532d6f70fa4c5119368b228668b7a65d4ae2198edcc755ec5c0a82d941b6")
 
 addappid(1212831,0,"f9c6622fbf4ebb28b3c3f0edbc2387fa23c963e73b509f5a87f90ae5b6628c69")
 addappid(1216160,0,"f19a359bb3e510aab4cee92792ecef9cc17fad2886a8d167425423291fc1c096")

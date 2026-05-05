@@ -2,7 +2,7 @@
 -- update time: 2023-04-13
 -- app_name: 苦主救世主中心 Ⅲ
 
-addappid(2307120)
+addappid(2307120,0,"d8f70d1adbc60af8cb596e367c0d89742a292b5fec5c0b0729c32f9bedee46eb")
 
 addappid(2307121,0,"905af712dc71051d3cc5f8f5696df4248e26e00cd6b05113c64799a11d74f374")
 addappid(2317410,0,"b341db8b1afc48b483dd5fdf5e61934f3b2659bfad9da141620bd2d1491db7e8")

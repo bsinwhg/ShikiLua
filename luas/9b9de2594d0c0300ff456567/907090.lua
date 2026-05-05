@@ -2,7 +2,7 @@
 -- update time: 2025-07-18
 -- app_name: 詛咒铠甲
 
-addappid(907090)
+addappid(907090,0,"f6a162814fdfdd825cb8d6405a9393f347ac0e4a93b6091a16db0097e9b6d74b")
 
 addappid(907091,0,"aa44172f0180e1376e0362f3f4d1eea850b824c74e050113a90a4400a157f38f")
 

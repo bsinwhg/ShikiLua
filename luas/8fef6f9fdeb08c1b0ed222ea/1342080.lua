@@ -2,7 +2,7 @@
 -- update time: 2023-02-08
 -- app_name: 大小姐x管家x魔女之岛
 
-addappid(1342080)
+addappid(1342080,0,"21dc7b475c9ec06b7087a7b1a0f2fe9ff85da3abe833eb02f03c9a74a538ad76")
 
 addappid(1342081,0,"3e1c34be016a5feca5b0cff31e314f7c590537779e57956fd3960f827302e3c6")
 addappid(1342082,0,"f768b3bcbd9a44866e22707efba567dae4a8b7f8e7539b57221f3e58008e0d4a")

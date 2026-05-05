@@ -2,6 +2,6 @@
 -- update time: 2025-02-04
 -- app_name: 失眠的羊与孤独的狼《外传》
 
-addappid(2947980)
+addappid(2947980,0,"92434b04173b9a4c2f379b6be7da69c993b3c269ddd5f4b7f8aa011a0c4013ca")
 
 addappid(2947981,0,"8ccb8cfad80106f401d220280c89bc81b14c19496e3dc12593a7e8047186c1c1")

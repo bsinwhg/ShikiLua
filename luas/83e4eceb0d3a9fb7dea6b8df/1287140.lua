@@ -2,7 +2,7 @@
 -- update time: 2022-10-05
 -- app_name: Sonia and the Hypnotic City
 
-addappid(1287140)
+addappid(1287140,0,"15e9a23bffd257367243e2ec40107cdde67883f2cdaba9f652db6c564f345d03")
 
 addappid(1287141,0,"5c886bf99630fb96a919951e9ef2ee396bd33378357d81f0eb1fbf118fbc6eb0")
 addappid(1287142,0,"cce6f1de50b26b5dd0b389450703d41d9bac1f597ebf3def907d45f7d7125b64")

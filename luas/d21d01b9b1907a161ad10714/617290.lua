@@ -2,7 +2,7 @@
 -- update time: 2021-06-24
 -- app_name: 遗迹：灰烬重生
 
-addappid(617290)
+addappid(617290,0,"29d0e36874d09b4958b1928d23614400cd5087d8bc04d0d5b61f04f413e115b6")
 
 addappid(617291,0,"a44b1e94ad062cd59177b19472b97fbf016a18c93db2c7ab52857728012fa6ce")
 

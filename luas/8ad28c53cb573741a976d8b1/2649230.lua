@@ -2,7 +2,7 @@
 -- update time: 2023-12-02
 -- app_name: Joy Life 3
 
-addappid(2649230)
+addappid(2649230,0,"b2d303ddf7994f83d8372c53920f7dc0de8bde18620c10a523a99734cf07580b")
 
 addtoken(2649230,"2631233876572416193")
 

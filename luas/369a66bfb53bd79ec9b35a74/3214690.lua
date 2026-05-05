@@ -2,6 +2,6 @@
 -- update time: 2024-12-15
 -- app_name: Chronicles of Delights
 
-addappid(3214690)
+addappid(3214690,0,"856d269ccd4eb338ed72f025ac3c5e95c8f4983486ada825f01dc919d771dc18")
 
 addappid(3214691,0,"c5b966679c899c3d1c8c2f134608174603966690e3ad92659f781101c0a3edd2")

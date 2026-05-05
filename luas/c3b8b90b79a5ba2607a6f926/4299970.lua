@@ -2,6 +2,6 @@
 -- update time: 2026-04-01
 -- app_name: 催眠OL后宫
 
-addappid(4299970)
+addappid(4299970,0,"db3b7089a9715b1b9f5a4efc6d369c745314bd2bbc5afd117bc046bdc90ee3a3")
 
 addappid(4299971,0,"35c364518040f6730117ea4a2f988d3aed383a167d336a886a68242f8feece1b")

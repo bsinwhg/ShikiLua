@@ -2,6 +2,6 @@
 -- update time: 2025-07-14
 -- app_name: NTR Massage & Betrayal
 
-addappid(3772880)
+addappid(3772880,0,"745004414bf055bfdc6d3eba83c9cbeba0f7da0196a9071ba62f605f1b589d45")
 
 addappid(3772882,0,"1a179401330f46b3b327e16659d4021415627b1af7907364e986d25daa4076a2")

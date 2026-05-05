@@ -2,7 +2,7 @@
 -- update time: 2022-04-28
 -- app_name: 女仆骑士艾莉西亚
 
-addappid(1815010)
+addappid(1815010,0,"ae81aa1b16a0ace344569b25924bbfb59b9f6af39bde447224ab6aa32d41ffcc")
 
 addappid(1815011,0,"24854a1318f2a74b4d76f4bcdadc3c8c5e386fb19515bc115215a0e6a5e62349")
 addappid(1815012,0,"88eac923267b988e18d4fc9613a59601b1e704ab8cf9ece400385c03ee7a49d0")

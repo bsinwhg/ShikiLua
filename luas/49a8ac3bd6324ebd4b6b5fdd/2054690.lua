@@ -2,7 +2,7 @@
 -- update time: 2025-10-25
 -- app_name: Captain Firehawk and the Laser Love Situation
 
-addappid(2054690)
+addappid(2054690,0,"1f1ec657b61d66be708d549a8ca96e14b57d71121e6c81fa0e092e98ce8b2043")
 
 addappid(2054691,0,"9eae1ff98817892668a0ecd1a577b0e87b68fa93e96d04fc385e48178227d4f0")
 addappid(3103880,0,"1c8d9bb507f945877934bbbc1313c8027cedf7e6f8ca0beecf00c0526aeaa277")

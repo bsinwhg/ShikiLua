@@ -2,7 +2,7 @@
 -- update time: 2022-07-27
 -- app_name: 梅卡妮可 -兔子与水星之谣-
 
-addappid(1558510)
+addappid(1558510,0,"468a91da3ce81a50a721bf73cbe3f360e78b5122cfea95ebed6fa810d5409baf")
 
 addappid(1558511,0,"02303acad4dfe666d380bc20e83c66948681daaf571b64a90b044665b9273e4b")
 addappid(1558512,0,"bff1b4370fb9ec9ae0eb83a433f68fd288f029beff93edae851d1be2a98391e2")

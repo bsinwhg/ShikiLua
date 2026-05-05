@@ -2,7 +2,7 @@
 -- update time: 2024-01-22
 -- app_name: 炼金冒险谭~材料当然是要自产自销啦~
 
-addappid(2657720)
+addappid(2657720,0,"d87cc1ea47e35b604a3073fd10cafd35678afd98fecdfba35e56c1fa38d5773f")
 
 addappid(2657721,0,"acd911734686b55c08dea6cdf20edf59c6d2d424d46fcda8e7e5103b3c71e8b8")
 addappid(2657722,0,"c87e2bb903956bd4d4ef4429661fb63cd4e479c162e11c69af4495d5e828ce64")

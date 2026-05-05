@@ -2,6 +2,6 @@
 -- update time: 2024-07-11
 -- app_name: Aooni
 
-addappid(2934190)
+addappid(2934190,0,"d5a7e38caba2b78929a2364cb8e08b0e1fe68266eedc9e11e52e20061468b902")
 
 addappid(2934191,0,"308e6b3cfc8029a8670bf0e728086143da69d3c2cc2a95a7b467ecafebbc2cd3")

@@ -2,6 +2,6 @@
 -- update time: 2024-07-10
 -- app_name: 筑巢华琳酱
 
-addappid(1552140)
+addappid(1552140,0,"2d140246cf1b0bd1a6cce27f185333d16945f9099db7fa3cf97f89abd732d41b")
 
 addappid(1552141,0,"e014bcb78d8d655dd13423c9529ec812454b845c31c78df9a9352da9a20ae00b")

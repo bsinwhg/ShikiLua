@@ -2,6 +2,6 @@
 -- update time: 2025-02-26
 -- app_name: 美少女專屬按摩師
 
-addappid(2676010)
+addappid(2676010,0,"3e08623d0ecabf301fd7f9e529551330980aa602ab165344b01912a04983f97a")
 
 addappid(2676011,0,"608fb8ef7d59fdb6418aeb453122e7a63dbc493f671052fcdf719e1000f639d9")

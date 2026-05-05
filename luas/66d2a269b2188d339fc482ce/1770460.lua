@@ -2,7 +2,7 @@
 -- update time: 2021-10-29
 -- app_name: Halloween SEX Party [18+]
 
-addappid(1770460)
+addappid(1770460,0,"d18e7993d29e84b31fb76bf63a500ff9e9e22fa7c2503c830d5588a4170ae57b")
 
 addappid(1770461,0,"9a231efaf62b84cba7b9f2cd65519cda79fc62ea8f171f8666ba5ce1edad647e")
 addappid(1804700,0,"14e968f4c4f0bc82b0312bdf5d49a490e252ea9812203f876c1d5a89747dabc2")

@@ -2,7 +2,7 @@
 -- update time: 2024-05-17
 -- app_name: Feet Paradise
 
-addappid(2973820)
+addappid(2973820,0,"228a1b14e3fab3441957ce526ddce4c800aec5f5ef3aeee8b4436c37e4030f76")
 
 addappid(2973821,0,"d22da2f1157c22cdb3bd7cfd4534673c726be2226f2f03e2afc9cf20f4e2063e")
 addappid(2990660,0,"bea9eb6b3a48f7882e52925a588ba0392f43c439a487eccaa7bf05acf6243643")

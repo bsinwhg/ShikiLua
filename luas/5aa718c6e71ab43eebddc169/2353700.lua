@@ -2,6 +2,6 @@
 -- update time: 2025-12-22
 -- app_name: 奴役的秘境
 
-addappid(2353700)
+addappid(2353700,0,"c68e9e4d503ebbb5154bb81723809e3f8e714dec55a6afe58bb0e2a7acb9f69f")
 
 addappid(2353701,0,"fb52003befaf17bcdb04d384abc7b94faf7ed07243c61d863339d925fb03b828")

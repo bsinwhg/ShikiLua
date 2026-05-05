@@ -2,7 +2,7 @@
 -- update time: 2025-11-22
 -- app_name: Doki Boki!国际变态语言学校
 
-addappid(2498010)
+addappid(2498010,0,"07ebd314e18a7d0bb2147e17e94197463dce53cef1d50b11a6f36928fbad6cd8")
 
 addappid(2498011,0,"559fc7c0531cf88e973d24d7f519bd578d5bd7150b83ebf52eb858a41d5afca1")
 addappid(2498012,0,"06008a7d8fd38b5e72653a22ce6b8b2024316bf846658511107f75060de5dfe8")

@@ -2,6 +2,6 @@
 -- update time: 2021-12-12
 -- app_name: Gamer Girls: Cyberpunk 2069
 
-addappid(1793840)
+addappid(1793840,0,"f03b18fa0e12627fc6ae4f2ef206543b0a923404b935e1379e41af7cc42c7313")
 
 addappid(1793841,0,"88e93f21665c362b6d16aab77ff23f2559ad10e3a1484d818f83815dd999cb1e")

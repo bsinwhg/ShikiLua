@@ -2,7 +2,7 @@
 -- update time: 2021-12-18
 -- app_name: Anime Zodiac
 
-addappid(1700940)
+addappid(1700940,0,"512f2b41b4ab2f7e13b8b51014744b3c63789824a597dc21aff15f085cc2df5a")
 
 addappid(1700941,0,"73cb6ac346b83d2b2bfda33f67ac6b222086615c60da94eee73dacc54d3cce46")
 addappid(1709200,0,"94bb70cd69bddf7d7e82744d870f5f63a13a29f6f13f3b5aaab687f9e6861dd6")

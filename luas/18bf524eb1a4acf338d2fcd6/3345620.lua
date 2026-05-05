@@ -2,6 +2,6 @@
 -- update time: 2025-01-31
 -- app_name: 从魅魔开始的异世界冒险
 
-addappid(3345620)
+addappid(3345620,0,"1199d50ad2c3eafc7bc165cf54dcaaea12c5491509c4fad0ef22287a14e146fd")
 
 addappid(3345621,0,"149acd67c537ff568756a08591ef2cd334c51d83e269bee597ba938e532d6aa7")

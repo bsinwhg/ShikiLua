@@ -2,6 +2,6 @@
 -- update time: 2024-03-04
 -- app_name: Fantastic Orc
 
-addappid(2672110)
+addappid(2672110,0,"457f9321cd64fdb91fcdc63e5088884ca64ffa83d4825b0430dec2ed197e6ede")
 
 addappid(2672111,0,"6c1ca96ec6c34de9c61078b9210bbdaa3cfc07a0a9083cab7b1db404c9805982")

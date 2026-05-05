@@ -2,6 +2,6 @@
 -- update time: 2023-04-05
 -- app_name:  我将服从您，女士
 
-addappid(2355670)
+addappid(2355670,0,"62406ae9f380eb40fbe5d5f4b384a53bc3828111b3743cc2291fa389eee33f66")
 
 addappid(2355671,0,"0850b7b3cd26751d0cfcd7828fac0db85717f4dbd66ff14740c541b57da9835a")

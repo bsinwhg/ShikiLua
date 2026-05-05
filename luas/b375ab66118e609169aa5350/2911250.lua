@@ -2,6 +2,6 @@
 -- update time: 2024-11-26
 -- app_name: 荒島 X 愛 X 求生
 
-addappid(2911250)
+addappid(2911250,0,"d4da66132caf42693b3f831bb4824295b332270173fd622963830f7ada16a5c9")
 
 addappid(2911251,0,"2deaa0dc47954277ddd7bd4c82c1656470bae5321e9435ef165f7c29bd08cbd6")

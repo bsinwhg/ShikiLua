@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: Love at First Sight
 
-addappid(353330)
+addappid(353330,0,"eff2a2690da57281daf4e95d228655bd34335d80766ea9446bea3c14d2c97357")
 
 addappid(353331,0,"aab077dd9b7830fb39e961d16fde345db4167e92ad715ede1f7e22b011a1e853")

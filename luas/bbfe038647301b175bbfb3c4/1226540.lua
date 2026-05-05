@@ -2,6 +2,6 @@
 -- update time: 2020-12-29
 -- app_name: Luster
 
-addappid(1226540)
+addappid(1226540,0,"37ed278248ef9aa20c9685a120a5569143dbd16c3573e80a903366ccd4e7425a")
 
 addappid(1226541,0,"22df1768aafb01f4d142f63623baddb5f7b112ab18c743007f10f67b9bde3a57")

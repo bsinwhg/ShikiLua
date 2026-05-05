@@ -2,6 +2,6 @@
 -- update time: 2025-05-23
 -- app_name: Re:从H开始的异世界生活
 
-addappid(1250180)
+addappid(1250180,0,"98c36bed74df1c00a161d9830806abcb0b0c8c00081de24b8a443064852f1caf")
 
 addappid(1250181,0,"8b031a0905c2fadce4743a8c16825bb637c4c1f030e2b70b5500d7e4a001969c")

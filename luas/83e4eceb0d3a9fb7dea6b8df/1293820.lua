@@ -2,7 +2,7 @@
 -- update time: 2021-11-11
 -- app_name: 你和她和她的恋爱。
 
-addappid(1293820)
+addappid(1293820,0,"c7fa034fbd3a170e52d3037ff58dee8d1c471246177e01601462b97f0ea7ab83")
 
 addappid(1293821,0,"1176da3dd5dff5613cc4a3ee5de01bcaa3c0bafaad5da05e5a3c677ddb5d8c43")
 addappid(1293822,0,"507af5d90a51c20c1cd90b867d9b4c918d262d20644d65e5021fd15816c141f7")

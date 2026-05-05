@@ -2,6 +2,6 @@
 -- update time: 2026-04-14
 -- app_name: Komadori Inn
 
-addappid(2789410)
+addappid(2789410,0,"ff3f0af42d15e4b2c54727b454eabb59df0066dd8c4c734210337d3034a803bd")
 
 addappid(2789411,0,"97b924ef34e279d63dc59146e5eaba413da0367b332dd2db539303fc04dd5ef6")

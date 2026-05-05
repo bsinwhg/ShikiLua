@@ -2,6 +2,6 @@
 -- update time: 2023-10-17
 -- app_name: 绮罗的淫乱人生
 
-addappid(1778290)
+addappid(1778290,0,"ea597feec453e75c43631e24fb173fb36cc81653b2c61f727ce2530eff94e664")
 
 addappid(1778291,0,"e949180ad74f9abb61c3d5ee5dca8bc7afd767ecd45f80d9382c1a8d4ceca5ef")

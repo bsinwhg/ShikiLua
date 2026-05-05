@@ -2,7 +2,7 @@
 -- update time: 2022-12-09
 -- app_name: Zodiac fantasy
 
-addappid(1995800)
+addappid(1995800,0,"4af7b29d2fc44a6295281d06c36237255f02f23327c217b844f3a517dbed4204")
 
 addtoken(1995800,"16096842377835192378")
 

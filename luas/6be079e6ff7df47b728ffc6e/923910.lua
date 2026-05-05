@@ -2,7 +2,7 @@
 -- update time: 2021-09-28
 -- app_name: Eve of Souls: Static Pod
 
-addappid(923910)
+addappid(923910,0,"55574e03bc9a83e2a3b254c6d4463651cc0242b461a4316020186559f811dac6")
 
 addappid(923911,0,"272435779785c5945c5253bda5400fc8019a339c5b283c512934aed8fc8ac43a")
 addappid(923912,0,"68b4b2b42e6abfb75b3c13b61c61c4fc78cbc26a6bbbdd6a2e72b74ba51d06f8")

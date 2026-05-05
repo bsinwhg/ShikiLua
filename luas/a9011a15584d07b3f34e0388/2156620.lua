@@ -2,6 +2,6 @@
 -- update time: 2023-03-12
 -- app_name: 未来广播与人工鸽
 
-addappid(2156620)
+addappid(2156620,0,"88ab3360b4b42124e0e09f94485a14e5d6b9e61d32a83dbee3151dc6f039d644")
 
 addappid(2156621,0,"a08bee15ef9084adf1203812efcd66f5b48824b889b6093d38f9f38e77e3bbe6")

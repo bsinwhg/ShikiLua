@@ -2,7 +2,7 @@
 -- update time: 2022-08-17
 -- app_name: 奥尔格的復仇 ～征服的旗帜～
 
-addappid(2004980)
+addappid(2004980,0,"669e82ff35afb07f7610b84840b535e9cb06fcbf370f6b60170f2e52be059ab4")
 
 addappid(2004981,0,"d1138d32d95ba841c50130bc0477e60e9063ef80aab37c90996e0afe9dd1fa3d")
 addappid(2004982,0,"c5fa56a9b4e5950207b2a81d072184815dc2ca9fc3dce8bd89f40784cf03c3c4")

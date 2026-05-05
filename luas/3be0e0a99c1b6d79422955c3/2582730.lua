@@ -2,6 +2,6 @@
 -- update time: 2023-12-21
 -- app_name: Black Smith4
 
-addappid(2582730)
+addappid(2582730,0,"03a31b99bb956f1300c57b48f729b4e4edacabd3e8c925b542f06983840bdecd")
 
 addappid(2582731,0,"77487f1c9d19a0eaaa485565e988f527de6d9772e9b4f80e5f64804ba6573a3c")

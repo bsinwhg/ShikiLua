@@ -2,7 +2,7 @@
 -- update time: 2023-01-11
 -- app_name: 转生到RPG世界将NPC给…
 
-addappid(1809250)
+addappid(1809250,0,"69b0b684e848af7db9b43262132fd52a18a9a381456b6efd6c6eb5082bbd456c")
 
 addappid(1809251,0,"c28e018e2ab34c8ce960cc799e585ca75b9669cebe4b1aa669dd25b57c545d9e")
 addappid(2264720,0,"0fb85f534ef82c4e9315e00a865a30efbd499e2d8c55f31233bbe2b87f734a33")

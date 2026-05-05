@@ -2,6 +2,6 @@
 -- update time: 2024-03-12
 -- app_name: 少女理论以及周边 -École de Paris-
 
-addappid(2567190)
+addappid(2567190,0,"fee7a969bfed75e65b6a078b76336bd0d5cc5043d3e6caa4da693cbacdb66e90")
 
 addappid(2567191,0,"a71a45a360848e611f022091211a93de8eec0f97cbed756582db6aeca510cc3e")

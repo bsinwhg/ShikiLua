@@ -2,6 +2,6 @@
 -- update time: 2025-03-19
 -- app_name: CHARMING HEART
 
-addappid(1985680)
+addappid(1985680,0,"56584a8868a31c284fb77b0ba697e010d4dbbac3f91b7be5418fbc7dc0bb70be")
 
 addappid(1985681,0,"eec4381ef2b77611f5cccdebf9bcfc96350e5746a97012537dea91977167a69e")

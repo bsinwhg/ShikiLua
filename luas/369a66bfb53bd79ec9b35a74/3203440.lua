@@ -2,6 +2,6 @@
 -- update time: 2026-02-22
 -- app_name: Tales of the Moon
 
-addappid(3203440)
+addappid(3203440,0,"0aa7b0fb5106039fc960f8d6554ff389b3649752d8b66edcedf5d51fe7756659")
 
 addappid(3203441,0,"256e14177ea492931e14bac1c96941e54e81be712efce2de7f98067c452ed405")

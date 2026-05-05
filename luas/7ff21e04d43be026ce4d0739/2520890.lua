@@ -2,6 +2,6 @@
 -- update time: 2023-10-11
 -- app_name: 丘露库酱与色色的实验室
 
-addappid(2520890)
+addappid(2520890,0,"72f72269d538c9fd4fb2e4217d25d91b38cad9bdbe724a6eed96d7a76df9f9e2")
 
 addappid(2520891,0,"5ca71c57e45588826954bd23ef9e030034b34383133c5d9791b9f6c411949b6a")

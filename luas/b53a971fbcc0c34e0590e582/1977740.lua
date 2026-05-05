@@ -2,6 +2,6 @@
 -- update time: 2023-06-08
 -- app_name: 妹的圣域
 
-addappid(1977740)
+addappid(1977740,0,"4b489e5307f71e6799900b1af7275f7056f9cbeb9652593f3c8e60a55a1b7858")
 
 addappid(1977741,0,"e5bba55019ded21b8e14dfc2a768239cdc7fd5ba11bd35f21668b4b7516ce18d")

@@ -2,6 +2,6 @@
 -- update time: 2022-07-07
 -- app_name: The Legend of Bum-Bo
 
-addappid(1148650)
+addappid(1148650,0,"40c263439278b641709f2bf1aa464963b56399720f4364d8a774665cbd6d4548")
 
 addappid(1148651,0,"0361f8c703f261c61a120fa9cfb3dbe199e54a6f18e5c23db49f39769d2941ea")

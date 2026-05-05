@@ -2,7 +2,7 @@
 -- update time: 2026-01-20
 -- app_name: The Book of Outcasts
 
-addappid(2849180)
+addappid(2849180,0,"0ce850be28e3e6595ebb9545f70afaf584d019832b35e41fc9068dab3842963f")
 
 addappid(2849181,0,"8be30c6cc16cc6665ec4f52ad28a6f297c8e3bf7ec677eb2c5e416ff59313ccf")
 addappid(4071761,0,"21cd453fe0c9ba47b2ab5dfbb18ee017446d709d2d86bd559ca422203889dbd1")

@@ -2,6 +2,6 @@
 -- update time: 2025-10-13
 -- app_name: 《远方：涌变暗潮》
 
-addappid(1570010)
+addappid(1570010,0,"cedde43b832cfab45e82b1af3f6a8b643396cc18a43fc9f90f6437f5b30aa193")
 
 addappid(1570011,0,"f3aa74143ab21ae7aed97c2ac67b8c6510b94a84a41f44157671da176d86303e")

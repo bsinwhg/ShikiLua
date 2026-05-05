@@ -2,6 +2,6 @@
 -- update time: 2025-08-18
 -- app_name: High Stakes: Hot Nights
 
-addappid(3928770)
+addappid(3928770,0,"6f2f65a518f39959ebd941a4e98fbbfc86e5dbe8c6ab2f670990d9fa6428ca3a")
 
 addappid(3928771,0,"50fbf27b9cc9adeca0c9118047c67ee050a38a317e37499de0d86308c7f26667")

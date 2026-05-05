@@ -2,7 +2,7 @@
 -- update time: 2025-03-03
 -- app_name: 台湾恋爱物语⁵
 
-addappid(2976870)
+addappid(2976870,0,"65d959c02e466d8416422c5a65f358a8dbf83da9fd60d06663001b084185f4a5")
 
 addappid(2976871,0,"dd7f2fcca7b54c05fbefb4870fbc60e3b2534bb47180fb21efb6e0da183b62d4")
 addappid(2982461,0,"a1d18026a7276941fdc62c6e6c0abc9181a3a5e8d1fb6ce57c2b974a6704ecb1")

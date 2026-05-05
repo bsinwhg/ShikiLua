@@ -2,7 +2,7 @@
 -- update time: 2023-11-01
 -- app_name: Choose Your Cutie
 
-addappid(2638150)
+addappid(2638150,0,"549e0f093114d78f43e87a8ab6e91c3a61ed42957d7f51e5a9dc59889fb7d34d")
 
 addappid(2638151,0,"bc94f39cfe042e25b20fc650a0230c67d5f7f1e295c6a3f116c816b8a93a732f")
 addappid(2663080,0,"6fac0601ba53aba18c4d2c52c58fa0618fd19aad82a8c65e3acfcaf6b09a3f96")

@@ -2,6 +2,6 @@
 -- update time: 2025-08-20
 -- app_name: BDSM 绿洲
 
-addappid(3432600)
+addappid(3432600,0,"cf963ef77f33ab76729bffbf934d63007e16f7a21726dc07a3db2e41118f0efd")
 
 addappid(3432601,0,"de15edfde8f805bf22347f5e677530a1becf00728e8933e95b7391e1483b69f7")

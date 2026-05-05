@@ -2,7 +2,7 @@
 -- update time: 2019-06-07
 -- app_name: The Afterglow of Grisaia
 
-addappid(464490)
+addappid(464490,0,"d4e69d81d3ef95f77509a233778388c8157fba7acc32e063a87a8c53ce0e5d31")
 
 addappid(464491,0,"5c4a517abfe1cfb88d272ffdf071a0bf825bb1a1faa11375d28e91ed2d2939c7")
 addappid(464492,0,"7aa1d5bfc0599cf7559e25179e5287782b994d80bc22478166a1a0b23147df3d")

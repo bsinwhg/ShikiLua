@@ -2,6 +2,6 @@
 -- update time: 2022-04-28
 -- app_name: 罪人之籠
 
-addappid(1936450)
+addappid(1936450,0,"2abc7974a2b425d0aeccefda9f47c10680e770df7ea42549a87a57eaac3cac00")
 
 addappid(1936451,0,"94e1de9ed3addf6a9f2012bf86599da6242ea0ebd42f8d44a9bbe0d212207240")

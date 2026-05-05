@@ -2,7 +2,7 @@
 -- update time: 2024-09-18
 -- app_name: 新婚妻子库洛艾的堕落之路
 
-addappid(2951780)
+addappid(2951780,0,"eec293eb76923efe702ca2ce5a55cd5b92e304fa99fa9f18a74de09755158ad1")
 
 addappid(2951781,0,"e623cd4f90bcfb324a392717849a2bdfea209e53a7435f90dbfa2b1e446ce44f")
 addappid(2951782,0,"e6725a3db39ed07d6830baab4e52bfaea4f7f9320920bc6b3b30279012c5c5ba")

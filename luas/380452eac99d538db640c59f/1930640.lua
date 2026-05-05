@@ -2,7 +2,7 @@
 -- update time: 2023-04-23
 -- app_name: Lost2
 
-addappid(1930640)
+addappid(1930640,0,"b9c7df29bcaf92f1f2bc1683018c4c892b78ba9c4eabd04a6ca7892f1c1be095")
 
 addappid(1930641,0,"34f2dbe198f377a668be963d6f33f0b8302368cdd4c052e1fd66a7934369845e")
 addappid(2104360,0,"f7da9d575a1f5096eccb03a231a1fb12710fe9ce7c2a0d809da42e6228acdbfe")

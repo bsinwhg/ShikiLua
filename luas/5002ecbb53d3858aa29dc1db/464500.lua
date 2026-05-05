@@ -2,7 +2,7 @@
 -- update time: 2019-06-07
 -- app_name: The Melody of Grisaia
 
-addappid(464500)
+addappid(464500,0,"07aebf2d80018076632c1e04eca2db637c25d62f0a0e5b2c3f1f6f83a9a30eb3")
 
 addappid(464501,0,"7ce97ef67887df9cd3b52c66077fe4c847e1e88c362c9690f3c1311712b81052")
 addappid(464503,0,"23fcfffe60744fd5e6ca37c68535a991eff7c08628d048fcae1648c70054bc69")

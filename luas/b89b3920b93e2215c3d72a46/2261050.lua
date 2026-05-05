@@ -2,7 +2,7 @@
 -- update time: 2025-10-03
 -- app_name: For the Queen
 
-addappid(2261050)
+addappid(2261050,0,"eb773a684f9dd93cc1c180c8365f010fdcff00d6f1a85dc0756a030f8e33debf")
 
 addappid(2261051,0,"a1535ad514a50c3d97428c97bccc22c05317da6c05238b2ed88bb045a236789b")
 addappid(2478570,0,"7e7c2e5033dd3cfa8892b739c7e3bfdd87e92f515c5cf515d35205fd32092866")

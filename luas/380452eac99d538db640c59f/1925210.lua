@@ -2,6 +2,6 @@
 -- update time: 2023-05-23
 -- app_name: 艾丝缇拉的遭难：被封印的异空间和魅魔的诅咒
 
-addappid(1925210)
+addappid(1925210,0,"d54260b35fa2ca2f2192b45074fd30b11c6338fa399d2b222ecc1643f08d1616")
 
 addappid(1925211,0,"49c5cb0e9dfa972091133552ae4ae894bc03f69a3674ff434642efb2f6f69e1d")

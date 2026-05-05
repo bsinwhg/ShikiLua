@@ -2,7 +2,7 @@
 -- update time: 2025-07-11
 -- app_name: Unrailed!
 
-addappid(1016920)
+addappid(1016920,0,"9a03020befb09ea1474f400fab1f448ad3be517aa84fbadb7b36dfb8be09fd83")
 
 addappid(1016921,0,"b82ffaa19bdd8d11584b97453a59514dff8b19275df764530fe0b4ff903d307e")
 addappid(1150940,0,"d7ead7d64b81dfa09d9e5dfab17ff7688f3cb0d9e5a2d0d7ec4ee733f44fd86b")

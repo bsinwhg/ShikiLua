@@ -2,7 +2,7 @@
 -- update time: 2020-10-25
 -- app_name: Adorable Crush
 
-addappid(1266800)
+addappid(1266800,0,"05f4bb45124c5f11b66e9a9fa704c5a5e2c994121618bdfe23e906bfd9a198b8")
 
 addappid(1266801,0,"4ef1b0a2f158c7be05d8931db1f56fcd106c126b082d1ee3fdb383cf16a899b4")
 addappid(1368920,0,"ad68647e0a401a6af4e3c2f4659cdb4fa639cd77d35a11e8466880a24471e687")

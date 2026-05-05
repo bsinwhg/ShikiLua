@@ -2,6 +2,6 @@
 -- update time: 2025-10-23
 -- app_name: Magic Pussy: Chapter 3
 
-addappid(3172300)
+addappid(3172300,0,"b804a5f5367811e054c5e851d339348354c0593dd61ecc750493f4dd13dbc5ca")
 
 addappid(3172301,0,"78e7a5917141f1c5a02e91c716aa160abd35662933e00f8b5031fb00fd9f3d4d")

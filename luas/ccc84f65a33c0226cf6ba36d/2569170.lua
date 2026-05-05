@@ -2,7 +2,7 @@
 -- update time: 2025-08-28
 -- app_name: Widow in the Endless Labyrinth
 
-addappid(2569170)
+addappid(2569170,0,"164efcfc0e17ab6bcdb12a76485176cfaf55b049739b2544922cddaf083c2b2d")
 
 addappid(2569171,0,"cd5c3b74c8e2190b60abe41eae05d939b71066c3b908b89152b30109f18c0091")
 addappid(2612980,0,"93e39b173a6efd367a5de0055e62abddd1305f423b82fc12989ca2911fae17e4")

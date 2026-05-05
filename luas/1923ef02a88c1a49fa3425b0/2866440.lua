@@ -2,6 +2,6 @@
 -- update time: 2025-04-02
 -- app_name: Lily’s Labyrinth of Lust
 
-addappid(2866440)
+addappid(2866440,0,"b2588570a42955f22ded082676d1ffef7b425774844c0f834cc5c89c274248da")
 
 addappid(2866441,0,"72efb7fe79c1a54168b510a4895ad5b3326dd92d86846cb6b7a1c45fdfa6ab27")

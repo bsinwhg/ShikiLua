@@ -2,6 +2,6 @@
 -- update time: 2021-10-25
 -- app_name: 催眠学习 —Secret Desire—
 
-addappid(1788100)
+addappid(1788100,0,"35a16e6afe19b04be3fd2f131887c780631a22f3c6b570d00f0759e6d508b8b4")
 
 addappid(1788101,0,"e4d856a9bd00b91530103247f866146a05fc9ccc7a3a2df03dfea9e794c8fa9d")

@@ -2,7 +2,7 @@
 -- update time: 2019-09-10
 -- app_name: Catherine Classic
 
-addappid(893180)
+addappid(893180,0,"b26ddba7dac5b12b084ff3d49de512fa6383b315c54912ba9dad2df02a1b35d6")
 
 addappid(893181,0,"fb859cb2119e43c326bcbd6cebcc8295d19dc46bda4c89b1689ebb9a5533470e")
 addappid(893182,0,"2bd7675876f35e778037e9749f8696e41f2a2d469b231ac7adae2fecb815fcc6")

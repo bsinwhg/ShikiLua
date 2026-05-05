@@ -2,6 +2,6 @@
 -- update time: 2025-06-27
 -- app_name: 隔壁的女主播
 
-addappid(1997410)
+addappid(1997410,0,"dc8fcc87c53cb5691f355bf5037a47d2b1d716979c83e8fd388eca28875cef38")
 
 addappid(1997411,0,"48e66757e1b8e6f413ed8a2cd1ae1744d2f6d6c9eecf7eb5c2d3c18948c6b1b3")

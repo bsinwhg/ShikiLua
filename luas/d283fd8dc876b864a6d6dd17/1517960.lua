@@ -2,7 +2,7 @@
 -- update time: 2022-02-11
 -- app_name: 重生之老王馋我身子
 
-addappid(1517960)
+addappid(1517960,0,"96105d4e429b6f56622cd03b1c54d330cc811cde43ab1e913a56e6c6b02f1ec1")
 
 addappid(1517961,0,"88b603a7ec975fc86c50e8191631adbb54d2c555d9c925d002951efb27882ab0")
 addappid(1761550,0,"71fb70da9c5bdf4e0fae5f4d93afb2d847b89ed437b0006ec25679adfce05778")

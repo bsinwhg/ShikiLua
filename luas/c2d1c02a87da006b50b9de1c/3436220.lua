@@ -2,6 +2,6 @@
 -- update time: 2026-04-22
 -- app_name: U.F.F.C 天下第一色色武道会
 
-addappid(3436220)
+addappid(3436220,0,"9b7c1231de97d2ad9407a88290598de05a9ad6747d85df5e25c2bc8b0dfd89e3")
 
 addappid(3436221,0,"4e94a97c2aeb2f0be9dbf2e75964423dab7b8d47f3a481155a533cc676bdc047")

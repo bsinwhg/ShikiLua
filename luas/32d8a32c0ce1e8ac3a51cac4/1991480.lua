@@ -2,6 +2,6 @@
 -- update time: 2022-06-10
 -- app_name: 异世界与兽娘姐姐的做爱生活
 
-addappid(1991480)
+addappid(1991480,0,"028030083bbc1883f8c8c76a65fa51bd18754b523c384230214b8a377ab5944e")
 
 addappid(1991481,0,"b22af03c24c62a847c39ec79235d75ced624cf4f20d3b646ea5cdc4bf369180c")

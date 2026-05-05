@@ -2,7 +2,7 @@
 -- update time: 2026-02-14
 -- app_name: Tricolour Lovestory
 
-addappid(668630)
+addappid(668630,0,"6fa764fc78c04527ae1be0ee743ba7327131b1d4ba42708e28a6fefcd328a728")
 
 addappid(668631,0,"66285e55d48667e66d2696fdafbce312062ab74f2c02e2ade8b955586286fa49")
 addappid(668632,0,"95bbdf0e27d2eeeb904b464f44a5eea43153415ea185edb5f176ec110617ff68")

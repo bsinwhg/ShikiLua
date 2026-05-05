@@ -2,7 +2,7 @@
 -- update time: 2024-08-12
 -- app_name: Fairy Biography 6 : Revenge
 
-addappid(2937990)
+addappid(2937990,0,"b2183ff0ccb0d09a7de7343645f8b76fb8aef78dcc0c5c4d4c928aae68d93952")
 
 addtoken(2937990,"8330584138730603847")
 

@@ -2,6 +2,6 @@
 -- update time: 2025-10-20
 -- app_name: 鲁蛇穿越异世界 - 征服世界前得先征服可爱妹子 -
 
-addappid(3733830)
+addappid(3733830,0,"c08427398734b025dd4f7e53f18ef686ed10b74e1d73cdaa5a3842cec189ea31")
 
 addappid(3733831,0,"fb674707986a8805d1f858625d6af8b1f821d550f98b12bdd1ca909f7b63c5f2")

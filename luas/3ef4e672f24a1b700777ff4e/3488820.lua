@@ -2,7 +2,7 @@
 -- update time: 2025-06-17
 -- app_name: 一墙之隔的淫声浪语 ～某一天，隔壁人妻的叫床声变成妻子的声音～
 
-addappid(3488820)
+addappid(3488820,0,"b1dcafbd36a296336b851e03904526630d8f85e035351d10bdeae43f05d62861")
 
 addappid(3488821,0,"1d4eccaa84ae7d7be47048e438fd504940c6f0ec122e18d04675554263db0194")
 addappid(3488822,0,"544032a5728c25da7d4395ff22896c57ef95d09c9a2c87a0dc9d41de76a0c944")

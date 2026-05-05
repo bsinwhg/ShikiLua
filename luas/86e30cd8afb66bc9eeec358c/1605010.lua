@@ -2,7 +2,7 @@
 -- update time: 2021-06-30
 -- app_name: Adorable Witch
 
-addappid(1605010)
+addappid(1605010,0,"13b64059dd9d9c3b4eb05ac0f53297913585d168247a6ef854a32ac0dca31167")
 
 addtoken(1605010,"5200592344285365592")
 

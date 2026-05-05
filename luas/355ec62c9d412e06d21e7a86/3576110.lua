@@ -2,6 +2,6 @@
 -- update time: 2025-11-19
 -- app_name: Memories with You
 
-addappid(3576110)
+addappid(3576110,0,"98bedf7fb450887bde9ee316ebfa5f1a56797720033710f6246d4bb1e6f1e902")
 
 addappid(3576111,0,"efee0008d8e57ac365472a15e8a3762cdb30a4bdf244bfd1087240378498fc3a")

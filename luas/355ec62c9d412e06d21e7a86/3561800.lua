@@ -2,7 +2,7 @@
 -- update time: 2025-07-23
 -- app_name: 勇者被宠坏的奇幻世界RPG
 
-addappid(3561800)
+addappid(3561800,0,"ebeb8e332129fb47c3dd580785035db36872ab85d80cfd7b6fcf8851476dcd5a")
 
 addappid(3561801,0,"985b29b4f586a79d82562dc2f56a76aa4f8e34265a431856f4e437bcf3abcc68")
 addappid(3561802,0,"e174cca35c4fec9973346dc5bacecfb603fb5d82f44177a5deb006d5ee738d1e")

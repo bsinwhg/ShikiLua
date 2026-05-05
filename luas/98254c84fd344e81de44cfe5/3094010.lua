@@ -2,7 +2,7 @@
 -- update time: 2025-03-03
 -- app_name: HENPRI
 
-addappid(3094010)
+addappid(3094010,0,"4a88f17c15c7d93d3934b18b3c5a3a5c28339caded5f40b98663cb5cc472e825")
 
 addappid(3094011,0,"870fc4fb313c4a09499c296edacbb27e74a1661e8b4afaed8647a29f1257bed5")
 addappid(3094012,0,"bdf32d10ab2ac7314df070a9922132b900c7380ad8deba4ef1c8f8169c8c75b9")

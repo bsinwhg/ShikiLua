@@ -2,6 +2,6 @@
 -- update time: 2024-09-25
 -- app_name: TOKAI Girl -Block Breaking RPG-
 
-addappid(3001920)
+addappid(3001920,0,"777d062ca7a7fde5b5f810d2775bbaff3a6fbc41357b39798d3c04395ef9c8ab")
 
 addappid(3001921,0,"e9d2782af891eec389985b0df74a34046a397fdafb4426cc1669a3d5aab731ca")

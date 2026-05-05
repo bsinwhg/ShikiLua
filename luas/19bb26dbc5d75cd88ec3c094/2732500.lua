@@ -2,7 +2,7 @@
 -- update time: 2024-04-22
 -- app_name: Fairy Biography5 : Demon
 
-addappid(2732500)
+addappid(2732500,0,"ea5d2c9612670ee89a7e06cc51d17f28650edc40ad750e38e9f39e76bb9d8e0a")
 
 addtoken(2732500,"12729111086451149811")
 

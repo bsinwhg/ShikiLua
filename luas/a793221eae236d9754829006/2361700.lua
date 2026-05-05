@@ -2,6 +2,6 @@
 -- update time: 2024-10-29
 -- app_name: 宿星的女朋友 ―destiny star girlfriend―
 
-addappid(2361700)
+addappid(2361700,0,"8411e5aa07156ed75634d2ef1abd85bf2c453bd9cf5b060f4063cf90d3bfd6fd")
 
 addappid(2361701,0,"509a000db18a96cee8bc893aa1de7432e25c0e8c16761ee86bcedccd26a66124")

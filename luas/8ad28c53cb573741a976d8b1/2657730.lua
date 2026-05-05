@@ -2,7 +2,7 @@
 -- update time: 2024-09-09
 -- app_name: 黄金之境-埃尔德兰特-
 
-addappid(2657730)
+addappid(2657730,0,"ea9020f72a4f3061d1e6815ddf203cd32a19c7fc14c111050ff4fc1abd67386f")
 
 addappid(2657731,0,"b977def85b5b15d27cf0da82a0168e6fb4aae33b47537b680f29882a3bf05038")
 addappid(2657732,0,"0825babdd4f657359e30a1b20fc2f7fd84d5f3068967aae50b497f6a42043abf")

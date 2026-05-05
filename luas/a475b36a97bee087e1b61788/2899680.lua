@@ -2,9 +2,11 @@
 -- update time: 2026-02-20
 -- app_name: 孤岛奇缘
 
-addappid(2899680)
+addappid(2899680,0,"437f3141edd8c01766f93186586b6e3f43807c9b618bc2c848bff4837d128373")
 
 addappid(2899681,0,"cbd4ba1aefb8d1c285946ac969136fe0a51c282edc2e251afcdd8c607da9a59e")
+addappid(4298120,0,"a30e64ba3bb3db2ba72fe984d0791fe35818186bb60efea7c064bcdbd3379bf6")
 
--- DLC: 0/1
--- missing DLC: 4298120
+-- DLC: 1/1
+
+addappid(4298120)

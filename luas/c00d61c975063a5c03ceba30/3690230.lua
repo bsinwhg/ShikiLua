@@ -2,7 +2,7 @@
 -- update time: 2025-08-16
 -- app_name: 一夜风流
 
-addappid(3690230)
+addappid(3690230,0,"30d2c590ff8243f8faf6279e859fd8f1850668b96cd2e7f6b1a04398e29fe86d")
 
 addtoken(3690230,"16276796269226567515")
 

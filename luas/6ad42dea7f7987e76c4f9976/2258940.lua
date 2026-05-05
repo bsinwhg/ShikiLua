@@ -2,7 +2,7 @@
 -- update time: 2025-04-25
 -- app_name: 魔导士小奏的扶她地牢探险
 
-addappid(2258940)
+addappid(2258940,0,"8d96c6d31b357dd4f9d49dacf148721231ef4bfdc009384a1815b99aa153fd39")
 
 addappid(2258941,0,"5805a1def56eab7e486914754f6c6318441c2ad0dd9c0ef0dafc76a6e52e6918")
 addappid(2258942,0,"4a4ed1de702ab3ecc759d28be263c036c8399cfffb72fd46884e3c055060dafb")

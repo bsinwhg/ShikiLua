@@ -2,7 +2,7 @@
 -- update time: 2019-12-19
 -- app_name: LiEat
 
-addappid(373770)
+addappid(373770,0,"514611604468096bf6342b4121a4c5fa8fdcab952c21642adee505afbb7fbb22")
 
 addappid(373771,0,"73e94c3a643ec03b55b07d0f77d1dcef1788bf07de180e11c1629bede38dab8d")
 addappid(373772,0,"2cbcd65f74d892ab604efa760d2da7f194f03a4fce4833103a44fe5d3812b4d3")

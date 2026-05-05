@@ -2,6 +2,6 @@
 -- update time: 2022-06-23
 -- app_name: AI爱诺-机娘育成方程式
 
-addappid(1477810)
+addappid(1477810,0,"9397c8d139144c1f38437430fb9bca161d5c9ab1078437dc4ae13b035c4b8fe6")
 
 addappid(1477811,0,"8acef614beb01a64522565b1a05fa7eb1f000ed6fa3bf68139ead0ff0cb53f64")

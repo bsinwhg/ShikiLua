@@ -2,7 +2,7 @@
 -- update time: 2023-05-05
 -- app_name: Level Up: The Gamer Girls
 
-addappid(2350380)
+addappid(2350380,0,"84214dcb77398fd525932d8073dba8d20cc2619885385d4266933ba3423bc1fd")
 
 addappid(2350381,0,"452de2864e199190c358ab1e837f5648e1d521f64c434ad1cb295abaeb3ce531")
 addappid(2369260,0,"d2c7279325caee42acd9adf9b58377aa80e7984258901c2a3a9acfbdef878e0d")

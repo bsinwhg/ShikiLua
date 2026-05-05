@@ -2,6 +2,6 @@
 -- update time: 2026-03-31
 -- app_name: 性转契约与痴汉少女
 
-addappid(1997440)
+addappid(1997440,0,"9c8bc52997b9c2a72b59e4e1f5a83f5693fbd1d1541d187a5e3434318926074c")
 
 addappid(1997441,0,"a53ad650c50d0f9d4198980c0bf47e48f5b44f5663cd9695ef2cfe0da7be9ea7")

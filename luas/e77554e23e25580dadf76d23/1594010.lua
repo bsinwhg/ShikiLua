@@ -2,6 +2,6 @@
 -- update time: 2022-02-27
 -- app_name: Noah and Blackmagician
 
-addappid(1594010)
+addappid(1594010,0,"d9ca86d79c95782ce8fee4c1f3f68851d261a0ef231dcc7829da5324e51408b1")
 
 addappid(1594011,0,"35a9b2ba6e7ff36a414229b15a01b104f7558dc067619405cf04a450983f1d58")

@@ -2,7 +2,7 @@
 -- update time: 2026-02-28
 -- app_name: Foxy Tales
 
-addappid(2609490)
+addappid(2609490,0,"212b7fe8406c2574fd1f53b7da6f46fd1bd8effbfee5a934104514c34f79850a")
 
 addappid(2609491,0,"faaeeae7ebc51446d2fa3ecbbd62ddb299e21eef8eed49b6bce5efb19522e1ed")
 addappid(2628630,0,"c33fd12825f838c97079053612a16783adb06b22e72bca90a505cb488e776411")

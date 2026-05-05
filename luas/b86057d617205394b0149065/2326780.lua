@@ -2,7 +2,7 @@
 -- update time: 2023-07-21
 -- app_name: 全裸徘徊的女子大学生~害羞的椎名酱
 
-addappid(2326780)
+addappid(2326780,0,"92a32f1d11e7382cf2d5d8d0b63e55680965486248d8c2392fb072e9bb4f3fe6")
 
 addappid(2326781,0,"e9e24a44e634d4a0aa306cbfa8583fe2d9bdb1badcd95218e3f6b4e8d2c1d48a")
 addappid(2326782,0,"8408076fe482e7e1a2523ba6eeefaa556e2fec6fe45f91134012c5dff88897f1")

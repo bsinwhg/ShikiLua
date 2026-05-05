@@ -2,7 +2,7 @@
 -- update time: 2026-01-14
 -- app_name: Countess in Crimson
 
-addappid(1455070)
+addappid(1455070,0,"010903e50b630316fdd18df4bcc979229b086358a5cea1f18c6ee85c55ce7491")
 
 addappid(1455071,0,"859051ddbff2bdd55f81b830d8a1a8e5c689f8bae2a0ec1d121e2aa1a2759a18")
 addappid(2718880,0,"445b6759599ab33ea309b566582932fd0dc2d59f88bbc5f657a89277163de3fb")

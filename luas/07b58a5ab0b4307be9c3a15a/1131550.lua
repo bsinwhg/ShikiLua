@@ -2,7 +2,7 @@
 -- update time: 2020-12-14
 -- app_name: 末世孤雄 Vol. 3
 
-addappid(1131550)
+addappid(1131550,0,"7af16d5547be04bfc58de1b9f97dfbe484edb6b4dfd87fe928f1d3c3c21effb2")
 
 addappid(1131551,0,"4804501f7b21605d1c423dc05366fb39aa60889d06535a529dfd4786211302c1")
 addappid(1131552,0,"f535aa556d7cb4adfea67a6705b92ab3c9578e0b3106cad6393954aaf09e67c4")

@@ -2,6 +2,6 @@
 -- update time: 2024-07-31
 -- app_name: Long and Hard... Summer!
 
-addappid(1770600)
+addappid(1770600,0,"833452f4f81464ff0f7d889289b144cfdfd0b96da0412aa16a8de0f788e75e2b")
 
 addappid(1770601,0,"1511a10b29c673a116079523099650cb316d1e66d0b817641711bd8e2c6ed2d5")

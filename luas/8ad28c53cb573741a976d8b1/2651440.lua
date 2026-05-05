@@ -2,6 +2,6 @@
 -- update time: 2026-03-23
 -- app_name: 堕落精灵·芙蕾雅
 
-addappid(2651440)
+addappid(2651440,0,"5a6cc18e8981f0acc6ce5a648dd400db0653ae3b26969a38a15a290d09b752f1")
 
 addappid(2651441,0,"9f20b1b76e295cdd391c66998004ddd2c8ebaa8777e96a4b5c067ef1a38bacb4")

@@ -2,6 +2,6 @@
 -- update time: 2021-07-02
 -- app_name: Island Diary
 
-addappid(1559760)
+addappid(1559760,0,"de0c69f97c3b83f313191e9c4a4f6f0b14ae45562d12dc7fd690f193febeb10a")
 
 addappid(1559761,0,"4b89cbe93c57aaac3fc5dc95cd52748c1e33086bd020196a16ab2fa5685c3b1a")

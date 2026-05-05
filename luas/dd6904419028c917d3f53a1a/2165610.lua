@@ -2,7 +2,7 @@
 -- update time: 2024-02-24
 -- app_name: 拼图猫娘5
 
-addappid(2165610)
+addappid(2165610,0,"3ede04c866ef1b0cbb83e2eaa36d58e716ea866853f41be51f9cc26624ab6215")
 
 addappid(2165611,0,"66888caadb3098c286f4e7aeefad2db238dacb4b0fdb8c2dc519673aed0d89c4")
 addappid(2190360,0,"fcc2ce31656bcf56dc73fe95b75d36ddb9fef392132f46485655adfbcdbc5234")

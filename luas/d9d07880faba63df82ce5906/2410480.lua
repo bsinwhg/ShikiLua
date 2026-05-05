@@ -2,6 +2,6 @@
 -- update time: 2023-06-01
 -- app_name: Magic Charge Duet
 
-addappid(2410480)
+addappid(2410480,0,"0f8ea241782e38c20becc20449ad076f31e4fbf83e3e467a5379e7730929e15a")
 
 addappid(2410481,0,"9be6f28e57691ae75be7da8fc8b6744ae7a4cea6c1b6409422f080618eb0a27e")

@@ -2,7 +2,7 @@
 -- update time: 2023-10-28
 -- app_name: Goblin Adventurer Hunting
 
-addappid(2499770)
+addappid(2499770,0,"b8dcbd02e6c3830bb6ccc355ad86bd3db854a4807f857c4067bda73f6f7bacb1")
 
 addappid(2499771,0,"0856c6df68f6b99a501080901a393ccf4cac4e573ab7c84322359ed926b96e30")
 addappid(2499773,0,"e3721d974a7b1efb179cc0b5aebd787cb92f7e53003701055a9e446ba35a5e2c")

@@ -2,7 +2,7 @@
 -- update time: 2022-04-09
 -- app_name: Succubus Puttel
 
-addappid(1963740)
+addappid(1963740,0,"9a635e167b69fa6efca8ad7fb8d5677a64ba9c71c75d18c129b10a5c7bc558a7")
 
 addappid(1963741,0,"4fce33cedddc26150bcc9f3c4e75e0358d4dceff561a3c64f094ed749252e536")
 addappid(2436270,0,"6ea9e8be93e0ede2a567d83fe65fcfab27fe224f89f304a7ba36edbf99de4fd3")

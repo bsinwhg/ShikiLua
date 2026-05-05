@@ -2,7 +2,7 @@
 -- update time: 2023-01-10
 -- app_name: 龙姬阿纳斯塔西娅
 
-addappid(1864650)
+addappid(1864650,0,"df74553e7f78cb0d0d778f4665ba8ae518dbb3fc3243f0341c133b0aafa92ee6")
 
 addappid(1864651,0,"8eaa6b6c23453be482c6ab683a76173853876c9d08ac3f4c5eb1a24adab9ea0a")
 addappid(2259490,0,"16cff399aa1b216909e7ed71b4760bd14dc2c7f2c76fc33075cf25215c5912f4")

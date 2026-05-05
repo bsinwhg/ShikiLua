@@ -2,6 +2,6 @@
 -- update time: 2024-11-10
 -- app_name: 少女的求生之路2：血色洋馆
 
-addappid(2180330)
+addappid(2180330,0,"bf48a39ff335be3df0571e99d40ffe37a754c27ca40de3da52f92f539297a8b1")
 
 addappid(2180331,0,"529644d914a79c35e87b3c13ae1ac503ab66eb0cd662cb2648e7e28831c88d7a")

@@ -2,7 +2,7 @@
 -- update time: 2026-04-05
 -- app_name: Huuma Mina: The Secret of Immortality
 
-addappid(1184990)
+addappid(1184990,0,"e1438cb993dc3e15d1fd4bec6a1fe0122d8732518bb78a4ead5f5ef82054180f")
 
 addappid(1184991,0,"5eaddf1273bf12187d0a6cd50e6898af63ed812cc72ef6fc85da775c4f477741")
 addappid(1324670,0,"2c07e226e2ea4d381407b7a28525c75ead8bac6ae0478826ecccc9046c4a3af0")

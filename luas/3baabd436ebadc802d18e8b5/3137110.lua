@@ -2,6 +2,6 @@
 -- update time: 2024-12-12
 -- app_name: SACRIFICE VILLAINS：牺牲恶棍
 
-addappid(3137110)
+addappid(3137110,0,"8036090cb1fa94ece2dd5ab47991588d1506068dd4dfebd4f67c9b1ffdaef172")
 
 addappid(3137111,0,"723a75ef69f26239bf22e21aa6297c4460e3527f88d140101ae4527c885dbbab")

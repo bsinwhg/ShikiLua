@@ -2,6 +2,6 @@
 -- update time: 2025-04-03
 -- app_name: Reboot My Heart
 
-addappid(3530660)
+addappid(3530660,0,"3e6a65715e23583b3cf5001987b4e47761cda04fc32305a0b5f500191c59941c")
 
 addappid(3530661,0,"dddb50a503c9ce5b202a1f6739a6fed1c0054d8fec693f7d86976d1b8e945b23")

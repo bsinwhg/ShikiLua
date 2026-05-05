@@ -2,7 +2,7 @@
 -- update time: 2024-01-27
 -- app_name: 医疗无法人 大薮死人诊所
 
-addappid(2227450)
+addappid(2227450,0,"a55ef0f99961c2ee6372f3cb16fadf34037e85784f1f3e67bdb25250d8228dd1")
 
 addappid(2227451,0,"b79db1bab4e12427dc0128eb95cbeb44229d4e5606dcd6a9a718f08db46b88e9")
 addappid(2227452,0,"22da27b7a7088df27c8d344b7312974d8408401acb6aafa167db5fad0a0d7590")

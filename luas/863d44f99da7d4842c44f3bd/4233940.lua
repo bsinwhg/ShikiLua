@@ -2,7 +2,8 @@
 -- update time: 2026-03-06
 -- app_name: 春销卡牌斗士
 
-addappid(4233940)
+addappid(4233940,0,"a546ea32feab9906e460ca7a4c8bdaa916f77a9d07bfc5b93acf74c0a253203c")
 
 addappid(4233941,0,"b07719dfa93e21c3812ffa3cf23b10a3e097c9b8f0a3a512065b8ee8d51cfe95")
 addappid(4233942,0,"affb7c18fa41da464e017eeaf2b9f6644a3ebd9fd01e281ce890e34ab9aaacbb")
+addappid(4233943,0,"3f21de66e6ab4bb20297ebf42b2ec83ebc01c0fb6d11fdf9e100a9e480350a67")

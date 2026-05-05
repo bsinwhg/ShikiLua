@@ -2,7 +2,7 @@
 -- update time: 2024-08-23
 -- app_name: Secret Toy
 
-addappid(2961330)
+addappid(2961330,0,"62cd4dc6756ad1058513e382785d4555a9c49222b23e8a3c79e0ade5e1209d68")
 
 addappid(2961331,0,"6ea6ca7a64c9b2d02e71650f0aae3cd9fee35619df9d64d34bf5d450208331cc")
 addappid(2961332,0,"d9f78ca5edb87a81d133ad392c1af943bdac141975ddaf1cdbaa2c9e36affde1")

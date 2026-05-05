@@ -2,6 +2,6 @@
 -- update time: 2023-01-11
 -- app_name: 病房轶事～潜藏邪恶老鸟护士的住院生活～
 
-addappid(2261240)
+addappid(2261240,0,"c532fa0add05f6f2885da546c8c02a72ca9bdce36af9ffd4c38e507933d075c2")
 
 addappid(2261241,0,"acbd825b66bd4546db9a4b1522fa3af4677b5ed276117779b0db7807ce79f9ab")

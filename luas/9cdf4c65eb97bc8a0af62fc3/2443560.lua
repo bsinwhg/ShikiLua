@@ -2,7 +2,7 @@
 -- update time: 2023-09-20
 -- app_name: Succubus's making lunch
 
-addappid(2443560)
+addappid(2443560,0,"58a10ddfae69ba46033b859f3402f3ad36cff47da2447bc3d8b55333d918dd79")
 
 addappid(2443561,0,"68430f79fad57dc8844a659b60bb85ea42e7c3eca7d981dc5b2a0f2e198364ae")
 addappid(2453540,0,"591f6f3adbc6794ecc4fdf12a67247b24a4f1db6d4531a1a5380fb2eb33e921f")

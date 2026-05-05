@@ -2,6 +2,6 @@
 -- update time: 2025-10-09
 -- app_name: Pocket Waifu: Rekindled
 
-addappid(2377110)
+addappid(2377110,0,"e05734fd77a46b08904c1b6f7cb7159033ded912775faf842c3e492c88c0daf5")
 
 addappid(2377111,0,"8e769cebc5a855d1d3b70dad3fa2a956bd4f8c5afaf97a8ff68e1f0ca904e878")

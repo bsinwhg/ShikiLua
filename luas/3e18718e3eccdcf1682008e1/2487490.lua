@@ -2,6 +2,6 @@
 -- update time: 2023-11-29
 -- app_name: Sakura Succubus 8
 
-addappid(2487490)
+addappid(2487490,0,"d5c49bef0ecdf3333acdab4998b705076c187b79d3d4c0a86cd7f0ccd1a23df7")
 
 addappid(2487491,0,"1e37f4d88a9db740c96419c506e84cca68cfc651e639c45af987f3d761fb61d5")

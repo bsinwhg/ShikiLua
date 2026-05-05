@@ -2,7 +2,7 @@
 -- update time: 2022-11-10
 -- app_name: Sex with the Devil
 
-addappid(1202690)
+addappid(1202690,0,"c9b70940310effe536a2c140a2a9e47b99f645ea5ca3f0492f2ca0b599c3c71a")
 
 addappid(1202691,0,"3da30e69657b2f3b2ab434ce2a86f8bb331691ff615436cd27314fc716f246db")
 addappid(1757780,0,"16f714ddfd12984ca758839cc66d0e83a142d8cce3f15d25bc91f64b5d01400c")

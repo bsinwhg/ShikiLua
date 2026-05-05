@@ -2,7 +2,7 @@
 -- update time: 2024-03-26
 -- app_name: Misha's incident
 
-addappid(2723520)
+addappid(2723520,0,"3fd5decb4aeca94ac6bfb60ce64d623ae4a19f4bb237a8c1f4b40d7955a7dde6")
 
 addappid(2723521,0,"f9a17f63c2cab6213d9acf19f6cd817e84f8213888efa90d797711ce8dd3962e")
 addappid(2723523,0,"c47d01ef6c0a6b96692d0397e1ce1a307121414420e1493a17bb1c0aab5702b2")
