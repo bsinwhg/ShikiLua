@@ -2,7 +2,7 @@
 -- update time: 2025-12-04
 -- app_name: Squirrel with a Gun
 
-addappid(2067050)
+addappid(2067050,0,"f7ac352b107eeef26bf3694502bb9ed6a77d688159a73a91db7a44a7c92243bb")
 
 addappid(2067051,0,"201dd3404b99fc27f9420fd2c2adc7036e6bbe75162e4db5ecf27106e46c7d9b")
 

@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: XCOM: Enemy Unknown
 
-addappid(200510)
+addappid(200510,0,"e3c384e39c7bb07212c9155b7651e285a627fc0e306a547962a6a91a869d908a")
 
 addappid(200511,0,"e455cd62bf461e9f883d8faeee86d33e3967e0d475eca2f26107d25f2a41aae2")
 addappid(200512,0,"83dbfade7377dca868dcceda30d58a43884ce3ff591fb405714370cd16fb627e")

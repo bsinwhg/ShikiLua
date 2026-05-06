@@ -2,7 +2,7 @@
 -- update time: 2026-01-28
 -- app_name: Cryptmaster
 
-addappid(1885110)
+addappid(1885110,0,"27447df92e731215f94243cba9eba06c93b6c9015c1147289c74ac0d0ff345a4")
 
 addappid(1885111,0,"174afeda5e3bb5d3548b04c1266968b4ed0280b63468f301b2f78de189ad9479")
 

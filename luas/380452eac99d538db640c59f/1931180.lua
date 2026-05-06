@@ -2,7 +2,7 @@
 -- update time: 2025-12-17
 -- app_name: Lost Skies
 
-addappid(1931180)
+addappid(1931180,0,"05b0a5e27a4c3432d32a697711894cb558206df49dbb3de6af1ba64f413d00c0")
 
 addappid(1931181,0,"e3b3d8902ae9814c4521fa2a3538b10d43c1fea4f712aa229f22d826ccd8ee6e")
 

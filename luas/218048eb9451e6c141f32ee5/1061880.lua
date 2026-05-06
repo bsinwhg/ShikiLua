@@ -2,7 +2,7 @@
 -- update time: 2025-02-20
 -- app_name: Conan Chop Chop
 
-addappid(1061880)
+addappid(1061880,0,"e76e279097f1120ebc2a4ad6571ee5f87952d018827a55409cda41df9193543e")
 
 addappid(1061881,0,"f16a0c04ecc844a861ff2fcd95ff97ae4d8de59daeb9e44d79148fb9b0a855a8")
 addappid(1061883,0,"1d561c642c2f3f570bb7ea1fcea699c0f789bc9c942ee9c30425479ef8a07629")

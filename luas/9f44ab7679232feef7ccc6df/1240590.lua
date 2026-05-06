@@ -2,7 +2,7 @@
 -- update time: 2025-10-16
 -- app_name: Sir Whoopass™: Immortal Death
 
-addappid(1240590)
+addappid(1240590,0,"fa2c1267504f8c89b546f9c67c96dbece61a6cef996b71bc36203823c2deea02")
 
 addappid(1240591,0,"81a27b9cc381a91b16ba3419786c73517a68eafb06e1084a391d78b92f03f5c8")
 

@@ -2,7 +2,7 @@
 -- update time: 2021-10-11
 -- app_name: A Juggler's Tale
 
-addappid(1252830)
+addappid(1252830,0,"2cb1e3d087cdfa5b5cd1be9b230e49afb1d62280eba90c978b97b504ddf2ceaf")
 
 addappid(1252831,0,"5b0e0127a4c740ce3945f315868eb76d3fa4202361ff13d602dce2b1bb5ca173")
 addappid(1752450,0,"f33c304b78ca4cbfbc156582c35dd06cd786f94b37b48ff62f9ad7756c9ff1e8")

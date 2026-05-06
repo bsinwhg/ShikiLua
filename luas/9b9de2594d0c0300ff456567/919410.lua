@@ -2,7 +2,7 @@
 -- update time: 2020-02-25
 -- app_name: Felix the Reaper
 
-addappid(919410)
+addappid(919410,0,"668ab33b683bbd83f5735b885ee5f1aa95d5459bb38fa0c2f19b9bbc1bc45ba3")
 
 addappid(919411,0,"9a7f1005cd22b82b955c3c6fe5716a5fa85b531b06cdb4a6ff5180af0cd31287")
 addappid(1159930,0,"e0a4f25bdcf31d6626490476b7fc419185a00b52cf44ef0fe1843832c9d117c7")

@@ -2,7 +2,7 @@
 -- update time: 2020-09-29
 -- app_name: Holy Potatoes! A Weapon Shop?!
 
-addappid(363600)
+addappid(363600,0,"51bafced4a45f92bed23b9a432f878a8c68a97f388ad1274c45e7a80cbf59242")
 
 addappid(363602,0,"a3a0f6cecdbf665739602d5135d79272717442cd7b7cc3d7f9fbeb97b6898b33")
 addappid(391860,0,"1f1bb61de7cff153d8bedab0a72211c5d2e105c05d8f34173a467e7825caa51c")

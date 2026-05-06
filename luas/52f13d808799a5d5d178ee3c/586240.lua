@@ -2,6 +2,6 @@
 -- update time: 2020-05-08
 -- app_name: Soul Searching
 
-addappid(586240)
+addappid(586240,0,"0c8cc9a088eda425406823062313a7b87c28beddfd169db4006571230078fc44")
 
 addappid(586241,0,"05a4058569c314e5dfa7b1bb4000c4d495d1f56da23d85cf5fe8c5ebf148a3c0")

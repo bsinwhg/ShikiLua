@@ -2,6 +2,6 @@
 -- update time: 2018-01-14
 -- app_name: Rusty Lake Paradise
 
-addappid(744190)
+addappid(744190,0,"5c89335a2fbb2a9f24219d5a8daf2c5015ea5e9b5da2ad2e81663cf3b9e37e10")
 
 addappid(744191,0,"23c8d767c0f6eb65130f7f4d1b17a821c73ab08520411c785db71584d920f51e")

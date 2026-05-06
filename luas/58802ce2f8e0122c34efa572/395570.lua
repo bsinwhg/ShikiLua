@@ -2,7 +2,7 @@
 -- update time: 2025-09-13
 -- app_name: We Are The Dwarves
 
-addappid(395570)
+addappid(395570,0,"1c98649c7a13dffcd4c7efe462120314805a613dbb4769476e111cb2c5587406")
 
 addappid(395571,0,"9e9dd51aa36e492fb9ff09bbc29b2d03ed18f03ae0c79bd3f2ecf271b29ce696")
 addappid(395572,0,"edb5d379d46c72dd21ed3316821a833aec6e2c2c40e8ef1361994d83b43bc4f4")

@@ -2,6 +2,6 @@
 -- update time: 2024-10-08
 -- app_name: SteamWorld Heist II
 
-addappid(2396240)
+addappid(2396240,0,"1ff721f7af8e01d30fc8b43b7f68fbdfe6bc8205b304a1232219651a2e59ea33")
 
 addappid(2396241,0,"a33fb80f640826dd29e8a225baf9156fc106564d7de50b8c786bb01ba5e3effb")

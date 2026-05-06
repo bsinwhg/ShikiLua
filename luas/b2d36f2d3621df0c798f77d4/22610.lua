@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Alien Breed: Impact
 
-addappid(22610)
+addappid(22610,0,"c7b3688a583f38482ce9b2e9a07fceb783b7fcbc2a5e86a1bdf5a810bd71bb1c")
 
 addappid(22611,0,"0e7762143ffc23a569089013822f0826ebaddf2947dec87897461e702417be49")
 addappid(22612,0,"6d219ea3de40f694c717c87394e67703d3d003c0e9fe26b6521bd2df7e847c5c")

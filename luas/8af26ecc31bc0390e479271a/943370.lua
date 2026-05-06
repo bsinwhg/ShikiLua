@@ -2,6 +2,6 @@
 -- update time: 2025-10-04
 -- app_name: 英勇无厌
 
-addappid(943370)
+addappid(943370,0,"57c335b3836270b4dbd0b021dc1cbbeb5e6b52fe7db94c766fe1d8caf4196506")
 
 addappid(943371,0,"96a567d77dd49570c16752f5cb3c5fc47d2680dfe0a19fdc3682503a0d887318")

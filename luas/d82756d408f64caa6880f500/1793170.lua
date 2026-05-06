@@ -2,6 +2,6 @@
 -- update time: 2025-04-01
 -- app_name: Racine
 
-addappid(1793170)
+addappid(1793170,0,"9a39f2ac766fd2009b5bd6d19c7da419f914f2fdfd49aaf3637d1c2fc123a735")
 
 addappid(1793171,0,"6e5dfb7681b4cab69f66fee2663e195d60ff7c8c51a32b25e80ba39d7a80e11b")

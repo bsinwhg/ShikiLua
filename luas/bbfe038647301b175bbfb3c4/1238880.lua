@@ -2,7 +2,7 @@
 -- update time: 2023-01-23
 -- app_name: 《Battlefield™ Hardline》终极版
 
-addappid(1238880)
+addappid(1238880,0,"fe296d1d52db3d01d5bc7003ca4c205474fed0b8d6b3e179f70ceb5638e08546")
 
 addappid(1238881,0,"ca3213c27f45fd919fb3bbcc717d1fc836d56c9cadf6d7c5484aef22a2e9d886")
 addappid(1238882,0,"2ebe691fe34ea5ca9107fd88b53a6f821a6aa045026efc3b7ef232c72ece882a")

@@ -2,7 +2,7 @@
 -- update time: 2025-10-03
 -- app_name: 橡胶强盗: Rubber Bandits
 
-addappid(1206610)
+addappid(1206610,0,"0b76794ba1a10fb4ba139565652e70064870b08647911cd9161b0aec4d0bc83d")
 
 addappid(1206611,0,"8e0e90d3dfd12c16c29945a1219a0273045d54571c434f3adc559d55b89e5ade")
 

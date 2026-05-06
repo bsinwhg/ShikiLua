@@ -2,7 +2,7 @@
 -- update time: 2021-10-30
 -- app_name: Absolver
 
-addappid(473690)
+addappid(473690,0,"5b9f69ac9dc1b555471a68a860a28e785dc1a70b8d8019dc9a41cbd4a1de21bc")
 
 addappid(473691,0,"3312a7c16cbea08e1ab0efce7eebada0c68a417edc76466f95d5b103f4d12e4f")
 addappid(473694,0,"e0ed94e1ed766df45ef0b17441f159950a9fac4e2a3c52f39403d60baad44d4b")

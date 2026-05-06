@@ -2,6 +2,6 @@
 -- update time: 2022-09-05
 -- app_name: Rogue Legacy
 
-addappid(241600)
+addappid(241600,0,"8f8e42cb0dde5d4f60c702dbccc54b2ba46e536c2ce6d96928d67c7040fdf545")
 
 addappid(241601,0,"89e4dbdeb969e3449ef7a74b752dce6916234e4e8c433df9581fedbc02f9f9a8")

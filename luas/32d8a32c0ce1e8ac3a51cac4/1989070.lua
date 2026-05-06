@@ -2,7 +2,7 @@
 -- update time: 2025-10-10
 -- app_name: 奇星协力 (Synergy)
 
-addappid(1989070)
+addappid(1989070,0,"0406a9e4ee76fb42e7424d8c7ca2c8ca6e7c4f0a6eef310754b84d216baef60c")
 
 addappid(1989071,0,"acc053225619f523280f867bc4314633c93cae4e3852acc9ff63dfb12bc5104a")
 addappid(2975170,0,"cf405148c78a3ff4b03dae2559706245cc2c3d0d10e6b91b5bd0292f49c71c53")

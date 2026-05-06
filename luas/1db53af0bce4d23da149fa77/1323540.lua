@@ -2,6 +2,6 @@
 -- update time: 2025-10-07
 -- app_name: Aerial_Knights Never Yield
 
-addappid(1323540)
+addappid(1323540,0,"52a99f76568cc0f3dd2773284e70479d08fe5089a8347fe23b56287ed6dfb78e")
 
 addappid(1323541,0,"84c37b15f9cb78fc13034de58d46fc0d54b943d4c16fd33e004edf8729cf8712")

@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: Shooting Stars!
 
-addappid(415350)
+addappid(415350,0,"f89ff4cca049660d95b869656b3956b0969f6b02d53f8abba6b55f27404616b9")
 
 addappid(415351,0,"934c464fe29f4b4ab7ae22acef502a10c287513bd61aab5a5f3cbe9e43bd95ce")

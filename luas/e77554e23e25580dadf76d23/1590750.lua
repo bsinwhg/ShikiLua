@@ -2,7 +2,7 @@
 -- update time: 2021-11-19
 -- app_name: 瓶瓶罐罐 - JARS
 
-addappid(1590750)
+addappid(1590750,0,"3150d1cee1bc1a9aba6cddc07518abaf8532d4b44eb893a16ced381d1507c34d")
 
 addappid(1590751,0,"97eb393b7080554e5dc1b3bb620ed26cb86112ba090acf0040183d533a41c04d")
 addappid(1634000,0,"2ffedb29f27bf8c17634930ec999669819ab5b10cc970e715e808cd54d617b0b")

@@ -2,6 +2,6 @@
 -- update time: 2025-10-07
 -- app_name: Space Elite Force
 
-addappid(855850)
+addappid(855850,0,"19513f7e2f5d9ada5b9f8a66984d0dc079a09cdf51586f304f275e52f2f1ab1e")
 
 addappid(855851,0,"d26dc235ae9f4eba530b237835063edb9805353feb9ed60718fe3a56c2db583c")

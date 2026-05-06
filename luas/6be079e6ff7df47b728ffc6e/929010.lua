@@ -2,6 +2,6 @@
 -- update time: 2025-10-20
 -- app_name: Swag and Sorcery
 
-addappid(929010)
+addappid(929010,0,"11a176b5c03cae60b4a11d7c058ed33c5229963800f5c668f48ef54a6ef37b24")
 
 addappid(929011,0,"3b370a4fbe8d3d8d869f412243543f52bd851bed3862eda37a57a058f1ecf1e9")

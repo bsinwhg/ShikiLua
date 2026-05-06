@@ -2,7 +2,7 @@
 -- update time: 2021-01-13
 -- app_name: Paper Dolls 2
 
-addappid(1334040)
+addappid(1334040,0,"32b91cdbb2bb6d706a0c1164e47cc8985679805872d426ca1a2acf8b07e5c613")
 
 addappid(1334041,0,"597e814feb7f6fd2584d5f51e05f08b325ab4c0325e79ec83dbafb1b61568937")
 addappid(1453650,0,"205f3bfd33dab5bd606c4959fa858e6046c33db2a1b86ec84ff73d62c6b6d6da")

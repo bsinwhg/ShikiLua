@@ -2,7 +2,7 @@
 -- update time: 2024-11-26
 -- app_name: State of Decay 2
 
-addappid(495420)
+addappid(495420,0,"ed41614622b8ca9d92c9efcc6ef9505cc7e8db503507a9daf823a6c6a0cda9dc")
 
 addappid(495422,0,"82873486e64ba05260f583a4a80f88755f1a2422e37db46396fca015a35e966d")
 addappid(495423,0,"ae5ec7c2bc2d211ef82c94e26d5fb9ac2e75be1d90fd5d3cf9bcaee2d5159a53")

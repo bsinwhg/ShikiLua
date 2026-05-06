@@ -2,7 +2,7 @@
 -- update time: 2017-08-26
 -- app_name: Hidden & Dangerous: Action Pack
 
-addappid(703310)
+addappid(703310,0,"62bea0bbb3bcf0c012a291e67e179554a09dd26b5a9e4411a5d22e901666d691")
 
 addappid(703311,0,"583ac268995f9cbdb24fbf76adc7e29c21ddeba5243db9f3df1db96bb1a997d1")
 addappid(703312,0,"9eb0cfd7b5ed73f26d8516e24d94e78cde0fb90a2c9bf964c8793ac4d2852b43")

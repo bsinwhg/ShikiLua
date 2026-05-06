@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Devil May Cry 3: Special Edition
 
-addappid(6550)
+addappid(6550,0,"b2782526978e5b68d35ed9547b68a7d9709d93a523d18ae33594fd15b91c0af4")
 
 addappid(6551,0,"9fc2e9035811d502e0caefc88bfcdcce0ee92d1cc90bd6f21a4b1795905a50f0")
 addappid(6552,0,"2ebef56094868d075732c86d2bddda632e2fdcb766da9064983ceb0c6ff19bce")

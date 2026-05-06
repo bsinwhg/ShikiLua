@@ -2,7 +2,7 @@
 -- update time: 2024-04-19
 -- app_name: Gunlocked
 
-addappid(1512480)
+addappid(1512480,0,"09f278e2ee55d54b716287dccc225ee10504e681806f561c53bf9a4223762f49")
 
 addappid(1512481,0,"e49a5243fa8b0d1b3ca52108ea31f9028f760ec91723ce97ecf69fa0df09c6aa")
 

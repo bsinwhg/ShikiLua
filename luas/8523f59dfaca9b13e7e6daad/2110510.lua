@@ -2,6 +2,6 @@
 -- update time: 2024-04-11
 -- app_name: DREAM LOGIC
 
-addappid(2110510)
+addappid(2110510,0,"414400a940b7ba1f16157fc67885a130fd084ebc1428cc21d4af7b5601a6379d")
 
 addappid(2110511,0,"0478fd19d89cdb28174ef7c01793314982cdce4be034607c02a043e46ff4bd74")

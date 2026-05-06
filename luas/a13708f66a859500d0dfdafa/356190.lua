@@ -2,7 +2,7 @@
 -- update time: 2018-09-05
 -- app_name: Middle-earth™: Shadow of War™
 
-addappid(356190)
+addappid(356190,0,"cfb174ccd74f7b90edb72f7a7daf8455d7e63a0519c17ca542f92346b6407cc3")
 
 addappid(356191,0,"260abd037eed772bf36b780e13d94ab075cc04f2f80fa4f3e39b907c037892ae")
 addappid(533110,0,"acd25e0fcc2aac0e70af4b8df205e6a8e8258823362cc5279c0aeaf96c3bf0b3")

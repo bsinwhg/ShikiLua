@@ -2,7 +2,7 @@
 -- update time: 2022-11-15
 -- app_name: Out There: Oceans of Time
 
-addappid(1145290)
+addappid(1145290,0,"3666c350acdf94a94af22bb15bfcd4fd145cbc9177e4bee1ec4c6180d73cd7d3")
 
 addappid(1145291,0,"22263e94a8e7a25021a091c6f3f3cddbb6a0eb03e15abd4b21c07a58947d1c8e")
 addappid(1906480,0,"a2204c8fb56d7e7e6a9b96c089b2e06067898663b2cfdeca8456d17c4fc55175")

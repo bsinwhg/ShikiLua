@@ -2,6 +2,6 @@
 -- update time: 2019-10-28
 -- app_name: Silver Chains
 
-addappid(975470)
+addappid(975470,0,"54a759e528f6cc965a6b38a6695d7910774b3be02acd10c36684c71a4dd935ef")
 
 addappid(975471,0,"56096191ae443273709d65438a873a7abbd06d2cccc15e1d55b93a1006fbe190")

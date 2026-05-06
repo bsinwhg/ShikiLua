@@ -2,6 +2,6 @@
 -- update time: 2023-10-11
 -- app_name: Commander: Modern War
 
-addappid(2214890)
+addappid(2214890,0,"1aaa2e6baede37dd9dd5d8c51ba8432fa76f68eadcc1bc9bb13a495150c85876")
 
 addappid(2214891,0,"1bc5de05294e9cc82fc2150557a8b4c2e8ec0f16a9ee50db43ed4de27916b37c")

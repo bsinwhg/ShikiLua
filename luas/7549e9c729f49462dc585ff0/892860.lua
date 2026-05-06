@@ -2,6 +2,6 @@
 -- update time: 2025-10-07
 -- app_name: Hot Brass
 
-addappid(892860)
+addappid(892860,0,"41500d92e8734b002fc2aae9a07366de7f2d0ab753657c51ef14ef30acf9d3af")
 
 addappid(892861,0,"ce35461f40680e1e024bd4501e1d9a9dfec479bc611b67b7bdfa85e57c65f69f")

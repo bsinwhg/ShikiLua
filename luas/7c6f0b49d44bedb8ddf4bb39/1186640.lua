@@ -2,6 +2,6 @@
 -- update time: 2021-04-05
 -- app_name: 南瓜杰克
 
-addappid(1186640)
+addappid(1186640,0,"5fb662d51e2fdf68262367dbfaa4759d9ac5ae506fbc4cd87dea6ac0d7c560af")
 
 addappid(1186641,0,"7d75a6d1073711ac621a8f6ac4764f449333ad6e818d692852af0cdad8f04a46")

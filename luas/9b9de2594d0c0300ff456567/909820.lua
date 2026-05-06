@@ -2,6 +2,6 @@
 -- update time: 2019-08-16
 -- app_name: Songbird Symphony
 
-addappid(909820)
+addappid(909820,0,"2585a0a031be6389af1b757308c084fa40f145a3f198eb48ba6beea058b02b10")
 
 addappid(909821,0,"e7cae1ed28e78babe4e7f2d87ea74c2301bf8f052148918bc7570cb49975b992")

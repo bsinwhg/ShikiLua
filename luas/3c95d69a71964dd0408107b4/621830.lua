@@ -2,7 +2,7 @@
 -- update time: 2018-01-18
 -- app_name: WRC 7
 
-addappid(621830)
+addappid(621830,0,"0bd3e638ff2266dfa1998d70b86e5b1b0e92a4852b19fffcde5be892c1c5c770")
 
 addappid(621831,0,"20e3152c0296460f28ce3f5a211affca305a09e6d9b9f6bbcce13bc819d0f462")
 

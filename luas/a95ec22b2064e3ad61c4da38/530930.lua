@@ -2,6 +2,6 @@
 -- update time: 2018-12-17
 -- app_name: Soulblight
 
-addappid(530930)
+addappid(530930,0,"40b864e3d0cf6c0faaa8e87f5b121ace4ccf466ec48ff1dd9f6cbb88e6661c46")
 
 addappid(530931,0,"c5bd4ce1949d5ca30ccd7262cece459892ad249a1aac216c2cc89b5552034103")

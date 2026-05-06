@@ -2,7 +2,7 @@
 -- update time: 2017-10-06
 -- app_name: Stories Untold
 
-addappid(558420)
+addappid(558420,0,"5b475b7ffa68fa38aa0e15a212f4dae82809269441ca57fa3dafa1bb1a193c71")
 
 addappid(558421,0,"5dc964bec226fb1aa5c6cb33bd7292f57207bb2a0308fd419690f0505ccdb297")
 addappid(558422,0,"44a62dd40a34abefceed910a9a06fccaa408b641088a7694d5b8de65ab045cb0")

@@ -2,7 +2,7 @@
 -- update time: 2024-11-07
 -- app_name: SKIBIDI BACKROOMS
 
-addappid(2515210)
+addappid(2515210,0,"928cf3e895b08ced2aba44de087b999c91681a6191995bf2eb6115a71d9da072")
 
 addtoken(2515210,"15056033264752328570")
 

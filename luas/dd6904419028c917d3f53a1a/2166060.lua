@@ -2,6 +2,6 @@
 -- update time: 2025-10-15
 -- app_name: Amanda the Adventurer
 
-addappid(2166060)
+addappid(2166060,0,"ed4a19444cabfdf8b8f8a344a61e23664b3c97e6d5983ef4a467eb74d4d002dd")
 
 addappid(2166061,0,"814ece087ba954ca208b3a2aafded05134d3cd5854a6677001596c37b55e1f5e")

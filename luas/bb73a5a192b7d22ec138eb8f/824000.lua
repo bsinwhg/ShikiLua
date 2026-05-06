@@ -2,6 +2,6 @@
 -- update time: 2025-10-04
 -- app_name: 哈克小镇
 
-addappid(824000)
+addappid(824000,0,"6193b125b67b1542c24751ee72a09ec3dec5aad67f3401b8fd787bc43a208f5d")
 
 addappid(824001,0,"48315205e431ead0b727fce6f9a409d2589754d8b9c424f2497122dddbc65bea")

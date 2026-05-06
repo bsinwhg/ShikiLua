@@ -2,6 +2,6 @@
 -- update time: 2022-02-22
 -- app_name: Neo Cab
 
-addappid(794540)
+addappid(794540,0,"725d2500696bbf987069cc99f8c842c85c877ccca6819d408aff5afc8188efb8")
 
 addappid(794542,0,"1fac0330fbe6f88bdae0cecd91255419a9fb5f82b13da42e067f25a680421d9e")

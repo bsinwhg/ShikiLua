@@ -2,7 +2,7 @@
 -- update time: 2022-07-28
 -- app_name: 末日觉醒 CryoFall
 
-addappid(829590)
+addappid(829590,0,"c0695e36e1dd54b58f2c14c9bb5ebbec67d76cca4717bac058371bed4c014d0a")
 
 addappid(829591,0,"5a3688082c17e1eeb38542df01cc984d5d3e1ad294135bc3cb1109c34d321c96")
 addappid(1178321,0,"b87fb51f621665ab1ac25cb6d95844e72f59fbf1de4308a09fb63b40c5ea6e5e")

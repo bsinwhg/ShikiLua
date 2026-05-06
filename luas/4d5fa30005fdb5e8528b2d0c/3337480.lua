@@ -2,6 +2,6 @@
 -- update time: 2024-11-18
 -- app_name: Waifu Simulator: Horem Edition
 
-addappid(3337480)
+addappid(3337480,0,"a4eace2f962ef208b6e324252d71e1775b46ddcd0d9844098c8aaeff4186bb8c")
 
 addappid(3337481,0,"febdcae01e96bffa353f524a75303695563764ba776a9f3e61d5495b88eba9ac")

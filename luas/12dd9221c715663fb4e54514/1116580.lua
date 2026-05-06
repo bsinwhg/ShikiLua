@@ -2,6 +2,6 @@
 -- update time: 2021-01-28
 -- app_name: 我的阴暗面
 
-addappid(1116580)
+addappid(1116580,0,"1fd87a144eb8edcc3de47431740a08b258b785d046ad0c579a6b74ba73a81c49")
 
 addappid(1116581,0,"9b166a74a81bae2ce800971f23d929c918158fcabab663fa6a103fbac57d50e6")

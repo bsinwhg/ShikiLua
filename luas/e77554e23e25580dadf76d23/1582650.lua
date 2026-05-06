@@ -2,7 +2,7 @@
 -- update time: 2025-12-09
 -- app_name: Caravan Sandwitch
 
-addappid(1582650)
+addappid(1582650,0,"3f51e1ffa13e45c6e90f8c482a1a9fddfecce17ff05b1c0270d74083f808cebf")
 
 addappid(1582651,0,"419f9adaf16540ae360fc0bad35397458eefb5fa98ad7051de87780ca12f2283")
 addappid(3142110,0,"56a84d1eba4c610625e7fe6abff1f0a3bf063d5e8095550c005d0e7b2b40c6e7")

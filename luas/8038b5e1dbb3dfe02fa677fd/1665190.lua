@@ -2,7 +2,7 @@
 -- update time: 2026-03-23
 -- app_name: Monster Prom 3: Monster Roadtrip
 
-addappid(1665190)
+addappid(1665190,0,"f7f4f01fb0340ef3bde2ed6970d7eab7b369c2e4eba47b977049b24838cb75ba")
 
 addappid(1665191,0,"54444609941985bf7d7f7c095d22cbb84fcaf9a90492a369d7ca6fbee58894df")
 

@@ -2,7 +2,7 @@
 -- update time: 2026-03-25
 -- app_name: Planet of Lana
 
-addappid(1608230)
+addappid(1608230,0,"11fc6dcec3276c57d582b6ce10697e5287223da1e59de79fcaac03ef74d39eb0")
 
 addappid(1608231,0,"111bd9a2a83debc63dae7c527c541ebaa1192ccce92e1ce0f44f41dea9bc75f7")
 

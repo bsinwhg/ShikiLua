@@ -2,7 +2,7 @@
 -- update time: 2026-03-12
 -- app_name: 岛屿生存者
 
-addappid(897450)
+addappid(897450,0,"e27c7247ef907745a16c9ce1444236d0653155a92b1711bf220f32a049dd505d")
 
 addappid(897451,0,"df0e26a2550f9f01d966469a8644b16bdab4ff313d46eda71b8fdd4c75fbb1bb")
 addappid(1378760,0,"d0db88f4fc0da49bb2a4bb7db3695cec059a5e8cb791fd5b860665e7af0a9473")

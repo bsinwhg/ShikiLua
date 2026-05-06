@@ -2,7 +2,7 @@
 -- update time: 2024-10-28
 -- app_name: Deadly Days
 
-addappid(740080)
+addappid(740080,0,"9d2c8948976c26a843caa2f066479bcecf772de63bf023c7fab3260e354b2839")
 
 addappid(740081,0,"acaac505c20234d41e15a7087a885dbff2d7a1515a6b794b4cb6aba4959a3a31")
 addappid(740082,0,"26e7f814263ae4e21e6fc290c5f16bd1320d66e4b33a9de69d1d2f188effa4e5")

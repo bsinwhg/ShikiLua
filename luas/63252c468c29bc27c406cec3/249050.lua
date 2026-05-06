@@ -2,7 +2,7 @@
 -- update time: 2023-02-17
 -- app_name: Dungeon of the ENDLESS™
 
-addappid(249050)
+addappid(249050,0,"bd82de8d7d5a72607aed253f76d5f2f58584e113f8c2ddba1f9bdae6d672943b")
 
 addappid(249051,0,"6d80e58f49ef3fb5f2851a475f109b1361bc5469b710248e1bc4af4c6a9d844c")
 addappid(249053,0,"ea27923e33a1d9af43aa64d75080b5596701aa4d57d31466683f5e6d6d5e225d")

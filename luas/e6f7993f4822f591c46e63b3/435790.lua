@@ -2,6 +2,6 @@
 -- update time: 2017-04-03
 -- app_name: 10秒忍者X
 
-addappid(435790)
+addappid(435790,0,"b84c0bd03add9fa987539af8379dd9265c6ff5890ea938a2baa73162ddf6d292")
 
 addappid(435791,0,"894959ae02ba688c6e0c6b2602c11eb873e60df967f546c948a521a2d4da0199")

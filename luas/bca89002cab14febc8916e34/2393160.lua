@@ -2,7 +2,7 @@
 -- update time: 2025-12-05
 -- app_name: 钓鱼哥的奇妙冒险
 
-addappid(2393160)
+addappid(2393160,0,"252ddb0d61f62a4db7e743ece9f5b711dfcb6ecfa6c9878683830ffb20b33ee6")
 
 addappid(2393161,0,"fd1b1e8ba61ee5a6f764f0ca607521e07d765a6dceeb54e0c8ec0aebb47a02a3")
 

@@ -2,6 +2,6 @@
 -- update time: 2025-10-14
 -- app_name: Escape First Alchemist
 
-addappid(2094320)
+addappid(2094320,0,"68c80e59b9f35505a1ad1832f7cb48b0426f0f392b362df2608af2d1fc096c69")
 
 addappid(2094321,0,"a63622e56018d921236c2277ddf2ed8c9f5f81d3fed97e881945abd76ebc98d3")

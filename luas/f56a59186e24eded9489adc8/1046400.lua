@@ -2,7 +2,7 @@
 -- update time: 2022-02-27
 -- app_name: Astalon: Tears of the Earth
 
-addappid(1046400)
+addappid(1046400,0,"9e49ddc4e85d389390932b4588bf38b1736e91211bf5c0d9eb7d1ffc822d450d")
 
 addappid(1046401,0,"88d23701c0154cf607d5f6cf3ee3d7f7c31138a55aa35807969c821f19647f55")
 

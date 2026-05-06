@@ -2,6 +2,6 @@
 -- update time: 2024-07-20
 -- app_name: Pony Island
 
-addappid(405640)
+addappid(405640,0,"fd35bf19017ed4a701e960310b15e57a17ef2da2e69472799c88164b68bceceb")
 
 addappid(405641,0,"bc44e83e7c8ab9ae70ece7e31bab23c05344f3315ddc7036061c448c942c0386")

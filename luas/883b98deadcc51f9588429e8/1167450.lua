@@ -2,7 +2,7 @@
 -- update time: 2022-02-12
 -- app_name: DAEMON X MACHINA
 
-addappid(1167450)
+addappid(1167450,0,"e439a54887172a31298542390cd0e8c6eed7b375e2bdb5c53d0e67a3fd35e722")
 
 addappid(1167451,0,"3dc4397d4f94a640043bea785c35492e0b1bfc7e8d08d9f1a1f708f9eab47991")
 

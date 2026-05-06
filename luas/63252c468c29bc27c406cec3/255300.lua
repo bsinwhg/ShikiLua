@@ -2,6 +2,6 @@
 -- update time: 2016-11-14
 -- app_name: Journey of a Roach
 
-addappid(255300)
+addappid(255300,0,"91fb802f3fc222e0e52852e6835be279aa2e584d32d0774ac9d8adf52d8f7fcf")
 
 addappid(255301,0,"ef356e1634ac2e4c30c5112b12f9150c4d5abf03756ea749ff4f13f4657343dd")

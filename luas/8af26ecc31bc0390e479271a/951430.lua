@@ -2,6 +2,6 @@
 -- update time: 2025-10-08
 -- app_name: Dead Age 2
 
-addappid(951430)
+addappid(951430,0,"351a3d48a6bf5b7cfbea95b7a9fe827b3869d891795e7dd3626c30e2f25f20df")
 
 addappid(951431,0,"725a4c43d135b7a2a88f31b230fa673d5fd1b368ff63d872b3f68fb91fceed05")

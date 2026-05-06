@@ -2,6 +2,6 @@
 -- update time: 2022-10-08
 -- app_name: Prodeus
 
-addappid(964800)
+addappid(964800,0,"54e1e236c12d189ca106f1418ba3cda4e00282ab96cf98af40aab78c65c016fb")
 
 addappid(964801,0,"1e07e2d26b198dcfda1c99a757ae5abc5699139537cccfa00ac61fe76033a2ab")

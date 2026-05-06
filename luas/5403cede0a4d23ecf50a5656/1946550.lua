@@ -2,7 +2,7 @@
 -- update time: 2026-01-17
 -- app_name: Toilet Chronicles
 
-addappid(1946550)
+addappid(1946550,0,"ff1d3c9db0bf777b9c08e39582a57352d95cfbaa48a0f819e28586699f196e48")
 
 addappid(1946551,0,"902669332361615d69899c1cc9e97a10b0a0c43491205cd2ed671b48bced4a81")
 

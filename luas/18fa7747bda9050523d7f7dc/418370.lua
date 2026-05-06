@@ -2,7 +2,7 @@
 -- update time: 2023-05-08
 -- app_name: Resident Evil 7 Biohazard
 
-addappid(418370)
+addappid(418370,0,"9218e61652ae85ea8525d97fd62535f61209b1dd13e3551a5114592281f01313")
 
 addappid(418371,0,"2df4ede71de8b8163daa12dbd679f25b89c131c806485d93fba323e47a2d8eb3")
 addappid(418372,0,"5ffba65b1aa063765d2dec7582c23b09661a6b361fa9657a2508ab2f5fb15be5")

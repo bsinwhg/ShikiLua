@@ -2,7 +2,7 @@
 -- update time: 2024-06-26
 -- app_name: Stray Gods: The Roleplaying Musical
 
-addappid(1920780)
+addappid(1920780,0,"3862c3e21b61c156e641b1c27026f88f591a4c3db123f1694764005d715635c6")
 
 addappid(1920781,0,"ab69a68ea42d807ebb87f9fa02c19b957d48112f0a8dfad2072f56d326c90e55")
 

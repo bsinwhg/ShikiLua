@@ -2,7 +2,7 @@
 -- update time: 2017-07-06
 -- app_name: Danganronpa Another Episode: Ultra Despair Girls
 
-addappid(555950)
+addappid(555950,0,"70035acd4ae49f40af62258f989d3589db459ac91741109d82bc550f8b43b31c")
 
 addappid(555951,0,"372a12a1d96aa1014642e4fe55b82a77887e22246cf3266402e7096ef3aae5b5")
 addappid(555952,0,"2e9a60957d79f2cc3fbdfcf4b2a852364493e626daef3d3b4f702c24e2d305a0")

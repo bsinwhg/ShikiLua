@@ -2,6 +2,6 @@
 -- update time: 2023-09-28
 -- app_name: Super Galaxy Squadron EX Turbo
 
-addappid(345860)
+addappid(345860,0,"82d182c82699e6a5ad3cb9f225d4d954db90732dcf82cc1c557fb57244f48159")
 
 addappid(345861,0,"716eaceaf9a76c0bb9fa37dc690c005270b212685a3617a4894c7296755f40d3")

@@ -2,6 +2,6 @@
 -- update time: 2022-11-23
 -- app_name: Meeple Station
 
-addappid(900010)
+addappid(900010,0,"a67002331c778338197aad0bc7471e2083d6b3f1bfe342b166ecc592b7330337")
 
 addappid(900011,0,"98e39b9c86d2f391b02f38b311f05fd13cb5d4d79401fc4ecd482c429ded53ec")

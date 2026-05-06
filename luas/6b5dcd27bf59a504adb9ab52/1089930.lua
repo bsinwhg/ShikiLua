@@ -2,7 +2,7 @@
 -- update time: 2021-11-22
 -- app_name: 永世必死
 
-addappid(1089930)
+addappid(1089930,0,"b39c16d161d86237dbe834493ab91992234a646d9b5ba98fa6e73d93766303d2")
 
 addappid(1089931,0,"91ea03ed64cea406ae721a0eeb0e18d8949de39f4030ef78eb080f50e1505cdb")
 

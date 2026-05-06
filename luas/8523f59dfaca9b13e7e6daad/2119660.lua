@@ -2,6 +2,6 @@
 -- update time: 2024-05-15
 -- app_name: 游乐园梦物语 (Dream Park Story)
 
-addappid(2119660)
+addappid(2119660,0,"0eadcbfbf9e85bd511fbee16bdc9fb6bbfaa31e291463eab6ba734bf4e558c32")
 
 addappid(2119661,0,"485e324cb8105908cc03f4f7173cedf40e725a27458847360bbbd1b34a6966a3")

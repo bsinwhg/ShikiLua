@@ -2,7 +2,7 @@
 -- update time: 2019-07-22
 -- app_name: AI: The Somnium Files
 
-addappid(948740)
+addappid(948740,0,"83ecbedcc24b434689028bdfac0c00744a8325b89a9a2bd9783c5cadd5549220")
 
 addappid(948741,0,"0209b9ec8a19f2f8db542209ad860ba1c936873eece3d2d62c23ff71213eee90")
 addappid(1109030,0,"b7aef045c7984a51f6a45ee0a570115afb1a2d186ef639b567412cf26297f716")

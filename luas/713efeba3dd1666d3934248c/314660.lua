@@ -2,7 +2,7 @@
 -- update time: 2016-05-23
 -- app_name: Oddworld: New 'n' Tasty
 
-addappid(314660)
+addappid(314660,0,"9a1e6088701445709bb23dc7fa4af8f9cc8b259187e5bdbda93184410accc313")
 
 addappid(314661,0,"33cee64cb46f8b3be3c8aedbfe80f3dfa5422a0dac55061795fff9c3d37c544e")
 addappid(391880,0,"ecb56312b405ca922c52d74c465fdadef566b8304712486b66f700588893ab26")

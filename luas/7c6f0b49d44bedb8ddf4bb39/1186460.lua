@@ -2,6 +2,6 @@
 -- update time: 2024-05-20
 -- app_name: 侠道游歌
 
-addappid(1186460)
+addappid(1186460,0,"3f672b83fd02c7b8b8fd42a69b690d8fcf509fd31eb2102dcab6c0ab2a82d752")
 
 addappid(1186461,0,"963416416dca99212d0f39a45b58fb82dfa1ff5c48231cbdb63bbbac9d49db9e")

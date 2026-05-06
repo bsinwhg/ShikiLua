@@ -2,7 +2,7 @@
 -- update time: 2021-09-08
 -- app_name: Hiveswap Friendsim
 
-addappid(833040)
+addappid(833040,0,"df97abf5a2afd5644a3cee5ca68728b660035992b9ef47797df85ced1cdb354b")
 
 addappid(833041,0,"800510b33041c92c57ab3b7834a88b04fa85e39ac0d703f7bacc22b9cd1d914a")
 

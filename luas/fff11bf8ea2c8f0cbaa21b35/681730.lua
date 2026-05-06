@@ -2,7 +2,7 @@
 -- update time: 2021-09-02
 -- app_name: Nowhere Prophet
 
-addappid(681730)
+addappid(681730,0,"e6c84966cb04a01acb71de0d3531b2edf52da569db295390718af998942ac020")
 
 addappid(681731,0,"495e255a4debdbc0b32d2214833340a93ffdb16af144faa4e37cea485a11773c")
 addappid(681734,0,"fccb00cd227d8a77a0f66115b7cefe1418821f8f6941b4c349160662ac24b882")

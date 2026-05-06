@@ -2,6 +2,6 @@
 -- update time: 2017-05-27
 -- app_name: UBERMOSH Vol.3
 
-addappid(515570)
+addappid(515570,0,"a74ac1535507b9b0e130532a486433e68b9a6e7bc6324e6b2854c5b7d89e9e77")
 
 addappid(515571,0,"4ec85cb7bc19fc9f0f9dad9078e19e566dac44613d509da6a86d31f46a79a4df")

@@ -2,7 +2,7 @@
 -- update time: 2016-06-10
 -- app_name: Blackguards 2
 
-addappid(314830)
+addappid(314830,0,"3dd1d25f83bc5db3ebebc6f59a2fc99c3886d2cc7f733d3d198cdfda43846c3e")
 
 addappid(314831,0,"5fd25594ec7f284fcd4687b1fe1389d6fd6340a94feb503fd4d0ba48363fc3d2")
 addappid(314834,0,"f8f53767d5fe895060f6bd80eb40a7d14e422bbd7c8c05230c5c36aaabf3ab8f")

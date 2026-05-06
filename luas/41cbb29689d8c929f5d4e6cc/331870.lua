@@ -2,6 +2,6 @@
 -- update time: 2018-06-20
 -- app_name: AER Memories of Old
 
-addappid(331870)
+addappid(331870,0,"ee5db9ff57d3f98a141655c028f6bb47e8e28fd68159d06350e3a38b72dab43c")
 
 addappid(331871,0,"837219d72ab2c2bef84d39a3928fc1c3cae9439290f787e908ec25a6e25538ce")

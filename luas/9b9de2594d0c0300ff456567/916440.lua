@@ -2,7 +2,7 @@
 -- update time: 2024-12-05
 -- app_name: 纪元1800
 
-addappid(916440)
+addappid(916440,0,"889f4cfd8180a1fdc3df4831d25fdf6cdef9ce57dfe9c60ed6fc145ab532c383")
 
 addappid(916441,0,"fdf2da2bad8516bd58704e87cdd2101173aa1330d9328186184ff6445a945e19")
 addappid(916442,0,"eb8f0f30eafebbbaf8c5870c365708e8a973fd5d817e79d08db91170da90284b")

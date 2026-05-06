@@ -2,7 +2,7 @@
 -- update time: 2023-03-04
 -- app_name: Nickelodeon All-Star Brawl
 
-addappid(1414850)
+addappid(1414850,0,"b5d2f808d451ef891fdc0e1df44ec7ca264c5e62431b6d1fb71d2b157b94c44c")
 
 addappid(1414851,0,"53e7f3936af23e3ded4233db79608e2ed462e5ee21cda975efd9925d88210af3")
 addappid(1414853,0,"f4705a3c9653ce0c59bfee78c7f817e574367b44c1878a1d3feeec8b161f494d")

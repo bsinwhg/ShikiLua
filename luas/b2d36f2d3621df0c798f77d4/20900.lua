@@ -2,7 +2,7 @@
 -- update time: 2024-02-27
 -- app_name: The Witcher: Enhanced Edition
 
-addappid(20900)
+addappid(20900,0,"c5b338cbdaa72f7d58cd83fd14a62d01427af63b9cb6472c3a717976bc225cc5")
 
 addappid(20901,0,"7d49abe8382d62d650257322037f65f9be5bce659821cc4ec4bddbd1f2fcd274")
 addappid(20902,0,"2216d9d965164b211e80b35ca56d0e81918c54d2f2f2923d84a07806aa108d5f")

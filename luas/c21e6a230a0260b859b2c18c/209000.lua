@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Batman™: Arkham Origins
 
-addappid(209000)
+addappid(209000,0,"6eefbd0cc24a1848f6f7ae898beb20d326f901b551e08fa521ed972afb852328")
 
 addappid(209001,0,"f5c100e9d6d4f1a524c3704ff3ef0e14933ca21f52c57fb607302527856d99ea")
 addappid(209002,0,"bfa7a84d592cab2693fe595a5f60612759a409377e68b01dff493425fc710c8f")

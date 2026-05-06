@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: X-COM: Interceptor
 
-addappid(7730)
+addappid(7730,0,"84be3ebbbc7a8b07ffebaed61cf4641f62a3ad4baa5d9710e185c6efdb85e351")
 
 addappid(7731,0,"9bcca39524fe77c764f26a90a1cf91c6ffcead199407323ec346ca473166f9e4")

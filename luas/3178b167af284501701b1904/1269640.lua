@@ -2,7 +2,7 @@
 -- update time: 2025-10-08
 -- app_name: Beacon Pines
 
-addappid(1269640)
+addappid(1269640,0,"6820d67e249f7c6cf2327ea2f057de2bedc8149744f9a127ae5cbdd93e1c8c4a")
 
 addappid(1269642,0,"f576eea6649f2ec510238c9a20e94c69e8a7b32fecedd20915201a039bf25251")
 addappid(2141050,0,"5f27e09870f4c2de23d4e1fc1ec03b46fddc2ae12f30b112faeea67ab11fbf96")

@@ -2,7 +2,7 @@
 -- update time: 2025-12-12
 -- app_name: Tom Clancy's The Division
 
-addappid(365590)
+addappid(365590,0,"c60a25f974c4fb44812d897d8e039cc46c7bbecd45c1e7a4887e632f38a45370")
 
 addappid(365591,0,"cfc1408fd9eb22a20e55a7cc94c75065779da06a34d6826f63a48dcd380701ae")
 addappid(365592,0,"4ec2ab170d6a036fb1f870729fbdceecc329b5d4008b84451370f72a0d0d1c1c")

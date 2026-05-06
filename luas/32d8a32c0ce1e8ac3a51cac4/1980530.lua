@@ -2,6 +2,6 @@
 -- update time: 2024-04-15
 -- app_name: Kiwi Clicker
 
-addappid(1980530)
+addappid(1980530,0,"9fef4cf6c1f706e277f55b5825336bc4017347da039c42a467fe648119bc5ff8")
 
 addappid(1980532,0,"3a5bc1f555d8d6789c837e787d7e41f2468c0d1700d54b76c198d935c61d1bea")

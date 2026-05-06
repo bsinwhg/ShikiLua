@@ -2,7 +2,7 @@
 -- update time: 2024-11-06
 -- app_name: MORDHAU
 
-addappid(629760)
+addappid(629760,0,"3223357da5277da80bbd3758662cf12d5b24d8029be290a4c4b021ffb7b3d147")
 
 addappid(629761,0,"b82feeaa287d5a5fcbe7a872419a5876c55b9fd9952e9ffd61cca30199a3e475")
 addappid(1049020,0,"4a2aff4b390dddb370d3a1e16bc2c0e09da55926e097c1b3983a6ca11953e2c7")

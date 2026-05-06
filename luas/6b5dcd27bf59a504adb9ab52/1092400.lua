@@ -2,6 +2,6 @@
 -- update time: 2021-11-20
 -- app_name: 月球坠落时 Moon Fall
 
-addappid(1092400)
+addappid(1092400,0,"f78937ea65fb8161a9cb577c087b64dfbd038ab8c162ecaa7886bcfb48ab83ae")
 
 addappid(1092401,0,"bbb6799cb0c47c8bdaa611f2d59186b8e784fe0d2c7e78f946a4aad7fed57bf0")

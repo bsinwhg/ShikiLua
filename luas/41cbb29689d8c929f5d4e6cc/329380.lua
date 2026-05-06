@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Stealth Inc 2
 
-addappid(329380)
+addappid(329380,0,"e04dbfc4743277f52e21b7e4e375dcf305e14287b9c1c3f18afe898f8335279c")
 
 addappid(329381,0,"a3c07fd2ece3487a64ab625aefc5048a4582a987ac7a38998f99ee97512cef92")
 addappid(390760,0,"3b8f768c57110fd0dfa08f8c57167eb62dfc5433a386e13223ea4d1b344a5f26")

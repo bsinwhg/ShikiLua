@@ -2,6 +2,6 @@
 -- update time: 2023-08-24
 -- app_name: 坏兽联盟 | 劫掠模拟器
 
-addappid(1195420)
+addappid(1195420,0,"a892da7492e181a91934a319dfddeef601807f4d153872cb6dbc4edebe1920db")
 
 addappid(1195421,0,"986fbd3ee13199848d927aa99d007d5336651f9adcdb0981ac24458b7b527e9d")

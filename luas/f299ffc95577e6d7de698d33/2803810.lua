@@ -2,6 +2,6 @@
 -- update time: 2024-10-08
 -- app_name: 重生！我在古代遇佳人
 
-addappid(2803810)
+addappid(2803810,0,"bd81905ea074ebbbbe99ee8b172af423318008dbfa6298fd7757bfa4eef63d53")
 
 addappid(2803811,0,"73eccebf0686f4b26949e53b277068f6b408e3e52c0eba1d2aa3bc83cd767400")

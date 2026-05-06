@@ -2,6 +2,6 @@
 -- update time: 2019-02-28
 -- app_name: Thief of Thieves: Season One
 
-addappid(635390)
+addappid(635390,0,"f63f9a18b09673f4fd1c8007658466d1370d0f0ac053866655623195ca5ab632")
 
 addappid(635391,0,"8195f2f5dada9a65d3bddc358e63ffaf64654c0bfebfee76ad00fcf9c770f49d")

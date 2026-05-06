@@ -2,6 +2,6 @@
 -- update time: 2024-04-24
 -- app_name: Boxes
 
-addappid(2019810)
+addappid(2019810,0,"58385c41a5f93010803c9a03f2c6a59cced3eb7f546724f086b6d31f4d9b5add")
 
 addappid(2019811,0,"8cea3995d4cf96c6df7956209329e9da1a7a817fc1d2cd3b6a9d66833b16087a")

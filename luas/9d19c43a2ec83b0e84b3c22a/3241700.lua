@@ -2,6 +2,6 @@
 -- update time: 2025-01-12
 -- app_name: Hentai Ami
 
-addappid(3241700)
+addappid(3241700,0,"0380f0f9dd22a05ec06b3f8c329f1bb0b3e5298bdfbc4b64729064a0025facab")
 
 addappid(3241701,0,"f5480175bb4c41041110c49fcf844f988cbf05559d0fa5f59f3c35e08583b0f5")

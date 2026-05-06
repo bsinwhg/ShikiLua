@@ -2,6 +2,6 @@
 -- update time: 2020-04-23
 -- app_name: Slinger VR
 
-addappid(609850)
+addappid(609850,0,"1d779e08767cee6d6f6c92d846dcee4e7f5e00237222095056a9fbc787112dc3")
 
 addappid(609851,0,"2b295bbe6f188c1ab07b7eff0b5f88efff9e172caba5661b28ba254e9fb099ee")

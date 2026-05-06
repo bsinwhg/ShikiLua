@@ -2,7 +2,7 @@
 -- update time: 2019-01-18
 -- app_name: Among the Sleep
 
-addappid(250620)
+addappid(250620,0,"44f4e476fc9607134354cbee0d789f9527c06cc1abc52d255a70b69d4970841e")
 
 addappid(250621,0,"99f23e5a4e6a5b3bf98fb1887ad157255fa2fb65dce470d44881af234b9bd03c")
 

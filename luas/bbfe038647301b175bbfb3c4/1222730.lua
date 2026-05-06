@@ -2,7 +2,7 @@
 -- update time: 2022-02-10
 -- app_name: 星球大战™：战机中队
 
-addappid(1222730)
+addappid(1222730,0,"50cf2d1b6b39a8c282b35dd6212dd2fac2a1f3cfa803bf74519e3bbdd0f55566")
 
 addappid(1222731,0,"4f77dddb105c8e133c35b60b934a60080f3f6b346785c1c21ccfaa671a3f5355")
 

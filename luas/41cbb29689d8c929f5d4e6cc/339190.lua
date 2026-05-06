@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Dead Synchronicity: Tomorrow Comes Today
 
-addappid(339190)
+addappid(339190,0,"2d41a6487a2b41c5d4ace049615ab08d7220a753c690b6301d4f872b156a21b8")
 
 addappid(339191,0,"91724be708ade3b9b09307e91176def58ca294c80ab52a579cc59a2352d2a6a6")
 addappid(339194,0,"74197fc8b65d6947949803dbc8d1a5c53a5ede18126aace1a341168f29a4c561")

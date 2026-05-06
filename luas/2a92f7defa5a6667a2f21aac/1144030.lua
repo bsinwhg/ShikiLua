@@ -2,6 +2,6 @@
 -- update time: 2020-04-05
 -- app_name: Pesterquest
 
-addappid(1144030)
+addappid(1144030,0,"499e03f20ee7f2754dc4ec9b00ff0d88072e099cdaec267e3be2d24fe0601114")
 
 addappid(1144031,0,"c8318cb589a33ab0fe2072722aa200dac9629970b9db6bc7ae35debf6ef72f72")

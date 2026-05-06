@@ -2,6 +2,6 @@
 -- update time: 2021-05-20
 -- app_name: Heal
 
-addappid(1056610)
+addappid(1056610,0,"4cb79a98e6d904e7e0fa52fb471378f430edfbd43256716549783bbe30881749")
 
 addappid(1056611,0,"8f3bd1bec42af66b0cf5a417c7bcb3c7278cacb3d6222536b0fa4af5725e08c7")

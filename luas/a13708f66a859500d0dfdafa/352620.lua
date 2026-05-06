@@ -2,6 +2,6 @@
 -- update time: 2017-12-24
 -- app_name: Porcunipine
 
-addappid(352620)
+addappid(352620,0,"f398d5ce9bd1d3921fe03be68968632437ffd65b5d08109672e65eb1cf7d693c")
 
 addappid(352621,0,"b24b679d42a786cdd7ea052bd57d3f33a26e69e1383b7927f86ce199f0008b25")

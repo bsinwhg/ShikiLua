@@ -2,7 +2,7 @@
 -- update time: 2022-09-01
 -- app_name: 仁王 Complete Edition
 
-addappid(485510)
+addappid(485510,0,"4401fb38be028a72a201c075ea87aa8fbe6f606ecb4b6c35d5d99c3f18ed7be7")
 
 addappid(485511,0,"eebe92a206180d4e31103c85ffa51ad98d44f2be4b697bbeaf237b4657c589c0")
 addappid(485512,0,"eb4221176ff254f8b9987132654da11623fda14bcbd0782398d1a4baf1ec0eea")

@@ -2,6 +2,6 @@
 -- update time: 2025-02-07
 -- app_name: Full Metal Furies
 
-addappid(416600)
+addappid(416600,0,"35e3ea67eba3d947a92033a17dbc114331d5e42d78c7773cb9eb649db8a9b951")
 
 addappid(416601,0,"518c401dc1d1c756315999592ba9d8b8555f0b93fff363242c093fa2c81227ea")

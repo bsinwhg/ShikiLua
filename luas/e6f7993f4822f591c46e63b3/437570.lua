@@ -2,7 +2,7 @@
 -- update time: 2018-12-21
 -- app_name: GoNNER
 
-addappid(437570)
+addappid(437570,0,"56054a18952f55226cd2af5df21afd946c62d0ca79178dd87fcf6f4357be1061")
 
 addappid(437571,0,"74289b7f9336ad3a455a221cf3715e45aa22d3e8b7c4b2f6cbb98fa5b60f96fd")
 

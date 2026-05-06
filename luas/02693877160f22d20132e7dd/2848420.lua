@@ -2,6 +2,6 @@
 -- update time: 2024-12-23
 -- app_name: 我的魅魔库库拉
 
-addappid(2848420)
+addappid(2848420,0,"550edb5eb1a9bf2bbec7ac13ba088ef707323cec9230d38163384f85ef06b2f8")
 
 addappid(2848421,0,"fedf22bb7e1a3e505e1e90d64b8189790bcb07edd621bcbfd2fa66c770689edb")

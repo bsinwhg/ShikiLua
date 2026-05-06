@@ -2,7 +2,7 @@
 -- update time: 2023-05-02
 -- app_name: No More Heroes 3
 
-addappid(1744330)
+addappid(1744330,0,"94ab039d72ec3d6b29489a4d657bbcf3fdbd05715f5e46df840b4aa7b96f9aee")
 
 addappid(1744331,0,"35a5ff9a91ea79ea241820f3d5554be376a9c4b89f22b978a942503b118de9af")
 addappid(2122940,0,"ce09861c8c655507f29b5d8263d3edf1590a305e2b48e4d1d9ed9fec0bf5ec31")

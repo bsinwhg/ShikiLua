@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Hamilton's Great Adventure
 
-addappid(42140)
+addappid(42140,0,"da7760e3d409b6650b13cc9e4fd1bbd2a8b5f307085c298e6479885b83c18e1d")
 
 addappid(42141,0,"1fd7aab3ea8fd864b2adc9fa2589cb321af94a82e11ec802bd4cd8997c4dd287")
 

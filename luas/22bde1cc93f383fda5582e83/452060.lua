@@ -2,7 +2,7 @@
 -- update time: 2020-05-01
 -- app_name: Caveblazers
 
-addappid(452060)
+addappid(452060,0,"f37dc8bf0646ded675c998f9db0e0eca0590e94e966c9b8de337ada33b707334")
 
 addappid(452061,0,"e3fe57fa8518c9e1fc98bee89c9fa755633bd25bc0a03be9f3a6688b4fa35cb9")
 addappid(641430,0,"32d5d77d1ef907fa651428da7212e1523d62f0d2d3cdf75633985fa39c0574f3")

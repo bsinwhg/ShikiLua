@@ -2,7 +2,7 @@
 -- update time: 2025-12-09
 -- app_name: 小小贴纸铺
 
-addappid(2303350)
+addappid(2303350,0,"e038a6adb4b26502b9029ab2d98da5ae32abc191c6da44a6853f57b77a5561ee")
 
 addappid(2303351,0,"e1e5834a839e5d6d19511a78badedf71f87df39381b487d0bf337e5604d59ca0")
 

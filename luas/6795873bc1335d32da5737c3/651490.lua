@@ -2,6 +2,6 @@
 -- update time: 2026-03-09
 -- app_name: 昨日难留
 
-addappid(651490)
+addappid(651490,0,"59e5dbae2620b6bbb39df67f78fa460868160090eb3132963987f2bf5cac5f13")
 
 addappid(651491,0,"69d7abf812ee10e6bcdcd66e24999877fd1c8066948c8625a2e6d863a4e79bb5")

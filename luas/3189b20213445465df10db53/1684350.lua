@@ -2,7 +2,7 @@
 -- update time: 2026-02-12
 -- app_name: 奇唤士
 
-addappid(1684350)
+addappid(1684350,0,"85f048d988d53ff54193cbaa62cb9eef004de3ad2c7b3982d58afee053cb4bb2")
 
 addappid(1684351,0,"ee43cc0e393840ecaac611a0073adbc587d24dddbadc78b4f9eaa4c734e05db8")
 addappid(2777010,0,"50a8ec9ef2bd894138ee8b3ec55a17c94786242be5d687bf93c6464ee7d0ba6a")

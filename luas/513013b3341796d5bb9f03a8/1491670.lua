@@ -2,6 +2,6 @@
 -- update time: 2025-10-07
 -- app_name: Venba
 
-addappid(1491670)
+addappid(1491670,0,"85b6a29c830a584b49682e8f496b8a9cdb7c0f819fbae890e8d91abf5d211d15")
 
 addappid(1491671,0,"09dc31cd91dfdb17e84c1a025f2cbb38913889fac35ab621a1edb11e6eb66f6d")

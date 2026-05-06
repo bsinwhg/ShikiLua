@@ -2,7 +2,7 @@
 -- update time: 2021-10-13
 -- app_name: Spacebase Startopia
 
-addappid(840390)
+addappid(840390,0,"68e1509443a3991b2a0d604f71e8ff4343dc87af1d805cbabaebc81a242fc745")
 
 addappid(840391,0,"b9bac16b9d02f2fb3fc96b3e1f5c7e957c8e9471a8bea6a871d19ff0a97174fb")
 addappid(840392,0,"355054a4f98ae7fa787a385d04f4f92afe7e0b886f6346f2f29f27a32bed7b25")

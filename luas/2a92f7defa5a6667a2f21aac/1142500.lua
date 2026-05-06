@@ -2,6 +2,6 @@
 -- update time: 2020-09-03
 -- app_name: Fun with Ragdolls: The Game
 
-addappid(1142500)
+addappid(1142500,0,"0d69a654f8d62e40191b3ebd007a641b7e0608763504a9a3d54f38e87bf99882")
 
 addappid(1142502,0,"8ae29460936da602bb6348b2bd021640a608e8bc0eb6f0c4e5cf356cd12231f1")

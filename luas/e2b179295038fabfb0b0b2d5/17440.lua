@@ -2,7 +2,7 @@
 -- update time: 2017-03-20
 -- app_name: Spore: Creepy & Cute Parts Pack
 
-addappid(17440)
+addappid(17440,0,"b720101b1c583deb634e3cd00c2f7d28e66a787403bfeb66d0e2800b0bf0d83d")
 
 addappid(17391,0,"c0e319f9c0a8603bdd501f50eade86c684467f3225d3920a9b82b30bcf81199b")
 addappid(17441,0,"d36bab5ea285050f33cb6ef2dcc79cad6b1f18e171159551761d207c31b1553d")

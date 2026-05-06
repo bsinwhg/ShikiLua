@@ -2,6 +2,6 @@
 -- update time: 2019-11-12
 -- app_name: Regular Human Basketball
 
-addappid(661940)
+addappid(661940,0,"88741f61f75d8eec440fdbf731a208096e56c2fb5c197390d1331dc76c9247a7")
 
 addappid(661941,0,"4ada3ae8031250a1c304f51d33cf572087160797195fdabbe0bebea718c95c1c")

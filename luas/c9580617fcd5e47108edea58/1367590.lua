@@ -2,6 +2,6 @@
 -- update time: 2023-12-05
 -- app_name: 受折磨的灵魂
 
-addappid(1367590)
+addappid(1367590,0,"0c719ccd26bd4ba297451fed4704230499ba7dabe2067c3742cdf4a65070b223")
 
 addappid(1367591,0,"8d266d458eb33548cd821afee1d03b3b3dac003b602b36e3f35e7c2dfbf95ee4")

@@ -2,6 +2,6 @@
 -- update time: 2025-09-02
 -- app_name: 街头抢地盘 Street grabbing of territory
 
-addappid(3197930)
+addappid(3197930,0,"66186c20c0b5cda944069fbde493fb9ebbb4fabdfccfdbbad9efcebcd8a5ed41")
 
 addappid(3197931,0,"649dca7941b00d5c8e5ed125fa5e0e14be3c1179e916b9128f30d5ff24cb99a7")

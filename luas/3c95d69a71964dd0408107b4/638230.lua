@@ -2,6 +2,6 @@
 -- update time: 2020-12-10
 -- app_name: Journey
 
-addappid(638230)
+addappid(638230,0,"82c9cf0893a03d37d26a8e7bca505241b1e6375b3603af91f490f4222543fd5b")
 
 addappid(638231,0,"b49b74a2b8b9170fde12db70ff5271bfbe8cbd48407f3eab8bbe23f4671a4ba7")

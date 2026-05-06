@@ -2,6 +2,6 @@
 -- update time: 2022-08-30
 -- app_name: SILT - 黯海
 
-addappid(1325890)
+addappid(1325890,0,"18abd4206a968b91dc7f21316c008856c9d9e63cecf2c3e24857b281f20cc3f5")
 
 addappid(1325891,0,"3e9ae73b41ab1ac368773e2d91041f3db6b16707574f4e561ae7aa7c032cc130")

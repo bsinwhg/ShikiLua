@@ -2,7 +2,7 @@
 -- update time: 2024-11-18
 -- app_name: Grand Theft Auto: San Andreas - The Definitive Edition
 
-addappid(1547000)
+addappid(1547000,0,"ca7f99c2b9d94c16db93def0b731d526d31af35942c4737a9706cfdb3849a9ad")
 
 addappid(1547001,0,"625ab457b256e557dc28337fec8a01b39731624ee6008b92670ac977c2691806")
 addappid(1899671,0,"b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b")

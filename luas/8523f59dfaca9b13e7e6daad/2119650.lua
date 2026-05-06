@@ -2,6 +2,6 @@
 -- update time: 2024-05-21
 -- app_name: 便利店开业日记 (Convenience Stories)
 
-addappid(2119650)
+addappid(2119650,0,"33ebdf904b7a7a71391d34bee09142eb0f3356bc3bc5b7d53a70ea9f63b0084e")
 
 addappid(2119651,0,"b39bb0c3aeebfa987ee4c197a2da4d739d10ca111102dfb96be8f25c9015082b")

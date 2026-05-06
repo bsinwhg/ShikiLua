@@ -2,7 +2,7 @@
 -- update time: 2016-03-31
 -- app_name: Sleeping Dogs: Definitive Edition
 
-addappid(307690)
+addappid(307690,0,"9e72d6ce581ccfbe8447dca7ced57bc5ea87c35db639b7d3d9f8cf8162df892a")
 
 addappid(307691,0,"16e218fadcf1fd663c320861c008944503ae0e2725445797fd5043efb3806809")
 addappid(307692,0,"ccb1da56b95d82ffb9c3d29e4c19b6a782988c14c610a8ca674ead32d0f6cc8d")

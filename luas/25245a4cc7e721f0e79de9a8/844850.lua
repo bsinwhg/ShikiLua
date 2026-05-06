@@ -2,7 +2,7 @@
 -- update time: 2021-11-10
 -- app_name: Tower Hunter: Erza's Trial
 
-addappid(844850)
+addappid(844850,0,"13a0b789e36a06baa41a0b7a256c8cb2c9d8ec9b0f44ee27335b2063058c99b8")
 
 addappid(844851,0,"5c5c04ea58636e5a5d58daf4e989c197fd085a71373a1f9863d5e3ca29ef1021")
 addappid(961630,0,"5a03343c44e226c340b33a8020a27cbe42d3269fbee928d7cf16a6f71ab4351c")

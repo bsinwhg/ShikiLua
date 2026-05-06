@@ -2,6 +2,6 @@
 -- update time: 2026-04-12
 -- app_name: Rocket Boots Mania
 
-addappid(942200)
+addappid(942200,0,"f6a3b328c052de594f2830ac2d818c44f6472c43077de6c0185df21f7f2ef6b1")
 
 addappid(942201,0,"21cb98a766189b88e303ff57aa062e50aeb0fc26893b37ec33746226072177ed")

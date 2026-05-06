@@ -2,6 +2,6 @@
 -- update time: 2026-03-24
 -- app_name: 罐舱逃生指南 Tin Can
 
-addappid(1315980)
+addappid(1315980,0,"2410de2961198e66b62cc343169fafee760f2201e8876aa7867feab76a47fcc0")
 
 addappid(1315981,0,"fc760633f505c981a24179342210f89be1be36ca4e17f7f4f1cd49567454e94c")

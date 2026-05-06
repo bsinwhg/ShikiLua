@@ -2,6 +2,6 @@
 -- update time: 2025-03-13
 -- app_name: 迷雾侦探
 
-addappid(828740)
+addappid(828740,0,"7188bce55255e68b46502a51c80b028484c76242c86cacc3b39c9d0885a65bb9")
 
 addappid(828741,0,"c065764b26ed23b3f7dec59e133858ad256fb3df8cfc6b89c4fab92e38c0e1eb")

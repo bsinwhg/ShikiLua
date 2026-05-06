@@ -2,6 +2,6 @@
 -- update time: 2025-02-22
 -- app_name: 小行星X
 
-addappid(3342540)
+addappid(3342540,0,"813c55e6f36eb83aaef08df23bdd2a5f84ba8ac104d486095c5f50f0e3ac6adc")
 
 addappid(3342541,0,"3e604a42b238499860f58bf32cd8db5d6cb44738665718f1d1ee241df8b37da9")

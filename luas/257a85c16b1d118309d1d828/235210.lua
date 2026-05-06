@@ -2,7 +2,7 @@
 -- update time: 2023-12-04
 -- app_name: Strider
 
-addappid(235210)
+addappid(235210,0,"921588f8686aab3c305d4ac38045245514596a61f8b42fd0c6e2d5fdcb4cf11b")
 
 addappid(235212,0,"f6d661cba339f2c874731a36916f13b62cdd6c17a99cde94fa5decb56e7d3b95")
 addappid(278610,0,"b88e6a98be71d98985d966f3fac895d1ae226d64a028137ce32de8abc8db2413")

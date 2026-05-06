@@ -2,6 +2,6 @@
 -- update time: 2019-07-24
 -- app_name: 下一层的封魔塔 Forever War
 
-addappid(1089810)
+addappid(1089810,0,"80203159029a7c149e4c6d796305c6506e75e615b96341433cd72a879bbbf377")
 
 addappid(1089812,0,"d25bafea34164622b98643729baeff046d4334d9e28c5e4c2ed275f19104c6fa")

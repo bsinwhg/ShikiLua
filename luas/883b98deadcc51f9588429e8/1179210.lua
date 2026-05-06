@@ -2,6 +2,6 @@
 -- update time: 2023-06-20
 -- app_name: Kill It With Fire
 
-addappid(1179210)
+addappid(1179210,0,"3420dedd65a71076208e6b6ca93b68f9e0611e369d66d7ef9dfa9aeb91a652e0")
 
 addappid(1179211,0,"c6ef30beeea1da53720b5c4920b9c7d3c83112860d53632079e274fcbc0c7745")

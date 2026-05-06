@@ -2,7 +2,7 @@
 -- update time: 2026-04-02
 -- app_name: 地下城资本家 (Dungeon Tycoon)
 
-addappid(2400770)
+addappid(2400770,0,"2991e56d2e58a10b2b952ac037812c49bf9528b688111761364b488a6aca4035")
 
 addappid(2400771,0,"2702fa62592dc31adb894183b5c31b2408a5c5e3050c2c263441a0319cf00c3c")
 addappid(3233000,0,"a4944acb674c6afff8251dfb07f4cabfcce477eac25c724619ec3b5e1ce5c0bc")

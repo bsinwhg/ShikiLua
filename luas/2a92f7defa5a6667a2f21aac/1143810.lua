@@ -2,7 +2,7 @@
 -- update time: 2023-09-22
 -- app_name: 云端掠影 (Black Skylands)
 
-addappid(1143810)
+addappid(1143810,0,"f8792acd60d13b809a4dc70d50516d8b0fb00909ed4defa1f2cb7db73d0c19b0")
 
 addappid(1143811,0,"f1be9d8e6df2ff518fad12aaef496dd12e89500f6827193e9660bf84dbb53aee")
 addappid(1799480,0,"e81dffde37487dea48e17245e183fbc4687e9273a903391960be64b41f6204dc")

@@ -2,6 +2,6 @@
 -- update time: 2022-04-17
 -- app_name: QUICKERFLAK
 
-addappid(1836120)
+addappid(1836120,0,"b127d6759dffd862f4dc1bd96e236546dfae93717214cb987d16d98582c0f19c")
 
 addappid(1836121,0,"f849496b103435e0bed13166cc8469f528bcc0415aec9c5ec338bdc5be48d44f")

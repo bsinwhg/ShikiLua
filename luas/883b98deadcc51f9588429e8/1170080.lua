@@ -2,7 +2,7 @@
 -- update time: 2025-10-10
 -- app_name: 预言奇谈
 
-addappid(1170080)
+addappid(1170080,0,"92dcda723c2469fb6a03d0b61fbcefefcc5327f3429bcc052e4baa2e29606c18")
 
 addappid(1170081,0,"1616174f8cdcddea4692dce9b0c7eb9ebbd16b1043ab81b14813ae8f3f67d8a6")
 addappid(2080350,0,"bd5151c3f04febcbf44e0d9600f5fbd7c1044f70eb4c4c0a1c1878eff1e6d007")

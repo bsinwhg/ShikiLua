@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Pumped BMX +
 
-addappid(392070)
+addappid(392070,0,"5a35fb0ebde6ddbde51ae89a9238fa99973c7a860a1fa762826fb1ad71a85ba8")
 
 addappid(392071,0,"b22e8ec2ede5e1a2f442e4bce9546f55233d63fb1c94204b0e3a8eba41e6c6c7")
 addappid(403140,0,"200712008d1533ec3561aa53c8bcc89ab478d98e9669afdcbf9f671c42c6e367")

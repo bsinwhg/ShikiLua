@@ -2,7 +2,7 @@
 -- update time: 2017-09-26
 -- app_name: Hidden & Dangerous 2: Courage Under Fire
 
-addappid(703320)
+addappid(703320,0,"7b9adf66464f1d558183128a049d03554bc2970842ffd4afc0f5b06ea2cc9d88")
 
 addappid(703321,0,"90d29815666210aca48efac852ec34cfd11f206aa0a418afab806939dac3df65")
 addappid(703322,0,"2e0ccc974522b48c11eb220529d8a37d7e5650fe7bb7202e7242a4a31f5eae30")

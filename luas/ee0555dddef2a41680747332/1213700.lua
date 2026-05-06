@@ -2,6 +2,6 @@
 -- update time: 2021-02-04
 -- app_name: Spirit of the North
 
-addappid(1213700)
+addappid(1213700,0,"1d9c82af8a911a5237abee1550e72d6d1477037d3344daefed3ba52af30683b2")
 
 addappid(1213701,0,"4dfe3c7a1d433a9b7102f47919dde1f0b94b175cad010ab9041d54ec05c6ab4d")

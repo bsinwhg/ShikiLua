@@ -2,7 +2,7 @@
 -- update time: 2025-10-27
 -- app_name: 世界树的迷宫Ⅱ 诸王的圣杯 HD REMASTER
 
-addappid(1868170)
+addappid(1868170,0,"bccc09d5339700b373aaf2f95a7d40c3599404a0ecd965546199e108b7389840")
 
 addappid(1868171,0,"f154df4a3db1d8bdc4a4d12e40437ffaae407bda2ade06184b6519e425beec5f")
 addappid(2054910,0,"a01ce5abe52ea15038012fb9fdeadf79bd94abc813fae754fb6de08c2492ba12")

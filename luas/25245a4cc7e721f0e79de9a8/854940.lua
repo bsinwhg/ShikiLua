@@ -2,6 +2,6 @@
 -- update time: 2021-12-08
 -- app_name: Ikenfell
 
-addappid(854940)
+addappid(854940,0,"6601b2c36319d60892241c1b6eff01825c1dc3047ca8bcc7ea736782fb14ac4e")
 
 addappid(854941,0,"06aa4f1d162e979c09789fa6809c004c3b27a3c0b2616523957003bd3b7ec3ee")

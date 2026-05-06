@@ -2,6 +2,6 @@
 -- update time: 2025-10-04
 -- app_name: King Of The Castle
 
-addappid(1839880)
+addappid(1839880,0,"f4648a7d404ece2286f95ef3c46adb4170aaaab851d6fb3ce0643f897a3e20ec")
 
 addappid(1839881,0,"8e044d9d287eecba989eb3c12389ec1c29e7f9abccda063c4e038c6f2e553bc1")

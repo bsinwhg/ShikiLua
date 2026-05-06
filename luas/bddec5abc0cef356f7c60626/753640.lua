@@ -2,7 +2,7 @@
 -- update time: 2025-10-06
 -- app_name: Outer Wilds
 
-addappid(753640)
+addappid(753640,0,"71c9b9745ab2ff71228d1fa444fb74b9f9f04b129ed339af354bb409fc820c33")
 
 addappid(753641,0,"57452658900ae11ac7c0e91c17d64353fa62936759ca202f4ecbbc9f29cf4b60")
 

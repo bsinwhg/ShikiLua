@@ -2,6 +2,6 @@
 -- update time: 2024-04-23
 -- app_name: Project Chemistry
 
-addappid(1270620)
+addappid(1270620,0,"507cae66a7cce545eeb05f775dc7d7f2bf281404e7a92161cce1da1dd1deb79a")
 
 addappid(1270621,0,"6af144d6b3b6e0fcf9946d7bfa0318f8d622f08b7eb509c0eacc7d283890d6d0")

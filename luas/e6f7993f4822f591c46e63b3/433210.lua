@@ -2,6 +2,6 @@
 -- update time: 2016-09-28
 -- app_name: Rhino's Rage
 
-addappid(433210)
+addappid(433210,0,"27fd9d4af91fa3183ffa1206ba57ddfe7018e6828360997135b7199dcbb75fbe")
 
 addappid(433211,0,"8edde3d3b2956c420b96988af16ac72bd12de5c4784dfcddc94bc7e6b5e8b564")

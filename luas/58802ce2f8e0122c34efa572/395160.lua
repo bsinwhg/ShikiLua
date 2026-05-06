@@ -2,6 +2,6 @@
 -- update time: 2016-03-22
 -- app_name: Toby: The Secret Mine
 
-addappid(395160)
+addappid(395160,0,"3e140192e812419756d74694eb21958e72eaac84d5360c23df342899ee657195")
 
 addappid(395161,0,"91b6547841bfc751840cc14d8e8e907938c50548fe8f60b1cda71c801642d4fc")

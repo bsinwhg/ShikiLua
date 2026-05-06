@@ -2,7 +2,7 @@
 -- update time: 2025-10-08
 -- app_name: Encased
 
-addappid(921800)
+addappid(921800,0,"f35e2b7134699de2274f484b15561efb2897b24f390c6769692efd8d871eb505")
 
 addappid(921802,0,"0095b8886c00aa0f3110d6fccc692ac7dda259078bf7801d0c8992a62d6ef30a")
 

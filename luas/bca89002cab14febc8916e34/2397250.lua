@@ -2,7 +2,7 @@
 -- update time: 2025-11-03
 -- app_name: 大头盔英雄
 
-addappid(2397250)
+addappid(2397250,0,"9b1e5266b524492943cd38a8bc9bb0400364ac4708933c7ff8fb88c492cc29fe")
 
 addtoken(2397250,"18120428214952651223")
 

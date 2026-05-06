@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Dogfight 1942
 
-addappid(217790)
+addappid(217790,0,"46c105f4a5ab5fcb4eabd2f80cba8b9ee95a7400576104eb424370337fa83a58")
 
 addappid(217791,0,"942dafc1da2054aa371226cec3a5414cb15d69f7a5c979e01c4f00fd0cf228e6")
 

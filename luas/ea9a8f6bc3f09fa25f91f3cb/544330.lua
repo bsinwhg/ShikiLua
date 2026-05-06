@@ -2,6 +2,6 @@
 -- update time: 2018-03-27
 -- app_name: Snake Pass
 
-addappid(544330)
+addappid(544330,0,"67e36bbad5f0d98c035e2ac3f297069aa4fa93efe248bebb8a6e11fee638251c")
 
 addappid(544331,0,"d0197394adf343e4286167f4abea752c2532483c9e998cef798f96b503cfda6e")

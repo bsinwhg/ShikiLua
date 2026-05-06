@@ -2,7 +2,7 @@
 -- update time: 2025-02-11
 -- app_name: 花园生涯：模拟佛系生活
 
-addappid(1915380)
+addappid(1915380,0,"6304b63b9abeaa60d57acc283900f9ce550f56055a283ed6e07bd981ac7442db")
 
 addappid(1915381,0,"7a8eb0ea6b14c163b1032bc4fd042146b492d7e9f44067fe78e291058b28a9ac")
 

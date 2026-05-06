@@ -2,6 +2,6 @@
 -- update time: 2019-06-26
 -- app_name: Paper Dolls Original
 
-addappid(1051310)
+addappid(1051310,0,"75bbb913ea742d0616148a6f8c7c333624bd2c39ad2891bb8f356842223373c4")
 
 addappid(1051311,0,"7703818b7761602a9381f5fc9e6aaa500b7497414ecd56d40ce1ceed9485157e")

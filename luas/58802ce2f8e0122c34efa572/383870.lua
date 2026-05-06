@@ -2,6 +2,6 @@
 -- update time: 2021-12-22
 -- app_name: Firewatch
 
-addappid(383870)
+addappid(383870,0,"4a62c511c151cea2dc5089e320a059f8cdfc42e32b6c3377c6e9553a06b1d318")
 
 addappid(383871,0,"1a37285423d17dfbf1e4c0f3319192c79b8a2bf6d5c861b36298bc14504faa9b")

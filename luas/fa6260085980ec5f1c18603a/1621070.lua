@@ -2,6 +2,6 @@
 -- update time: 2026-04-05
 -- app_name: DeadPoly
 
-addappid(1621070)
+addappid(1621070,0,"39b434885f2b25f4fab8227abbb718037ce01cfbccab20ce0c677573e09a314c")
 
 addappid(1621071,0,"951c583576350f9dc860d4bfbb2e454318d1d09c31f9c2e57f7bbee6986407f8")

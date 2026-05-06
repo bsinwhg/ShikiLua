@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Velocity®Ultra
 
-addappid(244890)
+addappid(244890,0,"5109edd6cf87e616ebcb324ede0885dc1add3ebf6d922189518ffb1e6ac7a5fc")
 
 addappid(244891,0,"e87af81c79a12affe3c7ed68f95951a50607e5ba5045b6b266527cd3508f0997")
 addappid(267880,0,"66b921b9865cb6490659a0063122cbd9ab8ca8e6e3ee40155f7c146837186fcb")

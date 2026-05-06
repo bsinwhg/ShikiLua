@@ -2,7 +2,7 @@
 -- update time: 2026-03-05
 -- app_name: Lil Gator Game
 
-addappid(1586800)
+addappid(1586800,0,"6bce2397198ae56d9917b20933d6e1456d69c65c78feb7ba2edf50dcc2e58410")
 
 addappid(1586801,0,"227ab3e720c1ec72a87cbd830e798cf009052c2b03872d8fec0ed09e0fba893e")
 

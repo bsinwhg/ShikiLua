@@ -2,6 +2,6 @@
 -- update time: 2026-01-14
 -- app_name: Liar's Bar
 
-addappid(3097560)
+addappid(3097560,0,"574da201aacf30afed04043b3920e57df7ca095c15dc2489cd115147b46796c9")
 
 addappid(3097561,0,"86eb48bd45b0ad6b6c525996f1844bb03ddd150dff04f65f5119418b10017dd3")

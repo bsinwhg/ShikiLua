@@ -2,6 +2,6 @@
 -- update time: 2025-10-08
 -- app_name: 环形子弹
 
-addappid(1167680)
+addappid(1167680,0,"27aa2e3b1c9c991520ff4a6b00f34a999cdf54ee70b08cebacde9b06c7446a44")
 
 addappid(1167681,0,"dc0b3e9ed4721c6021fde75fed36862324e101a7d0c33900818a4af8b58c6753")

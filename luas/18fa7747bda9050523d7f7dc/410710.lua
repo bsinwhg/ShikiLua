@@ -2,7 +2,7 @@
 -- update time: 2021-01-22
 -- app_name: System Shock: Enhanced Edition
 
-addappid(410710)
+addappid(410710,0,"b7d5348eae0d76cb039068580828228457f69fd8f5acd7dd9daabf828a2d9bd9")
 
 addappid(410711,0,"366e2a5a2116895d93fd7c7c2f77a6d125fe5b9e34acad65e9f9f497521c4d12")
 addappid(410712,0,"f025932a6e27bfa5bc70f7acefcc516f97de2941e5304b2a70cd39996d681730")

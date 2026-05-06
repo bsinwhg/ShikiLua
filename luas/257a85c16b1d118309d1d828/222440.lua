@@ -2,6 +2,6 @@
 -- update time: 2022-03-30
 -- app_name: THE KING OF FIGHTERS 2002 UNLIMITED MATCH
 
-addappid(222440)
+addappid(222440,0,"42c2283e7eaaf5ff54dbd8b2ae603c2ebbc5f7bcc95572ed02a1f6d4ef62a605")
 
 addappid(222441,0,"ecc4bf27f87ee88b4bb037ee5747c78dea710c160d950c9204f19d7e6a8deff6")

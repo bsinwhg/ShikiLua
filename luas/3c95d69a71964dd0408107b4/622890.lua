@@ -2,6 +2,6 @@
 -- update time: 2020-03-26
 -- app_name: NecroWorm
 
-addappid(622890)
+addappid(622890,0,"00d3bc1c2d1d5b28cc5600f9c9e4b11f9c6b9a266c2e3941513c8956e99c5ee9")
 
 addappid(622891,0,"c11003920b486fb663fc08a0c9d39ee20aabcb97a96cfa51582952b87ecd71a6")

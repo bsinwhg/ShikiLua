@@ -2,7 +2,7 @@
 -- update time: 2025-04-28
 -- app_name: 摩天机动队（Danger Scavenger）-赛博朋克风-3D动作闯关-肉鸽游戏
 
-addappid(1169740)
+addappid(1169740,0,"3c5620a9fd8202c23ebe21eb69ebf7b267a5c34d8f6652d8c7036bdfaac75440")
 
 addappid(1169741,0,"98fe95448382458b341568872cce63d29cac0b501597d7941de7e3b0108581e8")
 addappid(1877120,0,"ea3cb8b14df82204ce0c4b7f2ae4a54de59f9f031eed2cbd4c3413b24d633d83")

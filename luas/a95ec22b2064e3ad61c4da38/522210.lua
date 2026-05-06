@@ -2,7 +2,7 @@
 -- update time: 2025-08-21
 -- app_name: 连环清洁工 
 
-addappid(522210)
+addappid(522210,0,"5703acc84eb67f9ffb13efafc2c636d5e74586268e4fae37cd01017bb1006006")
 
 addappid(522214,0,"14a00acfd66f1972d9e61ec946c2cb0f9f08bfaed149a0e16199432fc1cf1f1f")
 addappid(653230,0,"5a6640ea4a7a9b485104a217c4e142abc72a6c92bceebf007d76964adc5a3553")

@@ -2,6 +2,6 @@
 -- update time: 2025-10-08
 -- app_name: Sunlight
 
-addappid(1451120)
+addappid(1451120,0,"bc0b85d9c1bcee14c03b99c73d56602788cba64ba9e464940a614dde11b9ea84")
 
 addappid(1451121,0,"0050bd4eaf311db16953f1ee2408431ec4e6b2e05149f018cefa1ca8debe0d9b")

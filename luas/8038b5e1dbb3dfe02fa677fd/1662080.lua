@@ -2,7 +2,7 @@
 -- update time: 2025-10-10
 -- app_name: Goonya Monster(咕喵怪物)
 
-addappid(1662080)
+addappid(1662080,0,"8478256ceac70a8412c9092bed48b5805049661430c9a13e2f2a8be8d1dee2c4")
 
 addappid(1662081,0,"27fe0f7c0846d79cfc60aa188b8e4b089bcbfe20c5fe56e23fe29c7b95192149")
 

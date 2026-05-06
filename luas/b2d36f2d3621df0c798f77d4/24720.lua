@@ -2,7 +2,7 @@
 -- update time: 2024-10-23
 -- app_name: Spore: Galactic Adventures
 
-addappid(24720)
+addappid(24720,0,"166475d9209c55c867eac17a19d1945997a530dc268358f628b65dceb37fcf91")
 
 addappid(17391,0,"c0e319f9c0a8603bdd501f50eade86c684467f3225d3920a9b82b30bcf81199b")
 addappid(17441,0,"d36bab5ea285050f33cb6ef2dcc79cad6b1f18e171159551761d207c31b1553d")

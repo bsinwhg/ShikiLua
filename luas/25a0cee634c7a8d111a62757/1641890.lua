@@ -2,6 +2,6 @@
 -- update time: 2022-02-07
 -- app_name: Lust from Beyond: M Edition
 
-addappid(1641890)
+addappid(1641890,0,"8cf589a95f144350b4e269f955f0d58a8a5b45ec7997aff48e318b759d9b9c30")
 
 addappid(1641891,0,"42fffa773e33caaf34fc4fba3245527648838b6b060b0957625f4bb0b95d5429")

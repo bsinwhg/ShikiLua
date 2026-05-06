@@ -2,6 +2,6 @@
 -- update time: 2024-06-17
 -- app_name: 电影工坊物语 (Silver Screen Story)
 
-addappid(2101290)
+addappid(2101290,0,"b5a764d0a0de3d7ef8fc57b73232aae77f3688d5d2bec432c9cffec4c63de470")
 
 addappid(2101291,0,"d19970a28b1724c943c5c15bdfb8030f94d2219cdc4db51152f16f3250e16155")

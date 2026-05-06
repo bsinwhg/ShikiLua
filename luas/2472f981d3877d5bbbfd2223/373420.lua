@@ -2,7 +2,7 @@
 -- update time: 2022-10-07
 -- app_name: 神界：原罪增强版
 
-addappid(373420)
+addappid(373420,0,"ad06117fd51082c990e98885a58a2a0ea92de120e6b5feecfbde70e9c7a40fbb")
 
 addappid(373421,0,"4bdd0a49bba46dde3cfad94029f90fe5a8086b1e47ed61a89c5f5016b91aa1f4")
 addappid(373422,0,"f41c1f0a77d4e602fffd8b2fd7e4682893d822f3b109870844b27d1926bb5f63")

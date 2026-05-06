@@ -2,7 +2,7 @@
 -- update time: 2021-01-12
 -- app_name: Shenmue III
 
-addappid(878670)
+addappid(878670,0,"1f971587a4d0e9fcee573edf56e3fad2c147ba8b75b3abd6713d79feb1afb945")
 
 addappid(878671,0,"664c311e20bc756c8f1a41ecdc66eb10e36c82259c9ef242379a7b1c087bb5bb")
 

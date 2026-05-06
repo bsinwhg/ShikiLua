@@ -2,6 +2,6 @@
 -- update time: 2026-03-31
 -- app_name: Baby Dino Adventures
 
-addappid(1271910)
+addappid(1271910,0,"7ce6beb2bea8a294b4fe11b5f5b298feb2a4291d8758678dd8651752e99f18be")
 
 addappid(1271912,0,"1e62c2e65a9ff69ea2d1399c5aed39fb96a82b5aad5a755ac126757632dc3283")

@@ -2,7 +2,7 @@
 -- update time: 2025-10-04
 -- app_name: SuchArt: 艺术家模拟器
 
-addappid(1293180)
+addappid(1293180,0,"3805a65dfff9f08a6d0ebf7c8bcb87da26cfdbfc89e2fb0333d3cf7a9509eb33")
 
 addappid(1293181,0,"f6079b2733d87ac0376cd47ec42e78ccb05f39cf6e4fd42aac21f2c5a1babd4a")
 

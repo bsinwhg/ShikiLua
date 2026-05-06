@@ -2,6 +2,6 @@
 -- update time: 2024-10-28
 -- app_name: Takelings House Party
 
-addappid(868150)
+addappid(868150,0,"173b85feff64a230eac1414c94f86deb361d6ece01e957c1346d41820f9e55f8")
 
 addappid(868151,0,"18885cd77c8888cc10a3a749c2e9f60e1a7c71d546844da66a4885c97cc5d4f9")

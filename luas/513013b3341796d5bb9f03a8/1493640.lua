@@ -2,7 +2,7 @@
 -- update time: 2024-10-16
 -- app_name: 驱灵者：新伊甸的幽灵
 
-addappid(1493640)
+addappid(1493640,0,"a547a4427139353c3487e5f08dc562c1b87ef992b98492cd43f43bf784a5a0f4")
 
 addappid(1493641,0,"326c7fa2a40d5873408cd1acf39a170f5fa5bfe71400e373310c48f5f154923c")
 

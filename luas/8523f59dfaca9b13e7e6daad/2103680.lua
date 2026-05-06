@@ -2,6 +2,6 @@
 -- update time: 2026-02-20
 -- app_name: Mediterranea Inferno
 
-addappid(2103680)
+addappid(2103680,0,"ff5d58bc57ecc4128f3c6a186ad213b97ba00c3dee7fb1c35b2ac6365203a279")
 
 addappid(2103681,0,"1f43b05541f77d6a40e9b83a1c30c4ec2c29c926bd86d4057cd33cf27bb0595a")

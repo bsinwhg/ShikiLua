@@ -2,6 +2,6 @@
 -- update time: 2025-09-19
 -- app_name: Tomb Raider IV-VI Remastered
 
-addappid(2525380)
+addappid(2525380,0,"12218eb4743d146e7578ba60d5d3c774f5b092e6eed6119274ffc2cb1579f5b0")
 
 addappid(2525381,0,"8349c35cc7c661ae125165df281e9fb6f1eb7b22d82ecb59a948fcef1a70a01c")

@@ -2,7 +2,7 @@
 -- update time: 2025-10-07
 -- app_name: The Coma 2: Vicious Sisters
 
-addappid(1045720)
+addappid(1045720,0,"c37d524c477d647c37cde175e548b33653ea919622d4da7d02bb7ca5c75f5b96")
 
 addappid(1045721,0,"acab6f72f76788b069b0480637d5640c81b7a59821104105a5afba557f10697c")
 addappid(1183521,0,"b35e7cba80fa7a89c1be62ebf064858a0f68c1e616ef41d761e39d0bacfa9b8c")

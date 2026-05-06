@@ -2,10 +2,14 @@
 -- update time: 2026-03-27
 -- app_name: Muse Dash
 
-addappid(774171)
+addappid(774171,0,"334d4f66db94f122ff3175db91062b8efbdcc9d0a3bf0a569888132d4aa70f6e")
 
 addtoken(774171,"1032167890812251798")
 
 addappid(774172,0,"c4fdeb37adb91f019b5f8f1378c0a63c3a3b90ffec89c7e0394b32a28206d2ec")
-addappid(774173,0,"e3c55a2a1de897657fb5347590d09a3c41d944a2b041848d5cdacb44afed102f")
 addappid(1055810,0,"ecf8e8de3bbebc8dc0a0f6aecb1c46d919f2172bb7e3611cd56ba636d523d880")
+
+-- DLC: 2/2
+
+addappid(1055810)
+addappid(2593750)

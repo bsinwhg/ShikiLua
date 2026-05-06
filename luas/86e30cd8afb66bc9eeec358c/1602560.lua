@@ -2,6 +2,6 @@
 -- update time: 2025-01-07
 -- app_name: 裂开了！裤先生
 
-addappid(1602560)
+addappid(1602560,0,"b43610ec3ed58e8206c7ece3000c0b2c5660c5dc1c06c137dec63df20238d402")
 
 addappid(1602561,0,"4ce9a0dd749800e43fafaafa60d1a4536f1f0f08d7ae32a831b2997503ebc09e")

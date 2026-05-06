@@ -2,6 +2,6 @@
 -- update time: 2017-01-04
 -- app_name: Charlie's Adventure
 
-addappid(556870)
+addappid(556870,0,"cd97230d1ea79ecf1e2eabfcf8bc5bba4564d69954eb5bf8baf2fda56165a747")
 
 addappid(556871,0,"3c648260e4e0ceceb1bfe83c48d6b55f3e146621decffc0f63e4f8be84f7b7ba")

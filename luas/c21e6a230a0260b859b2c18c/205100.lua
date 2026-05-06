@@ -2,7 +2,7 @@
 -- update time: 2022-12-13
 -- app_name: Dishonored
 
-addappid(205100)
+addappid(205100,0,"9d56260f4859e162e791448c03ebccaef27ea5caf7cb58d2d0df3d17942a3208")
 
 addappid(205101,0,"42107f3f2d8fde4d980e3de5a3b6a9548497675b97fb5be88e578964c24991ce")
 addappid(205102,0,"1e60f542dfd33d42eef0d45965f5c7a19a6949eb1ec97f399700dbc3c85d7dc8")

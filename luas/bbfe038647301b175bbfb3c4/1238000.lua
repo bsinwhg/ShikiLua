@@ -2,7 +2,7 @@
 -- update time: 2023-01-26
 -- app_name: 《Mass Effect™：Andromeda》豪华版内容
 
-addappid(1238000)
+addappid(1238000,0,"45f495098c82e97f90a04a32f4656f9f69f7d3fbb13a298f549f3fe4fcb55592")
 
 addappid(1238001,0,"db088a6ddb48c243fa2621cb46380a0bd0fcc691418b35c869b90fc2110b1eb8")
 addappid(1238002,0,"3b487a6917d7bd1c20c9de21d36cefd5d0f53b5fd9d7683669ac962f30aaff6e")

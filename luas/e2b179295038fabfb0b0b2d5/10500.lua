@@ -2,7 +2,7 @@
 -- update time: 2023-04-25
 -- app_name: 全面战争：帝国 - 终极版
 
-addappid(10500)
+addappid(10500,0,"48e892031ac9ab4c091635e35e76a0ab9866b7b504f0e4546e95a9442dc29a19")
 
 addappid(10501,0,"8b0efdb4811985cd2054a16e36be6a780707faca1b2b9eb11eb03909b7633e61")
 addappid(10502,0,"23c1a2ecfcadb9ccbf3ffb483dd561d23dd9c0b3d6ebcc48edf1223a9916256a")

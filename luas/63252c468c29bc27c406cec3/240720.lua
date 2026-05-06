@@ -2,6 +2,6 @@
 -- update time: 2022-01-29
 -- app_name: Getting Over It with Bennett Foddy
 
-addappid(240720)
+addappid(240720,0,"de9c4869b6468d5367a0cb0dc2b7953a71e4911a207a958ff3e550fb24bf156e")
 
 addappid(240721,0,"26cb0de1a261ee24d21cc199cf58d4ba96331466baf68b3155f5a55225d0a6a7")

@@ -2,7 +2,7 @@
 -- update time: 2022-10-17
 -- app_name: Agent A - 伪装游戏
 
-addappid(801480)
+addappid(801480,0,"e16cc61564617ce3056590c7535837fbbfb6626caabee2730a50bcbbd86ca212")
 
 addtoken(801480,"16059214099021938432")
 

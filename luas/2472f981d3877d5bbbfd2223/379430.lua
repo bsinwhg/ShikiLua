@@ -2,7 +2,7 @@
 -- update time: 2026-04-14
 -- app_name: Kingdom Come: Deliverance
 
-addappid(379430)
+addappid(379430,0,"fdb320571e09066114da93da67a1874b282dc8db0d61419a72b89381894b3363")
 
 addappid(379431,0,"28025aa521351af4da4b05336ce0cdeb467cf54ab15af771b6e96e777e6e11ef")
 addappid(379432,0,"108f95cce2562576671a8d1deb159b583397b664cafabd96f622beaae2a38655")

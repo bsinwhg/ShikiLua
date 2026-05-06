@@ -2,7 +2,7 @@
 -- update time: 2023-04-21
 -- app_name: 轮回塔 (Revita)
 
-addappid(1175460)
+addappid(1175460,0,"53448bc39b98072265b2f2e9c11cd984f0ae047efce89cd150e03c53e658f6b3")
 
 addtoken(1175460,"17846453691280899061")
 

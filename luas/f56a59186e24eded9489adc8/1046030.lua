@@ -2,7 +2,7 @@
 -- update time: 2025-04-01
 -- app_name: ISLANDERS
 
-addappid(1046030)
+addappid(1046030,0,"c8e32a457d292c4ef169600bb3c17af128b4c30bbd441824faad62afbd5e03e1")
 
 addappid(1046031,0,"33c4649d448f898a1faa5d0e7a66071e5346618ddb5a4e1b92f58ad6ed6dcd2a")
 addappid(1046032,0,"d433fcce48745cb3039159d83eab31ff390f1c10eb4282563ca6ea6f7361514b")

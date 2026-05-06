@@ -2,7 +2,7 @@
 -- update time: 2016-08-04
 -- app_name: Zero Escape: Zero Time Dilemma
 
-addappid(311240)
+addappid(311240,0,"4800a2aa633bf98861d0a85810fc281507b1d5e2b789db3da27aa8f7581a8b55")
 
 addappid(311241,0,"62f0bdac69ca5a4c6feec80a23a532dd08a4f7aa3a00da341e14101258bc79d5")
 addappid(311242,0,"409de951cc6cdebaac59c02c1d5a376fb808b808ba8a4d2d6f482ae5bfec31cc")

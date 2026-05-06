@@ -2,7 +2,7 @@
 -- update time: 2024-01-11
 -- app_name: A Way Out
 
-addappid(1222700)
+addappid(1222700,0,"296bde34d213d0b42f45b3520e72fc47bd6ba2ffa74db818964a883a373255ff")
 
 addappid(1222701,0,"296a25aab14d646738a1f6edfbf1e95ee086a91a389b9e661317bfe8f815fdf1")
 addappid(1222702,0,"6a5f802f2a712fd1c1a358f04f95b3adfad3323cf26ec0dfe0f4658397b05932")

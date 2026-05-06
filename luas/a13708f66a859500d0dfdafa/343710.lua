@@ -2,7 +2,7 @@
 -- update time: 2019-02-04
 -- app_name: 死山
 
-addappid(343710)
+addappid(343710,0,"7690ddf8110d83e5995dd3fcea699c8c86d34738c1a18e1bd34f5e0506f4aa6b")
 
 addappid(343711,0,"b9045328a96d74fc8de918d9735fa1ecbbccfaf49a6b625a1c018ebe907d6e58")
 addappid(343712,0,"315eb95050f3595a5b06dcb1dd115fab04343c109b9d310ededcc1a66c520fdc")

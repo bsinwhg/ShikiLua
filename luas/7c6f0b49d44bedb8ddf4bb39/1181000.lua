@@ -2,6 +2,6 @@
 -- update time: 2021-02-11
 -- app_name: UBERMOSH:OMEGA
 
-addappid(1181000)
+addappid(1181000,0,"0521894252412e1ec4caebb73f01708ab2063fa3dc873fec03296ae3c3fc35d7")
 
 addappid(1181001,0,"d992b7d6ab154273e037bab25437a36c2fcec57a14ca0cccededcf92896e9ce7")

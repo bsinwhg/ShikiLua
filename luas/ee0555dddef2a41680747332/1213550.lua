@@ -2,6 +2,6 @@
 -- update time: 2020-03-04
 -- app_name: Devil's Kiss
 
-addappid(1213550)
+addappid(1213550,0,"77063a46dac1399b82cc9c9bf2f814a9bcf71e62efb1a2e09c1e3cd2a46ab1a1")
 
 addappid(1213551,0,"b872c082ed667e0f40540a41c2cb7b8a723ddbcff15b3b9820c407db32459c69")

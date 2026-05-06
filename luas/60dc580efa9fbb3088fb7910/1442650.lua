@@ -2,6 +2,6 @@
 -- update time: 2020-11-02
 -- app_name: White Day VR: Courage Test
 
-addappid(1442650)
+addappid(1442650,0,"40c789e77bd0820d42d1d2a8b91d309adec62d11aaf8e8ff1befb5fa2eefaa02")
 
 addappid(1442651,0,"d36e1fe8363fe1bbadb034770b8002ca6c7c008cbb956b9b7b43c2de2ccf58c8")

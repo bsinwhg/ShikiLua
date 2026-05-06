@@ -2,6 +2,6 @@
 -- update time: 2017-08-07
 -- app_name: One More Dungeon
 
-addappid(415030)
+addappid(415030,0,"185d2f4fcf3f6006a64dda71b7d43a76a6c7a32c8256907c010051430bdcf9f8")
 
 addappid(415031,0,"cfba952530cffc41f9a5bd1e7164f254d55c08ecbfdf704806051572594f5015")

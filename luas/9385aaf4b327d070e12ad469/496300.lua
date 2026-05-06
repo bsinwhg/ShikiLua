@@ -2,7 +2,7 @@
 -- update time: 2019-11-28
 -- app_name: Kingdom: New Lands
 
-addappid(496300)
+addappid(496300,0,"c151f91a7d6a07e17c22de90a3e4bda2292d3b60844c753578e004faebd8f4d6")
 
 addappid(496301,0,"572df00b3e10f4316ee29f1b11a3ac01192e3cd6a58b7332781d8b1101bf89e3")
 addappid(496304,0,"e94bcc30f1a422d071d1a459fdcd286a61bc675a2ddf23412ae7d6ad3b223d24")

@@ -2,6 +2,6 @@
 -- update time: 2025-08-21
 -- app_name: BUSTAFELLOWS
 
-addappid(1494470)
+addappid(1494470,0,"f35499c91e74a3abbbc19c696cc364cfdbd6b0dec3df1ef8d8e51ef8e65ac6b9")
 
 addappid(1494471,0,"512a95fa53d23d5b0b42223d63f3311ebdb055bcd5b3b32d54137ff4938fcb9b")

@@ -2,7 +2,7 @@
 -- update time: 2017-05-23
 -- app_name: Dead Island Definitive Edition
 
-addappid(383150)
+addappid(383150,0,"445d6c4614872cdb764fe89343820108b50d20aba18ed13f72ca937a50ddb82b")
 
 addappid(383151,0,"848765cbc4ad068b9676d33d38c720ad28c690b3aceceb467947e4564b95e9e4")
 addappid(383153,0,"00b123ed897e65d3ed13036cbc16e867bfb0e31c14af87a2b3b35b425cef47d2")

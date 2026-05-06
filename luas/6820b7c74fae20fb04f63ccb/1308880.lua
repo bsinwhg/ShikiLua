@@ -2,6 +2,6 @@
 -- update time: 2021-09-16
 -- app_name: FORECLOSED
 
-addappid(1308880)
+addappid(1308880,0,"0164e7742a911c767fd01d15288cc5328af1b340c93efb40098a0a4a5a42c1bd")
 
 addappid(1308881,0,"8effdb3ffaada54559733fc71de565117a85bd0dab68720cd1bf853820660cf3")

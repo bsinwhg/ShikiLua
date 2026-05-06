@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Divinity: Original Sin (Classic)
 
-addappid(230230)
+addappid(230230,0,"9f23b9cf7ef0be5346367241e3a200eecc1c1cd703d7da11054a7a30e77804e7")
 
 addappid(230231,0,"655a62ca00cdac5614fe0f84884df9f339e7216147d32f42ba30891f743b225e")
 addappid(230232,0,"2d329daf7ed245dcc8e4ea70116b05d32cf7998b8c20fdb0a476322415f00717")

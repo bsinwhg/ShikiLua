@@ -2,7 +2,7 @@
 -- update time: 2025-10-27
 -- app_name: 世界树的迷宫 HD REMASTER
 
-addappid(1868180)
+addappid(1868180,0,"3e283ccb498f4c6672a22c2d0e7e1b2ab64a09d105da6e8e10e73723be7b606a")
 
 addappid(1868182,0,"970d28732ebb844489f167ca395fa07ef3878ccf53e28628975fa17a2f1ab40d")
 addappid(2015490,0,"ddd128abdf745fa1a17a9a7110f345a22a7705f79a0f3082bebd4bb618f3788c")

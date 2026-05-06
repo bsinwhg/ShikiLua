@@ -2,6 +2,6 @@
 -- update time: 2021-08-11
 -- app_name: Evergate
 
-addappid(845030)
+addappid(845030,0,"5f20794be025a2f866a57cd9c9c3f3208b7730675967fd3a2526c88513e942df")
 
 addappid(845031,0,"1db87aed8ea795304f1bf210d57992c80bac7f380bd911dc502a1bb914702a10")

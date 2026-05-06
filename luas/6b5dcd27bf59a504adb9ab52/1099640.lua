@@ -2,6 +2,6 @@
 -- update time: 2022-10-19
 -- app_name: Jack Move
 
-addappid(1099640)
+addappid(1099640,0,"c4b6d7e160609019bacac1e7c070a37c0af80c7f8c12ca2d5341ae7b177e19d0")
 
 addappid(1099641,0,"c051cd87525c600ef8bb30546783427a158f4ca29cc54fcae46ddb6cf8331e26")

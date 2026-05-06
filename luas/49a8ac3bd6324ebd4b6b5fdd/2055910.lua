@@ -2,6 +2,6 @@
 -- update time: 2025-03-05
 -- app_name: Poosh XL
 
-addappid(2055910)
+addappid(2055910,0,"397619ddf2bbdcfdceb1529a74f1d1ca2a789f0b112e69ea07947cdf7df38db4")
 
 addappid(2055911,0,"2e2f41ad205d4cef73e92f7fb729445e3e32ee08dec2452d955b779244f9e9b2")

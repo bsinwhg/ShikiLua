@@ -2,6 +2,6 @@
 -- update time: 2019-04-08
 -- app_name: Batman: Arkham City GOTY
 
-addappid(200260)
+addappid(200260,0,"41cfb7d53707290001fe02f3e4558162e1a70057534aad539684efb7a60b28cc")
 
 addappid(200261,0,"019a5f25f2e8f8f5af0e2abd4a378d118584220629f3696c764feea17a10e7df")

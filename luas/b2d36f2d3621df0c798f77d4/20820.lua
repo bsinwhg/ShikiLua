@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: Shatter
 
-addappid(20820)
+addappid(20820,0,"7850282e7a5f2f9787e678e4123080872c5048aaf836c509de3b8672f97c3391")
 
 addappid(20821,0,"a767c8c6ab5db5289c80c8be8a657016f486d8f43db45ac3aee65e8997ee2c5f")

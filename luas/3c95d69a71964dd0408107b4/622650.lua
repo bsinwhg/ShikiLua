@@ -2,7 +2,7 @@
 -- update time: 2026-01-29
 -- app_name: Bendy and the Ink Machine
 
-addappid(622650)
+addappid(622650,0,"f58eafb060a990ab6117686ded8bc123be6d236154bd32f39f58fdf1a760656b")
 
 addappid(622651,0,"525bb062dc2acf46744d4fbd02044d28bad4f3266fe3c8e42bd6fdd1d2030e97")
 addappid(622652,0,"ff3dc383c775b96130d7be30d5b3a0b9d28a8a761f48663a342206e48f58ff0c")

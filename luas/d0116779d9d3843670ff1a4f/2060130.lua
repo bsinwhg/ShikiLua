@@ -2,7 +2,7 @@
 -- update time: 2023-02-06
 -- app_name: 重返猴岛
 
-addappid(2060130)
+addappid(2060130,0,"af3d37da4a66d9fb2f8a3f78eea5af83bde93275bee23d0b05907e1331abe017")
 
 addappid(2060131,0,"9b3489872d5cfd52d345652875617a7e2dedbcc7671f194b085a91ef84173295")
 

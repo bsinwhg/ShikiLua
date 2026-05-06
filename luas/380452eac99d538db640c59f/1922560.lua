@@ -2,7 +2,7 @@
 -- update time: 2025-05-13
 -- app_name: Plants vs. Zombies™ Garden Warfare 2:豪华版
 
-addappid(1922560)
+addappid(1922560,0,"b7e5bf507a0e159ac26ae167e1f4369675455d71299689efdbc1c37a2d8ec273")
 
 addappid(1922561,0,"1e43c639ac6e795304b48885b326acfcd86d6f53c39fd803abd36e6770742457")
 addappid(1922562,0,"d32055c3f5e9d8642d1bebfd77315df84e7842523b7bd69efbb2e0c329d51695")

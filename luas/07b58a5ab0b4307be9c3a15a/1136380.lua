@@ -2,7 +2,7 @@
 -- update time: 2025-06-16
 -- app_name: 终极钓鱼模拟器2
 
-addappid(1136380)
+addappid(1136380,0,"b6a92e0ece58f293da74fc698c010134b01f474ee7771d2c767a60c1d5956399")
 
 addappid(1136381,0,"f6ab2eb01876bb0a71ed82d311cff335764127e35b53358cbf95733bacb1d2f6")
 

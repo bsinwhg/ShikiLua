@@ -2,7 +2,7 @@
 -- update time: 2025-12-09
 -- app_name: Chivalry 2
 
-addappid(1824220)
+addappid(1824220,0,"f70144733785b0c192d0a783c537b486a683af39d80a3c544ca6efc2201d1a3f")
 
 addappid(1824221,0,"70ac4fdbb000d0a3f6ff5a9c3756662da90ff180752fb9bf87cc1f7cfc50e49d")
 

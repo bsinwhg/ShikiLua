@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: Sid Meier's Starships
 
-addappid(282210)
+addappid(282210,0,"c53ef6f47896efe1f648e9b1b89d1ab3606bd5b1d1e0bbf46aceed7ab7171afb")
 
 addappid(282211,0,"4bc768a4b99952d7c933acf0358b80376fcbe69dc8fe4e46c5c0d7ca78332f9b")

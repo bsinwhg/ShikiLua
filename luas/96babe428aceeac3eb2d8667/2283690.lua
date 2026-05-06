@@ -2,6 +2,6 @@
 -- update time: 2025-03-20
 -- app_name: 林山海探案集 - 第一案:仙人跳
 
-addappid(2283690)
+addappid(2283690,0,"7cf4821d7298e771f00fa6f71fa3114a49dfd4eea6e9906674c03b660c1097cd")
 
 addappid(2283691,0,"fd85fa804491ed44b1436397fc721ed6683ad1569f427beb03e6a3c76491ad91")

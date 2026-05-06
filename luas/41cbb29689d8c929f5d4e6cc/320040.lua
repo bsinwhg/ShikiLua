@@ -2,7 +2,7 @@
 -- update time: 2025-12-01
 -- app_name: Moon Hunters
 
-addappid(320040)
+addappid(320040,0,"37c92c4e192b7792aa287cea899c012be17b0a3006835434aeb0a217c674e7e5")
 
 addappid(320041,0,"bc1fc18970a26dc138f56b3a736e6609d15ffd1aab05cda37c23549274d279a1")
 addappid(3765650,0,"fab2a90caceaf8c7a03d18aa4594574f12ac5c78b03c6f0124e500bf928edb94")

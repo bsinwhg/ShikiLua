@@ -2,7 +2,7 @@
 -- update time: 2023-11-29
 -- app_name: Forza Horizon 4
 
-addappid(1293830)
+addappid(1293830,0,"38cac36fb9b491054ccc33f95bd2b7b11b41db73d65e58b1744cb394cb3c017b")
 
 addappid(1293831,0,"c6be4a0719d73ba5201e778b7e44d6c9c0e1b4baf33104df4d0da1729751cf7f")
 addappid(1443091,0,"cacce7495ef657d5a7e8ae0f89e83fcdbb3f7146e25f8dcf9a4843a74e711aba")

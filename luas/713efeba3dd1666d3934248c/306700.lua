@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: Iron Fisticle
 
-addappid(306700)
+addappid(306700,0,"e319ad8e80adf4f375b0739e02f78e4c5f988a7668287d27a8f0e94b3134ba8e")
 
 addappid(306701,0,"45f2a8474d53391ace1b2f1fcec50a590ffa698941442e1b7e67429768673c67")

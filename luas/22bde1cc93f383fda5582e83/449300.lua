@@ -2,6 +2,6 @@
 -- update time: 2017-08-12
 -- app_name: Planar Conquest
 
-addappid(449300)
+addappid(449300,0,"a31aadaf2a89442cc3459570a39f98f6716e0a603ac0ce3aef884ecb61bf4e73")
 
 addappid(449301,0,"faca669d8c2339ba1bf7179c7618a07171deefe7cd762a43b7086b0153f07873")

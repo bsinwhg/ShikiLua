@@ -2,7 +2,7 @@
 -- update time: 2025-10-16
 -- app_name: Bomb Rush Cyberfunk
 
-addappid(1353230)
+addappid(1353230,0,"0b967e8e29a6b6eafa9b9bfa73fcd3f40be6aa7c54e69918a8f62a40ffe13b31")
 
 addappid(1353231,0,"39e891398178eb462896935f7400ec32fb665213162d174d4b34d9b843519e66")
 

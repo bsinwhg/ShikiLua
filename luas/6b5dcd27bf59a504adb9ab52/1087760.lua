@@ -2,6 +2,6 @@
 -- update time: 2022-05-25
 -- app_name: The Gunk
 
-addappid(1087760)
+addappid(1087760,0,"3b0795dde47f37f33da1e1777510dd647a7d4fc69b7c35a4844f027b7c8fa845")
 
 addappid(1087761,0,"6a138e7b33b8d0fddcc4efc5c3d9fc69a18b80529c80a1d2fb835656233d8530")

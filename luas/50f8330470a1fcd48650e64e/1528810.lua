@@ -2,7 +2,7 @@
 -- update time: 2023-08-02
 -- app_name: Exodus Borealis
 
-addappid(1528810)
+addappid(1528810,0,"c2a3d19603b461933372d3cb3957f55f77da64302baddd6cdbd85bbb4e6b5bbf")
 
 addappid(1528811,0,"0bca1bbd4cf296543d03975dd17142002c48928fc750fad820275fce4ee200f5")
 addappid(1528812,0,"7e7af62022ad4bdba867e21871045928ab77dc2c4c73992a466ea8a860c659d9")

@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: TRISTOY
 
-addappid(303260)
+addappid(303260,0,"b3bb500ade77aa25471cba1ecea616f123e2a35e8da90a8dc719628bfd137e11")
 
 addappid(303261,0,"6c269a99385766d1b1394e7351836424d99c0ef954d0e023c5bc12a7d00f314b")

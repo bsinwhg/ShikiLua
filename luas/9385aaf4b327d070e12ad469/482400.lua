@@ -2,6 +2,6 @@
 -- update time: 2026-03-20
 -- app_name: System Shock
 
-addappid(482400)
+addappid(482400,0,"c66f3e622e2ff918a81ea59fbe8c26ebc60efeb70565e8ddd5b82e2b2fcbdb76")
 
 addappid(482401,0,"412c806b5c53587b7d89ead695e603da1e9d2d6bd7a3cc85e4387aa6f0565c23")

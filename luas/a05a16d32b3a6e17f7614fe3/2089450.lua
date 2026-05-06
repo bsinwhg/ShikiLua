@@ -2,6 +2,6 @@
 -- update time: 2024-05-23
 -- app_name: 温泉物语2 (Hot Springs Story 2)
 
-addappid(2089450)
+addappid(2089450,0,"c84cffc19022cf5238647b9b84bbb237f8dab0e62b845888cdeada6b7dec2312")
 
 addappid(2089451,0,"43f9c70bb33eb9d0b264ada46b9b27dda12bcc016eed6f4bf1f4ea6875c7c63d")

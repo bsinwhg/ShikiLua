@@ -2,6 +2,6 @@
 -- update time: 2021-11-20
 -- app_name: UnderMine
 
-addappid(656350)
+addappid(656350,0,"2cd5b1aca1b4fdf1dbcb842d32428ba9e8e37fa7e4475fae206f7b8fdaee871e")
 
 addappid(656351,0,"8dbf176da7fd91e4519a3e419c5924c49d88f5328a0851b233a6403b2cd4a6e6")

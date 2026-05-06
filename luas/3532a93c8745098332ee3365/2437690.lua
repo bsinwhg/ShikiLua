@@ -2,6 +2,6 @@
 -- update time: 2024-02-01
 -- app_name: 探险顽皮动物园 (Zoo Park Story)
 
-addappid(2437690)
+addappid(2437690,0,"ee275d142fdc40cff0b410cba15e9ce6bb84235b85cd3a47a80894153b3396aa")
 
 addappid(2437691,0,"45c03bef6f120e1435771b010372942b14aaa78a9ab929c326b63293dfad5bb9")

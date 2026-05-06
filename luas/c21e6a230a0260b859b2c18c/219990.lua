@@ -2,7 +2,7 @@
 -- update time: 2025-07-08
 -- app_name: Grim Dawn
 
-addappid(219990)
+addappid(219990,0,"f526be8add966b86be32ef5a4b61c78a5cd1f1621dfcd168368922397abc39cb")
 
 addappid(219991,0,"24ba5f38bc31d02b7075c9464e178e08c9552de08a183056fbf1aa79b405e4c6")
 addappid(483840,0,"25fb87a62fad42ff98bde06d9be0995cc02349c65bc47637fc8e713ed6d9d3e1")

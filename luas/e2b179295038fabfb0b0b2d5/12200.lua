@@ -2,6 +2,6 @@
 -- update time: 2024-12-04
 -- app_name: Bully: Scholarship Edition
 
-addappid(12200)
+addappid(12200,0,"82dedf7e315b9eb744f42e96e2967ad2aed16cc8a1a9309369417ec5639a3428")
 
 addappid(12201,0,"b02e549a49b9318ee8352042cb5cfe08a4d103eb6a7a3526c27e4e6ec86ed57b")

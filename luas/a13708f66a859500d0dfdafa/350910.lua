@@ -2,7 +2,7 @@
 -- update time: 2026-02-11
 -- app_name: Streets of Fury EX
 
-addappid(350910)
+addappid(350910,0,"22d48a42a22db7afead4e66bc671f2dc9be20e61d01b9d8ad7c3b377c4b346ae")
 
 addappid(350911,0,"44f2c6687c3b823d40fec65fb2b8df6088d089cd13df84154435fe170c673386")
 addappid(350913,0,"165610fc670190772c4f95ca9b081ab6faf96ad01af054b7bcceeede80a4c943")

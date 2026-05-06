@@ -2,7 +2,7 @@
 -- update time: 2022-09-13
 -- app_name: 宇宙汉堡王 Godlike Burger
 
-addappid(1432910)
+addappid(1432910,0,"5aec20bb0e491e95c439d44826925dd7f2a802efb5bed8982c54ae855ffcfaea")
 
 addappid(1432911,0,"5297145e4fda3277ada496c6af9f83f7bab55c27b2e55c69105b6546557d7166")
 addappid(1670580,0,"9b59574bdf6f03c848d2d2b71e01fdf2f091899cdb36c484e44d71051e91cc1b")

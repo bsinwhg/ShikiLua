@@ -2,6 +2,6 @@
 -- update time: 2025-05-30
 -- app_name: 死亡教堂
 
-addappid(1601740)
+addappid(1601740,0,"4a3662d117e91453b3bbf66bde79ead0f78da9e2be84c9901c2173ec44be4dd6")
 
 addappid(1601741,0,"5fe91d876dc042f700917403bafef7c1df2c7c8afe6d478f519285827f2f9654")

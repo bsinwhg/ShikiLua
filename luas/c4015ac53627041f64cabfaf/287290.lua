@@ -2,7 +2,7 @@
 -- update time: 2019-03-28
 -- app_name: Resident Evil Revelations 2
 
-addappid(287290)
+addappid(287290,0,"a4ff9bf10b54acf92d78a05ee70092b59c23d4d59980a13a01ca5c6b0496b638")
 
 addappid(287291,0,"bc5ba048977d68842139f6abbd30e78adb6c33ff7d7ff1724d6594768c1def46")
 addappid(319810,0,"53a39700c8494c1a0aecd11cfc46c5fa1892b2e0d362601cbfd2be669a9e1d4e")

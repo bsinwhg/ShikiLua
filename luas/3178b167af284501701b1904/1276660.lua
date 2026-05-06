@@ -2,6 +2,6 @@
 -- update time: 2025-10-07
 -- app_name: 工匠镇
 
-addappid(1276660)
+addappid(1276660,0,"6bbf6350cfde781d645c3dd141a7ff6b9af6fcdae158f8e745585fc82ba40f7d")
 
 addappid(1276661,0,"833a53bf4aaaa0e5ee02d5e5155f82b91e55dde85a069b2cac4115110d57a609")

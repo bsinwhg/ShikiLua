@@ -2,7 +2,7 @@
 -- update time: 2022-11-21
 -- app_name: 《Spiritfarer®》Farewell版
 
-addappid(972660)
+addappid(972660,0,"262714a8f30961be8c4d1ce1f55ba82b697c58563021127c8e526ad68171b849")
 
 addappid(972661,0,"187ac179ffc1b8c1f070554d4e13861b9bdbef7ecd1c2e5b53a1413e48e54883")
 addappid(1398770,0,"05e8f50eb4a5b8466f8ea94e8f7c97cb9edd1431b29f8d87012ae9161c1710e9")

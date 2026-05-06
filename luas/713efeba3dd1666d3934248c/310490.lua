@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Crookz - The Big Heist
 
-addappid(310490)
+addappid(310490,0,"1613e9656ecf680458c8deed47234fc395c45fb0061eafdfdb710202598f8cf4")
 
 addappid(310491,0,"b7fb8657688256f340fa7faa4e0204f7bec054f5ea43d6f25797b5cd62b92e09")
 addappid(310494,0,"8136c1815c54dfa5043e74b060e8ed06adc125447cb5988ce85ead63a696c639")

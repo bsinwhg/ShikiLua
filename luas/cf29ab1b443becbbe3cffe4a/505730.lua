@@ -2,7 +2,7 @@
 -- update time: 2018-11-09
 -- app_name: Holy Potatoes! We’re in Space?!
 
-addappid(505730)
+addappid(505730,0,"d9a665a82e8425abd76c07f4fd686c0001f61222198ef3724b392b16ea414f01")
 
 addappid(505731,0,"9588223cbd5a8950a1a48211cfffd8c6cc3ad1903e9dc97638a36b8b94ad181b")
 addappid(593431,0,"487bd2d6487c30980fc887ba7d64e46ff785f24d31c7345982bee0126823a2dd")

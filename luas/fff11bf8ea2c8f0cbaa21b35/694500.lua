@@ -2,7 +2,7 @@
 -- update time: 2017-10-30
 -- app_name: Army Men RTS
 
-addappid(694500)
+addappid(694500,0,"7ba8db47e12f0f199544762241a0c4f59a3f91a4fb4754cd32d794adcd29a647")
 
 addappid(694501,0,"3972ae3547f2d8654c236a763797755de4bebe786e55f9f8a227adbb2d019cb6")
 addappid(694502,0,"4afe52b5f9fba8862312f7bdfa6837edfbf6aa0f8a485caac2548fc4f82e02e7")

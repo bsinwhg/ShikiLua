@@ -2,6 +2,6 @@
 -- update time: 2023-02-05
 -- app_name: 奇怪的RPG
 
-addappid(1902710)
+addappid(1902710,0,"9dcf08fd9968225d277d38c52b3492b79a020d7653b113524687f0954647bf5d")
 
 addappid(1902711,0,"d3468ffbac12cd92d962cbf311fd31f6618bbb444a0c79ceae1ef5d1143fea13")

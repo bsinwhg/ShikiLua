@@ -2,7 +2,7 @@
 -- update time: 2026-03-26
 -- app_name: 《法外枭雄：滚石城》Crime Boss: Rockay City
 
-addappid(2933080)
+addappid(2933080,0,"787c8ee112c3831358b74842deca936b0ab2e378420a5bd5ef3a03b2dba2f901")
 
 addappid(2933081,0,"c19e67580e16bb198a0208353b4ae25e66eee4cb16421cc24f593925c2cd41ec")
 addappid(2933083,0,"33064194c736b017c0d6d0a4b5c01816f9f5153631464c677b5dd445ff27e374")

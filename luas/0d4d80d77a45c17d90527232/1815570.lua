@@ -2,7 +2,7 @@
 -- update time: 2023-07-02
 -- app_name: 王牌与冒险
 
-addappid(1815570)
+addappid(1815570,0,"f7e2abbdf5cd3ef35e17a006097cf23063f34dcade933479fb100fcacdd60996")
 
 addappid(1815571,0,"43854fc9588850153502e013601fdefd703cf3fb451479d2985d9a6be5594150")
 

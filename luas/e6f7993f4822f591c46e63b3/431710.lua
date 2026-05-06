@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: Space Pilgrim Episode II: Epsilon Indi
 
-addappid(431710)
+addappid(431710,0,"0db0c5d6da60594d597c912836a19a3f3bb56f02c51b2470a9342bb5c0d5df76")
 
 addappid(431711,0,"b7f1eabc6655bbe240f75b856e0bfbc1fd6d85a74d079cba77b3da5e182cac22")

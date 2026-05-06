@@ -2,6 +2,6 @@
 -- update time: 2023-11-14
 -- app_name: 游牧生存
 
-addappid(1929870)
+addappid(1929870,0,"965a9e4af4a113e6c5edc357f56bd7b8d31e7d9621ef4488c7b92b99da525575")
 
 addappid(1929871,0,"3ee504c44adec68c919e3017edfb69d28bc66a3223f42c91d6189e614d9eb828")

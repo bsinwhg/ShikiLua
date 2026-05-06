@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Rising Storm/Red Orchestra 2 Multiplayer
 
-addappid(35450)
+addappid(35450,0,"5b88871c6bb5f22b7bb97a22631ab94b0b391ec81c44fc5969f0ae3eaa3621a5")
 
 addappid(35451,0,"acfb6981d8b8b135187540d01e0708042a72725f6341556fb14641b7bdf4a3d8")
 addappid(35455,0,"d75ebc8c08f3b027cfad05d5b257c41c445bb35504478e5080a66b43ee238a02")

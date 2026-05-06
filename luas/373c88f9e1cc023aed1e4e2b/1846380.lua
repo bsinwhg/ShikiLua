@@ -2,7 +2,7 @@
 -- update time: 2024-12-12
 -- app_name: 《极品飞车™：不羁》
 
-addappid(1846380)
+addappid(1846380,0,"4caf2ec5251ba3ba0ad87e79a2454a1b60ebfb24cce75437b28ccbfa29ed3d88")
 
 addappid(1846381,0,"372b477136e77527ae6282aec9dcfba367e4e90e48215dbd4b4a5339ee3f2ef8")
 addappid(1846382,0,"0eb1e6b3c406f906eed92b706c0cb931fc17e77b9c082b431dbbd62156dd8f71")

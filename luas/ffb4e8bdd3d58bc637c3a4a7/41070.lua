@@ -2,7 +2,7 @@
 -- update time: 2017-04-04
 -- app_name: Serious Sam 3: BFE
 
-addappid(41070)
+addappid(41070,0,"b06c26d01acbdb76a4d071307f8a648fcd313bb5c4fff67c7c7f93d91e229e76")
 
 addappid(41071,0,"61b8d1d317b737b104990781f25cfd06f174370c318ef74a1d72d8beb30c764a")
 addappid(41074,0,"6bd652f81be60c994ce4f36b823ef03b009f1ee655f5405469af88cf3382b2e8")

@@ -2,7 +2,7 @@
 -- update time: 2020-01-03
 -- app_name: Degrees of Separation
 
-addappid(809880)
+addappid(809880,0,"6f2de3a5efafdfc696cfb231ac9ed17c4fa0f905b304a7a892f31d0900e0bb14")
 
 addappid(809883,0,"edde71c9c9a27898179fa7b14291875c2c60edddcb78ea28b4b05e8416eba646")
 addappid(809884,0,"4d099715486bd0b00c687d05bf141a0a852b120437fd6755f6ebd81fb732fd26")

@@ -2,6 +2,6 @@
 -- update time: 2019-02-04
 -- app_name: Neverout
 
-addappid(579720)
+addappid(579720,0,"871d758c4908b4becb161cd8df3cbc07df3eff60439a0214dd6c9a4ab99e7a77")
 
 addappid(579721,0,"f260bf2098cee646a3a3ed40fd4513eafb7229735d8c1dd1ff45cf6f19551673")

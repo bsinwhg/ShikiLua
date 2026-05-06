@@ -2,7 +2,7 @@
 -- update time: 2025-10-07
 -- app_name: 月光石岛
 
-addappid(1658150)
+addappid(1658150,0,"921730c73b8e2e01cb4cb95a4c72409f3c1db69263ae95eb16f6d11172ecd7ca")
 
 addappid(1658151,0,"a0087e864bcd67b31d88085e60a8b344db7098cbe6d6730e9b6ebf40cb025e3f")
 addappid(2577920,0,"19d1545edc1525760b1ab0a4b3e8ddc86ecee76712b30fef6235cd3fbb7f8af5")

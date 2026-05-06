@@ -2,6 +2,6 @@
 -- update time: 2017-12-07
 -- app_name: Breakneck
 
-addappid(432940)
+addappid(432940,0,"5e889badd2f35f9d9b169bfdada95a540294823432f01dd233cb829bad594ed6")
 
 addappid(432941,0,"4a00f0c7b4a68b18e186e6bef77b27f34e1b9f758aeb3ad93a8ce96faa46f3b9")

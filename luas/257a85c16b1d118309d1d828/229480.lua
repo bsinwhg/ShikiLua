@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: Dungeons & Dragons: Chronicles of Mystara
 
-addappid(229480)
+addappid(229480,0,"e039c6105d3cc70377adec685c714b63ab927d4719c9f9202cefbc742d456416")
 
 addappid(229481,0,"70fdd0e29f3065e4da04ee358197903c1dde835c271fb99355d91460122a54e0")

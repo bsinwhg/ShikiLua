@@ -2,7 +2,7 @@
 -- update time: 2026-04-13
 -- app_name: Dragon Fist: VR Kung Fu
 
-addappid(1481780)
+addappid(1481780,0,"0a4099cc859af91bec43c5c1285fcc2958abfb65e8d7d4a7ffc6d2e9353ab7f9")
 
 addappid(1481781,0,"2f1106e114498793212b9363df4b00bc36025813eee749045a460a7eedc4d00d")
 

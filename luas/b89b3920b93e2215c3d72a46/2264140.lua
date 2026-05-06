@@ -2,6 +2,6 @@
 -- update time: 2025-07-29
 -- app_name: 双人大逃脱 – How 2 Escape
 
-addappid(2264140)
+addappid(2264140,0,"6d8526a0645bc91ae255acb3a44851dad95f97e766f16be6288783a65cc3df14")
 
 addappid(2264141,0,"3db62778fc59189fb1123648e3ef5869bd29438a0e7064cc150a14d9126775f7")

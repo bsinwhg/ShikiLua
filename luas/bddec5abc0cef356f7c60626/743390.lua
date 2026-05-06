@@ -2,6 +2,6 @@
 -- update time: 2024-07-20
 -- app_name: DISTRAINT 2
 
-addappid(743390)
+addappid(743390,0,"4029801eb4d196c68b6083d7a62e5fcb9303dcbf4100ea0b8107a4c3d7c617dd")
 
 addappid(743391,0,"8f6433c5ab2508876ba66b91ce44e45550747cb55533c87a6f95c89d018ca207")

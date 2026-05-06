@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Sniper Ghost Warrior 2
 
-addappid(34870)
+addappid(34870,0,"7ffd6a6816a7bf5c912c5ff373f919fd335559a7ccb043c014023b7ee77b1752")
 
 addappid(34871,0,"e731ebfc5c430be534a670d72b6fc77a44230bfea937b3f03b3ff2488bcd1f47")
 addappid(34872,0,"b800c1e9a21b8566318c4b1364835262cb0befb68a010da2e4608cfe8217158f")

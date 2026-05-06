@@ -2,7 +2,7 @@
 -- update time: 2023-08-07
 -- app_name: Resident Evil 5
 
-addappid(21690)
+addappid(21690,0,"674b774981f445f56cae8810d60a59d000a23656d366944d9203d13d356f4330")
 
 addappid(21691,0,"b3ad2af3d25d179accc032ae7853c6f8a916bba21b5f0be9f11f22f0938110a4")
 addappid(21692,0,"556f26dec9fcd54f1ecb0f2af6b1259a325a3eed959c0b242c83fa176c74971d")

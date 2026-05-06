@@ -2,7 +2,7 @@
 -- update time: 2022-11-18
 -- app_name: 惯性漂移
 
-addappid(1184480)
+addappid(1184480,0,"114dcd1d3fd1c3ffc4675769887d21bcea9b41be178cfe26e117a79d5cc14fba")
 
 addappid(1184481,0,"5b64eb8b38415c6b8c041e5cd54536f8f437612e4105a93c6b5caa48d7838c2b")
 addappid(2075290,0,"fbaf6f19a90f3d7c01aa4c6b62f12c530a4a847d43918fc127999deeb31a2c1a")

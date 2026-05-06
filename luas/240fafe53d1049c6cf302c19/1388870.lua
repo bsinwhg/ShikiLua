@@ -2,7 +2,7 @@
 -- update time: 2023-05-18
 -- app_name: Arcade Paradise
 
-addappid(1388870)
+addappid(1388870,0,"f266c7484df7898cf55ee71d7e957f8ab64c6d405c0440144edf36300e88aa8d")
 
 addappid(1388871,0,"83cd56b908dfe50adfc7684d1f0dff29d2c72f42f43728b7bc96acb1fb042bed")
 

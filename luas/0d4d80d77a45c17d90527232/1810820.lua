@@ -2,7 +2,7 @@
 -- update time: 2025-10-27
 -- app_name: 世界树的迷宫Ⅲ 星海的访客 HD REMASTER
 
-addappid(1810820)
+addappid(1810820,0,"33ca091d332694c93247c80cba5ea90fd8bce041978886452970aaf4f4b2a3e0")
 
 addappid(1810821,0,"5c6aecc71489adfb4126754a88937595c7b8a093d72c7376ab979048558ba4fe")
 addappid(1851230,0,"6b140f7d850cb23d53d19e373c34c220b5b1753e675b54444484f011f88b0758")

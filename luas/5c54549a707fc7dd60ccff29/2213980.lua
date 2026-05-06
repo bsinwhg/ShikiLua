@@ -2,6 +2,6 @@
 -- update time: 2023-03-08
 -- app_name: Caverns of Mars: Recharged
 
-addappid(2213980)
+addappid(2213980,0,"3bdbde2ac8d40e857ffd7fdef8cb1333f97c0593926228a5cd192b81689c867c")
 
 addappid(2213981,0,"c642b7a7d8aefdaae078e9c541d9561c97e2d0c65470fde2244d45ac42623d98")

@@ -2,7 +2,7 @@
 -- update time: 2025-08-22
 -- app_name: Left 4 Dead
 
-addappid(500)
+addappid(500,0,"b17ac8c5e383af45264bd21caaac5f45e1f40e9883bbef39cb25d308b4083ab7")
 
 addappid(501,0,"7a0b21eed084464fd2efb03ecc44116224b150f9377551ca7901ead966f21c26")
 addappid(502,0,"54d51378fea25647cfe0c7d77804f29abd538c2606e4bf27b972d02816f34487")

@@ -2,6 +2,6 @@
 -- update time: 2016-06-15
 -- app_name: 勇闯银河系
 
-addappid(290300)
+addappid(290300,0,"e2bdbb5d1463be712e9680f80c4d56d04fb1e1c82d92579d1e43fcdf854d2250")
 
 addappid(290301,0,"8b721bf053bd3d46388293b84eca350884abcfe6cd71b2e909952978386f57c0")

@@ -2,7 +2,7 @@
 -- update time: 2025-10-31
 -- app_name: My Little Universe
 
-addappid(2328750)
+addappid(2328750,0,"059d04fffc59cefde3d66d725e961accb48ddc477a918a1c9efee03923481d39")
 
 addappid(2328751,0,"846941da547d79a01a391458d9e9f7b02c5bafef58fcb61de86243e4f2b9a886")
 

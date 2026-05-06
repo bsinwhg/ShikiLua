@@ -2,7 +2,7 @@
 -- update time: 2025-10-14
 -- app_name: 猫咪斗恶龙3 Cat Quest III
 
-addappid(2305840)
+addappid(2305840,0,"dff6f3ca54ffe1c5716400fd15a36140fa159d78abcd7eea90b17976ac8bf3c5")
 
 addappid(2305841,0,"7bf9c3f47228c505c20c83dc23a54cbbca66b316a368aab8094deac72c8f4149")
 addappid(3126830,0,"2fbc72271a2d3dd17d70b1d956e5e947e84eda431bc4b8cdf67768636b414880")

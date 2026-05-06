@@ -2,6 +2,6 @@
 -- update time: 2025-10-06
 -- app_name: CROSSBOW: Bloodnight
 
-addappid(1329540)
+addappid(1329540,0,"8acf2496bf334039f8e41f3966cb58fd5ccf0f952a3aa35f0019c7e59531cd4c")
 
 addappid(1329541,0,"8c813becdcb1ce292c28be03ad1bb2ed592032941d4f5fb5652b6e27830cecb8")

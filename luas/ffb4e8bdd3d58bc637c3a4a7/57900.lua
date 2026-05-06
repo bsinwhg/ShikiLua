@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Duke Nukem Forever
 
-addappid(57900)
+addappid(57900,0,"b08a8af92ae0c071f79ffc473188112855d53c7e9c6054140aab7589e1b642fb")
 
 addappid(57901,0,"1b9fc790db0a3164435506ad23e868622388bcc91bb0bad322ea684f2a44774a")
 addappid(57902,0,"cea746b3383363019314d75ee4a4643be24a694f1d635684b5de213bc3e39cd8")

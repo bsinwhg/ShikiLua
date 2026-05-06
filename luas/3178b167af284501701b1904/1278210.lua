@@ -2,7 +2,7 @@
 -- update time: 2022-01-25
 -- app_name: Space Raiders in Space
 
-addappid(1278210)
+addappid(1278210,0,"e0ea94bbf50ffe215f824128dc724c62ece1b3a656355950015511035a4db458")
 
 addappid(1278211,0,"a60876864015a3d7751ab30509157c66cdfbdd23cebe5304c7002c6378f21077")
 

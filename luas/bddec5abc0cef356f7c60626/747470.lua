@@ -2,6 +2,6 @@
 -- update time: 2018-12-17
 -- app_name: Doughlings: Arcade
 
-addappid(747470)
+addappid(747470,0,"b26310de2646fb0707dba9d760c04e258255e5648d753f8615af49aa9628bb12")
 
 addappid(747471,0,"f9634c11e170a9ce97b83f7bdc7cc14a338ce30caf2f9b7551bc91d7b5c86899")

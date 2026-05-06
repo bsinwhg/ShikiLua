@@ -2,6 +2,6 @@
 -- update time: 2021-11-02
 -- app_name: Escape from Naraka
 
-addappid(1390670)
+addappid(1390670,0,"14d34ab8c6f8ae72bf83337a416f76feb3051af9e44ed98e1578bb220c94b0ce")
 
 addappid(1390671,0,"c69ac4513bd4d43da9a5c01670cd58ce5bd8974a577253e3431d29abc12adc6d")

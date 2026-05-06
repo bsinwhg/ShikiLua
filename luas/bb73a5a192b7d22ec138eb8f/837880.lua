@@ -2,7 +2,7 @@
 -- update time: 2024-02-12
 -- app_name: 狂野泊车 / You Suck at Parking®
 
-addappid(837880)
+addappid(837880,0,"b765e6c498d856a4dbf80c07b37c78fab5e9971b94a1777a5306924cd7534f1b")
 
 addappid(837881,0,"8dd2c726ea77563c689a85c6be1d03c5932dbffd7645ed006083785a49d93992")
 

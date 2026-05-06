@@ -2,6 +2,6 @@
 -- update time: 2022-06-28
 -- app_name: 面包房模拟器
 
-addappid(1031120)
+addappid(1031120,0,"b876cc11ad8c130e68dd8f04cbbc5ee4f10d868f40fff3d1e656fd3f8d4ead33")
 
 addappid(1031121,0,"57e801f7c005d043431cad876ad2f1ba922599948edc89b0719419db4d6b0537")

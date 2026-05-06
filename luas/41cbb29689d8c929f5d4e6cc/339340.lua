@@ -2,7 +2,7 @@
 -- update time: 2025-03-17
 -- app_name: Resident Evil 0
 
-addappid(339340)
+addappid(339340,0,"1669371e331fed9434b70a14b965fafb1636c626d58b681bc85d4c48e5cff47d")
 
 addappid(339341,0,"e9299de2069122e5731bd097c02d35efe353b7dc40f59ca9ab568a382f3753c9")
 addappid(339342,0,"5152d943dbe7913f463d7f9deab9da7bc6fcd382c8cb835b83182e1b7ef6ba46")

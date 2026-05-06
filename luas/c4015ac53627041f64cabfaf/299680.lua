@@ -2,6 +2,6 @@
 -- update time: 2020-06-21
 -- app_name: Tengami
 
-addappid(299680)
+addappid(299680,0,"f790138aff45f097b7abcf55d856c966793ef70d067568efcf42dd1bfcc8b699")
 
 addappid(299682,0,"95f4eab4cbd1cdea33b55cd7c738872a9a1cefa8b9e7448c88ff078aa1098e74")

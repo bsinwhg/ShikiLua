@@ -2,6 +2,6 @@
 -- update time: 2023-06-20
 -- app_name: Non-Stop Raiders
 
-addappid(2087940)
+addappid(2087940,0,"6bea0b076e82b37949bea210f031469f736863aeb463de6360ff2dea324ad5b1")
 
 addappid(2087941,0,"31fb1d917c1bced0aaa4504d1a97d54b3a6058a70fc2435ede57658e7a8b97a9")

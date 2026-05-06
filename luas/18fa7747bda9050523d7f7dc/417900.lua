@@ -2,6 +2,6 @@
 -- update time: 2018-10-01
 -- app_name: Upwards, Lonely Robot
 
-addappid(417900)
+addappid(417900,0,"5e7d1968bcff9eba49fea1b80a30d6dcceaaea03ae3e3731daf55e10296754f5")
 
 addappid(417901,0,"51e608e5b09f6b7a8066883374f3e4b8b7bbe30bce0bae64fbf5b97c9a0fd34a")

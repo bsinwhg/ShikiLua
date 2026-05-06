@@ -2,7 +2,7 @@
 -- update time: 2018-09-04
 -- app_name: Sword Legacy Omen
 
-addappid(690140)
+addappid(690140,0,"188954d46e99370e2bc60952efb265e91f6dd30cc05ca1714162da16d172cc07")
 
 addappid(690141,0,"41fd6db8fe3519c7d344521d16c13e4cd51d7b09d956cc32ec8ebfc429ca3686")
 addappid(914830,0,"4a9d4da90752a3a04a9ebf9bd66d27615c4da82caaac4e80610bddffe096edff")

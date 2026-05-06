@@ -2,6 +2,6 @@
 -- update time: 2024-04-04
 -- app_name: Cavern of Dreams
 
-addappid(2059660)
+addappid(2059660,0,"d70c7769a1aa87d746ab173393852fbbf529773c68a970887d4498b2d7f26d40")
 
 addappid(2059661,0,"00e3ba6fdf8a430f900ccd13522c7f9d835a4b7e9403fc64863c768b59db595a")

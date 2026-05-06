@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: X-COM: Apocalypse
 
-addappid(7660)
+addappid(7660,0,"d9c1ba1f9bc7c8e216eb671de2ece0a377df290a630006ad52cc5aa4994b9c74")
 
 addappid(7661,0,"c1189e3bf198af394cb9f03c25e00231ebee1943708e5d6bc80bac0aec9e0d60")

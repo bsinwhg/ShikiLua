@@ -2,7 +2,7 @@
 -- update time: 2016-03-18
 -- app_name: GUILTY GEAR Xrd -SIGN-
 
-addappid(376300)
+addappid(376300,0,"b0e8a2a08ba873a18860f2898bd89faa341f4985e28c41c0f238e45bfb606d46")
 
 addappid(376301,0,"db9be068899d06cfa9f91911e0dd144e67a2ea330fb1a8b01ffb962567f09fc8")
 addappid(419967,0,"aaca9de7af0f55894c2a5724f694e6cfb5324cb47b421178afa9db116569f484")

@@ -2,6 +2,6 @@
 -- update time: 2022-09-09
 -- app_name: Sex with Teachers
 
-addappid(2109400)
+addappid(2109400,0,"17e45174c55775e0826ea512ea301c5bca8c6ee45cf1d4ab24b7ea8c7df49eef")
 
 addappid(2109401,0,"cce54ea5047d276039b590bc3e621e6344ac68ad6f9cffeea2eea270f58069f5")

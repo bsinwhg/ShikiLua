@@ -2,7 +2,7 @@
 -- update time: 2026-03-10
 -- app_name: 战锤40K：极速狂飙
 
-addappid(2078450)
+addappid(2078450,0,"ae59488f4fbc77f44bb0b5f7eb6a12f92870d1c8b2987639e1d948b043d56988")
 
 addappid(2078451,0,"ce0f8e24d52ed2ed7f0b681aa36a64794236da14843cab407a065f4c98fa62f0")
 

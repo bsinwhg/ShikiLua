@@ -2,6 +2,6 @@
 -- update time: 2021-06-18
 -- app_name: Morbid: The Seven Acolytes
 
-addappid(1140890)
+addappid(1140890,0,"a4d9c35f9567e657c03536685585015d1a3664e375868d2257ea838ef7d48eae")
 
 addappid(1140891,0,"b0ec00aac3da8e6d769a24a3d5359fd8145558fd397eb7d2fb41d170d29eeac1")

@@ -2,7 +2,7 @@
 -- update time: 2025-10-16
 -- app_name: Slime Rancher
 
-addappid(433340)
+addappid(433340,0,"acfe87b27a08f20b14eef4c88b25eb44442f2f6c7a35c3e21cc1ead2464a3509")
 
 addappid(433341,0,"02404d4d6e218a526def6e05f322a0510bcc1199addaa52610cc21258bf0a574")
 addappid(433342,0,"064d5b0bceb825d1a92db63ac6df94ab7765a45943098ea6af90bd09f5305498")

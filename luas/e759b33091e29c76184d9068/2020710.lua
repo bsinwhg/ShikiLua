@@ -2,7 +2,7 @@
 -- update time: 2026-04-15
 -- app_name: 海港物语 Havendock
 
-addappid(2020710)
+addappid(2020710,0,"c45aa175f4c349d4108370c46139dad6be83abdecce0c2850a7225d854f15a21")
 
 addappid(2020711,0,"93bce109acdd17cf295a57e249841decc07e5a373ae984d23781b2ef3ef3505f")
 

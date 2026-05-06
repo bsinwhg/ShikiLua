@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Outlast
 
-addappid(238320)
+addappid(238320,0,"58a4f6aa1ce724f5eadb4dd16eb4174f4f494e24f253c000e149c8b26e9e6b24")
 
 addappid(238321,0,"4c6dde66a11fc24f39a7e16c0fd5027be8d4227e91867538aef8ee186568ec3a")
 addappid(273300,0,"ef20a5f980c8264317c95f217597a95cda9dd8e0de23d66237b0374e1b3b4b19")

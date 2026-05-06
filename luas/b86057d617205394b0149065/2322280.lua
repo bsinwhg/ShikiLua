@@ -2,6 +2,6 @@
 -- update time: 2023-03-12
 -- app_name: Hentai Cheerleader
 
-addappid(2322280)
+addappid(2322280,0,"70f624ec6703063e9d5969d9566f01c07bd09677ffb33513d6c39f9c36cf4bc9")
 
 addappid(2322281,0,"f0641431804b6a07cd6fde3d5c99bbe47966f7aa2489457d6e5a53529cae8b53")

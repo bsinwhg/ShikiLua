@@ -2,7 +2,7 @@
 -- update time: 2026-03-11
 -- app_name: Injustice™ 2
 
-addappid(627270)
+addappid(627270,0,"8e2b1d9d91496bb09b68bef61986d2c5806f602bd4d9bcfc330c5ec54760cea2")
 
 addappid(627271,0,"7fa0ea96f7de44df35ea69af2de65094bb167d849e116d01707e30bb8739fb5b")
 

@@ -2,7 +2,7 @@
 -- update time: 2025-09-05
 -- app_name: Diluvian Ultra
 
-addappid(1306970)
+addappid(1306970,0,"4a68722bb86f4e00295009b9c4a637c1368d515f8c68dec1e0cb118ec695e2a4")
 
 addappid(1306971,0,"5979b22ddc96c941cae9d7b0a6f107b4209ee8a1ae25a50df40536276ab5a9d0")
 addappid(1306972,0,"080563ea32f6d2adee2f02ed6bf4d9b13ca5ef69ca09b56c3c13519f6ea26916")

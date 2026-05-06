@@ -2,7 +2,7 @@
 -- update time: 2020-03-03
 -- app_name: The Uncertain: Last Quiet Day
 
-addappid(406970)
+addappid(406970,0,"2d71dfce32e0ecc74322b0f0b1040d60b75cf970e01e82386c6d013afb497aec")
 
 addappid(406971,0,"2b4f06ffde27ebd013fe0ae18746e619908eafe52d1c020769d81af0a0d30527")
 addappid(564030,0,"0f0b83c8aed959c1e5d410d75218ccbdae4d9025c88c1180d6e06b83ff291aa7")

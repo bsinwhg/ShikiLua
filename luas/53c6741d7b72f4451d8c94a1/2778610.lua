@@ -2,7 +2,7 @@
 -- update time: 2026-03-30
 -- app_name: 破壕行动
 
-addappid(2778610)
+addappid(2778610,0,"6e71039f7b4e48ec743d0e1d678ab832c7814d3024573b98dee49b5d2eaf7927")
 
 addappid(2778611,0,"ffa4f7ec012fc2a39e3c7b3e800d80beba4be3ed6efb03015e5223379930c503")
 

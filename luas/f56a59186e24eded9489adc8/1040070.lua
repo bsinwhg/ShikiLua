@@ -2,6 +2,6 @@
 -- update time: 2021-02-04
 -- app_name: 天空商人
 
-addappid(1040070)
+addappid(1040070,0,"8de6592c243678e72200ee03d4d589212c4f84d0c9deaad69448dc7fc68a29d9")
 
 addappid(1040071,0,"f342a24dd5fd52c848aa64fa7c7b430d54473e356153a0e0ad343096996a4da9")

@@ -2,6 +2,6 @@
 -- update time: 2024-05-05
 -- app_name: Möbius Front '83
 
-addappid(971160)
+addappid(971160,0,"4a16e1e8a67b2b571bd38b83be256483d0d42a3a950b08e4650dec0548cbc2e5")
 
 addappid(971161,0,"76a063ba21a233fb75071ff4da4a20246d0af028c27baad94d0d13cc6b1041c8")

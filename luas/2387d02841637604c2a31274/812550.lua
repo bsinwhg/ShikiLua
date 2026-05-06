@@ -2,7 +2,7 @@
 -- update time: 2024-01-04
 -- app_name: The King's Bird
 
-addappid(812550)
+addappid(812550,0,"2a04fa34cddb022380a2500d530e365d4d893b98150880f4e3a0ac78b1fcb99a")
 
 addappid(812551,0,"b49990300a09fd6f1d20a0d81cefc74ae89587bd17cce8df6acdc5cefc0aa81e")
 addappid(929161,0,"eb3b4e969bc8931c9301db979303f234b44f991404e80406714ec51379c0cef1")

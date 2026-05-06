@@ -2,6 +2,6 @@
 -- update time: 2025-10-20
 -- app_name: Mega Man Legacy Collection
 
-addappid(363440)
+addappid(363440,0,"1e630d78a882cb87fadd2addad23c67326de4f27fd8349426c83faaf139c5685")
 
 addappid(363441,0,"1674f0c6f57185bb129f249a00553268a4f726c6908bc4ef60598f5abbc72e95")

@@ -2,6 +2,6 @@
 -- update time: 2018-05-22
 -- app_name: THE KING OF FIGHTERS '97 GLOBAL MATCH
 
-addappid(702120)
+addappid(702120,0,"a1b585a225fc81e52b71cc2f7ea4b44750c08fed391c8ca2651a90c17ec8777b")
 
 addappid(702121,0,"0ff1cc840ddfb659e456e0a25ec2c41922b5e7765cd10529ad7c95210e8207de")

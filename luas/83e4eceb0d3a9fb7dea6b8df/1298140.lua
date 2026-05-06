@@ -2,6 +2,6 @@
 -- update time: 2022-09-09
 -- app_name: Fobia - St. Dinfna Hotel
 
-addappid(1298140)
+addappid(1298140,0,"4990b3e97363f4490e5b695c9bf018c017e07390793b8a8cfd227996e63a268c")
 
 addappid(1298141,0,"8ed0c54ae9089ee945e1b0f545f589b5f7ea797bb013f86e011ba09d90ccf0c5")

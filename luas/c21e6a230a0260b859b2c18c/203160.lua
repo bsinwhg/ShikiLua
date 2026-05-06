@@ -2,7 +2,7 @@
 -- update time: 2022-09-27
 -- app_name: Tomb Raider
 
-addappid(203160)
+addappid(203160,0,"8761f25506d656a2def8ed120f4dd7a8232fe0022f208c6e9b84d85d3e81c0fd")
 
 addappid(203161,0,"61e24eab63c4bab53d1bb8a95f77ee8243fb5fcdf4860c6fbf1408316cdfbf90")
 addappid(203162,0,"ce442b8d1224660972c96a55e1d87cec7ce819ca4e9537cedb0a2aa22d4fdfa4")

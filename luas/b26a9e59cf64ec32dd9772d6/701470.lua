@@ -2,6 +2,6 @@
 -- update time: 2018-12-19
 -- app_name: TTV2
 
-addappid(701470)
+addappid(701470,0,"8be8a15cb568695e4a26b974ba48619e16e03a7a31f296531a4b6c28e175c26d")
 
 addappid(701471,0,"2eef7a402453263d2a2e1aaacaa29a46883b1157f62d709d0bb2cf211d2ebfb1")

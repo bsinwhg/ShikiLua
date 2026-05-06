@@ -2,7 +2,7 @@
 -- update time: 2026-04-16
 -- app_name: 猛兽派对
 
-addappid(1260320)
+addappid(1260320,0,"bc1f6dc33cc56a820c67ef2a4e6a6a601077f693cc39530bbed01b96a2acdfcb")
 
 addtoken(1260320,"7641392735724118585")
 

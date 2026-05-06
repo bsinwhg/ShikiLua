@@ -2,7 +2,7 @@
 -- update time: 2026-04-13
 -- app_name: Beat Hazard
 
-addappid(49600)
+addappid(49600,0,"e529cab96e6525c1b39b9b4ca6a464a3d524c54a646de3ef85b62c0163832bee")
 
 addappid(49601,0,"9cdc76c33005e944fe10c08403bd68373e73e2b4f80f47252465208b0a40a9c5")
 

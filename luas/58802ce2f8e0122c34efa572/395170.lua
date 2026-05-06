@@ -2,6 +2,6 @@
 -- update time: 2024-07-20
 -- app_name: DISTRAINT: Deluxe Edition
 
-addappid(395170)
+addappid(395170,0,"2a34ed5a36ad6ad38b9f67ac14cb5161f7f3a7d696fb45a1ff7b296e8826a106")
 
 addappid(395171,0,"3752cf88832905a9cde92c6c40b87e3e6140fc7fee05cf876be15b5ffd0977b1")

@@ -2,7 +2,7 @@
 -- update time: 2024-12-09
 -- app_name: Beholder
 
-addappid(475550)
+addappid(475550,0,"e158e6a391a273065f47f4be4aff7dc08bc47fb12909f9934c2d156a378c85f3")
 
 addappid(475551,0,"4902dde8f25ea91e0f9a3483d3e61f42bf6ab67c8ad3ebcb74ac68daf0cf5f0d")
 addappid(475552,0,"a69a657a63f49f8e265a37331614998b817e2bfde8f4573c2d057b269da10b6d")

@@ -2,6 +2,6 @@
 -- update time: 2025-11-24
 -- app_name: 旁观者：列车长 Beholder: Conductor
 
-addappid(2825530)
+addappid(2825530,0,"b7c88c9c944d997e5bdfa171f3a3899cd88630bd1b4fca72784fa880ae72d261")
 
 addappid(2825531,0,"9c431873f776d9053638ad83bb819f7f4b0333e29467bca05809f8ca19e1aec9")

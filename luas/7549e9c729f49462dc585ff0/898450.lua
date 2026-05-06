@@ -2,6 +2,6 @@
 -- update time: 2018-12-19
 -- app_name: UBERMOSH:SANTICIDE
 
-addappid(898450)
+addappid(898450,0,"5f25d5e2580da7e2ab528d6d50cc2f91163ca94ac2c1f8c46057f0c470003586")
 
 addappid(898451,0,"9f610dea4346954fc7c88bf2333395c34a94c71295b870f859b2d2d3a767ac27")

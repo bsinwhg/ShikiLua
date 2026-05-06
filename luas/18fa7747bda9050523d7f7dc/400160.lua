@@ -2,6 +2,6 @@
 -- update time: 2018-11-22
 -- app_name: Concrete Jungle
 
-addappid(400160)
+addappid(400160,0,"739d87393efdec56f52f39929cc51e60e5a5a2952609c90ff4bbde439284055c")
 
 addappid(400161,0,"0ef1811dfd9564ac27cd0f1371c54a1f28e3d5ba5fbdefb0dd845c663fdbf516")

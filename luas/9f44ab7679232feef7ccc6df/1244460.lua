@@ -2,7 +2,7 @@
 -- update time: 2025-06-19
 -- app_name: 侏罗纪世界：进化 2
 
-addappid(1244460)
+addappid(1244460,0,"ffe85e678d5f894f9f73b27bc3f7ec5d1cec31a7782fd6f75fe35abbec637b36")
 
 addappid(1244461,0,"f32fa164f046ff769b0eb4c8ca8c0841866087c40db3edbec4d5f79b299e5fbe")
 

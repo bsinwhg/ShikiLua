@@ -2,7 +2,7 @@
 -- update time: 2025-08-07
 -- app_name: SpellForce: Conquest of Eo
 
-addappid(1581770)
+addappid(1581770,0,"189aa6c110a29d2ca140daf854cc33f9ec3c53b401b82bd1c9a538fd6c525e8e")
 
 addappid(1581771,0,"ffe2a296f48776e37af1454d167edda61275a0f08fed2ab4664ebbe27be48bb8")
 addappid(1581773,0,"13b6351fe5b434273ad9b36f114044a308db4dc77120669ba37d47626a0bcd95")

@@ -2,7 +2,7 @@
 -- update time: 2023-07-13
 -- app_name: 拼贴冒险传 / Patch Quest
 
-addappid(1347970)
+addappid(1347970,0,"3f9c0b09f20c3eb8d9808ce13dfbafc9c81a4bae1b36ee8a2058298158a20fc3")
 
 addappid(1347971,0,"16b30d6e1a5efac95b1bbef8ba62ccb8d5adb88708f3b78d767186bfe526b462")
 addappid(2333170,0,"93d21540aa70eeaf25a19ca9acac7f6bde6888732a502b77728039fd042c6571")

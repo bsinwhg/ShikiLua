@@ -2,7 +2,7 @@
 -- update time: 2022-04-21
 -- app_name: LEAVES - The Return
 
-addappid(569810)
+addappid(569810,0,"b052e3d57688d80a9e32e09a3296c4f49f8f4b2f516019c4d8d35dc89ad85f99")
 
 addappid(569811,0,"f4cd20cc0e5df4b4dbd58cd91d2650ac49b65dfe72be00bcc06cb7bd0e5356d5")
 addappid(1912370,0,"e6443dfd18f2f5eac7d54276e4a190d66d80d1844a2b4d55a93d9baaf5f3abb4")

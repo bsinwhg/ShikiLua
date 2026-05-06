@@ -2,6 +2,6 @@
 -- update time: 2023-06-15
 -- app_name: 白之旅
 
-addappid(1982340)
+addappid(1982340,0,"4892ce1efa4eafaf87ad8cb7bae7f98b9b4044cb528e31a0b90faf3d12edd50a")
 
 addappid(1982346,0,"e1b9ce1f2d6178b386bc8efa1b0807e7f0072260be53a95e5fa947f32d7f036d")

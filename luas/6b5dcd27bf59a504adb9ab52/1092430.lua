@@ -2,6 +2,6 @@
 -- update time: 2021-10-28
 -- app_name: Budget Cuts 2: Mission Insolvency
 
-addappid(1092430)
+addappid(1092430,0,"1a2ee89a79072a7e37278f8c3b30e0a7dcc4b8ada76398a83253bc8653633539")
 
 addappid(1092431,0,"38b767149be746fc883346561319cd03325549f148e20049c439ea5b91facfcd")

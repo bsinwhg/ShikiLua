@@ -2,6 +2,6 @@
 -- update time: 2025-11-18
 -- app_name: Monument Valley
 
-addappid(1927720)
+addappid(1927720,0,"33b4021303f41aed69c0444fbb7917d0f2c5c80fb34445b628eb4e76f2cdbe47")
 
 addappid(1927721,0,"11be65e06d8be73b1734f1008690fdce6cf649de649dca1948ce0bec7c25920e")

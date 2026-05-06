@@ -2,6 +2,6 @@
 -- update time: 2017-06-30
 -- app_name: Caravan
 
-addappid(352890)
+addappid(352890,0,"23f49ed42a165162a0adf8cdae1acae80c16a6e95338086ca0d9a187edc7b3d6")
 
 addappid(352891,0,"79ab5a5007e17da99ab614fffb78fc6c7036f51249bcaa5b9238c1732c852eef")

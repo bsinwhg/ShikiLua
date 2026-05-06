@@ -2,6 +2,6 @@
 -- update time: 2020-05-07
 -- app_name: Stay home and play with waifu!
 
-addappid(1298260)
+addappid(1298260,0,"85001d4d9b1660699bbc97403a9cb57ccdcb174297a0d83bfbc4bd41dadad1f5")
 
 addappid(1298261,0,"da38708b8f11e98942be30f5072fe556dad4b7ab45a335afc053f5950ac86250")

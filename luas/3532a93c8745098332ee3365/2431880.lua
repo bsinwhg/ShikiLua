@@ -2,6 +2,6 @@
 -- update time: 2024-05-08
 -- app_name: 大海贼探险物语DX (High Sea Saga DX)
 
-addappid(2431880)
+addappid(2431880,0,"4fa090ce5949f79646edf964bf434260bd3dbecfa43332eba3eae65dc730696a")
 
 addappid(2431881,0,"5ae964a51726dfa3bf17c04c59f3f2bca50dc7a8132dc6b90d47501160dd5d1a")

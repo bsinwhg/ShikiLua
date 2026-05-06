@@ -2,7 +2,7 @@
 -- update time: 2018-10-22
 -- app_name: MOMO.EXE
 
-addappid(923470)
+addappid(923470,0,"913e0a84eb8bfa585a4b204257c62f325d4145ceeac4d5e618fd3cedbf8a3602")
 
 addappid(923471,0,"0ba9e7aec2f61c70bef550761d27cdf016ee1f5893261b7457d87f367d3d5128")
 addappid(935390,0,"66ff217ac29dd2a8b5d3b6a44e14dba3a37dc9417c47086df0094a8b8f511544")

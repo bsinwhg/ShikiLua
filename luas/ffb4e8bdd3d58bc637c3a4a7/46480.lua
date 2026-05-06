@@ -2,7 +2,7 @@
 -- update time: 2025-10-08
 -- app_name: Still Life
 
-addappid(46480)
+addappid(46480,0,"12151d64843851d75fb24edd4dbcadc55d8c320d0e7dec08a2660fecb00fbb27")
 
 addappid(46481,0,"d672575cb405b8e7d693cdcd99f26eb51a1ddaf3ed9a00ebb4c01d21d7296fb9")
 addappid(46482,0,"2b7b7127a439b02a988a7ab39192a16fd0b79854b61a29bb0ec290863038c887")

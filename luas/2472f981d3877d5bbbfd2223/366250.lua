@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: METAL SLUG
 
-addappid(366250)
+addappid(366250,0,"63ed5be8cd0cb2ac4826945206b822fddc37b5d1bb3ef9b971468a01fbfde8ef")
 
 addappid(366251,0,"18bc66a5022fe72217b5b96fc8037949a0c72eaa950794ea50710fb49048a126")

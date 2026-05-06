@@ -2,6 +2,6 @@
 -- update time: 2024-02-28
 -- app_name: Last Call BBS
 
-addappid(1511780)
+addappid(1511780,0,"638856e95648a5cec67fdef7729b3d4b555d31f141e9de1ae5b8ddf9b116b7eb")
 
 addappid(1511781,0,"2da9758415e0f574035bc36faae59c3974015a4aaa890b481763f192d3aafc61")

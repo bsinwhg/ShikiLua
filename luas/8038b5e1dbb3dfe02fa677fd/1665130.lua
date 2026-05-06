@@ -2,7 +2,7 @@
 -- update time: 2025-10-30
 -- app_name: PAC-MAN MUSEUM+
 
-addappid(1665130)
+addappid(1665130,0,"998b5efcc9508da9883741127cc4c67500f88477448a99cd5bd58777c578e444")
 
 addappid(1665131,0,"fe1b574cd3fd2a82bd0a0d56a7dbd0abfcad414b522a1f437ea24b69c1a2a21b")
 

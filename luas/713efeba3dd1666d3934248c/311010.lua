@@ -2,7 +2,7 @@
 -- update time: 2017-04-27
 -- app_name: The Way
 
-addappid(311010)
+addappid(311010,0,"3934dc5265bdf1fe84ba8066f3b11c65291060dcd6615dd2bb0a8165394e271f")
 
 addappid(311011,0,"5ec3c7d89698de94e7da2ecc86c1eb663586ef7ac77a1a107e7b7ba70d239b85")
 addappid(363640,0,"6024a3adf5e56a84f6b0eb3fb80d7edf65aeb0e52ad1560ff02d2d2eb9f41bfe")

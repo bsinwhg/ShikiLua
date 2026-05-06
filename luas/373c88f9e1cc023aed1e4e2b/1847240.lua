@@ -2,6 +2,6 @@
 -- update time: 2024-05-14
 -- app_name: 游戏开发物语 (Game Dev Story)
 
-addappid(1847240)
+addappid(1847240,0,"d48c16f7c71307fd29644796957d1027cd243c8ea6b01fd877c979a362f1a520")
 
 addappid(1847241,0,"316b58f994e1005791c2f53ca2cab51044379eef9d51a1fdea4c72cc0e7fd0dd")

@@ -2,7 +2,7 @@
 -- update time: 2024-08-12
 -- app_name: 海参2
 
-addappid(1164940)
+addappid(1164940,0,"1680cafaa35e3e03a0f585cbc57232a0452a5c2c43d8ef0f8cf4a4b792abf699")
 
 addappid(1164944,0,"e7cf384fd9cc9adec7e85fe5751ed3bb5fe89e2cf1c3c1135df0dbd421580c3c")
 

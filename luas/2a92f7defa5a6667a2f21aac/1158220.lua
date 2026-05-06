@@ -2,6 +2,6 @@
 -- update time: 2025-10-07
 -- app_name: Kraken Academy!!
 
-addappid(1158220)
+addappid(1158220,0,"0c3eee31e318f49e2bfbdc7eb9d4eb41be0caa120d6bc58d9d788fa9d71d3e24")
 
 addappid(1158221,0,"e8a2c35cdcf7fd2aa3a8950dbefb70813019caa7ee29d8e22dae31af88212e82")

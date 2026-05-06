@@ -2,6 +2,6 @@
 -- update time: 2025-10-04
 -- app_name: 蛇之守望者
 
-addappid(1453790)
+addappid(1453790,0,"8ab2ffca444b2d6ff100f581756cb3ec72757e1e744c8a0d384cb3c503d54b55")
 
 addappid(1453791,0,"e50f8591f16215ab7dbfc6506a8aec9d8efe46f87446145ea631f73ea2d7cfb6")

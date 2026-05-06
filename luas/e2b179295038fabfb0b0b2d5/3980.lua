@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: CivCity: Rome
 
-addappid(3980)
+addappid(3980,0,"ce87da154a61a4b6dbe0d4a942f4e6a343599ba297ed4bc78797c1dc97195c2e")
 
 addappid(3981,0,"4dc4c0856e36f84127359a63427c2a3a2208f3126ce6134950c47dae948bdee0")
 addappid(3982,0,"5d770065cc0f68357cdbe6da7bd7d7122a8b93a07a9f5cfb447aab155416535a")

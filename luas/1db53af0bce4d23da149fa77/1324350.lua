@@ -2,7 +2,7 @@
 -- update time: 2024-05-28
 -- app_name: 飞车派对：乱斗高尔夫
 
-addappid(1324350)
+addappid(1324350,0,"b2068bc2370c2e07af42e10335f967c1326ac2065586c4a6333d06c767ec7043")
 
 addappid(1324351,0,"2a66da81a770c7d6659ed3ff913144e90e49337fab84b9240bbd05d225fee11a")
 

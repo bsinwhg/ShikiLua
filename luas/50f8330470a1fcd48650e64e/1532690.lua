@@ -2,6 +2,6 @@
 -- update time: 2023-02-14
 -- app_name: 女巫悲歌
 
-addappid(1532690)
+addappid(1532690,0,"cdf311a675af71bef4dfd473dca9eb8c7462052547f874f56ad3736548ed9256")
 
 addappid(1532691,0,"d5f063b5eb0f808ff7d0e96cb3b35a5acdb5cac935d8af6a5740a4067c7cbb84")

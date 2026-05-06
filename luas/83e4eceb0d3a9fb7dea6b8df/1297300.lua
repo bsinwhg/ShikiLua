@@ -2,6 +2,6 @@
 -- update time: 2024-04-20
 -- app_name: THE SHORE
 
-addappid(1297300)
+addappid(1297300,0,"c879dbe1e261641b6123aaedbe3fac0acac66c684483038fbae075657e2b95a0")
 
 addappid(1297301,0,"e288d5efaff30c86b4f76c9bf803a1b9cada07fa149c403f71d182ef086920e3")

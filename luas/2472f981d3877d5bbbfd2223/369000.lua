@@ -2,6 +2,6 @@
 -- update time: 2016-05-15
 -- app_name: Pongo
 
-addappid(369000)
+addappid(369000,0,"5d0f1fb7822311d8f27172b757c0a9a51e86c57fcd5eb4eb51df761929ec0b7b")
 
 addappid(369001,0,"552a77d2664fe3f4501cb1566f06bb50e4caa1824874b61f26283a545dbdab4f")

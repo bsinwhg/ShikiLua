@@ -2,6 +2,6 @@
 -- update time: 2016-10-17
 -- app_name: Surfingers
 
-addappid(438080)
+addappid(438080,0,"884e18f4004439ce7acbe156d2040448523f298dda64b940814274cb8b20c66c")
 
 addappid(438081,0,"9feaa6af197579cd8459e7f1e6fcba4a2ff6feb191ffc2b08af4558009350eb8")

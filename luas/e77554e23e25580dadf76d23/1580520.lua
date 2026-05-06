@@ -2,7 +2,7 @@
 -- update time: 2025-10-10
 -- app_name: 幻灵降世录
 
-addappid(1580520)
+addappid(1580520,0,"c8b9f9d66f60ccfc2ccfe7996a720c03cb561796f37417e6ebc3fad2194c8ba0")
 
 addappid(1580521,0,"5640fed1f15b15a419f909fc50eda8f53a1ca47a45b2e8c43b4cbe9dc8492bb0")
 addappid(2162250,0,"b32e42fd464f44311079f0f8ea2719cd74d37fcba56832e3654306f08ce7307a")

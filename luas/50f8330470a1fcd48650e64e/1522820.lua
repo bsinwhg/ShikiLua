@@ -2,7 +2,7 @@
 -- update time: 2024-07-17
 -- app_name: Orcs Must Die! 3
 
-addappid(1522820)
+addappid(1522820,0,"a63fbcff24e9b9651df2dc64313db00aa5135f5460b527caa507a7c4d7940100")
 
 addappid(1522821,0,"5c5a37b435d9eef062eaf42d50bc6406d1b5b39b7b0a78023b11b26e02517422")
 

@@ -2,7 +2,7 @@
 -- update time: 2020-11-20
 -- app_name: Sekiro™: Shadows Die Twice
 
-addappid(814380)
+addappid(814380,0,"aa4d7f62b340049a0798ece9a8f027f2aedd339bcb5e5ad2c1a0a78881ab4707")
 
 addappid(814381,0,"84db6d0cd0648c885d471541b83416e460f07ad6b71e1b86b2fa26926514d874")
 addappid(814382,0,"742e0660742d90e8f827db3e00bcbf594970e97e76f8fb90ec74a54562ef5502")

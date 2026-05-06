@@ -2,6 +2,6 @@
 -- update time: 2022-12-13
 -- app_name: 奥拓星球：强敌 / Autonauts VS. Piratebots
 
-addappid(1907720)
+addappid(1907720,0,"4476c87c03f97dc3b1997282cce0ca5ac6cb3c822a4c8fc8777c2267b57d5c00")
 
 addappid(1907721,0,"749069a888ab52d6b4e847a611e2d23f7989912b6c70edf529e897fbf56749f1")

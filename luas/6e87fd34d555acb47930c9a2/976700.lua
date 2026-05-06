@@ -2,6 +2,6 @@
 -- update time: 2021-08-21
 -- app_name: Size Matters
 
-addappid(976700)
+addappid(976700,0,"b386af8b7a287734db547917ce6a92acf7d94adcf20d0eb28fc49afb335072b6")
 
 addappid(976701,0,"9992574e6306543c9e2038ff9ed81758adef078d7743f1419a38e18a93067fce")

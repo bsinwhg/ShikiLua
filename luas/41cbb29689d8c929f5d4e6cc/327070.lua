@@ -2,7 +2,7 @@
 -- update time: 2026-04-16
 -- app_name: Gloria Victis
 
-addappid(327070)
+addappid(327070,0,"c4b16699109a37cac8f838d772f296793bb95114273fe55feb8fe0dd3f6594fb")
 
 addappid(327074,0,"88b4078ccf7cedc52342c9fdd57e1976deab225175d10862bac6124c56dcc58e")
 addappid(758290,0,"2fd5f2f92d1d07cd9b5a2d584a2cf468e65e8fc97813a1a6749baa5883785a60")

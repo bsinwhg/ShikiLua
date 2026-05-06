@@ -2,6 +2,6 @@
 -- update time: 2021-09-01
 -- app_name: Say No! More
 
-addappid(1191900)
+addappid(1191900,0,"43bbee4a60b866a4498195551cc9eb441f312d2899a267a83982b84d73b99bfc")
 
 addappid(1191901,0,"d304fe53435778f12f706d7aa0eddc2bf04568f2c088466a180a859b769e9f6e")

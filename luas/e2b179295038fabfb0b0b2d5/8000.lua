@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Tomb Raider: Anniversary
 
-addappid(8000)
+addappid(8000,0,"8fde03549e9aa22f0bd941940e189b2ff8fb85fd1558de99bd94785d60f43a0d")
 
 addappid(8001,0,"4e1307023822badbbf24311cd61f7a64e6e36f9b31d3548cad45ecf53e5c2b64")
 addappid(8002,0,"566e41ba63d701ebf6f145e2c0836504c38a36c476806f81de5b80ea2b253223")

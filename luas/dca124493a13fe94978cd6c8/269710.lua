@@ -2,7 +2,7 @@
 -- update time: 2018-05-23
 -- app_name: Tumblestone
 
-addappid(269710)
+addappid(269710,0,"3fa5a63a35cf4d15fab63da5d08b66cfb5c7fa0bc1c58177bf4d766ed9ee7780")
 
 addappid(269711,0,"667e4a1c498de9a27f579dc1cb7afe1bbe51fb809fb843a9ec2ef363f02394c0")
 

@@ -2,7 +2,7 @@
 -- update time: 2025-05-28
 -- app_name: 星咏之诗
 
-addappid(1434540)
+addappid(1434540,0,"29dc7b22dd2e35c8a75acea28ab1e081c27c848ce986ad0570c9f3fd07092a80")
 
 addappid(1434541,0,"418e315d0e566827ad0fe6620fb617d6a736c8854f4e9421880c94d8eeeef3ed")
 

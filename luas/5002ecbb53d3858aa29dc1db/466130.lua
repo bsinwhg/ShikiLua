@@ -2,7 +2,7 @@
 -- update time: 2018-01-17
 -- app_name: 白色情人节：恐怖学校
 
-addappid(466130)
+addappid(466130,0,"e5fc91a90a4259f154e7c02e3c3ff643b17d1c65001c7d0384bf18e6ef0e44ac")
 
 addappid(466131,0,"bb4e3cd18d62dc7658168342d9511c97a5843a6e81b0ffe04c028a2e6dac4c94")
 addappid(686970,0,"f74a9cc949722b6ea1a4f2dae8e3a175fd0b95de50517b0a83a794558b83b4d5")

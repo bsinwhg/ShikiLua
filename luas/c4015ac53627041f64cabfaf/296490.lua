@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: GemCraft - Chasing Shadows
 
-addappid(296490)
+addappid(296490,0,"2393eee8391a12bba418d00f0c25c3ea08c21f40abbb86cc5c27b5eec853c341")
 
 addappid(296491,0,"617e640fdde0b23d8d9aee8731ae7ea16b3f6e9c9b6fb6e2a83ffb1b70e53983")

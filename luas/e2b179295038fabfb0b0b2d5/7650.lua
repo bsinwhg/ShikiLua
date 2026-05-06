@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: X-COM: Terror from the Deep
 
-addappid(7650)
+addappid(7650,0,"13e85edfd8931f1870c487cca4c3d4713615bc87f8ccb3dfcdea50b0eea9f473")
 
 addappid(7651,0,"7dac116ddfe0ab3e06866b2a6dfffd44d546fac5d9f1c90a0068ee4a90aad536")

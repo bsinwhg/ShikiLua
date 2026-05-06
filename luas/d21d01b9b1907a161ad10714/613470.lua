@@ -2,7 +2,7 @@
 -- update time: 2018-07-24
 -- app_name: The Inner World: The Last Wind Monk
 
-addappid(613470)
+addappid(613470,0,"a2432f91d0e9d0d827c2aef3df5c277de5c92de02eb4409b96bf6b0b684fec76")
 
 addappid(613471,0,"39baf8bf4df2f532170aac5688848bfa68b1f70aadb9138b0d0177cd95b6be2c")
 addappid(613474,0,"09a1ac5506600487b8f2098853d8c2ce33a9d4a89e77af2759d1fa0606e1ca3c")

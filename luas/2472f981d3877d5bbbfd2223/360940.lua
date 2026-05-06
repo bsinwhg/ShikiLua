@@ -2,7 +2,7 @@
 -- update time: 2023-05-09
 -- app_name: The Mean Greens - Plastic Warfare
 
-addappid(360940)
+addappid(360940,0,"4dd60fe2e324798a3f4a96a38f14f3abcab71ad7fa8b00e3d2f2b55ee260bb01")
 
 addappid(360942,0,"7821a8577b025e172b8eddf8a76409947dd1d1db776988e73419e6624df201c0")
 

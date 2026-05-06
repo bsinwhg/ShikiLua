@@ -2,6 +2,6 @@
 -- update time: 2023-03-12
 -- app_name: Hentai Mikky
 
-addappid(2328670)
+addappid(2328670,0,"d01ec406df9d2678b85557bcb48330dc5d16fa2c7ffc96f1fe0adcd557c56abf")
 
 addappid(2328671,0,"40ae75b4031f4f251a3f3060957c5b1dc2fa445d8e655c87b2b5d55c112302c5")

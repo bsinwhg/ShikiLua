@@ -2,7 +2,7 @@
 -- update time: 2018-08-18
 -- app_name: 寇莎梅特：困世迷情 Consummate:Missing World
 
-addappid(630060)
+addappid(630060,0,"18649e6a7ab27cf7c230c3a7b52fc571a15f52800fc3e9a655481775ab316ed6")
 
 addappid(630061,0,"ef307ae882451b79f9b06353d4c4449b85882ace7dd3cb75509001204274b2d2")
 addappid(847472,0,"a8546b629558638240790754bdf08db4e7d29c9cceec4d2e4c8008f19a3ffd52")

@@ -2,7 +2,7 @@
 -- update time: 2026-01-23
 -- app_name: Disco Elysium
 
-addappid(632470)
+addappid(632470,0,"774daf3516c59cb2b13773ced0cb52c3ebbddce660ded85b239d4fee899fe0e2")
 
 addappid(632471,0,"c1f12eca51041182cc2c6d43bf367dad67ca662865691b1beaac315b739fbf8e")
 addappid(1173140,0,"012eaa221b0a375c66d62ef1f37f67519f22863c8931e98cfc1517defaae5334")

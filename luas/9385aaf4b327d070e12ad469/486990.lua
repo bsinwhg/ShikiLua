@@ -2,6 +2,6 @@
 -- update time: 2017-06-06
 -- app_name: Jump Stars
 
-addappid(486990)
+addappid(486990,0,"fad1ef59eaf2b9d3da56e4f778f3075f082420212d90faf7b2326a33c97d9a93")
 
 addappid(486991,0,"ab17f8f3bbd5f04e41c794983599b7802dfe78c66ad590828c5306e619b29ec5")

@@ -2,7 +2,7 @@
 -- update time: 2025-04-03
 -- app_name: 恐龙牧场
 
-addappid(1202200)
+addappid(1202200,0,"8383f4fc2bc1e8833a6b787c8cda4d12c912fffa17dcb38480ec5689da2cca28")
 
 addappid(1202201,0,"c64a197ca6dffdd997a3a8120f31ff6f6e2eadb82b35d468f0d2004336811c57")
 

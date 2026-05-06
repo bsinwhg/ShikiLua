@@ -2,7 +2,7 @@
 -- update time: 2018-03-01
 -- app_name: 归家异途
 
-addappid(467960)
+addappid(467960,0,"9b1a91d5b9ee2a10d0f21f2d271565814bb3054dc37d5608d491000a2385a489")
 
 addappid(467961,0,"bff38ddc0fa6b6b56d7519cd1cb5d1fed93ff9a4be02f2c1db2efbcc82d86896")
 

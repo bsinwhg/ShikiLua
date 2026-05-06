@@ -2,7 +2,7 @@
 -- update time: 2020-07-23
 -- app_name: Prey
 
-addappid(480490)
+addappid(480490,0,"fd7af3fd1aa1e0993a7fd7634ef4a8411803952ff6c94c14463a9d3e567792de")
 
 addappid(480491,0,"7604addd5c5336506cfcb2696a3d8e4e60dd0aecca6b19b97d7d13e5cabe6bbb")
 addappid(480492,0,"05264944cf82da30e64773cb3b4b16707bbc7fb7ddbcc8558cdeec1e00be80b1")

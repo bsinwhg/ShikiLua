@@ -2,7 +2,7 @@
 -- update time: 2023-05-24
 -- app_name: Total War: NAPOLEON - Definitive Edition
 
-addappid(34030)
+addappid(34030,0,"9e16eba18366acd3ca38ce43b238f435dd2030091fe67b689453d958a2b88f0b")
 
 addappid(34031,0,"33c69a2a2f35df0bb0d1d67e913a48c54cf21d5d847439dcff63c7bf55dc51be")
 addappid(34032,0,"dda4e4ac5792a6e8f625f6dfaacddbf8fd2246f09ad16421e29f75efd52cd0bd")

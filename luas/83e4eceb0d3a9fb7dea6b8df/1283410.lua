@@ -2,7 +2,7 @@
 -- update time: 2025-10-21
 -- app_name: Tails of Iron
 
-addappid(1283410)
+addappid(1283410,0,"8bf061ecbebea51014144f7add86225902190392ee2cb83baea3d39524c6ab32")
 
 addappid(1283411,0,"9088237d7b955a99fcfb88a0fe335ea74903e34559c6e2fdcc8140a7612c9f85")
 addappid(2715451,0,"1d3d4de844ff36ced4d0cbfbdd602fd85261bb7bce68ad8b74fbaf685fd390f8")

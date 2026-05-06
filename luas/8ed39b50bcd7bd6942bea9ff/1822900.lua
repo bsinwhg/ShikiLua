@@ -2,6 +2,6 @@
 -- update time: 2022-04-01
 -- app_name: Soulflow
 
-addappid(1822900)
+addappid(1822900,0,"60295a381fbd07a6c48669ad05d8f281ca4356c4e418f27ea64e8a1ac88dc2ed")
 
 addappid(1822901,0,"97b4a09a4a942954aa6f0a31e67a3578e536e5c93540c63f9149f977650b4ad7")

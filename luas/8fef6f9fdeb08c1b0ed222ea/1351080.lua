@@ -2,6 +2,6 @@
 -- update time: 2023-11-21
 -- app_name: Pharaoh: A New Era
 
-addappid(1351080)
+addappid(1351080,0,"64358ee895cf774bdc903a43af26068bca9e272345de082d33fa89f136d0e199")
 
 addappid(1351081,0,"9e978faab4a203b5dfd99ccc412311a9063201eb6b6b61a4c6fdb2da0b4d5609")

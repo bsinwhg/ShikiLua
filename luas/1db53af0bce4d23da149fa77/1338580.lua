@@ -2,6 +2,6 @@
 -- update time: 2023-03-16
 -- app_name: 像素哥3
 
-addappid(1338580)
+addappid(1338580,0,"0bfb9cb56b76c8ee480a9aee41eb1113db0cb183cfd2858eb5bc08debb432da9")
 
 addappid(1338581,0,"2353e713beb2fd2d8e3bb2da9a4a6b2303878d83d2107de54ecd68e249121080")

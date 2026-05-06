@@ -2,7 +2,7 @@
 -- update time: 2018-06-14
 -- app_name: Holy Potatoes! What the Hell?!
 
-addappid(664320)
+addappid(664320,0,"fdaef89f1f3ed5283f6b7b3976799132fd5e17737f406b76107b143bf0c5468d")
 
 addappid(664321,0,"db029acaee111e3055d541fa5735ea4fd626bc8c4d407ab0258ac87d7beca82d")
 addappid(664324,0,"cf892d87152aadcd15f2d9ea38c3f3e9fca261b7e35915660eecc65f9d613147")

@@ -2,6 +2,6 @@
 -- update time: 2023-12-11
 -- app_name: 时空错乱之旅
 
-addappid(1269300)
+addappid(1269300,0,"998ee420a674696934ebcf1d1d7eec39e56a0119898f00a91cf237b6b4f6f5f9")
 
 addappid(1269301,0,"5e4bbcb49cf3f095330495ea6d5d5223fef38a5d63473e3901fce58be03ea2a0")

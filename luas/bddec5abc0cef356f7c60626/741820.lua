@@ -2,6 +2,6 @@
 -- update time: 2020-07-16
 -- app_name: Prey: Typhon Hunter
 
-addappid(741820)
+addappid(741820,0,"5bfff156fe0db2f303cb333a880e7550e8ba0866f6b161aa3bf6b0cac7df8aad")
 
 addappid(741821,0,"5f89b711a0810988e3e58ca86d7ce89ab236b5198c56dd0c58b2f0163c1c8f1f")

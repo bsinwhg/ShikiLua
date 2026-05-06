@@ -2,7 +2,7 @@
 -- update time: 2025-10-04
 -- app_name: Forgotton Anne
 
-addappid(542050)
+addappid(542050,0,"898e2902abd4a8847635df14dbee4824998928cd5d9a7a447926bfa1f27cebb1")
 
 addappid(542051,0,"303d4db1ef7e3e611a2e037b5dcff88676d29ee98e1c6225f8a8ffe5ef079149")
 addappid(630420,0,"017d9168266d5ace3a4f844e885d714802f3674a4c90cdb3dc3f38892d2ffe2f")

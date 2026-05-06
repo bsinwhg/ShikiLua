@@ -2,7 +2,7 @@
 -- update time: 2026-04-01
 -- app_name: Finding Paradise《寻找天堂》
 
-addappid(337340)
+addappid(337340,0,"d0e4d6b28ac00faac0d8cf7cc79892366899d765fb88f5cab898840cda2c5ae0")
 
 addappid(337341,0,"f92a9a3b56e091377d8ea9d454d755bd78e5dd4e3dda9749f5bb933b0e41e962")
 addappid(337345,0,"35b91449c08d81ba5b367f3994acc7dfc4966c7f85763f91817f133bf5bd9aa7")

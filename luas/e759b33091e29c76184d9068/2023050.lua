@@ -2,7 +2,7 @@
 -- update time: 2022-09-13
 -- app_name: Lighthouse Keeper
 
-addappid(2023050)
+addappid(2023050,0,"893c467ed16b38dececa566af49f6e176311a58b5d21238e1d98c725dfd37a37")
 
 addappid(2023051,0,"1ee07a05a3c44a1020f520c7c254caf1e5b24ef8af18448d120c5ca82bf5a89e")
 addappid(2023054,0,"7a4f3ef2acf209b0f03335d755ee07b181254b9c9bcb9eaddf63d79e9cfcafb8")

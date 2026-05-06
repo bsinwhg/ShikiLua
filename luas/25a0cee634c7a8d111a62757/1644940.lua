@@ -2,6 +2,6 @@
 -- update time: 2025-10-08
 -- app_name: Loddlenaut
 
-addappid(1644940)
+addappid(1644940,0,"2f9975dcdcae90453be556e32afff4850242af9e318f72c01f0f8fe6123766d9")
 
 addappid(1644941,0,"464fd291bfa8822d7f22ffd27c95057fc1147f61e3042d6364d0f997dcd89c8c")

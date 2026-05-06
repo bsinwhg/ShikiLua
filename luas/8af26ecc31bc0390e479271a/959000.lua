@@ -2,6 +2,6 @@
 -- update time: 2020-01-30
 -- app_name: Edna & Harvey: The Breakout - Anniversary Edition
 
-addappid(959000)
+addappid(959000,0,"52485a65cfeab008b4b272197e6fd0f4775825f969e779e3569ea3553a586b17")
 
 addappid(959001,0,"4d59306ad2be3ac102ca3b970645cb9c337c4a8304153f0bdb460ddb9cce0d6a")

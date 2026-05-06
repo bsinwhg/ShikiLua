@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: Decay - The Mare
 
-addappid(323720)
+addappid(323720,0,"5e3b1881c872ec30440dd513993aa44552a7f619ae35cf08617c649bee1646db")
 
 addappid(323721,0,"0bff0a3a392b9160402e8122d6be2b3049ccf6def9df7ea1a4e90475d67d44d4")

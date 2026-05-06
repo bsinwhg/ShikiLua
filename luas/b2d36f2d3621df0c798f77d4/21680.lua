@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Bionic Commando Rearmed
 
-addappid(21680)
+addappid(21680,0,"62b3d95c0e271b81e7b74ae6f0b54f1b371f4354dfef0731b72adecd52e90ff0")
 
 addappid(21681,0,"69fc6c2a65803d30cd4d521ccc4d54116ac6cb593259991cdb6d057add09a6ea")
 addappid(21682,0,"62f58fd12714ac5e7686b223af15f23d7801f38fc6f77c6aa7556a9348571392")

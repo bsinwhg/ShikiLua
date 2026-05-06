@@ -2,7 +2,7 @@
 -- update time: 2023-05-18
 -- app_name: McDROID
 
-addappid(252970)
+addappid(252970,0,"ab464c4f5d0799fc3c5743dc9cb1d7090e3a7302cc68dd56780b719d047716d4")
 
 addappid(252972,0,"8a6bd3c38a696b017b9f7122c9efdd1a5006c41919003ebea37b7a6089a3d8a3")
 

@@ -2,6 +2,6 @@
 -- update time: 2021-03-22
 -- app_name: Lust for Darkness
 
-addappid(523650)
+addappid(523650,0,"c982e5980488fb1dabe0305649d709f38036010cec8ce6bed4854a890adaac30")
 
 addappid(523651,0,"3fcae53b2129b8e912a4b0915a98443cc46e07b19c089ae76488c26b85e6147e")

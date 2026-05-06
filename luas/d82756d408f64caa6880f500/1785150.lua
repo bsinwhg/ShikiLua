@@ -2,7 +2,7 @@
 -- update time: 2025-09-25
 -- app_name: Friends vs Friends 友尽对决
 
-addappid(1785150)
+addappid(1785150,0,"c2943846ca187e33f0530f7d8d59edb43c06aa6d7f8df350c299d1feac53cbe9")
 
 addappid(1785151,0,"c3804d95965aff919c17133b9368730465743d377206cb34d0a526e61f940b0d")
 

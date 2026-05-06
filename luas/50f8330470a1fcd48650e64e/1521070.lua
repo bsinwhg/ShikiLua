@@ -2,7 +2,7 @@
 -- update time: 2025-11-04
 -- app_name: The Pegasus Expedition
 
-addappid(1521070)
+addappid(1521070,0,"256ade60448ec1bfeb48175d17a6b66613871896424fcf1e70a9a3e3ef7dee5c")
 
 addappid(1521071,0,"8f76773f0e7e283836a1885f8d45acc7487c1dba017803d7e8e0cc98e4922a1c")
 addappid(2467680,0,"890bde373f160a00253ece51780d4b4729b7e52bfeff35484c32a53387be13e3")

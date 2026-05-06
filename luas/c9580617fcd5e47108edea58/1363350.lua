@@ -2,6 +2,6 @@
 -- update time: 2022-11-03
 -- app_name: 植兽物语
 
-addappid(1363350)
+addappid(1363350,0,"9867b573625f40fa44c143e63fd137ecafbe23f23c0f9c42d5cf1f25f7bd6603")
 
 addappid(1363351,0,"58173c80594d295124e503790ce6cdc56dcb85e5eae0bef2f6e1fb5fd9ec77c4")

@@ -2,6 +2,6 @@
 -- update time: 2025-08-28
 -- app_name: 凶兽
 
-addappid(1145630)
+addappid(1145630,0,"bea838562c9e5958da02c77ca33fa10be049db95d105a8d7fcd015e90b761902")
 
 addappid(1145631,0,"f0708b5e7fda6c602abd3d191dcb0def4f7b6005d0d022949233db4652766405")

@@ -2,7 +2,7 @@
 -- update time: 2023-11-13
 -- app_name: 法老王：青铜帝国 Ozymandias
 
-addappid(1768280)
+addappid(1768280,0,"28b0bb393e0c1c222d5a73c7833307f68093b42f5dc68be41bb75e0bb1a9327e")
 
 addappid(1768281,0,"65311719320baaa218623ce4c897ea6ebe89a0031a33aff30e97a77305bf29ce")
 

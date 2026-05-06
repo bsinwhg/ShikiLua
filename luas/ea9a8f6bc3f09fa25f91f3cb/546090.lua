@@ -2,6 +2,6 @@
 -- update time: 2017-05-27
 -- app_name: Trip to Vinelands
 
-addappid(546090)
+addappid(546090,0,"bbb9c3065c1be43ec5e7a5e73dde0b50141deb1464237cea97437fea3dffe23b")
 
 addappid(546091,0,"92437f9917a305c6541f6bc159e1736d859941c0ce036a44295c7ffc55c79832")

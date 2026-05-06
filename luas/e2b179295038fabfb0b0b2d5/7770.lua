@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: X-COM: Enforcer
 
-addappid(7770)
+addappid(7770,0,"162fb90d879589007730af7eccea774094f4277c076f7a82854b5333dd9c4bc7")
 
 addappid(7771,0,"5c7bf4532a5f40a416c3d2f0f2a1b2596f5414ee6dd0bfdc95747ffd989d8fe4")

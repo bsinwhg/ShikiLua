@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Lead and Gold - Gangs of the Wild West
 
-addappid(42120)
+addappid(42120,0,"a3987d5a52ee207ca38d0b059fa3b1e7bbeb1da4a844919949a18f9747d95b48")
 
 addappid(42121,0,"65c03e5de4d172aa866f0c00776cf1fc6433a90ec6ed4902e8e4610d4eb9dd59")
 addappid(42122,0,"b6a05415472bdd0d9a9d2c95c203038179d8e925362404638134d5f36aec7f21")

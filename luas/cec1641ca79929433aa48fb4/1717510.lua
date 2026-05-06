@@ -2,6 +2,6 @@
 -- update time: 2022-07-18
 -- app_name: 蛙岛时光
 
-addappid(1717510)
+addappid(1717510,0,"246ca155cc349075b0be168006fc62a6d0d43dc275959a2f804e4c55403c21c6")
 
 addappid(1717511,0,"f4afb94471b903f05638027de887dcbb7cede67cb164bb856ae92c90b0d79280")

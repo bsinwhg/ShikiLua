@@ -2,7 +2,7 @@
 -- update time: 2025-09-09
 -- app_name: 《战地风云™ 2042》
 
-addappid(1517290)
+addappid(1517290,0,"c44aa3c1f4e5fd349040964edaf26c34eb8ff19c7b3df79436e975463d085e09")
 
 addappid(1517291,0,"d7387ee0dddd7c974afd4dbea141d732c7c5735adfaad640ab2f77f09322cdd9")
 addappid(1517293,0,"cbe5726b835cf8743d85912cfbe5f3c2cf1bedd9bf9a4f2997c93eb07854fd12")

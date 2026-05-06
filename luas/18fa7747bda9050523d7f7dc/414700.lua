@@ -2,6 +2,6 @@
 -- update time: 2018-03-27
 -- app_name: Outlast 2
 
-addappid(414700)
+addappid(414700,0,"39459fc6e95c32b2cd66cb2829e5ebab28139f9335823d0eecaab97e18f1882b")
 
 addappid(414701,0,"cacb82c7172211af76cdfefc4cb22d88140cfecd92c21c02bc3692aebf7402a3")

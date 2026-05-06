@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Anomaly 2
 
-addappid(236730)
+addappid(236730,0,"d68da914fbfe5c764388ba9ce8a55c006ff5998f3efc920481b2397a5d6219c0")
 
 addappid(236731,0,"c32209eafcb06ed627834bfbc91b499f975a62bedceac5f23c2538473726eb3a")
 addappid(236734,0,"ecca2ebbebd0d519dfc3f34879689520c1be0e52cc8486979801062cf4d4f13e")

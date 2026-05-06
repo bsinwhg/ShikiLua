@@ -2,7 +2,7 @@
 -- update time: 2025-10-03
 -- app_name: 奥力奥力世界
 
-addappid(1190170)
+addappid(1190170,0,"7f058cc6693425133e38ce32c07ddaeb668725d0e3c0dab49cf8e0f94839a047")
 
 addappid(1190171,0,"be0f92c1bd6bf8e87ad2d9a5b62cde5dd359a56a6e27abca823da99d6dd5ebab")
 addappid(1694520,0,"940b71a2a68a5bfe5f28b3c8ee480c052cd8b970d0394fd07cf4ec1e7d97b73a")

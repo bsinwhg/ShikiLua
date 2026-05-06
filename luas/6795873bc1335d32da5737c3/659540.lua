@@ -2,6 +2,6 @@
 -- update time: 2026-01-30
 -- app_name: Warsim: The Realm of Aslona
 
-addappid(659540)
+addappid(659540,0,"fbfa8b1aa5298d7464f3c498c8a353eefbed1a3c2ae592ea6ad72afc6367b916")
 
 addappid(659541,0,"3f78a6499faa1c2bbd2c31927293c4dfdd7057277c7c8b532e7fd41b1861b232")

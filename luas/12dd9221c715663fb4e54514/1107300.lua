@@ -2,6 +2,6 @@
 -- update time: 2022-10-15
 -- app_name: Down in Bermuda
 
-addappid(1107300)
+addappid(1107300,0,"7420cb0c94b6f16cc09640986ddf8dcfce2784da5d8898b20361f11c2888a5b4")
 
 addappid(1107301,0,"b76b590b8653ebcbeaf55d4e0c06be35d93f2c25df5bd64656d5b553ca228c32")

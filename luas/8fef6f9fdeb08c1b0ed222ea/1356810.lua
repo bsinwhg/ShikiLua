@@ -2,6 +2,6 @@
 -- update time: 2026-03-03
 -- app_name: 帝王牌局：古国纷争
 
-addappid(1356810)
+addappid(1356810,0,"3339776a59ce986cd6e4f268651b64b727734a8c5cb8553bcab823d52ef02c8a")
 
 addappid(1356811,0,"fdb11225d1172bcb021bb060a7fe134c226f7a48205f600fd13d75f9603a23c1")

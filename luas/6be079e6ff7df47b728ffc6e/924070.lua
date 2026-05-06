@@ -2,6 +2,6 @@
 -- update time: 2021-10-05
 -- app_name: Arboria
 
-addappid(924070)
+addappid(924070,0,"eeef311b878c383537f574923ed3f8fd6b7c16ca096c8be9cd0cfab23b417fe7")
 
 addappid(924071,0,"fd33abee36f2c391d26de7805ec480da66a6cc16d482790733e26ad3c9075f52")

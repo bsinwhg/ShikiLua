@@ -2,7 +2,7 @@
 -- update time: 2021-01-26
 -- app_name: Bee Simulator
 
-addappid(914750)
+addappid(914750,0,"52284cfc9ff5edf5a4c74f243b25c3eb37fba56bd8b661378b7fb64a1987ff01")
 
 addappid(914751,0,"ed18dc86b4a15f06739cd86dce04634aaf0d6b18372a804b51fbdb0115b7d64a")
 addappid(3582181,0,"e094c60fa58aacaf2bf2f09847b686c7960c0072b36b3662a740a42750ea476b")

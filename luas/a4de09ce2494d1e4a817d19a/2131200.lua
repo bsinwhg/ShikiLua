@@ -2,6 +2,6 @@
 -- update time: 2022-09-06
 -- app_name: NeverSynth
 
-addappid(2131200)
+addappid(2131200,0,"cc39d7fe3f77e47f7c2acb233f6c4b450415ec4142900698b781f1cd403b6b65")
 
 addappid(2131201,0,"895d17125067b447762973d3ff7b33b9dde2b47839a15d5cd4634daf168a8473")

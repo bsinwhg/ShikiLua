@@ -2,6 +2,6 @@
 -- update time: 2024-11-27
 -- app_name: At Eve’s Wake Definitive Edition
 
-addappid(1395120)
+addappid(1395120,0,"68669def201d373a0d54d512ac79e3210f4089e25ed192bdb7870dd6ba7fb2b3")
 
 addappid(1395121,0,"66439fd719c54ba2a80b694641de54e5b07f2dada9bba3fb673d89f94ee51c3e")

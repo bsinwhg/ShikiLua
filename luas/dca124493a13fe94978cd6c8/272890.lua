@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Vertiginous Golf
 
-addappid(272890)
+addappid(272890,0,"6ef61a6f0aaf56fb593474ff5eddfebe1fcdbfe2b0a2417ae5f0241045d0fcd9")
 
 addappid(272891,0,"94aaf892b7a0328deacd53deadef0d00d5246f14f28bbe1dc7e6d020b4af618f")
 

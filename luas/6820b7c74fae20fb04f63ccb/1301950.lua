@@ -2,6 +2,6 @@
 -- update time: 2025-10-03
 -- app_name: Time Loader
 
-addappid(1301950)
+addappid(1301950,0,"fc86c5f6cfb690f3a816db77c92c3c293772fb47454fc89a375c137f5ee3071d")
 
 addappid(1301951,0,"93bf918193a64222bc78d3c8f2d563b2c92bd4a1abbab057af601f9275b0acc6")

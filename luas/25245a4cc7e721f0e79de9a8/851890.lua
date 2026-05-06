@@ -2,7 +2,7 @@
 -- update time: 2018-11-28
 -- app_name: Gal*Gun 2
 
-addappid(851890)
+addappid(851890,0,"596ec1e6aea70f0ea612f86f138369902d0c3aedf98ba91dbcf6d8cb2a563e2d")
 
 addappid(851891,0,"c5fffbe6b42160dec82627ab3222b0c494daca60e85dc3b6522efc46f361ed0c")
 addappid(851892,0,"74cee297731f69280edf736f274c4e634267c2aacba178d79a1b6f9adf7153be")

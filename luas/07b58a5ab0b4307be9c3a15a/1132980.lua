@@ -2,7 +2,7 @@
 -- update time: 2023-09-25
 -- app_name: 无光之地
 
-addappid(1132980)
+addappid(1132980,0,"022dce026a7b75fbefc2fb2404ae60dd6afbbfd4b6da604c1a3effbeaf89f6c4")
 
 addappid(1132981,0,"a07ab7652e5666039dd734678fc82e9a84c5272f20deb1b2e0335c1fa0b6a4ec")
 addappid(2141260,0,"fb6f1e8548fa77acf24e08eb86f2d8e219c0bf1557509817317ae853c440f426")

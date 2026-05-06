@@ -2,6 +2,6 @@
 -- update time: 2020-12-23
 -- app_name: Bartlow's Dread Machine
 
-addappid(1228870)
+addappid(1228870,0,"516847f265ea3292b0bc33e36130cd12cf3e97b06d361a3a26e8111ae0437bda")
 
 addappid(1228871,0,"ab3bf7330ec3302d0761278bed006e5820285cf742a76bc40e5878dbe8236089")

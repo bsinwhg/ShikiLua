@@ -2,6 +2,6 @@
 -- update time: 2025-10-10
 -- app_name: 纳赫鲁博王国地下城大师
 
-addappid(2005160)
+addappid(2005160,0,"a00fc9717baf3ce673994c3ee1f9de0298b2721df6501fcd57f92624510ad24b")
 
 addappid(2005161,0,"8d1fded44b72fbcda3669981504d33af9d5c1af585517cc4f594714eea783ee6")

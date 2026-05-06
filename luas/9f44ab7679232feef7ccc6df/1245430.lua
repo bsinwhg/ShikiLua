@@ -2,7 +2,7 @@
 -- update time: 2025-02-28
 -- app_name: 金色的光芒
 
-addappid(1245430)
+addappid(1245430,0,"88ce4f7ffb6bce2e7f3d25e83243b30b76b5344e3658b428cbd1b75dba206e82")
 
 addappid(1245431,0,"b64b75d0477f52f967773c3590fe10b6d42f0affd900869d68e8c56b7268f92a")
 addappid(1915480,0,"66ade5e800f5e848f5a1d4182626bdc5bc06a6ebdb7fde8f14037f47c6fec6ca")

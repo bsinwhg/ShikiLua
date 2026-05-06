@@ -2,7 +2,7 @@
 -- update time: 2016-05-18
 -- app_name: Fahrenheit: Indigo Prophecy Remastered
 
-addappid(312840)
+addappid(312840,0,"0e60ca382758e36bd7a960d0aeb102a5cc51b77b0a8bed06f714b29c63ee1402")
 
 addappid(312843,0,"3bc0aa552c66b883e9a15156c9ae2804e894c6b52f8a89f8125f35e82e63e2e6")
 addappid(312844,0,"955c7982f628a7c4f66e39ffbf1b89a6003cd1e1e6aa5e4c1ee88244adfc2c56")

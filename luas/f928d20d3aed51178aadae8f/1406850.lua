@@ -2,7 +2,7 @@
 -- update time: 2024-04-19
 -- app_name: 廖添丁：绝代凶贼之末日
 
-addappid(1406850)
+addappid(1406850,0,"f8aa2a59a8cff131887e48fd968562560851c847ecd36a127e75ac006e80b2ca")
 
 addappid(1406851,0,"8a1f9d6033a9c58f1b2e131bd984f57d15b48162ec6d0f6c6df575a6403aea7c")
 addappid(1406852,0,"9b6dfe98ea1640f3fc7bbaa82ef68c4721cc6f664268f45ba481df608eb56ac1")

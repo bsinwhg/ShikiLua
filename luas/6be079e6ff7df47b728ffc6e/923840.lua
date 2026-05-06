@@ -2,7 +2,7 @@
 -- update time: 2018-12-18
 -- app_name: 侠隐行录：困境疑云 - Wuxia archive: Crisis escape
 
-addappid(923840)
+addappid(923840,0,"2351702c93ce2f9dedbe51321030a61837e9d6f4201ec3f9d87d4eba22db571e")
 
 addappid(923841,0,"d1aebcbb900be690ce5dd01e70cd5ceb7d92f307efd274e47267d3d8153bc2d5")
 

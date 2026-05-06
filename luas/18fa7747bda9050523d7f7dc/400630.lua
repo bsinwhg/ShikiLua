@@ -2,7 +2,7 @@
 -- update time: 2025-01-31
 -- app_name: Wuppo - Definitive Edition
 
-addappid(400630)
+addappid(400630,0,"295ceee27aca8232f770c7ec2b2d9edbeb4c31c94227672da2e625fbb27b15ce")
 
 addappid(400631,0,"2cc748e997524001018f71812a352a56eb88ebef11152dc8a5314db7fabe9caa")
 addappid(527020,0,"8f3eecb3a733a28d7c837e66cf1add7500ce34dd1b5dea6bcd7a953e117b2535")

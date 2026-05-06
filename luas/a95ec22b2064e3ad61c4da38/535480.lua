@@ -2,6 +2,6 @@
 -- update time: 2023-07-17
 -- app_name: Sundered: Eldritch Edition
 
-addappid(535480)
+addappid(535480,0,"37cdedadf3a5b85d41d51fbf50d5a09eb80c37b6c3ee90c4926fb6e11e2b8248")
 
 addappid(535481,0,"97dd8ba29cec4cf1c62596195dbacb6f5a6795a9674566e3f32790f08d324da5")

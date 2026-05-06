@@ -2,7 +2,7 @@
 -- update time: 2025-10-03
 -- app_name: Blasphemous
 
-addappid(774361)
+addappid(774361,0,"43a3d6f20da5979e761222db12b5836304682ef40eae785e8d5c1fea1dcd4e7a")
 
 addappid(774362,0,"3c0c23fe108b94cd3807435b2bc40180ca3b94536b58e0c39accee663fed16bb")
 addappid(774365,0,"bab5ef14e351920c47897af01aa779ee7cd40e781f30acf4090c8d7bbbea62a0")

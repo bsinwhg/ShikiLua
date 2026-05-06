@@ -2,7 +2,7 @@
 -- update time: 2023-04-24
 -- app_name: Devil May Cry 5
 
-addappid(601150)
+addappid(601150,0,"fb26aa30aae0f7bee38ace6626759f56a2d5abe458ec323708c7b6da1581ba3c")
 
 addappid(601151,0,"8044d37b8d329e3e7d4a9006b3714cf2fab0d9e01f4c52e8bf9de594d7d56616")
 addappid(601152,0,"c7b902e53de220fc8e8c2c70865f3715efb354728b674632f29c0a05d0106b49")

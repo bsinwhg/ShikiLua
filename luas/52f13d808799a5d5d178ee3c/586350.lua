@@ -2,6 +2,6 @@
 -- update time: 2017-05-27
 -- app_name: UBERMOSH:WRAITH
 
-addappid(586350)
+addappid(586350,0,"f13db4e8bcd97cbca9b8b7fcbfcddecef33b0d76c54065daac8e742c6a9e89db")
 
 addappid(586351,0,"83da3f44facbea182172e91ca3c15e709702e5d3af6562b06ef3d460c94d7ad1")

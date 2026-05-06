@@ -2,7 +2,7 @@
 -- update time: 2018-10-25
 -- app_name: 428 Shibuya Scramble
 
-addappid(648580)
+addappid(648580,0,"2731da09a4a8c3392be870cbefe02552a46fc6bc751fd42cb1dbd4dd9c6903f3")
 
 addappid(648581,0,"12e5d1c8e33a92c3c0c398b1eaa8fe9e046fe163b1bdbcea4265a5aaa191f455")
 addappid(648583,0,"8860d9a259ebb9b67fed967da42dd9d31be34c7373a8a123f2508389cfc9cf6d")

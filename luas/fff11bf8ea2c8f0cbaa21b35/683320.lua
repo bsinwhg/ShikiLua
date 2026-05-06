@@ -2,6 +2,6 @@
 -- update time: 2019-03-07
 -- app_name: GRIS
 
-addappid(683320)
+addappid(683320,0,"25ef591256f09e2d5a8a1f06c31245cc01f6dd73c5a275803c47c503bbfa7b5d")
 
 addappid(683322,0,"2f99d9af276a0e5baed69c5687681ad5a209652bd63a14cd60a411fab8ee5274")

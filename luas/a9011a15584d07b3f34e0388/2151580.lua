@@ -2,6 +2,6 @@
 -- update time: 2023-08-25
 -- app_name: 道无穷
 
-addappid(2151580)
+addappid(2151580,0,"21f6c0cf8b8d745ec5312749c1e485efca9b0464a75e560ea0d3070f10feaec1")
 
 addappid(2151581,0,"16787ad2dcf625b58f77222db96e7019da13d96235d1d7576f6b152b3ed2201b")

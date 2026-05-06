@@ -2,7 +2,7 @@
 -- update time: 2025-10-23
 -- app_name: Dead Island 2
 
-addappid(934700)
+addappid(934700,0,"24a48fbdcbb1375b8f5f4a4a78e0ac341d79d00f2ccebf6718aad84e1166a2cf")
 
 addappid(934701,0,"9f01bb4de4308fcda3524d8e086fb30c2cee5a647bc41b8ca77afad561bde375")
 addappid(934702,0,"74f4653f5c8cd21938bd4a269765ee3310d860bbf57e7fcc44dd02751f277a49")

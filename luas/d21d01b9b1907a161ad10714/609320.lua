@@ -2,7 +2,7 @@
 -- update time: 2025-10-20
 -- app_name: FAR: Lone Sails
 
-addappid(609320)
+addappid(609320,0,"88e484ad09d4e83a7ba85f05611dca64e75ded51219b8f9948c212bfb369e073")
 
 addappid(609322,0,"a1921eed4ffcb5935cfa6fb70f47888f89854645ead6e3b9f2b4b27d4b266357")
 addappid(863200,0,"3d0a5081782b9876587e4b72264f62f2af2a310e2f1e2b4e442bca512b42e6ce")

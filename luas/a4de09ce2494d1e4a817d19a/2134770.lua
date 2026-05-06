@@ -2,7 +2,7 @@
 -- update time: 2024-10-10
 -- app_name: SteamWorld Build
 
-addappid(2134770)
+addappid(2134770,0,"9c6b519f49edbb50b640ec6aa75fca5bfebb1202765cba076f54b4831e9aaf2c")
 
 addappid(2134771,0,"bbda61a192b954b2b25cfe27ca50a6a5e1cd9b6ecf41b9cd42b62d78bd2eace5")
 

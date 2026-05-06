@@ -2,7 +2,7 @@
 -- update time: 2026-03-30
 -- app_name: 风暴之城 Against the Storm
 
-addappid(1336490)
+addappid(1336490,0,"66eeeb696a07fb6d6e9b309366dcfb7fac46f85aeb1f28bb161f58817b3cd9ae")
 
 addappid(1336491,0,"c62157594f44e2a3087998f70ca9dfe4736a0a98d9d1eca658ecaaf102f17dec")
 addappid(2712950,0,"e87c2fd0103b135d75ea1e7ab9961328a7d9bdd04bc07c98c60539ac490017fb")

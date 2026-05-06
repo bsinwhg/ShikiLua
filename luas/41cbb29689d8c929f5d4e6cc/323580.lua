@@ -2,7 +2,7 @@
 -- update time: 2023-07-17
 -- app_name: Jotun: Valhalla Edition
 
-addappid(323580)
+addappid(323580,0,"b5edb4debebbbecb572fa7e6528e266a3029059afa5047d02f8de05beef0031b")
 
 addappid(323581,0,"bb9e41038401a24932806e1befb09380bf44fee56cb640a342f94bab7eddc35a")
 addappid(323584,0,"981aef230188931b69b8ec942d66dd62d36706b170a7fc055631a67a37eb59d2")

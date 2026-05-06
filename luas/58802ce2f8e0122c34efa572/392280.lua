@@ -2,6 +2,6 @@
 -- update time: 2017-05-16
 -- app_name: The Franz Kafka Videogame
 
-addappid(392280)
+addappid(392280,0,"6df1ca65203688413a38285d8b5837d27b54786e4c9b64f52dd3fe8d8d5df04a")
 
 addappid(392281,0,"ce21435e80f33a9442989a9cd4fd7a424a21c2a8c165d9751a5ddbdb5b4a6d42")

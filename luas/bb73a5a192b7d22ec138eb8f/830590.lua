@@ -2,6 +2,6 @@
 -- update time: 2018-12-21
 -- app_name: Holy Potatoes! A Spy Story?!
 
-addappid(830590)
+addappid(830590,0,"a09750ddc5aaa4463b78bcfbaac6188dbaf771354bbac15edfdafff2cfb037c8")
 
 addappid(830591,0,"9fd4b954b50dcb823a77af2af7ac825fedd489df92f7a9bd1c36a821e8fc73e7")

@@ -2,6 +2,6 @@
 -- update time: 2022-11-18
 -- app_name: Wavetale
 
-addappid(1823930)
+addappid(1823930,0,"c3e5bc92f5d0e35c59c6a4415bc28850ae4aada96e2d1aca0c1ad3d3788ce3cc")
 
 addappid(1823931,0,"087783432f78e0fc4dc11f141dc90c15a2c252fe630c8a2672ca32b0ddae5897")

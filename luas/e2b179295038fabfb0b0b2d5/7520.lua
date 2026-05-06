@@ -2,7 +2,7 @@
 -- update time: 2022-10-17
 -- app_name: Two Worlds II HD
 
-addappid(7520)
+addappid(7520,0,"6e36537b95ec158735afa6460ca447adbb3627d83c15f3f5496ef36417bde31b")
 
 addappid(7521,0,"af8f4e1e99b8eee21244d641b254bda935455c8b777e12f0314d7c4fb79d990d")
 addappid(7522,0,"cab5cffc68135eb704eec37e594b963e8aa555ac952b5e05763076fb4cb275e8")

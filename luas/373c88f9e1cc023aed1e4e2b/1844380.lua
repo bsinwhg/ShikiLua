@@ -2,7 +2,7 @@
 -- update time: 2025-01-23
 -- app_name: Warhammer Age of Sigmar: Realms of Ruin
 
-addappid(1844380)
+addappid(1844380,0,"9396dc4eaa05ffc9f68b32bbc68e7e07c14fb63d877934e85ae3490796c6c1f1")
 
 addappid(1844381,0,"34ab542f6d7b2eb7aa9e7623c37b81259208343c7989509c7dc2e559405fa22d")
 

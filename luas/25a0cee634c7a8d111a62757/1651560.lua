@@ -2,7 +2,7 @@
 -- update time: 2025-10-16
 -- app_name: 寓言之地 (Fabledom)
 
-addappid(1651560)
+addappid(1651560,0,"c6329467bff9d2906cce3e97340d0e18525fc2cc4b69cbf65fd3dcbcaf9692b3")
 
 addtoken(1651560,"4483984494128195992")
 

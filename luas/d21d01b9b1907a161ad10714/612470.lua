@@ -2,6 +2,6 @@
 -- update time: 2026-04-01
 -- app_name: Bio Inc. Redemption
 
-addappid(612470)
+addappid(612470,0,"83a029821ddb51808f8d3b2e47a1038b122b7b7f0fcb586865ba36c413e55d96")
 
 addappid(612471,0,"68db1b2a5f2fe2a87f86e45cfbb3b8fdc3291c91084cf12483bfe24700a68320")

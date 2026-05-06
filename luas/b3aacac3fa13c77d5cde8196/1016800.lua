@@ -2,7 +2,7 @@
 -- update time: 2025-01-21
 -- app_name: Chernobylite Complete Edition
 
-addappid(1016800)
+addappid(1016800,0,"af8a60b8f212a8ee2161618f428df17a41376e26e88d8f7d14ef4a072de56c2c")
 
 addappid(1016801,0,"d5922db497812c1e9e7de0a1242522c0a4f38964b632aafe2f466105a69429bb")
 addappid(1701200,0,"fa86adca169023889b58ef61c505090a61a8da3443ddf019b9f69ef260f8164a")

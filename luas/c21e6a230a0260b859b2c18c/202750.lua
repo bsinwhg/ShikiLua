@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Alan Wake's American Nightmare
 
-addappid(202750)
+addappid(202750,0,"3e34aadd9064255797925f406e71594f47942bd0b3424b959988ffcaa60aeb43")
 
 addappid(202751,0,"8f0773b538465fbf739ab1c93f7a7139d3d1de24817d4631bf06ba3bef32f3dd")
 addappid(202752,0,"14dd7e9111b050b18a408013cce986c4e09912a1f13ba4b922d818ba6712b131")

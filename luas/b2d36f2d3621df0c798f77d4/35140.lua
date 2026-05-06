@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Batman: Arkham Asylum GOTY Edition
 
-addappid(35140)
+addappid(35140,0,"b076f8affa57515220081eb5e392f8705c0fea1b7ed1310747facd9009cb5a67")
 
 addappid(35141,0,"f108f5ba5d141ab8c93aa46f8e12693037a0485a896866c958451b685e52c979")
 addappid(35142,0,"09239b68f83e2fb836c7bb735e1b96a0121243a9f54346e43e1b07a2e22181eb")

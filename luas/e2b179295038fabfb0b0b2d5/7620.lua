@@ -2,6 +2,6 @@
 -- update time: 
 -- app_name: Railroad Tycoon 2: Platinum
 
-addappid(7620)
+addappid(7620,0,"85e66d0b7e2495c0a288cab2ba21d58a29b3025bd2b5d0e98ccbc8e39f8e98ec")
 
 addappid(7621,0,"68093523d8ef51e0969b6b1bd3c244d0284223944e7f53700c3e36d03ca78e27")

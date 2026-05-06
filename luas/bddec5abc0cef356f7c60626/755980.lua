@@ -2,6 +2,6 @@
 -- update time: 2018-04-10
 -- app_name: DEPLOYMENT
 
-addappid(755980)
+addappid(755980,0,"2033f5f8b95c9495fc6e2979e5ea5ea9a7db12b9ff9e45790af180345245a576")
 
 addappid(755981,0,"d52554f5bc1717a5d6838fbd1426b2d5ced9f2f46e1258d8f411eafaf43dd2d5")

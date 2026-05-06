@@ -2,7 +2,7 @@
 -- update time: 2022-04-10
 -- app_name: GRIP: Combat Racing
 
-addappid(396900)
+addappid(396900,0,"aa57e58deacb122cc9ce5dffcd700bd485a570480a0768bcedb808079cd5d7ea")
 
 addappid(396901,0,"785f46f11585c0e8acc28e4b70f1fecfa9a9b08f6082d5a3d6977a79cdca2954")
 addappid(958950,0,"56e4162852d1168a9d81b484942d70bed2e3ce3dbd5ec784df2e65b0374ef009")

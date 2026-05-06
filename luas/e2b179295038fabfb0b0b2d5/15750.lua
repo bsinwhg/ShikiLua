@@ -2,7 +2,7 @@
 -- update time: 
 -- app_name: Oddworld: Stranger's Wrath HD
 
-addappid(15750)
+addappid(15750,0,"5d2aa7c20c7be5f7656ba5d8813492535406d2bfabb123d595fb7f3144ee0bd8")
 
 addappid(15751,0,"8d289fdead7fa7e4bc9dfbbbe51d35b779d3e8f7d67920c0560be32f4f0354b7")
 

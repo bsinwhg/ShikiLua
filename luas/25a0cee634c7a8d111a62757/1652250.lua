@@ -2,6 +2,6 @@
 -- update time: 2026-02-28
 -- app_name: 传说与战术自走棋
 
-addappid(1652250)
+addappid(1652250,0,"20e1e9f58e0419ca4bf99f4189ae4cf27dd95ddc4950b207785c02ad20315c51")
 
 addappid(1652251,0,"b33bc6731d4f57b8cbd8877c58b0f35fca6516ce330c14048fb59aadaf364a36")

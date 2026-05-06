@@ -2,7 +2,7 @@
 -- update time: 2025-10-14
 -- app_name: Escape Academy
 
-addappid(1812090)
+addappid(1812090,0,"e04f75d9b1482aa9b3447f0350b5036b812f01c2666be8b98bbb25f567fe2b0e")
 
 addappid(1812091,0,"ccf3f424fd3f7eff01a1dced9fd660930fd1652c42c0fb6f9064a6a043752c81")
 

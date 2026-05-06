@@ -2,6 +2,6 @@
 -- update time: 2020-12-11
 -- app_name: The Walking Dead: The Telltale Definitive Series
 
-addappid(1449690)
+addappid(1449690,0,"fcd7ea3158090a5530207a9e27bc69ade8a22fefa3773c951e2166651779e5d2")
 
 addappid(1449691,0,"ebfb9f62016b22f81e1323ccfc885d47a554513a3aec0310ea08e4043e4a84a7")

@@ -2,6 +2,6 @@
 -- update time: 2022-03-02
 -- app_name: THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION
 
-addappid(222420)
+addappid(222420,0,"99d82333d54494f9cd1a80eed9b5aeb2440c8e28e2c9be0bc57c7e8bfb16c28b")
 
 addappid(222421,0,"05b790cfcf6ad87f7dd75e8efe61e3536174d02102780457187cc0c86ebf349a")

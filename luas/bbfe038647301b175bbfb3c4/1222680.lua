@@ -2,7 +2,7 @@
 -- update time: 2023-01-27
 -- app_name: 《Need for Speed™ Heat
 
-addappid(1222680)
+addappid(1222680,0,"fedb1548e1dac6e72f46c85a36820a3dfda019c1c9cfdfafe97e12ad356ea3e0")
 
 addappid(1222681,0,"e249f05202889ee5fb53d5acc1e08682922c11271482791e5da05e6734701886")
 addappid(1222682,0,"9c5ac539f5ac43b3d6bd0f35f0e0029428e6f0a43ecf3b8f46fe38bcd18f9dba")

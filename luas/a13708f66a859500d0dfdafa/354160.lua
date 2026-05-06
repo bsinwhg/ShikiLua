@@ -2,7 +2,7 @@
 -- update time: 2016-03-30
 -- app_name: WRC 5
 
-addappid(354160)
+addappid(354160,0,"8a863fd61b6a36cb4bd4a7f9d17dfef313387a74a9f7a564ee0e145b528e26e7")
 
 addappid(354161,0,"1a602f2de1feb381519e2b1b0fa88512ca3aa8aa1712dac61435f6f0aef880cf")
 addappid(398472,0,"c841e22c0becf54df19c8107a2a308891754f86a87f40f623e76b2ee7f6f85b6")

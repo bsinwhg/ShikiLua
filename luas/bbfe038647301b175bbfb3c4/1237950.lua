@@ -2,7 +2,7 @@
 -- update time: 2023-01-31
 -- app_name: 《STAR WARS™ 前线™ II
 
-addappid(1237950)
+addappid(1237950,0,"096d2414df00aef81cadc75b73b23c3941fc7bdf4e8ad69ecc87d691f1073b1f")
 
 addappid(1237951,0,"32aebb4721998dff07fa694f35e621ebcd86e835d845fb86b80bd21850623d89")
 addappid(1237952,0,"a429a63ae566d27c07a931f0e77f512a52e2736ab8c5fac0a5373c708cdbe89d")

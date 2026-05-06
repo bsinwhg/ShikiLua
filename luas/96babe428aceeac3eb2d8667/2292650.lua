@@ -2,6 +2,6 @@
 -- update time: 2026-02-05
 -- app_name: Escape From Mystwood Mansion
 
-addappid(2292650)
+addappid(2292650,0,"1fa35b1b2172e0da198814e865a0aad99d70b8d090a094b6c98367c3d52d1c13")
 
 addappid(2292651,0,"77c7cb56aaf344a3d73663c11b551d5129f06ad0832ef6fd2686f1eaa856ed76")

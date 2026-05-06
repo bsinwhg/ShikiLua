@@ -2,6 +2,6 @@
 -- update time: 2023-02-07
 -- app_name: SPACE ACCIDENT
 
-addappid(1852830)
+addappid(1852830,0,"b3d9a57ce4143db1b6309fd9e63505fda028dc7fb09ea3a0ea73169a37f84c8c")
 
 addappid(1852831,0,"5ffa9f99d536a8a87069f6e60d9c5bad214f5fbc00f16555c80832c0a1286e7b")

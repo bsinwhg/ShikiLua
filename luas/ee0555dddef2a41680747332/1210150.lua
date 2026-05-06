@@ -2,6 +2,6 @@
 -- update time: 2025-10-04
 -- app_name: Ageless
 
-addappid(1210150)
+addappid(1210150,0,"7f76be2e27821a1a6b8a365713de6a679d90e93af54579cef8e2011d58600350")
 
 addappid(1210151,0,"b4eb6231d06ea5f1fbb42334ef559fd5487c9c1b330fdec36ed3b5f45cdaa436")

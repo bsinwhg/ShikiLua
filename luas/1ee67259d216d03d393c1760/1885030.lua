@@ -2,6 +2,6 @@
 -- update time: 2022-04-07
 -- app_name: Queen of the flies 蝇后
 
-addappid(1885030)
+addappid(1885030,0,"073d2eed40c30bd1d7dd113993030da6f4357666f71a8f389c1169e91172961e")
 
 addappid(1885031,0,"2091908662fcb7155b0776ec25612daa742d07dae517187b99419d9e1aa66058")

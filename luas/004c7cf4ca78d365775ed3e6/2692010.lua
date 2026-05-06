@@ -2,6 +2,6 @@
 -- update time: 2023-11-20
 -- app_name: Five Nights at Backrooms: Waifu Edition
 
-addappid(2692010)
+addappid(2692010,0,"f2d928d6328aa8621e78d69a0642b517fb9d49ad1ca834a14ea326712d2ba81d")
 
 addappid(2692011,0,"99eabcf8a7ee5c8ce4d727809bd63e3695de9f9be808345037ed38a0cd932837")
