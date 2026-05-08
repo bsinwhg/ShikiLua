@@ -2,7 +2,7 @@
 -- update time: 2026-01-23
 -- app_name: Tactical Assault VR
 
-addappid(2314160)
+addappid(2314160,0,"dcb79a31530a8a83736b7e9a37dc95f0ac2ce84270f26a50b48b67d0068d1468")
 
 addappid(2314161,0,"5be7927a7b9161b7c4faa65d50810e4337a6ec964921f4cc0d37d8003e72bed0")
 addappid(3855050,0,"dd1a6b1ef84c589594a42a46ababbdb918e4d2e3cb6a944d7ea3b742d6222591")

@@ -2,6 +2,6 @@
 -- update time: 2026-04-16
 -- app_name: Age of History II Definitive Edition
 
-addappid(3381680)
+addappid(3381680,0,"b78b455f58e6475d3cb8260ac287ad9e09abfd712091d1051ae7ecf15b75e8b9")
 
 addappid(3381681,0,"6da20eee236f318943eb6fa58a2bbf06d46002564c5afb77f116558dece50e0e")

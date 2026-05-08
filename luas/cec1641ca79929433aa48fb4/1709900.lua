@@ -2,7 +2,7 @@
 -- update time: 2026-02-09
 -- app_name: Tower Tactics: Liberation
 
-addappid(1709900)
+addappid(1709900,0,"42178eeb305603b8f79c74a44007ee3bc92e4dd2e76ceef039c128a345ecfa62")
 
 addappid(1709901,0,"f1bdadbf552e261bf283a3d1caf24cdf293cea88deb9dc61d4f9a7ab13823306")
 addappid(2328120,0,"490ef7ed04441f799c706e147115ef8e12ea9f06fba8ca129bbe175915c77875")

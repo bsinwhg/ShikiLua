@@ -2,6 +2,6 @@
 -- update time: 2026-04-13
 -- app_name: 想成为Galgame领域大神！！！
 
-addappid(4262610)
+addappid(4262610,0,"73960a7e148051095e3482fe95ffb4e8616d28a262f2833cdb2818eda0aab214")
 
 addappid(4262611,0,"9c1f4e9bdc166074d8a27794e99cc11e5eeae79dd4ea22add79e766081c81575")
