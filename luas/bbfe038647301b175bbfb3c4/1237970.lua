@@ -18,7 +18,7 @@ addappid(1238107,0,"3a9aed574fd2b18d063b9dff4cad6f8c81e83abc4406613a99445d46fa3a
 addappid(1238108,0,"700772775e8368324e2801763da29fd3a6fda344d3d2c1132c5a452ee41aa563")
 addappid(3340991,0,"023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491")
 
--- DLC: 64/64
+-- DLC: 71/71
 
 addappid(1238100)
 addappid(1238101)
@@ -84,3 +84,10 @@ addappid(1316261)
 addappid(1316262)
 addappid(1316263)
 addappid(1316264)
+addappid(1316265)
+addappid(1316270)
+addappid(1316271)
+addappid(1316272)
+addappid(1316273)
+addappid(1316274)
+addappid(1316275)

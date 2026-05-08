@@ -66,8 +66,8 @@ addappid(3146090,0,"da6afa0d92f3d63650f282d26ff457bd3cd38aae1452fedea91c085d63ce
 addappid(3272290,0,"890f2186ed56cebb6bd9ebf7268932cb035b7c3ed8982c029062100b29a088fa")
 addappid(3872930,0,"cb2520d903a63702de6165c9c59df18d6269541becfcd40d0805cea67b7f10a0")
 
--- DLC: 61/64
--- missing DLC: 3012580, 3486960, 3749870
+-- DLC: 63/67
+-- missing DLC: 3012580, 3486960, 3749870, 4348660
 
 addappid(421070)
 addappid(421080)
@@ -75,6 +75,7 @@ addappid(421081)
 addappid(421090)
 addappid(422310)
 addappid(432710)
+addappid(441960)
 addappid(450550)
 addappid(463740)
 addappid(520550)
@@ -130,3 +131,4 @@ addappid(3272290)
 addappid(3793190)
 addappid(3793200)
 addappid(3872930)
+addappid(4057480)

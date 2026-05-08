@@ -6,7 +6,7 @@ addappid(1292630)
 
 addappid(1292631,0,"7e57603bb47bc0c367fc8c5ff12dbd864bef355e0f5e97bac5f783fc79ddd31f")
 
--- DLC: 64/64
+-- DLC: 66/66
 
 addappid(1316880)
 addappid(1418660)
@@ -72,3 +72,5 @@ addappid(3774110)
 addappid(3780040)
 addappid(3896910)
 addappid(3896920)
+addappid(4193280)
+addappid(4207410)
