@@ -6,7 +6,7 @@ addappid(3375780)
 
 addappid(3375781,0,"0f58b913db9e8303b7b0c78189e19de2f24e51201fc03f457c0f0901c17db7e6")
 
--- DLC: 64/64
+-- DLC: 76/76
 
 addappid(3888120)
 addappid(3888130)
@@ -72,3 +72,15 @@ addappid(3889240)
 addappid(3889250)
 addappid(3889260)
 addappid(3889310)
+addappid(3889320)
+addappid(3889330)
+addappid(3889340)
+addappid(3889350)
+addappid(3889360)
+addappid(3889370)
+addappid(3889380)
+addappid(3889390)
+addappid(3889400)
+addappid(3889410)
+addappid(4014990)
+addappid(4053160)
