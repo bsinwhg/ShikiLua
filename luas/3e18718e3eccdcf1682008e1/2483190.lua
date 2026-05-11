@@ -5,3 +5,18 @@
 addappid(2483190)
 
 addappid(2483191,0,"f2a09f0a31b4df681ec0d2d572f368dfa4cd6c37ae67ebdfd591cfbe1334fcd9")
+
+-- DLC: 12/12
+
+addappid(4439240)
+addappid(4439250)
+addappid(4439260)
+addappid(4439270)
+addappid(4439280)
+addappid(4439290)
+addappid(4439300)
+addappid(4439790)
+addappid(4440380)
+addappid(4444140)
+addappid(4444150)
+addappid(4520350)
