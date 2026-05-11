@@ -2,6 +2,6 @@
 -- update time: 2026-01-18
 -- app_name: 机密谋杀案中案 - 硬核本格推理侦探游戏
 
-addappid(2797960)
+addappid(2797960,0,"dad353a7a8462eb3946d573d2ff96de49f31adde72f1fe518d128fd63d2733f8")
 
 addappid(2797961,0,"e4bfe8f260d53969bae9c2ff9677c18efb3a2c121bc7d87290c8c96c99c4c7b0")

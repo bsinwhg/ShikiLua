@@ -2,7 +2,7 @@
 -- update time: 2025-07-24
 -- app_name: Command Ops 2 Core Game
 
-addappid(521800)
+addappid(521800,0,"c0d8113e7188b06b952284e95d3bf3a5cf8896cad1ba7e771186d096b1f51729")
 
 addappid(521801,0,"eab59522c06717084c545fff6fe112b82854a95b47d37a03aa6c3b76d94bf9c0")
 

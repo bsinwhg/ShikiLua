@@ -2,6 +2,6 @@
 -- update time: 2026-02-12
 -- app_name: 热血单词 LexiRogue
 
-addappid(3853330)
+addappid(3853330,0,"3258a49fef9832c90f40698c6fd22fcbe6bb1aa3a92224ca3fd29f8d2b9179cf")
 
 addappid(3853331,0,"a75dbfce323a802e20893c0a34bfc95781ef41f3ff18d6144b9490449024dcf1")
