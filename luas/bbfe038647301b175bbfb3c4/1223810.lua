@@ -2,7 +2,7 @@
 -- update time: 2024-11-01
 -- app_name: Full Service
 
-addappid(1223810)
+addappid(1223810,0,"721cb8051a0c4fd13fc9ab653fdcdc9aad4c6565360b3b8882648df440f7063f")
 
 addappid(1223811,0,"220b5304ef5b8925cdd76689b738ae22e7beea9ad05c0377e751df627befee90")
 addappid(1402640,0,"f211d24d98c2a8d967bff181c471dc6e7af11be723f816d0c2125ad41d91abaa")
