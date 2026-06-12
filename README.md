@@ -1,10 +1,5 @@
 <p align="center">
-  <a href="https://space.bilibili.com/20568856" target="_blank">
-    <img src="https://img.shields.io/badge/Role-Judge-blue?style=flat-square" alt="Role">
-  </a>
-  <a href="https://space.bilibili.com/20568856" target="_blank">
-    <img src="https://img.shields.io/badge/Origin-Gensokyo-red?style=flat-square" alt="Origin">
-  </a>
+一个清单库的备份
 </p>
 
 <p align="center">
